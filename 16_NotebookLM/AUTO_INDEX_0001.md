@@ -13,7 +13,7 @@
 
 ## Resumo
 
-Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de caso sobre seguro de automóvel no Japão. Deve ser usado como ponto de entrada para consulta rápida, treinamento editorial e recuperação de informações no NotebookLM.
+Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos de caso sobre seguro de automóvel no Japão. Deve ser usado como ponto de entrada para consulta rápida, treinamento editorial e recuperação de informações no NotebookLM.
 
 ## Palavras-chave
 
@@ -27,10 +27,25 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - 等級
 - 保険料
 - 保険金
+- 保険期間
+- 始期日
+- 満期日
+- 更新
+- 解約
+- 解約返戻金
+- 契約者
+- 被保険者
+- 車両所有者
+- 車検証
 - seguro de automóvel
 - franquia
 - prêmio do seguro
 - indenização
+- renovação
+- cancelamento
+- contratante
+- segurado
+- proprietário do veículo
 
 ## Categorias
 
@@ -64,6 +79,16 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - AUTO-0018 - 使用目的 - Finalidade de uso do veículo
 - AUTO-0019 - 事故受付 - Registro de aviso de acidente
 - AUTO-0020 - 交通事故証明書 - Certificado de acidente de trânsito
+- AUTO-0021 - 保険期間 - Período do seguro
+- AUTO-0022 - 始期日 - Data de início da cobertura
+- AUTO-0023 - 満期日 - Data de vencimento do seguro
+- AUTO-0024 - 更新 - Renovação
+- AUTO-0025 - 解約 - Cancelamento do contrato
+- AUTO-0026 - 解約返戻金 - Valor de devolução por cancelamento
+- AUTO-0027 - 契約者 - Contratante
+- AUTO-0028 - 被保険者 - Segurado
+- AUTO-0029 - 車両所有者 - Proprietário do veículo
+- AUTO-0030 - 車検証 - Certificado de inspeção veicular
 
 ### FAQs relacionadas
 
@@ -87,6 +112,13 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - FAQ-AUTO-0018 - Por que preciso informar a finalidade de uso do carro?
 - FAQ-AUTO-0019 - O que devo fazer logo após um acidente?
 - FAQ-AUTO-0020 - Para que serve o certificado de acidente de trânsito?
+- FAQ-AUTO-0021 - A partir de quando o seguro começa a valer?
+- FAQ-AUTO-0022 - O que acontece se o seguro vencer?
+- FAQ-AUTO-0023 - O que devo revisar na renovação?
+- FAQ-AUTO-0024 - Posso cancelar o seguro antes do vencimento?
+- FAQ-AUTO-0025 - Recebo dinheiro de volta se cancelar?
+- FAQ-AUTO-0026 - Contratante, segurado e dono do carro são sempre a mesma pessoa?
+- FAQ-AUTO-0027 - Por que preciso enviar o 車検証?
 
 ### Diálogos relacionados
 
@@ -98,6 +130,9 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - DIALOGUE-AUTO-0006 - Explicando assistência na estrada e carro substituto
 - DIALOGUE-AUTO-0007 - Explicando restrição de condutores e condição de idade
 - DIALOGUE-AUTO-0008 - Orientando cliente após acidente
+- DIALOGUE-AUTO-0009 - Explicando vigência e renovação do seguro
+- DIALOGUE-AUTO-0010 - Explicando cancelamento e devolução de prêmio
+- DIALOGUE-AUTO-0011 - Conferindo contratante, segurado, proprietário e 車検証
 
 ### Estudos de caso relacionados
 
@@ -113,6 +148,10 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - CASE-AUTO-0010 - Pane na estrada e uso de ロードサービス
 - CASE-AUTO-0011 - Acidente com motorista fora da restrição de condutores
 - CASE-AUTO-0012 - Cliente precisa de 交通事故証明書 após colisão
+- CASE-AUTO-0013 - Cliente fica sem cobertura por atraso na renovação
+- CASE-AUTO-0014 - Renovação usada para corrigir informações do contrato
+- CASE-AUTO-0015 - Cliente espera devolução total após cancelamento
+- CASE-AUTO-0016 - Divergência entre contratante, segurado e proprietário do veículo
 
 ## Mapa de referências cruzadas
 
@@ -131,6 +170,9 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 | Cobertura de advogado | AUTO-0014 | FAQ-AUTO-0014 | DIALOGUE-AUTO-0008 | CASE-AUTO-0012 |
 | Condutores, idade e uso | AUTO-0016, AUTO-0017, AUTO-0018 | FAQ-AUTO-0016, FAQ-AUTO-0017, FAQ-AUTO-0018 | DIALOGUE-AUTO-0007 | CASE-AUTO-0011 |
 | Aviso e certificado de acidente | AUTO-0019, AUTO-0020 | FAQ-AUTO-0019, FAQ-AUTO-0020 | DIALOGUE-AUTO-0008 | CASE-AUTO-0012 |
+| Vigência e renovação | AUTO-0021, AUTO-0022, AUTO-0023, AUTO-0024 | FAQ-AUTO-0021, FAQ-AUTO-0022, FAQ-AUTO-0023 | DIALOGUE-AUTO-0009 | CASE-AUTO-0013, CASE-AUTO-0014 |
+| Cancelamento e devolução | AUTO-0025, AUTO-0026 | FAQ-AUTO-0024, FAQ-AUTO-0025 | DIALOGUE-AUTO-0010 | CASE-AUTO-0015 |
+| Papéis contratuais e documento do veículo | AUTO-0027, AUTO-0028, AUTO-0029, AUTO-0030 | FAQ-AUTO-0026, FAQ-AUTO-0027 | DIALOGUE-AUTO-0011 | CASE-AUTO-0016 |
 
 ## Referências
 
@@ -151,6 +193,10 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - `19_Markdown/AUTO/AUTO_FAQ_0011_0020.md`
 - `19_Markdown/AUTO/AUTO_DIALOGUES_0005_0008.md`
 - `19_Markdown/AUTO/AUTO_CASES_0009_0012.md`
+- `19_Markdown/AUTO/AUTO_TERMS_0021_0030.md`
+- `19_Markdown/AUTO/AUTO_FAQ_0021_0027.md`
+- `19_Markdown/AUTO/AUTO_DIALOGUES_0009_0011.md`
+- `19_Markdown/AUTO/AUTO_CASES_0013_0016.md`
 
 ## Histórico de revisão
 
@@ -158,3 +204,4 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 | 2026-06-25 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo lote AUTO. |
+| 2026-06-25 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro lote AUTO. |
