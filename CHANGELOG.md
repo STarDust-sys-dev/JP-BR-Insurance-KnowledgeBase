@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Segundo lote de 10 FAQs AUTO (`FAQ-AUTO-0011` a `FAQ-AUTO-0020`) com referências cruzadas aos verbetes AUTO.
+- Documento consolidado do segundo lote de FAQs AUTO em Markdown, DOCX e PDF.
 - Segundo lote de 10 verbetes AUTO no dicionário mestre (`AUTO-0011` a `AUTO-0020`).
 - Documento consolidado do segundo lote AUTO em Markdown, DOCX e PDF.
 - Roteiro editorial `AUTO_ROADMAP_0001.md` com próximos verbetes, FAQs, diálogos e estudos de caso recomendados.
