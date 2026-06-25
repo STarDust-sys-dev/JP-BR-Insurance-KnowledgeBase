@@ -4,6 +4,7 @@
 
 ### Adicionado
 
+- Índice inicial `AUTO_INDEX_0001.md` para NotebookLM, conectando verbetes, FAQs, diálogos e estudos de caso AUTO.
 - Primeiro lote de 8 estudos de caso AUTO (`CASE-AUTO-0001` a `CASE-AUTO-0008`) conectados aos verbetes, FAQs e diálogos iniciais.
 - Primeiro lote de 4 diálogos AUTO (`DIALOGUE-AUTO-0001` a `DIALOGUE-AUTO-0004`) conectados aos verbetes e FAQs iniciais.
 - Primeiro lote de 10 FAQs AUTO (`FAQ-AUTO-0001` a `FAQ-AUTO-0010`) com referências cruzadas aos verbetes AUTO.
