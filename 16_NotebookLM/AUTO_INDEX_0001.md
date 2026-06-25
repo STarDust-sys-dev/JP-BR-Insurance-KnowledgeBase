@@ -54,6 +54,16 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - AUTO-0008 - 等級 - Classe de bônus/malus
 - AUTO-0009 - 保険料 - Prêmio do seguro
 - AUTO-0010 - 保険金 - Indenização do seguro
+- AUTO-0011 - 自賠責保険 - Seguro obrigatório de responsabilidade civil automóvel
+- AUTO-0012 - 任意保険 - Seguro voluntário de automóvel
+- AUTO-0013 - ロードサービス - Assistência na estrada
+- AUTO-0014 - 弁護士費用特約 - Cobertura adicional de honorários advocatícios
+- AUTO-0015 - 代車費用特約 - Cobertura adicional de carro substituto
+- AUTO-0016 - 運転者限定 - Restrição de condutores
+- AUTO-0017 - 年齢条件 - Condição de idade do condutor
+- AUTO-0018 - 使用目的 - Finalidade de uso do veículo
+- AUTO-0019 - 事故受付 - Registro de aviso de acidente
+- AUTO-0020 - 交通事故証明書 - Certificado de acidente de trânsito
 
 ### FAQs relacionadas
 
@@ -67,6 +77,16 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - FAQ-AUTO-0008 - Por que o preço muda quando a classe muda?
 - FAQ-AUTO-0009 - Por que o preço do seguro ficou mais alto?
 - FAQ-AUTO-0010 - Quando a seguradora paga a indenização?
+- FAQ-AUTO-0011 - Qual é a diferença entre 自賠責保険 e 任意保険?
+- FAQ-AUTO-0012 - O seguro obrigatório é suficiente?
+- FAQ-AUTO-0013 - Quando posso usar o serviço de assistência na estrada?
+- FAQ-AUTO-0014 - Para que serve a cobertura de advogado?
+- FAQ-AUTO-0015 - Quando tenho direito a carro substituto?
+- FAQ-AUTO-0016 - Quem pode dirigir o carro segurado?
+- FAQ-AUTO-0017 - A idade do motorista muda o preço do seguro?
+- FAQ-AUTO-0018 - Por que preciso informar a finalidade de uso do carro?
+- FAQ-AUTO-0019 - O que devo fazer logo após um acidente?
+- FAQ-AUTO-0020 - Para que serve o certificado de acidente de trânsito?
 
 ### Diálogos relacionados
 
@@ -74,6 +94,10 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - DIALOGUE-AUTO-0002 - Explicando cobertura do próprio veículo e pessoas no carro
 - DIALOGUE-AUTO-0003 - Explicando franquia, classe e preço do seguro
 - DIALOGUE-AUTO-0004 - Explicando o processo de indenização
+- DIALOGUE-AUTO-0005 - Explicando seguro obrigatório e seguro voluntário
+- DIALOGUE-AUTO-0006 - Explicando assistência na estrada e carro substituto
+- DIALOGUE-AUTO-0007 - Explicando restrição de condutores e condição de idade
+- DIALOGUE-AUTO-0008 - Orientando cliente após acidente
 
 ### Estudos de caso relacionados
 
@@ -85,6 +109,10 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - CASE-AUTO-0006 - Cliente escolhe franquia maior para reduzir preço
 - CASE-AUTO-0007 - Renovação com aumento do prêmio por mudança de classe
 - CASE-AUTO-0008 - Cliente pergunta quando receberá a indenização
+- CASE-AUTO-0009 - Cliente acha que 自賠責保険 cobre todos os prejuízos
+- CASE-AUTO-0010 - Pane na estrada e uso de ロードサービス
+- CASE-AUTO-0011 - Acidente com motorista fora da restrição de condutores
+- CASE-AUTO-0012 - Cliente precisa de 交通事故証明書 após colisão
 
 ## Mapa de referências cruzadas
 
@@ -98,6 +126,11 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 | Franquia | AUTO-0007 | FAQ-AUTO-0007 | DIALOGUE-AUTO-0003 | CASE-AUTO-0006 |
 | Classe e preço | AUTO-0008, AUTO-0009 | FAQ-AUTO-0008, FAQ-AUTO-0009 | DIALOGUE-AUTO-0003 | CASE-AUTO-0007 |
 | Indenização | AUTO-0010 | FAQ-AUTO-0010 | DIALOGUE-AUTO-0004 | CASE-AUTO-0008 |
+| Seguro obrigatório e voluntário | AUTO-0011, AUTO-0012 | FAQ-AUTO-0011, FAQ-AUTO-0012 | DIALOGUE-AUTO-0005 | CASE-AUTO-0009 |
+| Assistência e carro substituto | AUTO-0013, AUTO-0015 | FAQ-AUTO-0013, FAQ-AUTO-0015 | DIALOGUE-AUTO-0006 | CASE-AUTO-0010 |
+| Cobertura de advogado | AUTO-0014 | FAQ-AUTO-0014 | DIALOGUE-AUTO-0008 | CASE-AUTO-0012 |
+| Condutores, idade e uso | AUTO-0016, AUTO-0017, AUTO-0018 | FAQ-AUTO-0016, FAQ-AUTO-0017, FAQ-AUTO-0018 | DIALOGUE-AUTO-0007 | CASE-AUTO-0011 |
+| Aviso e certificado de acidente | AUTO-0019, AUTO-0020 | FAQ-AUTO-0019, FAQ-AUTO-0020 | DIALOGUE-AUTO-0008 | CASE-AUTO-0012 |
 
 ## Referências
 
@@ -114,9 +147,14 @@ Este documento conecta o primeiro lote de verbetes, FAQs, diálogos e estudos de
 - `19_Markdown/AUTO/AUTO_FAQ_0001_0010.md`
 - `19_Markdown/AUTO/AUTO_DIALOGUES_0001_0004.md`
 - `19_Markdown/AUTO/AUTO_CASES_0001_0008.md`
+- `19_Markdown/AUTO/AUTO_TERMS_0011_0020.md`
+- `19_Markdown/AUTO/AUTO_FAQ_0011_0020.md`
+- `19_Markdown/AUTO/AUTO_DIALOGUES_0005_0008.md`
+- `19_Markdown/AUTO/AUTO_CASES_0009_0012.md`
 
 ## Histórico de revisão
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-25 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo lote AUTO. |
