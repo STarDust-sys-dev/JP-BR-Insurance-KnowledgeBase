@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Segundo lote de 10 verbetes AUTO no dicionário mestre (`AUTO-0011` a `AUTO-0020`).
+- Documento consolidado do segundo lote AUTO em Markdown, DOCX e PDF.
 - Roteiro editorial `AUTO_ROADMAP_0001.md` com próximos verbetes, FAQs, diálogos e estudos de caso recomendados.
 - Índice inicial `AUTO_INDEX_0001.md` para NotebookLM, conectando verbetes, FAQs, diálogos e estudos de caso AUTO.
 - Primeiro lote de 8 estudos de caso AUTO (`CASE-AUTO-0001` a `CASE-AUTO-0008`) conectados aos verbetes, FAQs e diálogos iniciais.
