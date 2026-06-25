@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Plano de produção autônoma `AUTONOMOUS_PRODUCTION_PLAN.md`, com regra de ciclos maiores e baixa dependência de interação.
+- Versões DOCX e PDF do plano de produção autônoma.
 - Quinto e sexto lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0041` a `AUTO-0060`).
 - Quinto e sexto lotes AUTO com 20 FAQs (`FAQ-AUTO-0038` a `FAQ-AUTO-0057`), 6 diálogos (`DIALOGUE-AUTO-0015` a `DIALOGUE-AUTO-0020`) e 8 estudos de caso (`CASE-AUTO-0021` a `CASE-AUTO-0028`).
 - Documentos consolidados dos lotes AUTO de sinistro, documentos e atendimento em Markdown, DOCX e PDF.
