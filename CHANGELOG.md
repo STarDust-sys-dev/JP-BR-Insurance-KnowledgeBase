@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Terceiro lote de 7 FAQs AUTO (`FAQ-AUTO-0021` a `FAQ-AUTO-0027`) com referências cruzadas aos verbetes AUTO.
+- Documento consolidado do terceiro lote de FAQs AUTO em Markdown, DOCX e PDF.
 - Terceiro lote de 10 verbetes AUTO no dicionário mestre (`AUTO-0021` a `AUTO-0030`).
 - Documento consolidado do terceiro lote AUTO em Markdown, DOCX e PDF.
 - Segundo lote de 4 diálogos AUTO (`DIALOGUE-AUTO-0005` a `DIALOGUE-AUTO-0008`) e 4 estudos de caso AUTO (`CASE-AUTO-0009` a `CASE-AUTO-0012`).
