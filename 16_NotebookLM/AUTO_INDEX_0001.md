@@ -135,6 +135,26 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - AUTO-0058 - 保険証券 - Apólice de seguro
 - AUTO-0059 - 継続証 - Comprovante de renovação
 - AUTO-0060 - 中断証明書 - Certificado de interrupção
+- AUTO-0061 - 免責事項 - Exclusões e limitações de cobertura
+- AUTO-0062 - 補償対象外 - Fora da cobertura
+- AUTO-0063 - 飲酒運転 - Direção sob efeito de álcool
+- AUTO-0064 - 無免許運転 - Direção sem habilitação
+- AUTO-0065 - 重大な過失 - Culpa grave
+- AUTO-0066 - 故意 - Ato intencional
+- AUTO-0067 - 地震 - Terremoto
+- AUTO-0068 - 台風 - Tufão
+- AUTO-0069 - 洪水 - Inundação
+- AUTO-0070 - 盗難 - Roubo ou furto do veículo
+- AUTO-0071 - いたずら - Vandalismo
+- AUTO-0072 - 飛び石 - Dano por pedra lançada
+- AUTO-0073 - 自然災害 - Desastre natural
+- AUTO-0074 - 使用者 - Usuário do veículo
+- AUTO-0075 - 記名被保険者 - Segurado principal nomeado
+- AUTO-0076 - 家族限定 - Restrição a familiares
+- AUTO-0077 - 夫婦限定 - Restrição a casal
+- AUTO-0078 - 他車運転特約 - Cobertura adicional para dirigir outro veículo
+- AUTO-0079 - ファミリーバイク特約 - Cobertura adicional para moto pequena da família
+- AUTO-0080 - 個人賠償責任特約 - Cobertura adicional de responsabilidade civil pessoal
 
 ### FAQs relacionadas
 
@@ -195,6 +215,26 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - FAQ-AUTO-0055 - Para que serve a apólice?
 - FAQ-AUTO-0056 - Como confirmo que a renovação foi feita?
 - FAQ-AUTO-0057 - Para que serve o certificado de interrupção?
+- FAQ-AUTO-0058 - O que são exclusões do seguro?
+- FAQ-AUTO-0059 - Como sei se uma situação está fora da cobertura?
+- FAQ-AUTO-0060 - O seguro cobre acidente se o motorista bebeu?
+- FAQ-AUTO-0061 - O que acontece se o motorista não tinha habilitação válida?
+- FAQ-AUTO-0062 - Culpa grave pode afetar a cobertura?
+- FAQ-AUTO-0063 - Dano causado de propósito é coberto?
+- FAQ-AUTO-0064 - Dano por terremoto é coberto?
+- FAQ-AUTO-0065 - Dano por tufão é coberto?
+- FAQ-AUTO-0066 - Dano por inundação ou enchente é coberto?
+- FAQ-AUTO-0067 - O seguro cobre roubo ou furto do veículo?
+- FAQ-AUTO-0068 - Vandalismo pode ser coberto?
+- FAQ-AUTO-0069 - Dano por pedra no para-brisa é coberto?
+- FAQ-AUTO-0070 - Todo desastre natural entra no seguro?
+- FAQ-AUTO-0071 - Por que preciso informar quem usa o carro?
+- FAQ-AUTO-0072 - Quem deve ser o segurado principal?
+- FAQ-AUTO-0073 - O que significa restrição a familiares?
+- FAQ-AUTO-0074 - O que significa restrição ao casal?
+- FAQ-AUTO-0075 - Estou coberto se dirigir outro carro?
+- FAQ-AUTO-0076 - A cobertura para moto pequena da família está incluída automaticamente?
+- FAQ-AUTO-0077 - Para que serve a cobertura de responsabilidade civil pessoal?
 
 ### Diálogos relacionados
 
@@ -218,6 +258,12 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - DIALOGUE-AUTO-0018 - Organizando guincho, oficina e contato com seguradora
 - DIALOGUE-AUTO-0019 - Conferindo proposta, declaração e obrigação de aviso
 - DIALOGUE-AUTO-0020 - Explicando apólice, renovação e interrupção
+- DIALOGUE-AUTO-0021 - Explicando exclusões, fora de cobertura e condutas graves
+- DIALOGUE-AUTO-0022 - Orientando culpa grave, ato intencional e acordo com seguradora
+- DIALOGUE-AUTO-0023 - Explicando terremoto, tufão, inundação e desastre natural
+- DIALOGUE-AUTO-0024 - Orientando roubo, vandalismo e dano por pedra
+- DIALOGUE-AUTO-0025 - Conferindo usuário, segurado principal e restrições de condutor
+- DIALOGUE-AUTO-0026 - Explicando coberturas adicionais especiais
 
 ### Estudos de caso relacionados
 
@@ -249,6 +295,14 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - CASE-AUTO-0026 - Veículo precisa de guincho e oficina após pane ou acidente
 - CASE-AUTO-0027 - Informação incorreta na contratação causa risco contratual
 - CASE-AUTO-0028 - Cliente precisa comprovar apólice, renovação ou interrupção
+- CASE-AUTO-0029 - Cliente acredita que qualquer acidente está coberto
+- CASE-AUTO-0030 - Acidente com suspeita de álcool ou falta de habilitação
+- CASE-AUTO-0031 - Dano com possível culpa grave ou ato intencional
+- CASE-AUTO-0032 - Veículo danificado por tufão ou inundação
+- CASE-AUTO-0033 - Cliente pergunta sobre dano por terremoto
+- CASE-AUTO-0034 - Roubo, vandalismo ou dano por pedra no veículo
+- CASE-AUTO-0035 - Motorista fora da restrição familiar ou de casal
+- CASE-AUTO-0036 - Cliente presume que coberturas adicionais já estão incluídas
 
 ## Mapa de referências cruzadas
 
@@ -276,6 +330,9 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | Atendimento inicial de sinistro | AUTO-0041, AUTO-0042, AUTO-0043, AUTO-0044, AUTO-0045 | FAQ-AUTO-0038, FAQ-AUTO-0039, FAQ-AUTO-0040, FAQ-AUTO-0041, FAQ-AUTO-0042 | DIALOGUE-AUTO-0015, DIALOGUE-AUTO-0016 | CASE-AUTO-0021, CASE-AUTO-0022, CASE-AUTO-0023 |
 | Reparo e avaliação de danos | AUTO-0046, AUTO-0047, AUTO-0048, AUTO-0049, AUTO-0050, AUTO-0051 | FAQ-AUTO-0043, FAQ-AUTO-0044, FAQ-AUTO-0045, FAQ-AUTO-0046, FAQ-AUTO-0047, FAQ-AUTO-0048 | DIALOGUE-AUTO-0017, DIALOGUE-AUTO-0018 | CASE-AUTO-0024, CASE-AUTO-0025, CASE-AUTO-0026 |
 | Seguradora, corretora e documentos contratuais | AUTO-0052, AUTO-0053, AUTO-0054, AUTO-0055, AUTO-0056, AUTO-0057, AUTO-0058, AUTO-0059, AUTO-0060 | FAQ-AUTO-0049, FAQ-AUTO-0050, FAQ-AUTO-0051, FAQ-AUTO-0052, FAQ-AUTO-0053, FAQ-AUTO-0054, FAQ-AUTO-0055, FAQ-AUTO-0056, FAQ-AUTO-0057 | DIALOGUE-AUTO-0018, DIALOGUE-AUTO-0019, DIALOGUE-AUTO-0020 | CASE-AUTO-0026, CASE-AUTO-0027, CASE-AUTO-0028 |
+| Exclusões e condutas graves | AUTO-0061, AUTO-0062, AUTO-0063, AUTO-0064, AUTO-0065, AUTO-0066 | FAQ-AUTO-0058, FAQ-AUTO-0059, FAQ-AUTO-0060, FAQ-AUTO-0061, FAQ-AUTO-0062, FAQ-AUTO-0063 | DIALOGUE-AUTO-0021, DIALOGUE-AUTO-0022 | CASE-AUTO-0029, CASE-AUTO-0030, CASE-AUTO-0031 |
+| Desastres naturais e danos externos | AUTO-0067, AUTO-0068, AUTO-0069, AUTO-0070, AUTO-0071, AUTO-0072, AUTO-0073 | FAQ-AUTO-0064, FAQ-AUTO-0065, FAQ-AUTO-0066, FAQ-AUTO-0067, FAQ-AUTO-0068, FAQ-AUTO-0069, FAQ-AUTO-0070 | DIALOGUE-AUTO-0023, DIALOGUE-AUTO-0024 | CASE-AUTO-0032, CASE-AUTO-0033, CASE-AUTO-0034 |
+| Usuários, restrições e coberturas adicionais | AUTO-0074, AUTO-0075, AUTO-0076, AUTO-0077, AUTO-0078, AUTO-0079, AUTO-0080 | FAQ-AUTO-0071, FAQ-AUTO-0072, FAQ-AUTO-0073, FAQ-AUTO-0074, FAQ-AUTO-0075, FAQ-AUTO-0076, FAQ-AUTO-0077 | DIALOGUE-AUTO-0025, DIALOGUE-AUTO-0026 | CASE-AUTO-0035, CASE-AUTO-0036 |
 
 ## Referências
 
@@ -308,6 +365,10 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - `19_Markdown/AUTO/AUTO_FAQ_0038_0057.md`
 - `19_Markdown/AUTO/AUTO_DIALOGUES_0015_0020.md`
 - `19_Markdown/AUTO/AUTO_CASES_0021_0028.md`
+- `19_Markdown/AUTO/AUTO_TERMS_0061_0080.md`
+- `19_Markdown/AUTO/AUTO_FAQ_0058_0077.md`
+- `19_Markdown/AUTO/AUTO_DIALOGUES_0021_0026.md`
+- `19_Markdown/AUTO/AUTO_CASES_0029_0036.md`
 
 ## Histórico de revisão
 
@@ -318,3 +379,4 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | 2026-06-25 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro lote AUTO. |
 | 2026-06-25 | 0.4 | JP-BR Insurance Knowledge Base | Inclusão do quarto lote AUTO. |
 | 2026-06-25 | 0.5 | JP-BR Insurance Knowledge Base | Inclusão dos quinto e sexto lotes AUTO. |
+| 2026-06-25 | 0.6 | JP-BR Insurance Knowledge Base | Inclusão dos sétimo e oitavo lotes AUTO. |

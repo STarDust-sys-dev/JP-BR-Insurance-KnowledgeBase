@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Sétimo e oitavo lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0061` a `AUTO-0080`).
+- Sétimo e oitavo lotes AUTO com 20 FAQs (`FAQ-AUTO-0058` a `FAQ-AUTO-0077`), 6 diálogos (`DIALOGUE-AUTO-0021` a `DIALOGUE-AUTO-0026`) e 8 estudos de caso (`CASE-AUTO-0029` a `CASE-AUTO-0036`).
+- Documentos consolidados dos lotes AUTO de exclusões, riscos de cobertura e coberturas adicionais especiais em Markdown, DOCX e PDF.
 - Plano de produção autônoma `AUTONOMOUS_PRODUCTION_PLAN.md`, com regra de ciclos maiores e baixa dependência de interação.
 - Versões DOCX e PDF do plano de produção autônoma.
 - Quinto e sexto lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0041` a `AUTO-0060`).
