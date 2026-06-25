@@ -37,6 +37,16 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - 被保険者
 - 車両所有者
 - 車検証
+- 払込方法
+- 月払
+- 年払
+- 口座振替
+- クレジットカード払
+- 払込期日
+- 払込猶予期間
+- 失効
+- 契約内容変更
+- 車両入替
 - seguro de automóvel
 - franquia
 - prêmio do seguro
@@ -46,6 +56,12 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - contratante
 - segurado
 - proprietário do veículo
+- pagamento mensal
+- pagamento anual
+- débito em conta
+- cartão de crédito
+- alteração de contrato
+- substituição do veículo
 
 ## Categorias
 
@@ -89,6 +105,16 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - AUTO-0028 - 被保険者 - Segurado
 - AUTO-0029 - 車両所有者 - Proprietário do veículo
 - AUTO-0030 - 車検証 - Certificado de inspeção veicular
+- AUTO-0031 - 払込方法 - Forma de pagamento
+- AUTO-0032 - 月払 - Pagamento mensal
+- AUTO-0033 - 年払 - Pagamento anual
+- AUTO-0034 - 口座振替 - Débito em conta
+- AUTO-0035 - クレジットカード払 - Pagamento por cartão de crédito
+- AUTO-0036 - 払込期日 - Data limite de pagamento
+- AUTO-0037 - 払込猶予期間 - Período de tolerância para pagamento
+- AUTO-0038 - 失効 - Perda de validade do contrato
+- AUTO-0039 - 契約内容変更 - Alteração de dados do contrato
+- AUTO-0040 - 車両入替 - Substituição do veículo segurado
 
 ### FAQs relacionadas
 
@@ -119,6 +145,16 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - FAQ-AUTO-0025 - Recebo dinheiro de volta se cancelar?
 - FAQ-AUTO-0026 - Contratante, segurado e dono do carro são sempre a mesma pessoa?
 - FAQ-AUTO-0027 - Por que preciso enviar o 車検証?
+- FAQ-AUTO-0028 - Quais formas de pagamento posso usar no seguro?
+- FAQ-AUTO-0029 - Posso pagar o seguro por mês?
+- FAQ-AUTO-0030 - Qual é a diferença entre pagar mensal e anual?
+- FAQ-AUTO-0031 - O que acontece se o débito em conta falhar?
+- FAQ-AUTO-0032 - Posso pagar com cartão de crédito?
+- FAQ-AUTO-0033 - O que acontece se eu atrasar o pagamento?
+- FAQ-AUTO-0034 - Existe prazo extra se eu não conseguir pagar no dia?
+- FAQ-AUTO-0035 - Posso ficar sem seguro por falta de pagamento?
+- FAQ-AUTO-0036 - Quando preciso avisar mudança no contrato?
+- FAQ-AUTO-0037 - Troquei de carro. Preciso mudar o seguro?
 
 ### Diálogos relacionados
 
@@ -133,6 +169,9 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - DIALOGUE-AUTO-0009 - Explicando vigência e renovação do seguro
 - DIALOGUE-AUTO-0010 - Explicando cancelamento e devolução de prêmio
 - DIALOGUE-AUTO-0011 - Conferindo contratante, segurado, proprietário e 車検証
+- DIALOGUE-AUTO-0012 - Explicando formas de pagamento mensal e anual
+- DIALOGUE-AUTO-0013 - Orientando falha de cobrança e atraso de pagamento
+- DIALOGUE-AUTO-0014 - Explicando perda de validade, alteração de contrato e troca de veículo
 
 ### Estudos de caso relacionados
 
@@ -152,6 +191,10 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - CASE-AUTO-0014 - Renovação usada para corrigir informações do contrato
 - CASE-AUTO-0015 - Cliente espera devolução total após cancelamento
 - CASE-AUTO-0016 - Divergência entre contratante, segurado e proprietário do veículo
+- CASE-AUTO-0017 - Cliente escolhe entre pagamento mensal e anual
+- CASE-AUTO-0018 - Falha no débito em conta ou cartão de crédito
+- CASE-AUTO-0019 - Contrato em risco por atraso de pagamento
+- CASE-AUTO-0020 - Cliente troca de carro sem atualizar o seguro
 
 ## Mapa de referências cruzadas
 
@@ -173,6 +216,9 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | Vigência e renovação | AUTO-0021, AUTO-0022, AUTO-0023, AUTO-0024 | FAQ-AUTO-0021, FAQ-AUTO-0022, FAQ-AUTO-0023 | DIALOGUE-AUTO-0009 | CASE-AUTO-0013, CASE-AUTO-0014 |
 | Cancelamento e devolução | AUTO-0025, AUTO-0026 | FAQ-AUTO-0024, FAQ-AUTO-0025 | DIALOGUE-AUTO-0010 | CASE-AUTO-0015 |
 | Papéis contratuais e documento do veículo | AUTO-0027, AUTO-0028, AUTO-0029, AUTO-0030 | FAQ-AUTO-0026, FAQ-AUTO-0027 | DIALOGUE-AUTO-0011 | CASE-AUTO-0016 |
+| Formas de pagamento | AUTO-0031, AUTO-0032, AUTO-0033, AUTO-0034, AUTO-0035 | FAQ-AUTO-0028, FAQ-AUTO-0029, FAQ-AUTO-0030, FAQ-AUTO-0031, FAQ-AUTO-0032 | DIALOGUE-AUTO-0012, DIALOGUE-AUTO-0013 | CASE-AUTO-0017, CASE-AUTO-0018 |
+| Atraso e validade | AUTO-0036, AUTO-0037, AUTO-0038 | FAQ-AUTO-0033, FAQ-AUTO-0034, FAQ-AUTO-0035 | DIALOGUE-AUTO-0013, DIALOGUE-AUTO-0014 | CASE-AUTO-0019 |
+| Alteração e troca de veículo | AUTO-0039, AUTO-0040 | FAQ-AUTO-0036, FAQ-AUTO-0037 | DIALOGUE-AUTO-0014 | CASE-AUTO-0020 |
 
 ## Referências
 
@@ -197,6 +243,10 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - `19_Markdown/AUTO/AUTO_FAQ_0021_0027.md`
 - `19_Markdown/AUTO/AUTO_DIALOGUES_0009_0011.md`
 - `19_Markdown/AUTO/AUTO_CASES_0013_0016.md`
+- `19_Markdown/AUTO/AUTO_TERMS_0031_0040.md`
+- `19_Markdown/AUTO/AUTO_FAQ_0028_0037.md`
+- `19_Markdown/AUTO/AUTO_DIALOGUES_0012_0014.md`
+- `19_Markdown/AUTO/AUTO_CASES_0017_0020.md`
 
 ## Histórico de revisão
 
@@ -205,3 +255,4 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 | 2026-06-25 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo lote AUTO. |
 | 2026-06-25 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro lote AUTO. |
+| 2026-06-25 | 0.4 | JP-BR Insurance Knowledge Base | Inclusão do quarto lote AUTO. |

@@ -8,6 +8,9 @@
 - Documento consolidado do quarto lote AUTO em Markdown, DOCX e PDF.
 - Quarto lote de 10 FAQs AUTO (`FAQ-AUTO-0028` a `FAQ-AUTO-0037`) com referências cruzadas aos verbetes AUTO.
 - Documento consolidado do quarto lote de FAQs AUTO em Markdown, DOCX e PDF.
+- Quarto lote de 3 diálogos AUTO (`DIALOGUE-AUTO-0012` a `DIALOGUE-AUTO-0014`) e 4 estudos de caso AUTO (`CASE-AUTO-0017` a `CASE-AUTO-0020`).
+- Documentos consolidados do quarto lote de diálogos e estudos de caso AUTO em Markdown, DOCX e PDF.
+- Atualização do índice `AUTO_INDEX_0001.md` com o quarto lote AUTO.
 - Terceiro lote de 7 FAQs AUTO (`FAQ-AUTO-0021` a `FAQ-AUTO-0027`) com referências cruzadas aos verbetes AUTO.
 - Documento consolidado do terceiro lote de FAQs AUTO em Markdown, DOCX e PDF.
 - Terceiro lote de 3 diálogos AUTO (`DIALOGUE-AUTO-0009` a `DIALOGUE-AUTO-0011`) e 4 estudos de caso AUTO (`CASE-AUTO-0013` a `CASE-AUTO-0016`).
