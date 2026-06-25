@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Abertura da categoria VIDA com estrutura editorial dedicada em dicionário mestre, FAQ, diálogos, estudos de caso e consolidados.
+- Primeiro ciclo VIDA com 20 verbetes (`VIDA-0001` a `VIDA-0020`), 20 FAQs (`FAQ-VIDA-0001` a `FAQ-VIDA-0020`), 5 diálogos (`DIALOGUE-VIDA-0001` a `DIALOGUE-VIDA-0005`) e 8 estudos de caso (`CASE-VIDA-0001` a `CASE-VIDA-0008`).
+- Índice inicial `VIDA_INDEX_0001.md` para NotebookLM e documentos consolidados VIDA em Markdown, DOCX e PDF.
 - Nono e décimo lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0081` a `AUTO-0100`).
 - Nono e décimo lotes AUTO com 20 FAQs (`FAQ-AUTO-0078` a `FAQ-AUTO-0097`), 6 diálogos (`DIALOGUE-AUTO-0027` a `DIALOGUE-AUTO-0032`) e 8 estudos de caso (`CASE-AUTO-0037` a `CASE-AUTO-0044`).
 - Documentos consolidados de fechamento da primeira fase AUTO em Markdown, DOCX e PDF.
