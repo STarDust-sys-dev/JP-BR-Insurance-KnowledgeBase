@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Modelos oficiais `TERM_TEMPLATE.md`, `FAQ_TEMPLATE.md`, `DIALOGUE_TEMPLATE.md` e `CASE_TEMPLATE.md`.
+- Versões DOCX e PDF dos modelos oficiais.
 - Documento `EDITORIAL_RULES.md` com regras editoriais operacionais alinhadas ao README oficial.
 - Estrutura oficial de pastas do projeto conforme especificação do README.
 - Arquivos `.gitkeep` para preservar diretórios editoriais vazios no Git.
