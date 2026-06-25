@@ -115,6 +115,26 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - AUTO-0038 - 失効 - Perda de validade do contrato
 - AUTO-0039 - 契約内容変更 - Alteração de dados do contrato
 - AUTO-0040 - 車両入替 - Substituição do veículo segurado
+- AUTO-0041 - 事故状況 - Circunstâncias do acidente
+- AUTO-0042 - 相手方 - Outra parte envolvida
+- AUTO-0043 - 過失割合 - Percentual de culpa
+- AUTO-0044 - 示談 - Acordo extrajudicial
+- AUTO-0045 - 損害賠償 - Indenização por danos
+- AUTO-0046 - 修理見積書 - Orçamento de reparo
+- AUTO-0047 - 損害調査 - Avaliação de danos
+- AUTO-0048 - 全損 - Perda total
+- AUTO-0049 - 分損 - Perda parcial
+- AUTO-0050 - レッカー搬送 - Remoção por guincho
+- AUTO-0051 - 修理工場 - Oficina de reparo
+- AUTO-0052 - 保険会社 - Seguradora
+- AUTO-0053 - 保険代理店 - Agência ou corretora de seguros
+- AUTO-0054 - 契約申込書 - Proposta de contratação
+- AUTO-0055 - 告知事項 - Informações declaradas na contratação
+- AUTO-0056 - 通知義務 - Obrigação de comunicar alterações
+- AUTO-0057 - 変更手続き - Procedimento de alteração
+- AUTO-0058 - 保険証券 - Apólice de seguro
+- AUTO-0059 - 継続証 - Comprovante de renovação
+- AUTO-0060 - 中断証明書 - Certificado de interrupção
 
 ### FAQs relacionadas
 
@@ -155,6 +175,26 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - FAQ-AUTO-0035 - Posso ficar sem seguro por falta de pagamento?
 - FAQ-AUTO-0036 - Quando preciso avisar mudança no contrato?
 - FAQ-AUTO-0037 - Troquei de carro. Preciso mudar o seguro?
+- FAQ-AUTO-0038 - Que informações preciso passar sobre o acidente?
+- FAQ-AUTO-0039 - Quais dados da outra parte devo anotar?
+- FAQ-AUTO-0040 - Como é definida a culpa no acidente?
+- FAQ-AUTO-0041 - Posso fazer acordo direto com a outra pessoa?
+- FAQ-AUTO-0042 - Quem paga os danos causados a terceiros?
+- FAQ-AUTO-0043 - Por que a seguradora pediu orçamento de reparo?
+- FAQ-AUTO-0044 - Por que a seguradora precisa avaliar os danos?
+- FAQ-AUTO-0045 - Quando o carro vira perda total?
+- FAQ-AUTO-0046 - O que acontece quando é perda parcial?
+- FAQ-AUTO-0047 - Posso chamar guincho pelo seguro?
+- FAQ-AUTO-0048 - Posso escolher a oficina?
+- FAQ-AUTO-0049 - Quem decide se o seguro cobre?
+- FAQ-AUTO-0050 - Qual é o papel da corretora?
+- FAQ-AUTO-0051 - A proposta já garante cobertura?
+- FAQ-AUTO-0052 - Por que preciso declarar tudo corretamente?
+- FAQ-AUTO-0053 - Quais mudanças preciso avisar à seguradora?
+- FAQ-AUTO-0054 - Como faço uma alteração no contrato?
+- FAQ-AUTO-0055 - Para que serve a apólice?
+- FAQ-AUTO-0056 - Como confirmo que a renovação foi feita?
+- FAQ-AUTO-0057 - Para que serve o certificado de interrupção?
 
 ### Diálogos relacionados
 
@@ -172,6 +212,12 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - DIALOGUE-AUTO-0012 - Explicando formas de pagamento mensal e anual
 - DIALOGUE-AUTO-0013 - Orientando falha de cobrança e atraso de pagamento
 - DIALOGUE-AUTO-0014 - Explicando perda de validade, alteração de contrato e troca de veículo
+- DIALOGUE-AUTO-0015 - Coletando circunstâncias e dados da outra parte
+- DIALOGUE-AUTO-0016 - Explicando responsabilidade, acordo e indenização
+- DIALOGUE-AUTO-0017 - Orientando orçamento, avaliação e tipo de perda
+- DIALOGUE-AUTO-0018 - Organizando guincho, oficina e contato com seguradora
+- DIALOGUE-AUTO-0019 - Conferindo proposta, declaração e obrigação de aviso
+- DIALOGUE-AUTO-0020 - Explicando apólice, renovação e interrupção
 
 ### Estudos de caso relacionados
 
@@ -195,6 +241,14 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - CASE-AUTO-0018 - Falha no débito em conta ou cartão de crédito
 - CASE-AUTO-0019 - Contrato em risco por atraso de pagamento
 - CASE-AUTO-0020 - Cliente troca de carro sem atualizar o seguro
+- CASE-AUTO-0021 - Cliente não sabe descrever as circunstâncias do acidente
+- CASE-AUTO-0022 - Cliente discorda do percentual de culpa
+- CASE-AUTO-0023 - Danos a terceiro exigem análise de indenização
+- CASE-AUTO-0024 - Seguradora solicita orçamento e avaliação de danos
+- CASE-AUTO-0025 - Cliente não entende diferença entre perda total e parcial
+- CASE-AUTO-0026 - Veículo precisa de guincho e oficina após pane ou acidente
+- CASE-AUTO-0027 - Informação incorreta na contratação causa risco contratual
+- CASE-AUTO-0028 - Cliente precisa comprovar apólice, renovação ou interrupção
 
 ## Mapa de referências cruzadas
 
@@ -219,6 +273,9 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | Formas de pagamento | AUTO-0031, AUTO-0032, AUTO-0033, AUTO-0034, AUTO-0035 | FAQ-AUTO-0028, FAQ-AUTO-0029, FAQ-AUTO-0030, FAQ-AUTO-0031, FAQ-AUTO-0032 | DIALOGUE-AUTO-0012, DIALOGUE-AUTO-0013 | CASE-AUTO-0017, CASE-AUTO-0018 |
 | Atraso e validade | AUTO-0036, AUTO-0037, AUTO-0038 | FAQ-AUTO-0033, FAQ-AUTO-0034, FAQ-AUTO-0035 | DIALOGUE-AUTO-0013, DIALOGUE-AUTO-0014 | CASE-AUTO-0019 |
 | Alteração e troca de veículo | AUTO-0039, AUTO-0040 | FAQ-AUTO-0036, FAQ-AUTO-0037 | DIALOGUE-AUTO-0014 | CASE-AUTO-0020 |
+| Atendimento inicial de sinistro | AUTO-0041, AUTO-0042, AUTO-0043, AUTO-0044, AUTO-0045 | FAQ-AUTO-0038, FAQ-AUTO-0039, FAQ-AUTO-0040, FAQ-AUTO-0041, FAQ-AUTO-0042 | DIALOGUE-AUTO-0015, DIALOGUE-AUTO-0016 | CASE-AUTO-0021, CASE-AUTO-0022, CASE-AUTO-0023 |
+| Reparo e avaliação de danos | AUTO-0046, AUTO-0047, AUTO-0048, AUTO-0049, AUTO-0050, AUTO-0051 | FAQ-AUTO-0043, FAQ-AUTO-0044, FAQ-AUTO-0045, FAQ-AUTO-0046, FAQ-AUTO-0047, FAQ-AUTO-0048 | DIALOGUE-AUTO-0017, DIALOGUE-AUTO-0018 | CASE-AUTO-0024, CASE-AUTO-0025, CASE-AUTO-0026 |
+| Seguradora, corretora e documentos contratuais | AUTO-0052, AUTO-0053, AUTO-0054, AUTO-0055, AUTO-0056, AUTO-0057, AUTO-0058, AUTO-0059, AUTO-0060 | FAQ-AUTO-0049, FAQ-AUTO-0050, FAQ-AUTO-0051, FAQ-AUTO-0052, FAQ-AUTO-0053, FAQ-AUTO-0054, FAQ-AUTO-0055, FAQ-AUTO-0056, FAQ-AUTO-0057 | DIALOGUE-AUTO-0018, DIALOGUE-AUTO-0019, DIALOGUE-AUTO-0020 | CASE-AUTO-0026, CASE-AUTO-0027, CASE-AUTO-0028 |
 
 ## Referências
 
@@ -247,6 +304,10 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - `19_Markdown/AUTO/AUTO_FAQ_0028_0037.md`
 - `19_Markdown/AUTO/AUTO_DIALOGUES_0012_0014.md`
 - `19_Markdown/AUTO/AUTO_CASES_0017_0020.md`
+- `19_Markdown/AUTO/AUTO_TERMS_0041_0060.md`
+- `19_Markdown/AUTO/AUTO_FAQ_0038_0057.md`
+- `19_Markdown/AUTO/AUTO_DIALOGUES_0015_0020.md`
+- `19_Markdown/AUTO/AUTO_CASES_0021_0028.md`
 
 ## Histórico de revisão
 
@@ -256,3 +317,4 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | 2026-06-25 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo lote AUTO. |
 | 2026-06-25 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro lote AUTO. |
 | 2026-06-25 | 0.4 | JP-BR Insurance Knowledge Base | Inclusão do quarto lote AUTO. |
+| 2026-06-25 | 0.5 | JP-BR Insurance Knowledge Base | Inclusão dos quinto e sexto lotes AUTO. |

@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Quinto e sexto lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0041` a `AUTO-0060`).
+- Quinto e sexto lotes AUTO com 20 FAQs (`FAQ-AUTO-0038` a `FAQ-AUTO-0057`), 6 diálogos (`DIALOGUE-AUTO-0015` a `DIALOGUE-AUTO-0020`) e 8 estudos de caso (`CASE-AUTO-0021` a `CASE-AUTO-0028`).
+- Documentos consolidados dos lotes AUTO de sinistro, documentos e atendimento em Markdown, DOCX e PDF.
 - Quarto lote de 10 verbetes AUTO no dicionário mestre (`AUTO-0031` a `AUTO-0040`).
 - Documento consolidado do quarto lote AUTO em Markdown, DOCX e PDF.
 - Quarto lote de 10 FAQs AUTO (`FAQ-AUTO-0028` a `FAQ-AUTO-0037`) com referências cruzadas aos verbetes AUTO.
