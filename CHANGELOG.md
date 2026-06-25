@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Nono e décimo lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0081` a `AUTO-0100`).
+- Nono e décimo lotes AUTO com 20 FAQs (`FAQ-AUTO-0078` a `FAQ-AUTO-0097`), 6 diálogos (`DIALOGUE-AUTO-0027` a `DIALOGUE-AUTO-0032`) e 8 estudos de caso (`CASE-AUTO-0037` a `CASE-AUTO-0044`).
+- Documentos consolidados de fechamento da primeira fase AUTO em Markdown, DOCX e PDF.
 - Sétimo e oitavo lotes AUTO com 20 verbetes no dicionário mestre (`AUTO-0061` a `AUTO-0080`).
 - Sétimo e oitavo lotes AUTO com 20 FAQs (`FAQ-AUTO-0058` a `FAQ-AUTO-0077`), 6 diálogos (`DIALOGUE-AUTO-0021` a `DIALOGUE-AUTO-0026`) e 8 estudos de caso (`CASE-AUTO-0029` a `CASE-AUTO-0036`).
 - Documentos consolidados dos lotes AUTO de exclusões, riscos de cobertura e coberturas adicionais especiais em Markdown, DOCX e PDF.

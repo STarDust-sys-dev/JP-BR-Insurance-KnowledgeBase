@@ -155,6 +155,26 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - AUTO-0078 - 他車運転特約 - Cobertura adicional para dirigir outro veículo
 - AUTO-0079 - ファミリーバイク特約 - Cobertura adicional para moto pequena da família
 - AUTO-0080 - 個人賠償責任特約 - Cobertura adicional de responsabilidade civil pessoal
+- AUTO-0081 - 補償の見直し - Revisão das coberturas
+- AUTO-0082 - 保険料の見直し - Revisão do prêmio do seguro
+- AUTO-0083 - 契約条件 - Condições do contrato
+- AUTO-0084 - 重要事項説明 - Explicação de informações importantes
+- AUTO-0085 - 契約概要 - Resumo do contrato
+- AUTO-0086 - 注意喚起情報 - Informações de alerta
+- AUTO-0087 - 契約確認 - Confirmação do contrato
+- AUTO-0088 - 顧客情報 - Informações do cliente
+- AUTO-0089 - 車両情報 - Informações do veículo
+- AUTO-0090 - 運転者情報 - Informações do condutor
+- AUTO-0091 - 事故対応フロー - Fluxo de atendimento em acidente
+- AUTO-0092 - 必要書類 - Documentos necessários
+- AUTO-0093 - 本人確認 - Confirmação de identidade
+- AUTO-0094 - 住所変更 - Alteração de endereço
+- AUTO-0095 - 連絡先変更 - Alteração de contato
+- AUTO-0096 - 名義変更 - Alteração de titularidade
+- AUTO-0097 - 解約手続き - Procedimento de cancelamento
+- AUTO-0098 - 更新案内 - Aviso de renovação
+- AUTO-0099 - 満期管理 - Controle de vencimento
+- AUTO-0100 - アフターサービス - Atendimento pós-venda
 
 ### FAQs relacionadas
 
@@ -235,6 +255,26 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - FAQ-AUTO-0075 - Estou coberto se dirigir outro carro?
 - FAQ-AUTO-0076 - A cobertura para moto pequena da família está incluída automaticamente?
 - FAQ-AUTO-0077 - Para que serve a cobertura de responsabilidade civil pessoal?
+- FAQ-AUTO-0078 - Quando devo revisar as coberturas do seguro?
+- FAQ-AUTO-0079 - Como posso revisar o valor do seguro?
+- FAQ-AUTO-0080 - O que são condições do contrato?
+- FAQ-AUTO-0081 - Por que preciso ouvir a explicação de informações importantes?
+- FAQ-AUTO-0082 - O resumo do contrato é suficiente para entender o seguro?
+- FAQ-AUTO-0083 - Quais avisos importantes devo observar?
+- FAQ-AUTO-0084 - O que devo conferir antes de finalizar o contrato?
+- FAQ-AUTO-0085 - Por que meus dados pessoais precisam estar atualizados?
+- FAQ-AUTO-0086 - Por que os dados do veículo precisam estar corretos?
+- FAQ-AUTO-0087 - Por que preciso informar quem dirige o carro?
+- FAQ-AUTO-0088 - Qual é o passo a passo depois de um acidente?
+- FAQ-AUTO-0089 - Quais documentos preciso enviar?
+- FAQ-AUTO-0090 - Por que preciso confirmar minha identidade?
+- FAQ-AUTO-0091 - Mudei de endereço. Preciso avisar?
+- FAQ-AUTO-0092 - Troquei telefone ou e-mail. Preciso atualizar?
+- FAQ-AUTO-0093 - Posso mudar o titular do seguro?
+- FAQ-AUTO-0094 - Como faço para cancelar o seguro?
+- FAQ-AUTO-0095 - Quando recebo aviso de renovação?
+- FAQ-AUTO-0096 - Como evitar que o seguro vença sem perceber?
+- FAQ-AUTO-0097 - O que a corretora faz depois que o seguro é contratado?
 
 ### Diálogos relacionados
 
@@ -264,6 +304,12 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - DIALOGUE-AUTO-0024 - Orientando roubo, vandalismo e dano por pedra
 - DIALOGUE-AUTO-0025 - Conferindo usuário, segurado principal e restrições de condutor
 - DIALOGUE-AUTO-0026 - Explicando coberturas adicionais especiais
+- DIALOGUE-AUTO-0027 - Revisando coberturas, prêmio e condições do contrato
+- DIALOGUE-AUTO-0028 - Explicando resumo do contrato e informações de alerta
+- DIALOGUE-AUTO-0029 - Conferindo dados do cliente, veículo e condutores
+- DIALOGUE-AUTO-0030 - Orientando fluxo de acidente e documentos necessários
+- DIALOGUE-AUTO-0031 - Atualizando endereço, contato e titularidade
+- DIALOGUE-AUTO-0032 - Explicando cancelamento, renovação e pós-venda
 
 ### Estudos de caso relacionados
 
@@ -303,6 +349,14 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - CASE-AUTO-0034 - Roubo, vandalismo ou dano por pedra no veículo
 - CASE-AUTO-0035 - Motorista fora da restrição familiar ou de casal
 - CASE-AUTO-0036 - Cliente presume que coberturas adicionais já estão incluídas
+- CASE-AUTO-0037 - Cliente quer reduzir preço sem perder proteção essencial
+- CASE-AUTO-0038 - Cliente não leu informações importantes antes de contratar
+- CASE-AUTO-0039 - Dados do cliente, veículo ou condutor estão incorretos
+- CASE-AUTO-0040 - Cliente não sabe o fluxo correto após acidente
+- CASE-AUTO-0041 - Seguradora pede confirmação de identidade e documentos
+- CASE-AUTO-0042 - Cliente mudou endereço, contato ou titularidade
+- CASE-AUTO-0043 - Cliente quer cancelar perto da renovação
+- CASE-AUTO-0044 - Pós-venda evita vencimento e problemas futuros
 
 ## Mapa de referências cruzadas
 
@@ -333,6 +387,9 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | Exclusões e condutas graves | AUTO-0061, AUTO-0062, AUTO-0063, AUTO-0064, AUTO-0065, AUTO-0066 | FAQ-AUTO-0058, FAQ-AUTO-0059, FAQ-AUTO-0060, FAQ-AUTO-0061, FAQ-AUTO-0062, FAQ-AUTO-0063 | DIALOGUE-AUTO-0021, DIALOGUE-AUTO-0022 | CASE-AUTO-0029, CASE-AUTO-0030, CASE-AUTO-0031 |
 | Desastres naturais e danos externos | AUTO-0067, AUTO-0068, AUTO-0069, AUTO-0070, AUTO-0071, AUTO-0072, AUTO-0073 | FAQ-AUTO-0064, FAQ-AUTO-0065, FAQ-AUTO-0066, FAQ-AUTO-0067, FAQ-AUTO-0068, FAQ-AUTO-0069, FAQ-AUTO-0070 | DIALOGUE-AUTO-0023, DIALOGUE-AUTO-0024 | CASE-AUTO-0032, CASE-AUTO-0033, CASE-AUTO-0034 |
 | Usuários, restrições e coberturas adicionais | AUTO-0074, AUTO-0075, AUTO-0076, AUTO-0077, AUTO-0078, AUTO-0079, AUTO-0080 | FAQ-AUTO-0071, FAQ-AUTO-0072, FAQ-AUTO-0073, FAQ-AUTO-0074, FAQ-AUTO-0075, FAQ-AUTO-0076, FAQ-AUTO-0077 | DIALOGUE-AUTO-0025, DIALOGUE-AUTO-0026 | CASE-AUTO-0035, CASE-AUTO-0036 |
+| Revisão e explicação contratual | AUTO-0081, AUTO-0082, AUTO-0083, AUTO-0084, AUTO-0085, AUTO-0086, AUTO-0087 | FAQ-AUTO-0078, FAQ-AUTO-0079, FAQ-AUTO-0080, FAQ-AUTO-0081, FAQ-AUTO-0082, FAQ-AUTO-0083, FAQ-AUTO-0084 | DIALOGUE-AUTO-0027, DIALOGUE-AUTO-0028 | CASE-AUTO-0037, CASE-AUTO-0038 |
+| Dados cadastrais e documentos | AUTO-0088, AUTO-0089, AUTO-0090, AUTO-0091, AUTO-0092, AUTO-0093 | FAQ-AUTO-0085, FAQ-AUTO-0086, FAQ-AUTO-0087, FAQ-AUTO-0088, FAQ-AUTO-0089, FAQ-AUTO-0090 | DIALOGUE-AUTO-0029, DIALOGUE-AUTO-0030 | CASE-AUTO-0039, CASE-AUTO-0040, CASE-AUTO-0041 |
+| Alterações, renovação e pós-venda | AUTO-0094, AUTO-0095, AUTO-0096, AUTO-0097, AUTO-0098, AUTO-0099, AUTO-0100 | FAQ-AUTO-0091, FAQ-AUTO-0092, FAQ-AUTO-0093, FAQ-AUTO-0094, FAQ-AUTO-0095, FAQ-AUTO-0096, FAQ-AUTO-0097 | DIALOGUE-AUTO-0031, DIALOGUE-AUTO-0032 | CASE-AUTO-0042, CASE-AUTO-0043, CASE-AUTO-0044 |
 
 ## Referências
 
@@ -369,6 +426,10 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 - `19_Markdown/AUTO/AUTO_FAQ_0058_0077.md`
 - `19_Markdown/AUTO/AUTO_DIALOGUES_0021_0026.md`
 - `19_Markdown/AUTO/AUTO_CASES_0029_0036.md`
+- `19_Markdown/AUTO/AUTO_TERMS_0081_0100.md`
+- `19_Markdown/AUTO/AUTO_FAQ_0078_0097.md`
+- `19_Markdown/AUTO/AUTO_DIALOGUES_0027_0032.md`
+- `19_Markdown/AUTO/AUTO_CASES_0037_0044.md`
 
 ## Histórico de revisão
 
@@ -380,3 +441,4 @@ Este documento conecta os lotes iniciais de verbetes, FAQs, diálogos e estudos 
 | 2026-06-25 | 0.4 | JP-BR Insurance Knowledge Base | Inclusão do quarto lote AUTO. |
 | 2026-06-25 | 0.5 | JP-BR Insurance Knowledge Base | Inclusão dos quinto e sexto lotes AUTO. |
 | 2026-06-25 | 0.6 | JP-BR Insurance Knowledge Base | Inclusão dos sétimo e oitavo lotes AUTO. |
+| 2026-06-25 | 0.7 | JP-BR Insurance Knowledge Base | Inclusão dos nono e décimo lotes AUTO. |
