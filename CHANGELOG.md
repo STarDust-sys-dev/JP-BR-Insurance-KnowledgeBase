@@ -10,5 +10,6 @@
 
 ### Definido
 
+- O `EDITORIAL_RULES.md` passa a funcionar como constituição editorial permanente do projeto.
 - O README.md passa a ser tratado como especificação oficial do projeto.
 - O desenvolvimento editorial deverá manter consistência terminológica, referências cruzadas e entregas incrementais em Markdown, DOCX e PDF.
