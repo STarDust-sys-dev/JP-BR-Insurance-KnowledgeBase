@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Primeiro lote de 10 verbetes AUTO no dicionário mestre (`AUTO-0001` a `AUTO-0010`).
+- Documento consolidado do primeiro lote AUTO em Markdown, DOCX e PDF.
 - Modelos oficiais `TERM_TEMPLATE.md`, `FAQ_TEMPLATE.md`, `DIALOGUE_TEMPLATE.md` e `CASE_TEMPLATE.md`.
 - Versões DOCX e PDF dos modelos oficiais.
 - Documento `EDITORIAL_RULES.md` com regras editoriais operacionais alinhadas ao README oficial.
