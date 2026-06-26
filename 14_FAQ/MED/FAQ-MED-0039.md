@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Como confirmar o depósito?
 
+## Consulta natural em japonês
+
+- 給付金の入金はどう確認しますか。
+- 振込確認をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender documentos, prazo, análise ou pagamento de benefício médico.
@@ -30,6 +35,14 @@ Verificação de que o valor aprovado foi depositado na conta indicada.
 ## Como responder ao cliente brasileiro
 
 Depois do aviso de pagamento, confirme se o depósito entrou corretamente.
+
+## Próximo passo seguro
+
+支払通知、振込予定日、口座名義、通帳・アプリの入金履歴を確認する。
+
+## Limite comercial/compliance
+
+入金前に完了と断定せず、金融機関反映時間や口座誤りの可能性を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Depois do aviso de pagamento, confirme se o depósito entrou corretamente.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

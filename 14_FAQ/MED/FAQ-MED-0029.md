@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Existe prazo para solicitar benefício?
 
+## Consulta natural em japonês
+
+- 医療保険の給付金請求に期限はありますか。
+- 請求期限をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender documentos, prazo, análise ou pagamento de benefício médico.
@@ -30,6 +35,14 @@ Período dentro do qual o segurado deve apresentar a solicitação de benefício
 ## Como responder ao cliente brasileiro
 
 É importante não deixar passar muito tempo antes de solicitar o benefício.
+
+## Próximo passo seguro
+
+約款上の請求期限、発生日、退院日、診断確定日、書類準備状況を確認する。
+
+## Limite comercial/compliance
+
+期限が近い場合は保険会社に確認し、時効や受付可否を代理店判断で断定しない。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Período dentro do qual o segurado deve apresentar a solicitação de benefício
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 O que é análise de pagamento?
 
+## Consulta natural em japonês
+
+- 給付金の支払査定とは何ですか。
+- 保険会社の支払審査をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender documentos, prazo, análise ou pagamento de benefício médico.
@@ -30,6 +35,14 @@ Processo interno da seguradora para verificar se o benefício solicitado atende 
 ## Como responder ao cliente brasileiro
 
 Depois do envio, a seguradora analisa se o caso está dentro das regras do contrato.
+
+## Próximo passo seguro
+
+提出書類、契約条件、病名、治療内容、免責・限度を保険会社が確認する流れを説明する。
+
+## Limite comercial/compliance
+
+代理店が査定結果を先に約束せず、保険会社の正式通知を待つ。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Depois do envio, a seguradora analisa se o caso está dentro das regras do contr
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

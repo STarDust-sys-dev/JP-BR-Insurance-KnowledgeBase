@@ -25,6 +25,7 @@
 - Sexto ciclo de normalizacao de FAQs AUTO: `FAQ-AUTO-0078` a `FAQ-AUTO-0097`, cobrindo revisao de coberturas, condicoes contratuais, informacoes importantes, dados cadastrais, documentos, sinistro, cancelamento, renovacao e pos-venda.
 - Fechamento dos avisos de consulta japonesa em FAQs AUTO antigas: normalizacao de 19 arquivos entre `FAQ-AUTO-0001` e `FAQ-AUTO-0037` e regeneracao dos pacotes `AUTO_FAQ_0001_0010`, `AUTO_FAQ_0011_0020`, `AUTO_FAQ_0021_0027` e `AUTO_FAQ_0028_0037`.
 - Segundo ciclo de normalizacao de FAQs MED: `FAQ-MED-0001` a `FAQ-MED-0020`, cobrindo fundamentos do seguro medico, internacao, cirurgia, valor diario, limites, tratamento avancado, cancer, doencas graves, gravidez, saude mental, doenca preexistente e inicio de cobertura.
+- Terceiro ciclo de normalizacao de FAQs MED: `FAQ-MED-0021` a `FAQ-MED-0040`, cobrindo solicitacao de beneficio, diagnostico, recibos, comprovantes, prazos, documentos, dados bancarios, analise de pagamento, pendencias, reanalise, deposito e beneficiario.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
