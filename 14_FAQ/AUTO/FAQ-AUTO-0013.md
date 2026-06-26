@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Em situações como pane, guincho, bateria descarregada ou emergência prevista 
 ## Orientação ao corretor
 
 Antes de orientar, confirme se o serviço está incluído e quais são os limites.
+
+## Consulta natural em japonês
+
+- ロードサービスはどのような時に利用できますか。
+- 故障やレッカー対応をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+故障、事故、バッテリー上がり、キー閉じ込み、レッカー距離など、契約上の利用条件を確認する。
+
+## Limite comercial/compliance
+
+サービス範囲・回数・距離制限を確認せず、必ず使えるとは案内しない。
 
 ## Termos relacionados
 
@@ -61,3 +74,4 @@ Antes de orientar, confirme se o serviço está incluído e quais são os limite
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ O seguro obrigatório não cobre todos os tipos de prejuízo. Ele não substitui
 ## Orientação ao corretor
 
 Evite responder apenas “não”. Mostre quais riscos ficam fora ou podem ficar insuficientemente protegidos.
+
+## Consulta natural em japonês
+
+- 自賠責保険だけで車を運転しても十分ですか。
+- 任意保険が必要になる場面をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+対物事故、車両損害、運転者自身のけが、弁護士費用など自賠責で不足する範囲を確認する。
+
+## Limite comercial/compliance
+
+必要性は生活状況で異なるが、強制保険だけのリスクを軽く見せない。
 
 ## Termos relacionados
 
@@ -62,3 +75,4 @@ Evite responder apenas “não”. Mostre quais riscos ficam fora ou podem ficar
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

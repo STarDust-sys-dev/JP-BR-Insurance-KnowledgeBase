@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ No Japão, o seguro de automóvel é composto por várias coberturas. Algumas pr
 ## Orientação ao corretor
 
 Explique primeiro a diferença entre cobertura contra terceiros e cobertura do próprio veículo. Depois confirme quais coberturas estão realmente incluídas no contrato do cliente.
+
+## Consulta natural em japonês
+
+- 日本の自動車保険では、どのような補償を説明すべきですか。
+- ブラジル人のお客様に自動車保険の基本補償をどう説明しますか。
+
+## Próximo passo seguro
+
+対人、対物、人身傷害、車両保険、特約の有無を分けて確認し、必要な補償を整理する。
+
+## Limite comercial/compliance
+
+補償範囲は契約内容で異なるため、一般説明だけで支払可否を断定しない。
 
 ## Termos relacionados
 
@@ -64,3 +77,4 @@ Explique primeiro a diferença entre cobertura contra terceiros e cobertura do p
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

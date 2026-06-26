@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ O certificado de inspeção veicular contém informações importantes para o se
 ## Orientação ao corretor
 
 Explicar que o documento é usado para conferir dados, não por mera burocracia.
+
+## Consulta natural em japonês
+
+- 車検証はなぜ自動車保険の手続きに必要ですか。
+- 車検証で確認する情報をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+登録番号、車台番号、型式、所有者、使用者、用途など、保険料計算と契約管理に必要な情報を確認する。
+
+## Limite comercial/compliance
+
+写真や口頭情報だけで確定せず、最新の車検証情報に基づいて手続する。
 
 ## Termos relacionados
 
@@ -62,3 +75,4 @@ Explicar que o documento é usado para conferir dados, não por mera burocracia.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Usar o carro para lazer, ida ao trabalho ou atividade comercial pode representar
 ## Orientação ao corretor
 
 Reforce que a informação deve refletir o uso real do veículo.
+
+## Consulta natural em japonês
+
+- 車の使用目的を申告する必要があるのはなぜですか。
+- 通勤・業務・日常使用の違いをブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+日常・通勤通学・業務使用など、使用目的が保険料や引受条件に影響するため実態を確認する。
+
+## Limite comercial/compliance
+
+実態と異なる申告を勧めず、変更時は速やかに通知するよう案内する。
 
 ## Termos relacionados
 
@@ -59,3 +72,4 @@ Reforce que a informação deve refletir o uso real do veículo.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

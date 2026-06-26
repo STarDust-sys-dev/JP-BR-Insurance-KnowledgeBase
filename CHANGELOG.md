@@ -23,6 +23,7 @@
 - Quarto ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0050` a `FAQ-AUTO-0059`, cobrindo papel da corretora, proposta, declaracoes, alteracoes, apolice, renovacao, interrupcao e exclusoes.
 - Quinto ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0060` a `FAQ-AUTO-0077`, cobrindo exclusoes graves, desastres naturais, roubo/furto, vandalismo, uso do veiculo, restricoes de condutor e coberturas adicionais.
 - Sexto ciclo de normalizacao de FAQs AUTO: `FAQ-AUTO-0078` a `FAQ-AUTO-0097`, cobrindo revisao de coberturas, condicoes contratuais, informacoes importantes, dados cadastrais, documentos, sinistro, cancelamento, renovacao e pos-venda.
+- Fechamento dos avisos de consulta japonesa em FAQs AUTO antigas: normalizacao de 19 arquivos entre `FAQ-AUTO-0001` e `FAQ-AUTO-0037` e regeneracao dos pacotes `AUTO_FAQ_0001_0010`, `AUTO_FAQ_0011_0020`, `AUTO_FAQ_0021_0027` e `AUTO_FAQ_0028_0037`.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Se não houver renovação, a cobertura pode terminar e o cliente pode ficar sem
 ## Orientação ao corretor
 
 Alertar o cliente antes do vencimento e evitar lacunas entre uma apólice e outra.
+
+## Consulta natural em japonês
+
+- 自動車保険が満期切れになるとどうなりますか。
+- 保険の空白期間のリスクをブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+満期日、更新手続、入金状況を確認し、無保険期間による事故リスクを避ける。
+
+## Limite comercial/compliance
+
+更新予定というだけで補償継続を断定せず、契約成立を確認する。
 
 ## Termos relacionados
 
@@ -62,3 +75,4 @@ Alertar o cliente antes do vencimento e evitar lacunas entre uma apólice e outr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

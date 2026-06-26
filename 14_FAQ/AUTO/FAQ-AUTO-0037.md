@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Quando há troca de veículo, pode ser necessário fazer 車両入替. A segurad
 ## Como responder ao cliente brasileiro
 
 Se você trocou de carro, precisamos atualizar o seguro. O contrato antigo não deve ser usado sem confirmar a substituição do veículo.
+
+## Consulta natural em japonês
+
+- 車を買い替えた場合、自動車保険の変更が必要ですか。
+- 車両入替の手続きをブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+新旧車両情報、納車日、補償開始日時、車両保険金額、必要書類を確認する。
+
+## Limite comercial/compliance
+
+車を替えても自動的に補償されるとは案内せず、車両入替手続の完了を確認する。
 
 ## Termos relacionados
 
@@ -67,3 +80,4 @@ Se você trocou de carro, precisamos atualizar o seguro. O contrato antigo não 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

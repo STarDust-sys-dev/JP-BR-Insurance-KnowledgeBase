@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ A cobertura de carro substituto pode ajudar quando o veículo segurado fica indi
 ## Orientação ao corretor
 
 Confirmar se a cobertura foi contratada antes de mencionar direito a carro substituto.
+
+## Consulta natural em japonês
+
+- 代車やレンタカー費用はいつ補償されますか。
+- 車が修理中の移動手段をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+車両保険・代車特約・事故内容・修理期間・限度日数を確認する。
+
+## Limite comercial/compliance
+
+代車利用を約束せず、特約有無と保険会社承認条件を確認してから案内する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Confirmar se a cobertura foi contratada antes de mencionar direito a carro subst
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

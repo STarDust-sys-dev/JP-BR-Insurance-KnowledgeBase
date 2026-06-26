@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ O cancelamento antes do vencimento pode ser usado quando o cliente vende o carro
 ## Orientação ao corretor
 
 Antes de cancelar, confirmar se haverá outro seguro para evitar período sem cobertura.
+
+## Consulta natural em japonês
+
+- 満期前に自動車保険を解約できますか。
+- 途中解約と返戻金をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+解約日、返戻金、未払保険料、新契約との空白期間、必要書類を確認する。
+
+## Limite comercial/compliance
+
+返戻金額や補償終了時刻を即答せず、正式計算と手続完了を確認する。
 
 ## Termos relacionados
 
@@ -61,3 +74,4 @@ Antes de cancelar, confirmar se haverá outro seguro para evitar período sem co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

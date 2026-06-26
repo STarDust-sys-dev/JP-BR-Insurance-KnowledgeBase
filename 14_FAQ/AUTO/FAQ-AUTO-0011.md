@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Qual é a diferença entre 自賠責保険 e 任意保険?
 ## Orientação ao corretor
 
 Explique que “obrigatório” não significa “suficiente”. Use exemplos de danos materiais e próprio veículo para mostrar a limitação.
+
+## Consulta natural em japonês
+
+- 自賠責保険と任意保険の違いは何ですか。
+- 強制保険だけでは不足する理由をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+自賠責は主に対人賠償の最低限の制度であり、任意保険で対物・車両・人身傷害などを補う。
+
+## Limite comercial/compliance
+
+自賠責だけで十分とは案内せず、不足リスクと任意保険の役割を分けて説明する。
 
 ## Termos relacionados
 
@@ -63,3 +76,4 @@ Explique que “obrigatório” não significa “suficiente”. Use exemplos de
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

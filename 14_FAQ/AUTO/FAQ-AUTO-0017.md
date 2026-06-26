@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ A condição de idade define quais motoristas estão cobertos. Quanto mais ampla
 ## Orientação ao corretor
 
 Não ajuste idade apenas para reduzir preço. Confirme quem realmente dirigirá o carro.
+
+## Consulta natural em japonês
+
+- 運転者の年齢条件は保険料に影響しますか。
+- 年齢条件と補償対象をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+年齢条件が保険料と補償対象に与える影響を確認し、実際に運転する人に合わせる。
+
+## Limite comercial/compliance
+
+保険料を下げるためだけに実態と違う条件を設定しない。
 
 ## Termos relacionados
 
@@ -62,3 +75,4 @@ Não ajuste idade apenas para reduzir preço. Confirme quem realmente dirigirá 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

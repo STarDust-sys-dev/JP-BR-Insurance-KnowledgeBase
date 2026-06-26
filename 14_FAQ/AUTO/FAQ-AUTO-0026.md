@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Não necessariamente. 契約者, 記名被保険者 e 所有者 podem ser pessoa
 ## Orientação ao corretor
 
 Confirmar os três papéis separadamente, especialmente em família, empresa, financiamento ou veículo usado por outra pessoa.
+
+## Consulta natural em japonês
+
+- 契約者、記名被保険者、車の所有者は同じ人でなければなりませんか。
+- 名義が違う場合の確認点をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+契約者、記名被保険者、所有者、主な使用者の関係と保険会社の引受条件を確認する。
+
+## Limite comercial/compliance
+
+名義相違でも必ず契約できるとは言わず、必要書類と引受可否を確認する。
 
 ## Termos relacionados
 
@@ -67,3 +80,4 @@ Confirmar os três papéis separadamente, especialmente em família, empresa, fi
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

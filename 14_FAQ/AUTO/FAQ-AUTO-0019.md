@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Após um acidente, o cliente deve priorizar segurança e atendimento médico. De
 ## Orientação ao corretor
 
 Evite orientar o cliente a negociar sozinho no local. Direcione para os procedimentos corretos.
+
+## Consulta natural em japonês
+
+- 事故直後に最初に何をすべきですか。
+- 交通事故後の連絡順序をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+安全確保、けが人対応、警察連絡、相手情報確認、保険会社・代理店連絡の順に進める。
+
+## Limite comercial/compliance
+
+現場で示談や支払約束をさせず、保険会社に連絡してから対応する。
 
 ## Termos relacionados
 
@@ -62,3 +75,4 @@ Evite orientar o cliente a negociar sozinho no local. Direcione para os procedim
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
