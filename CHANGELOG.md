@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Quinto ciclo VIDA com 20 verbetes (`VIDA-0081` a `VIDA-0100`), 20 FAQs (`FAQ-VIDA-0081` a `FAQ-VIDA-0100`), 5 diálogos (`DIALOGUE-VIDA-0021` a `DIALOGUE-VIDA-0025`) e 8 estudos de caso (`CASE-VIDA-0033` a `CASE-VIDA-0040`).
+- Atualização do índice `VIDA_INDEX_0001.md` com pós-venda, alterações contratuais, beneficiários, documentos fiscais e registro de atendimento.
+- Documentos consolidados do quinto ciclo VIDA em Markdown, DOCX e PDF.
 - Quarto ciclo VIDA com 20 verbetes (`VIDA-0061` a `VIDA-0080`), 20 FAQs (`FAQ-VIDA-0061` a `FAQ-VIDA-0080`), 5 diálogos (`DIALOGUE-VIDA-0016` a `DIALOGUE-VIDA-0020`) e 8 estudos de caso (`CASE-VIDA-0025` a `CASE-VIDA-0032`).
 - Atualização do índice `VIDA_INDEX_0001.md` com solicitação de indenização, documentos, análise de pagamento e representantes.
 - Documentos consolidados do quarto ciclo VIDA em Markdown, DOCX e PDF.

@@ -125,6 +125,26 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - VIDA-0078 - 代理請求 - Solicitação por representante
 - VIDA-0079 - 未成年受取人 - Beneficiário menor de idade
 - VIDA-0080 - 相続人 - Herdeiro
+- VIDA-0081 - 契約内容確認 - Confirmação do conteúdo do contrato
+- VIDA-0082 - 契約内容変更 - Alteração do conteúdo do contrato
+- VIDA-0083 - 住所変更 - Alteração de endereço
+- VIDA-0084 - 改姓 - Alteração de sobrenome
+- VIDA-0085 - 受取人変更 - Alteração de beneficiário
+- VIDA-0086 - 指定代理請求人変更 - Alteração do representante designado
+- VIDA-0087 - 保険証券 - Apólice do seguro de vida
+- VIDA-0088 - 証券再発行 - Reemissão da apólice
+- VIDA-0089 - 控除証明書 - Comprovante para dedução de seguro
+- VIDA-0090 - 生命保険料控除 - Dedução de prêmio de seguro de vida
+- VIDA-0091 - 年末調整 - Ajuste fiscal de fim de ano
+- VIDA-0092 - 確定申告 - Declaração final de imposto
+- VIDA-0093 - 税務上の取扱い - Tratamento fiscal
+- VIDA-0094 - 保険金の税金 - Imposto sobre indenização do seguro
+- VIDA-0095 - 解約返戻金の税金 - Imposto sobre valor de resgate
+- VIDA-0096 - マイナンバー - Número individual japonês
+- VIDA-0097 - 個人情報保護 - Proteção de dados pessoais
+- VIDA-0098 - アフターフォロー - Acompanhamento pós-venda
+- VIDA-0099 - 定期点検 - Revisão periódica
+- VIDA-0100 - 顧客対応記録 - Registro de atendimento ao cliente
 
 ### FAQs relacionadas
 
@@ -208,6 +228,26 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - FAQ-VIDA-0078 - Outra pessoa pode solicitar em meu nome?
 - FAQ-VIDA-0079 - O que acontece se o beneficiário for menor de idade?
 - FAQ-VIDA-0080 - O que acontece quando entram herdeiros?
+- FAQ-VIDA-0081 - O que devo conferir no meu contrato de seguro de vida?
+- FAQ-VIDA-0082 - Como faço alteração no contrato?
+- FAQ-VIDA-0083 - Mudei de endereço. Preciso avisar?
+- FAQ-VIDA-0084 - Mudei meu sobrenome. Preciso atualizar o seguro?
+- FAQ-VIDA-0085 - Posso trocar o beneficiário?
+- FAQ-VIDA-0086 - Posso mudar o representante designado?
+- FAQ-VIDA-0087 - Para que serve a apólice?
+- FAQ-VIDA-0088 - Perdi a apólice. Posso pedir segunda via?
+- FAQ-VIDA-0089 - Para que serve o comprovante de dedução?
+- FAQ-VIDA-0090 - Seguro de vida dá dedução no imposto?
+- FAQ-VIDA-0091 - Como usar o comprovante no ajuste de fim de ano?
+- FAQ-VIDA-0092 - Como usar documentos do seguro na declaração final?
+- FAQ-VIDA-0093 - O seguro tem tratamento fiscal?
+- FAQ-VIDA-0094 - Receber indenização pode gerar imposto?
+- FAQ-VIDA-0095 - Resgate de seguro pode gerar imposto?
+- FAQ-VIDA-0096 - Por que podem pedir マイナンバー?
+- FAQ-VIDA-0097 - Como meus dados pessoais são protegidos?
+- FAQ-VIDA-0098 - O que é acompanhamento pós-venda?
+- FAQ-VIDA-0099 - Com que frequência devo revisar meu seguro?
+- FAQ-VIDA-0100 - Por que registrar o atendimento é importante?
 
 ### Diálogos relacionados
 
@@ -231,6 +271,11 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - DIALOGUE-VIDA-0018 - Explicando conta de recebimento e análise de pagamento
 - DIALOGUE-VIDA-0019 - Orientando prazo, documentos adicionais e investigação
 - DIALOGUE-VIDA-0020 - Explicando representante, menor de idade e herdeiros
+- DIALOGUE-VIDA-0021 - Conferindo e alterando dados do contrato
+- DIALOGUE-VIDA-0022 - Revisando beneficiário, representante e apólice
+- DIALOGUE-VIDA-0023 - Explicando dedução e documentos fiscais
+- DIALOGUE-VIDA-0024 - Orientando tratamento fiscal, マイナンバー e dados pessoais
+- DIALOGUE-VIDA-0025 - Planejando pós-venda e revisão periódica
 
 ### Estudos de caso relacionados
 
@@ -266,6 +311,14 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - CASE-VIDA-0030 - Pagamento demora por falta de documentos completos
 - CASE-VIDA-0031 - Seguradora precisa confirmar fatos ou investigar
 - CASE-VIDA-0032 - Solicitação feita por representante, menor ou herdeiro
+- CASE-VIDA-0033 - Cliente mudou endereço e sobrenome após casamento
+- CASE-VIDA-0034 - Contrato precisa de conferência periódica
+- CASE-VIDA-0035 - Cliente quer trocar beneficiário e perdeu a apólice
+- CASE-VIDA-0036 - Cliente precisa de comprovante para 年末調整
+- CASE-VIDA-0037 - Autônomo pergunta sobre 確定申告
+- CASE-VIDA-0038 - Família recebe indenização e pergunta sobre imposto
+- CASE-VIDA-0039 - Cliente cancela seguro com resgate e pergunta valor líquido
+- CASE-VIDA-0040 - Pós-venda identifica necessidade de atualizar beneficiário e proteção
 
 ## Mapa de referências cruzadas
 
@@ -285,6 +338,9 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 | Documentos e identificação para pagamento | VIDA-0066, VIDA-0067, VIDA-0068, VIDA-0069 | FAQ-VIDA-0066, FAQ-VIDA-0067, FAQ-VIDA-0068, FAQ-VIDA-0069 | DIALOGUE-VIDA-0017, DIALOGUE-VIDA-0018 | CASE-VIDA-0027, CASE-VIDA-0028 |
 | Análise, prazo e investigação | VIDA-0070, VIDA-0071, VIDA-0072, VIDA-0073, VIDA-0074, VIDA-0075, VIDA-0076 | FAQ-VIDA-0070, FAQ-VIDA-0071, FAQ-VIDA-0072, FAQ-VIDA-0073, FAQ-VIDA-0074, FAQ-VIDA-0075, FAQ-VIDA-0076 | DIALOGUE-VIDA-0018, DIALOGUE-VIDA-0019 | CASE-VIDA-0029, CASE-VIDA-0030, CASE-VIDA-0031 |
 | Representantes, menores e herdeiros | VIDA-0077, VIDA-0078, VIDA-0079, VIDA-0080 | FAQ-VIDA-0077, FAQ-VIDA-0078, FAQ-VIDA-0079, FAQ-VIDA-0080 | DIALOGUE-VIDA-0020 | CASE-VIDA-0032 |
+| Alterações e documentos do contrato | VIDA-0081, VIDA-0082, VIDA-0083, VIDA-0084, VIDA-0085, VIDA-0086, VIDA-0087, VIDA-0088 | FAQ-VIDA-0081, FAQ-VIDA-0082, FAQ-VIDA-0083, FAQ-VIDA-0084, FAQ-VIDA-0085, FAQ-VIDA-0086, FAQ-VIDA-0087, FAQ-VIDA-0088 | DIALOGUE-VIDA-0021, DIALOGUE-VIDA-0022 | CASE-VIDA-0033, CASE-VIDA-0034, CASE-VIDA-0035 |
+| Dedução e orientação fiscal básica | VIDA-0089, VIDA-0090, VIDA-0091, VIDA-0092, VIDA-0093, VIDA-0094, VIDA-0095, VIDA-0096 | FAQ-VIDA-0089, FAQ-VIDA-0090, FAQ-VIDA-0091, FAQ-VIDA-0092, FAQ-VIDA-0093, FAQ-VIDA-0094, FAQ-VIDA-0095, FAQ-VIDA-0096 | DIALOGUE-VIDA-0023, DIALOGUE-VIDA-0024 | CASE-VIDA-0036, CASE-VIDA-0037, CASE-VIDA-0038, CASE-VIDA-0039 |
+| Pós-venda e registro de atendimento | VIDA-0097, VIDA-0098, VIDA-0099, VIDA-0100 | FAQ-VIDA-0097, FAQ-VIDA-0098, FAQ-VIDA-0099, FAQ-VIDA-0100 | DIALOGUE-VIDA-0025 | CASE-VIDA-0040 |
 
 ## Referências
 
@@ -313,6 +369,10 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - `19_Markdown/VIDA/VIDA_FAQ_0061_0080.md`
 - `19_Markdown/VIDA/VIDA_DIALOGUES_0016_0020.md`
 - `19_Markdown/VIDA/VIDA_CASES_0025_0032.md`
+- `19_Markdown/VIDA/VIDA_TERMS_0081_0100.md`
+- `19_Markdown/VIDA/VIDA_FAQ_0081_0100.md`
+- `19_Markdown/VIDA/VIDA_DIALOGUES_0021_0025.md`
+- `19_Markdown/VIDA/VIDA_CASES_0033_0040.md`
 
 ## Histórico de revisão
 
@@ -322,3 +382,4 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo ciclo VIDA. |
 | 2026-06-26 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro ciclo VIDA. |
 | 2026-06-26 | 0.4 | JP-BR Insurance Knowledge Base | Inclusão do quarto ciclo VIDA. |
+| 2026-06-26 | 0.5 | JP-BR Insurance Knowledge Base | Inclusão do quinto ciclo VIDA. |
