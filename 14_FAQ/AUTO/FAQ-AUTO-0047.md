@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Posso chamar guincho pelo seguro?
 
+## Consulta natural em japonês
+
+- 事故や故障でレッカー搬送を使えますか。
+- レッカー搬送をブラジル人のお客様に案内するとき、何を確認しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender remoção por guincho no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Transporte do veículo por guincho após acidente, pane ou impossibilidade de ci
 ## Como responder ao cliente brasileiro
 
 Se o carro não puder andar, verificamos se há serviço de guincho disponível no contrato.
+
+## Próximo passo seguro
+
+Verificar se o contrato possui serviço de guincho, limite de distância, canal de acionamento e se a situação se enquadra nas regras.
+
+## Limite comercial/compliance
+
+O corretor não deve garantir guincho gratuito ou ilimitado. Disponibilidade, distância, custo e condições dependem do contrato e do serviço autorizado.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Se o carro não puder andar, verificamos se há serviço de guincho disponível 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

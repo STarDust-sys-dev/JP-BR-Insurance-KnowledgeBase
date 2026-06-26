@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Posso fazer acordo direto com a outra pessoa?
 
+## Consulta natural em japonês
+
+- 事故相手と直接示談してもよいですか。
+- 示談についてブラジル人のお客様にどう注意喚起しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender acordo extrajudicial no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Acordo entre as partes envolvidas para resolver responsabilidade, indenização 
 ## Como responder ao cliente brasileiro
 
 Não feche acordo direto sem consultar a seguradora, pois isso pode afetar o atendimento do seguro.
+
+## Próximo passo seguro
+
+Orientar o cliente a avisar a seguradora antes de qualquer acordo, pagamento, assinatura ou promessa feita diretamente à outra parte.
+
+## Limite comercial/compliance
+
+O corretor não deve incentivar acordo direto sem confirmação da seguradora. Acordos feitos sem orientação podem afetar cobertura, defesa e pagamento.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Não feche acordo direto sem consultar a seguradora, pois isso pode afetar o ate
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

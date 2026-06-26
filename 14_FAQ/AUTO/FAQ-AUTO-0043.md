@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Por que a seguradora pediu orçamento de reparo?
 
+## Consulta natural em japonês
+
+- 修理見積書はなぜ保険会社に必要ですか。
+- 修理見積書をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender orçamento de reparo no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Documento emitido por oficina ou prestador com estimativa de custo para conserto
 ## Como responder ao cliente brasileiro
 
 A seguradora pode pedir o orçamento para analisar o valor do reparo antes de autorizar ou pagar.
+
+## Próximo passo seguro
+
+Solicitar orçamento conforme orientação da seguradora, conferir se a oficina e o formato do documento são aceitos e anexar fotos quando necessário.
+
+## Limite comercial/compliance
+
+O orçamento não garante autorização de reparo nem pagamento. Ele é um documento de análise e pode ser revisado pela seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A seguradora pode pedir o orçamento para analisar o valor do reparo antes de au
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
