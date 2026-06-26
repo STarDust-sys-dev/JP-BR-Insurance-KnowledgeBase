@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Dano causado de propósito é coberto?
 
+## Consulta natural em japonês
+
+- 故意に起こした損害は保険で補償されますか。
+- 故意による損害をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Ação praticada de propósito para causar dano, perda ou acidente.
 ## Como responder ao cliente brasileiro
 
 Seguro não é feito para cobrir dano causado intencionalmente. Se houver suspeita de ato intencional, a análise será rigorosa.
+
+## Próximo passo seguro
+
+Explicar que suspeita de ato intencional exige análise rigorosa e que documentos e investigação podem ser solicitados.
+
+## Limite comercial/compliance
+
+O corretor não deve tratar dano intencional como acidente comum nem prometer pagamento. Ato intencional pode ficar fora da cobertura.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Seguro não é feito para cobrir dano causado intencionalmente. Se houver suspei
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

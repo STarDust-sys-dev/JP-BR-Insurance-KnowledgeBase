@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Dano por pedra no para-brisa é coberto?
 
+## Consulta natural em japonês
+
+- 飛び石によるフロントガラスの損害は補償されますか。
+- 飛び石被害をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Dano causado por pedra ou objeto pequeno lançado contra o veículo, frequenteme
 ## Como responder ao cliente brasileiro
 
 Dano por pedra, como no para-brisa, deve ser verificado conforme cobertura do veículo e franquia.
+
+## Próximo passo seguro
+
+Confirmar cobertura do veículo, franquia, foto do dano, orçamento e se o reparo precisa de autorização prévia.
+
+## Limite comercial/compliance
+
+O corretor não deve prometer troca ou reparo pago antes da análise. Cobertura, franquia e autorização dependem da apólice e da seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Dano por pedra, como no para-brisa, deve ser verificado conforme cobertura do ve
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

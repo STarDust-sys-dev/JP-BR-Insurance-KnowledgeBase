@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 A cobertura para moto pequena da família está incluída automaticamente?
 
+## Consulta natural em japonês
+
+- ファミリーバイク特約は自動で付いていますか。
+- ファミリーバイク特約をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Cobertura adicional relacionada ao uso de determinadas motocicletas pequenas ou 
 ## Como responder ao cliente brasileiro
 
 Se a família usa moto pequena, essa cobertura pode ser importante, mas depende das regras da seguradora.
+
+## Próximo passo seguro
+
+Confirmar se a cobertura está contratada, quais motos/ciclomotores se enquadram e quais familiares estão incluídos.
+
+## Limite comercial/compliance
+
+O corretor não deve dizer que moto pequena da família está automaticamente coberta. A proteção depende de contratação e condições específicas.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Se a família usa moto pequena, essa cobertura pode ser importante, mas depende 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Estou coberto se dirigir outro carro?
 
+## Consulta natural em japonês
+
+- 他の車を運転した場合、自分の保険は使えますか。
+- 他車運転特約をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Cobertura adicional que pode proteger o segurado ao dirigir veículo de outra pe
 ## Como responder ao cliente brasileiro
 
 Não presuma que dirigir outro carro está coberto. Precisamos verificar se existe essa cobertura adicional e suas condições.
+
+## Próximo passo seguro
+
+Verificar se existe 他車運転特約, qual veículo foi usado, quem é proprietário e quais condições limitam a cobertura.
+
+## Limite comercial/compliance
+
+O corretor não deve presumir cobertura ao dirigir outro carro. A cobertura adicional depende da contratação e das regras específicas da seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Não presuma que dirigir outro carro está coberto. Precisamos verificar se exis
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

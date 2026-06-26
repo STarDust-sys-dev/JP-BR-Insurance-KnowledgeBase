@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Dano por terremoto é coberto?
 
+## Consulta natural em japonês
+
+- 地震による車の損害は補償されますか。
+- 地震損害をブラジル人のお客様に説明するとき何を確認しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Fenômeno sísmico que pode causar danos ao veículo e cuja cobertura depende da
 ## Como responder ao cliente brasileiro
 
 Danos por terremoto podem ter regra especial ou não estar cobertos. Precisamos conferir a apólice.
+
+## Próximo passo seguro
+
+Verificar se a apólice possui cobertura ou cláusula aplicável a terremoto e quais danos foram registrados.
+
+## Limite comercial/compliance
+
+O corretor não deve presumir cobertura para terremoto. A proteção depende das condições do contrato e da análise da seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Danos por terremoto podem ter regra especial ou não estar cobertos. Precisamos 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

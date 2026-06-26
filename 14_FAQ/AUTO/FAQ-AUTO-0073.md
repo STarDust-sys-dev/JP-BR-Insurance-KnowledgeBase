@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 O que significa restrição a familiares?
 
+## Consulta natural em japonês
+
+- 家族限定では誰が運転できますか。
+- 家族限定をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Condição contratual que limita a cobertura a determinados familiares, conforme
 ## Como responder ao cliente brasileiro
 
 Se houver restrição a familiares, alguém fora desse grupo pode não estar coberto ao dirigir.
+
+## Próximo passo seguro
+
+Confirmar quem dirigirá o veículo e comparar cada pessoa com a definição de família da seguradora antes de contratar ou renovar.
+
+## Limite comercial/compliance
+
+O corretor não deve presumir que qualquer parente está coberto. A definição de família depende da regra da seguradora e do contrato.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Se houver restrição a familiares, alguém fora desse grupo pode não estar cob
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
