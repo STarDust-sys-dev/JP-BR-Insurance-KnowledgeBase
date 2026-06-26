@@ -27,9 +27,18 @@ Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
 
 Dever de declarar corretamente informações de saúde e outros dados solicitados na contratação.
 
+## Consulta natural em japonês
+
+- ブラジル人のお客様に告知義務をどう説明すればよいですか。
+- 健康状態を正しく申告しないと、どんな問題がありますか。
+
 ## Como responder ao cliente brasileiro
 
-Se a declaração de saúde estiver errada, pode haver problema na aceitação ou no pagamento do seguro.
+A declaração de saúde precisa ser verdadeira e completa. Se alguma informação importante estiver errada ou for omitida, a seguradora pode aceitar com condição, recusar a contratação, investigar o caso ou questionar o pagamento no futuro, conforme o contrato e as regras aplicáveis.
+
+## Limite comercial/compliance
+
+O corretor deve explicar a importância da declaração correta, mas não deve decidir aceitação, cobertura ou pagamento. A decisão depende da análise formal da seguradora.
 
 ## Termos relacionados
 
@@ -60,3 +69,4 @@ Se a declaração de saúde estiver errada, pode haver problema na aceitação o
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Reforço de consulta japonesa e limite comercial sobre declaração de saúde. |

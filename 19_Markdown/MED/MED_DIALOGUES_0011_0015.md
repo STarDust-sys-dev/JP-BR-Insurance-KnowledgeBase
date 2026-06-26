@@ -158,7 +158,7 @@ Explicar obrigação de resposta correta e possível pedido de exame antes da ac
 
 **Corretor:** 健康診断を求められる場合があります。
 
-**Cliente:** 支払いを約束してもよいですか。
+**Cliente:** 申告すれば、すぐに契約は成立しますか。
 
 **Corretor:** 引受査定の結果が出るまで、条件は確定しません。
 
@@ -166,7 +166,7 @@ Explicar obrigação de resposta correta e possível pedido de exame antes da ac
 
 **Corretor:** O questionário de saúde precisa ser respondido corretamente.
 
-**Cliente:** Então isso já garante o pagamento?
+**Cliente:** Se eu preencher tudo, o seguro já está aprovado?
 
 **Corretor:** A seguradora pode pedir exame médico antes de aceitar.
 
@@ -176,7 +176,7 @@ Explicar obrigação de resposta correta e possível pedido de exame antes da ac
 
 ## Notas culturais ou comerciais
 
-- Confirmar documentos e condições antes de orientar o cliente.
+- Explicar que preencher a declaração é etapa necessária, mas não garante aceitação automática.
 - Não prometer aceitação, cobertura ou pagamento antes da análise da seguradora.
 - Usar português simples e evitar tradução literal quando prejudicar a compreensão.
 
@@ -232,6 +232,7 @@ Explicar obrigação de resposta correta e possível pedido de exame antes da ac
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Normalização bilíngue com versão japonesa e portuguesa. |
+| 2026-06-26 | 0.3 | JP-BR Insurance Knowledge Base | Ajuste da objeção do cliente para contratação e aceitação. |
 
 
 ---

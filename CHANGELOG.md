@@ -11,6 +11,8 @@
 - Pacotes praticos `AUTO_NOTEBOOKLM_PACK_0001.md` e `VIDA_NOTEBOOKLM_PACK_0001.md` para consulta do corretor japones no atendimento a brasileiros.
 - Primeiro pacote pratico `MED_NOTEBOOKLM_PACK_0001.md` para consulta do corretor japones sobre seguro medico no atendimento a brasileiros.
 - Guias de navegacao por produto em `04_Automobile`, `05_Life` e `06_Medical`, conectando pacotes NotebookLM, indices, verbetes, FAQs, dialogos e casos.
+- Fluxo editorial `01_Editorial/SUBAGENT_EDITORIAL_WORKFLOW.md` para uso controlado de subagentes como equipe de revisao especializada.
+- Relatorio `00_Project/SUBAGENT_PILOT_REPORT_2026-06-26.md` consolidando achados do primeiro piloto com subagentes.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
@@ -38,11 +40,13 @@
 ### Corrigido
 
 - Normalizados `DIALOGUE-MED-0006` a `DIALOGUE-MED-0015` com participantes, versao japonesa, versao em portugues brasileiro, notas culturais/comerciais e pontos de atencao para o corretor.
+- Reforcados `FAQ-VIDA-0018`, `FAQ-MED-0037`, `DIALOGUE-MED-0012` e `CASE-AUTO-0038` com consulta japonesa, linguagem mais natural, proximo passo ou limite comercial/compliance.
 - Corrigida referência cruzada inexistente `CASE-MED-0025` em `DIALOGUE-MED-0015`, direcionando para `CASE-MED-0024` e ampliando o caso relacionado com `MED-0058` a `MED-0060`.
 
 ### Definido
 
 - `EDITORIAL_RULES.md` atualizado para exigir camada NotebookLM orientada ao corretor japones, controle de termos recorrentes e validacao automatica antes de entregas grandes.
+- `README.md` e `EDITORIAL_RULES.md` atualizados com aviso de uso, limites comerciais e regras de compliance para conteudos sensiveis.
 
 ## 2026-06-25
 

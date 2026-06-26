@@ -1,7 +1,8 @@
-# AUTO_CASES_0037_0044 - Nono e décimo lotes de estudos de caso AUTO
+# AUTO_CASES_0037_0044
 
-
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
 
 # CASE-AUTO-0037 - Cliente quer reduzir preço sem perder proteção essencial
 
@@ -91,6 +92,7 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 
+
 ---
 
 # CASE-AUTO-0038 - Cliente não leu informações importantes antes de contratar
@@ -128,7 +130,15 @@ Revisar dados e coberturas com método, registrar mudanças e orientar o cliente
 
 ## Como explicar ao cliente brasileiro
 
-Vamos manter seu seguro atualizado para evitar surpresa quando você precisar usar ou renovar.
+Antes de contratar, vamos conferir juntos as informações importantes, o resumo do contrato e os alertas. Assim você entende o que está coberto, o que pode ficar fora e o que precisa atualizar depois.
+
+## Próximo passo recomendado
+
+Confirmar com o cliente: condutores reais, uso do veículo, dados do carro, coberturas escolhidas, franquia, exclusões principais e prazo de renovação.
+
+## Limite comercial/compliance
+
+O corretor deve explicar os pontos importantes e registrar a orientação, mas a cobertura efetiva depende das condições do contrato e da análise da seguradora em caso de sinistro.
 
 ## Resultado esperado
 
@@ -184,6 +194,8 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Reforço de explicação prática, próximo passo e limite comercial. |
+
 
 ---
 
@@ -275,6 +287,7 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 
+
 ---
 
 # CASE-AUTO-0040 - Cliente não sabe o fluxo correto após acidente
@@ -361,6 +374,7 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 
+
 ---
 
 # CASE-AUTO-0041 - Seguradora pede confirmação de identidade e documentos
@@ -446,6 +460,7 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+
 
 ---
 
@@ -537,6 +552,7 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 
+
 ---
 
 # CASE-AUTO-0043 - Cliente quer cancelar perto da renovação
@@ -626,6 +642,7 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+
 
 ---
 

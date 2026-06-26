@@ -259,6 +259,42 @@ Antes de entregas grandes, executar validacoes de:
 - existencia de Markdown, DOCX e PDF para consolidados e indices
 - renderizacao visual quando houver alteracao em DOCX/PDF ou no ambiente de conversao
 
+## Limites comerciais e compliance
+
+Todo conteudo sensivel deve conter orientacao clara sobre limites do atendimento do corretor.
+
+Conteudos sensiveis incluem:
+
+- aceitacao ou recusa de contratacao
+- sinistro
+- solicitacao de beneficio ou indenizacao
+- aviso de nao pagamento
+- exclusoes e limitacoes
+- declaracao de saude
+- impostos
+- vigencia, carencia e data de inicio
+- beneficiario
+- culpa em acidente
+- alteracao contratual
+
+Aviso-padrao:
+
+```text
+Este material e apoio de atendimento. A decisao final sobre aceitacao, cobertura, valor, prazo, pagamento, recusa ou imposto depende dos documentos oficiais, das condicoes do contrato, da situacao concreta e da analise da seguradora ou autoridade competente.
+```
+
+O corretor deve orientar, coletar informacoes, explicar documentos e acompanhar o processo. O corretor nao deve decidir nem prometer:
+
+- aceitacao
+- cobertura
+- culpa
+- imposto
+- pagamento
+- prazo
+- recusa ou reversao de recusa
+
+FAQs, casos, dialogos e pacotes NotebookLM sobre tema sensivel devem conter pelo menos uma frase de limite comercial/compliance.
+
 ## Alterações desta constituição
 
 Este arquivo só deve ser alterado quando houver necessidade real de consolidar uma regra permanente do projeto.

@@ -192,3 +192,20 @@ Meta: centenas de estudos de caso.
 ## Objetivo Final
 
 Criar a melhor base de conhecimento existente para corretores japoneses venderem seguros para brasileiros.
+
+## Aviso de uso
+
+Este projeto e material educativo, editorial e de apoio ao atendimento.
+
+O conteudo nao substitui:
+
+- apolice
+- proposta
+- explicacao de informacoes importantes
+- documentos oficiais da seguradora
+- analise formal da seguradora
+- orientacao fiscal, juridica ou regulatoria especifica
+
+Cobertura, aceitacao, exclusao, valor, prazo, imposto e pagamento dependem das condicoes do contrato, documentos apresentados, situacao concreta do cliente e decisao formal da seguradora ou autoridade competente.
+
+O corretor deve usar este material para explicar, orientar, organizar informacoes e reduzir mal-entendidos, mas nao deve prometer aceitacao, cobertura, culpa, valor, prazo, imposto, pagamento ou reversao de decisao.

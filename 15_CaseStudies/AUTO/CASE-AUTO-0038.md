@@ -33,7 +33,15 @@ Revisar dados e coberturas com método, registrar mudanças e orientar o cliente
 
 ## Como explicar ao cliente brasileiro
 
-Vamos manter seu seguro atualizado para evitar surpresa quando você precisar usar ou renovar.
+Antes de contratar, vamos conferir juntos as informações importantes, o resumo do contrato e os alertas. Assim você entende o que está coberto, o que pode ficar fora e o que precisa atualizar depois.
+
+## Próximo passo recomendado
+
+Confirmar com o cliente: condutores reais, uso do veículo, dados do carro, coberturas escolhidas, franquia, exclusões principais e prazo de renovação.
+
+## Limite comercial/compliance
+
+O corretor deve explicar os pontos importantes e registrar a orientação, mas a cobertura efetiva depende das condições do contrato e da análise da seguradora em caso de sinistro.
 
 ## Resultado esperado
 
@@ -89,3 +97,4 @@ Cliente mantém contrato correto, entende o processo e recebe acompanhamento pro
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Reforço de explicação prática, próximo passo e limite comercial. |
