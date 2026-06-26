@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Quando devo revisar meu seguro de vida?
 
+## Consulta natural em japonês
+
+- 生命保険はいつ見直すべきですか。
+- 保障内容の見直しタイミングをどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender coberturas, planejamento ou revisão de seguro de vida.
@@ -30,6 +35,14 @@ Reavaliação do contrato de vida conforme mudanças familiares, renda, saúde, 
 ## Como responder ao cliente brasileiro
 
 Quando muda família, trabalho ou objetivo, o seguro também deve ser revisado.
+
+## Próximo passo seguro
+
+家族構成、収入、住宅、子ども、健康状態、既存契約の変化を確認する。
+
+## Limite comercial/compliance
+
+見直しで必ず有利になるとは説明せず、解約や乗換の不利益も説明する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Quando muda família, trabalho ou objetivo, o seguro também deve ser revisado.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Como funciona previdência individual em seguro?
 
+## Consulta natural em japonês
+
+- 個人年金保険とは何ですか。
+- 老後資金の保険をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender coberturas, planejamento ou revisão de seguro de vida.
@@ -30,6 +35,14 @@ Seguro em que o cliente paga prêmios para receber renda futura de forma individ
 ## Como responder ao cliente brasileiro
 
 Serve para planejar renda futura, mas precisa comparar prazo, valor e regras de recebimento.
+
+## Próximo passo seguro
+
+年金開始年齢、受取期間、返戻金、税務、途中解約リスクを確認する。
+
+## Limite comercial/compliance
+
+投資利益や将来受取額を保証的に説明せず、設計書に基づいて案内する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Serve para planejar renda futura, mas precisa comparar prazo, valor e regras de 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

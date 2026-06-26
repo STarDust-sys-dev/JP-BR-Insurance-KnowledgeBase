@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Toda cirurgia dá direito a benefício?
 
+## Consulta natural em japonês
+
+- すべての手術が給付対象になりますか。
+- 手術給付金の対象をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender coberturas, planejamento ou revisão de seguro de vida.
@@ -30,6 +35,14 @@ Valor pago por cirurgia coberta conforme lista, categoria ou regra definida pela
 ## Como responder ao cliente brasileiro
 
 Nem toda cirurgia gera o mesmo pagamento; precisamos confirmar se está dentro das regras.
+
+## Próximo passo seguro
+
+手術名、治療目的、医療機関、約款上の対象分類を確認する。
+
+## Limite comercial/compliance
+
+手術名だけで支払可否を断定せず、診断書と保険会社査定を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Nem toda cirurgia gera o mesmo pagamento; precisamos confirmar se está dentro d
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que é planejamento de vida no seguro?
 
+## Consulta natural em japonês
+
+- 生命保険でいうライフプランとは何ですか。
+- 人生設計と保険の関係をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender coberturas, planejamento ou revisão de seguro de vida.
@@ -30,6 +35,14 @@ Planejamento financeiro e familiar usado para alinhar seguro, renda, educação,
 ## Como responder ao cliente brasileiro
 
 O seguro deve acompanhar seus objetivos, família, renda e planos futuros.
+
+## Próximo passo seguro
+
+結婚、出産、住宅購入、教育、老後、相続などの予定を整理する。
+
+## Limite comercial/compliance
+
+ライフプランは提案材料であり、将来結果を保証するものではない。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ O seguro deve acompanhar seus objetivos, família, renda e planos futuros.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
