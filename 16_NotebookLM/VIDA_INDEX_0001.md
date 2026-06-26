@@ -85,6 +85,26 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - VIDA-0038 - ライフプラン - Planejamento de vida
 - VIDA-0039 - 見直し - Revisão do seguro de vida
 - VIDA-0040 - ライフイベント - Evento de vida
+- VIDA-0041 - 申込書 - Proposta de contratação
+- VIDA-0042 - 告知書 - Questionário de declaração de saúde
+- VIDA-0043 - 健康状態 - Condição de saúde
+- VIDA-0044 - 既往症 - Doença preexistente
+- VIDA-0045 - 通院歴 - Histórico de consultas ou tratamentos
+- VIDA-0046 - 入院歴 - Histórico de internação
+- VIDA-0047 - 手術歴 - Histórico de cirurgia
+- VIDA-0048 - 健康診断結果 - Resultado de exame de saúde
+- VIDA-0049 - 引受審査 - Análise de aceitação
+- VIDA-0050 - 条件付引受 - Aceitação com condição
+- VIDA-0051 - 特別保険料 - Prêmio adicional especial
+- VIDA-0052 - 部位不担保 - Exclusão de parte ou condição específica
+- VIDA-0053 - 契約不可 - Recusa de contratação
+- VIDA-0054 - 不成立 - Contrato não efetivado
+- VIDA-0055 - クーリングオフ - Direito de desistência
+- VIDA-0056 - 失効 - Perda de validade do contrato
+- VIDA-0057 - 復活 - Reativação do contrato
+- VIDA-0058 - 減額 - Redução do valor segurado
+- VIDA-0059 - 払済保険 - Seguro quitado com cobertura reduzida
+- VIDA-0060 - 延長定期保険 - Seguro temporário prorrogado
 
 ### FAQs relacionadas
 
@@ -128,6 +148,26 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - FAQ-VIDA-0038 - O que é planejamento de vida no seguro?
 - FAQ-VIDA-0039 - Quando devo revisar meu seguro de vida?
 - FAQ-VIDA-0040 - Quais eventos de vida exigem revisão do seguro?
+- FAQ-VIDA-0041 - A proposta já garante que estou coberto?
+- FAQ-VIDA-0042 - Como devo preencher o questionário de saúde?
+- FAQ-VIDA-0043 - Minha saúde influencia a contratação?
+- FAQ-VIDA-0044 - Preciso informar doença antiga?
+- FAQ-VIDA-0045 - Consultas médicas anteriores precisam ser informadas?
+- FAQ-VIDA-0046 - Internações antigas influenciam o seguro?
+- FAQ-VIDA-0047 - Cirurgia anterior precisa ser declarada?
+- FAQ-VIDA-0048 - A seguradora pode pedir exame de saúde?
+- FAQ-VIDA-0049 - O que é análise de aceitação?
+- FAQ-VIDA-0050 - O que significa aceitar com condição?
+- FAQ-VIDA-0051 - Por que o preço pode ter adicional especial?
+- FAQ-VIDA-0052 - O que é exclusão de parte ou doença específica?
+- FAQ-VIDA-0053 - A seguradora pode recusar minha contratação?
+- FAQ-VIDA-0054 - Quando o contrato não chega a valer?
+- FAQ-VIDA-0055 - Posso desistir depois de contratar?
+- FAQ-VIDA-0056 - O que acontece se o seguro perder validade?
+- FAQ-VIDA-0057 - Posso reativar um seguro que perdeu validade?
+- FAQ-VIDA-0058 - Posso reduzir o valor segurado?
+- FAQ-VIDA-0059 - Posso parar de pagar e manter alguma cobertura?
+- FAQ-VIDA-0060 - O que é seguro temporário prorrogado?
 
 ### Diálogos relacionados
 
@@ -141,6 +181,11 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - DIALOGUE-VIDA-0008 - Orientando coberturas específicas de saúde e cuidados
 - DIALOGUE-VIDA-0009 - Explicando renda futura, previdência e educação
 - DIALOGUE-VIDA-0010 - Calculando proteção e revisando por eventos de vida
+- DIALOGUE-VIDA-0011 - Preenchendo proposta e questionário de saúde
+- DIALOGUE-VIDA-0012 - Confirmando histórico médico e exames
+- DIALOGUE-VIDA-0013 - Explicando análise de aceitação e condições especiais
+- DIALOGUE-VIDA-0014 - Orientando recusa, contrato não efetivado e desistência
+- DIALOGUE-VIDA-0015 - Explicando perda de validade, reativação e ajustes do contrato
 
 ### Estudos de caso relacionados
 
@@ -160,6 +205,14 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - CASE-VIDA-0014 - Família quer planejar educação dos filhos e renda familiar
 - CASE-VIDA-0015 - Cliente não sabe qual valor segurado escolher
 - CASE-VIDA-0016 - Casamento, nascimento de filho ou compra de casa exige revisão
+- CASE-VIDA-0017 - Cliente acha que proposta já garante cobertura
+- CASE-VIDA-0018 - Cliente tem doença preexistente e dúvida sobre declaração
+- CASE-VIDA-0019 - Cliente teve internação ou cirurgia anterior
+- CASE-VIDA-0020 - Seguradora aceita com prêmio adicional
+- CASE-VIDA-0021 - Seguradora aceita com exclusão específica
+- CASE-VIDA-0022 - Contratação recusada após análise de risco
+- CASE-VIDA-0023 - Contrato não efetivado ou desistência dentro da regra
+- CASE-VIDA-0024 - Contrato perde validade e cliente quer reduzir ou reativar
 
 ## Mapa de referências cruzadas
 
@@ -172,6 +225,9 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 | Doenças graves e benefícios médicos | VIDA-0021, VIDA-0022, VIDA-0023, VIDA-0024, VIDA-0025, VIDA-0026, VIDA-0027 | FAQ-VIDA-0021, FAQ-VIDA-0022, FAQ-VIDA-0023, FAQ-VIDA-0024, FAQ-VIDA-0025, FAQ-VIDA-0026, FAQ-VIDA-0027 | DIALOGUE-VIDA-0006, DIALOGUE-VIDA-0007 | CASE-VIDA-0009, CASE-VIDA-0010, CASE-VIDA-0011 |
 | Coberturas específicas de saúde e cuidados | VIDA-0028, VIDA-0029, VIDA-0030, VIDA-0031 | FAQ-VIDA-0028, FAQ-VIDA-0029, FAQ-VIDA-0030, FAQ-VIDA-0031 | DIALOGUE-VIDA-0008 | CASE-VIDA-0012 |
 | Renda futura, educação e planejamento | VIDA-0032, VIDA-0033, VIDA-0034, VIDA-0035, VIDA-0036, VIDA-0037, VIDA-0038, VIDA-0039, VIDA-0040 | FAQ-VIDA-0032, FAQ-VIDA-0033, FAQ-VIDA-0034, FAQ-VIDA-0035, FAQ-VIDA-0036, FAQ-VIDA-0037, FAQ-VIDA-0038, FAQ-VIDA-0039, FAQ-VIDA-0040 | DIALOGUE-VIDA-0009, DIALOGUE-VIDA-0010 | CASE-VIDA-0013, CASE-VIDA-0014, CASE-VIDA-0015, CASE-VIDA-0016 |
+| Proposta, saúde e histórico médico | VIDA-0041, VIDA-0042, VIDA-0043, VIDA-0044, VIDA-0045, VIDA-0046, VIDA-0047, VIDA-0048 | FAQ-VIDA-0041, FAQ-VIDA-0042, FAQ-VIDA-0043, FAQ-VIDA-0044, FAQ-VIDA-0045, FAQ-VIDA-0046, FAQ-VIDA-0047, FAQ-VIDA-0048 | DIALOGUE-VIDA-0011, DIALOGUE-VIDA-0012 | CASE-VIDA-0017, CASE-VIDA-0018, CASE-VIDA-0019 |
+| Aceitação, condições e recusa | VIDA-0049, VIDA-0050, VIDA-0051, VIDA-0052, VIDA-0053, VIDA-0054, VIDA-0055 | FAQ-VIDA-0049, FAQ-VIDA-0050, FAQ-VIDA-0051, FAQ-VIDA-0052, FAQ-VIDA-0053, FAQ-VIDA-0054, FAQ-VIDA-0055 | DIALOGUE-VIDA-0013, DIALOGUE-VIDA-0014 | CASE-VIDA-0020, CASE-VIDA-0021, CASE-VIDA-0022, CASE-VIDA-0023 |
+| Perda de validade e ajustes do contrato | VIDA-0056, VIDA-0057, VIDA-0058, VIDA-0059, VIDA-0060 | FAQ-VIDA-0056, FAQ-VIDA-0057, FAQ-VIDA-0058, FAQ-VIDA-0059, FAQ-VIDA-0060 | DIALOGUE-VIDA-0015 | CASE-VIDA-0024 |
 
 ## Referências
 
@@ -192,6 +248,10 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - `19_Markdown/VIDA/VIDA_FAQ_0021_0040.md`
 - `19_Markdown/VIDA/VIDA_DIALOGUES_0006_0010.md`
 - `19_Markdown/VIDA/VIDA_CASES_0009_0016.md`
+- `19_Markdown/VIDA/VIDA_TERMS_0041_0060.md`
+- `19_Markdown/VIDA/VIDA_FAQ_0041_0060.md`
+- `19_Markdown/VIDA/VIDA_DIALOGUES_0011_0015.md`
+- `19_Markdown/VIDA/VIDA_CASES_0017_0024.md`
 
 ## Histórico de revisão
 
@@ -199,3 +259,4 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo ciclo VIDA. |
+| 2026-06-26 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro ciclo VIDA. |

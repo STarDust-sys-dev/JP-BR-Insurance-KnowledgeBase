@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Terceiro ciclo VIDA com 20 verbetes (`VIDA-0041` a `VIDA-0060`), 20 FAQs (`FAQ-VIDA-0041` a `FAQ-VIDA-0060`), 5 diálogos (`DIALOGUE-VIDA-0011` a `DIALOGUE-VIDA-0015`) e 8 estudos de caso (`CASE-VIDA-0017` a `CASE-VIDA-0024`).
+- Atualização do índice `VIDA_INDEX_0001.md` com contratação, aceitação, condições especiais e manutenção do contrato.
+- Documentos consolidados do terceiro ciclo VIDA em Markdown, DOCX e PDF.
 - Segundo ciclo VIDA com 20 verbetes (`VIDA-0021` a `VIDA-0040`), 20 FAQs (`FAQ-VIDA-0021` a `FAQ-VIDA-0040`), 5 diálogos (`DIALOGUE-VIDA-0006` a `DIALOGUE-VIDA-0010`) e 8 estudos de caso (`CASE-VIDA-0009` a `CASE-VIDA-0016`).
 - Atualização do índice `VIDA_INDEX_0001.md` e correção do histórico inicial do índice VIDA.
 - Documentos consolidados do segundo ciclo VIDA em Markdown, DOCX e PDF.
