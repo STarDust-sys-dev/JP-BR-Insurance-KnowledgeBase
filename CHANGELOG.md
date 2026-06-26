@@ -8,6 +8,7 @@
 - Padrao `01_Editorial/JAPANESE_BROKER_NOTEBOOKLM_STANDARD.md` para consulta por corretor japones e atendimento a cliente brasileiro.
 - Glossario mestre `03_Glossary/MASTER_TERMINOLOGY.md` para termos recorrentes entre categorias.
 - Validador `00_Project/validate_project.py` para referencias cruzadas, secoes obrigatorias, romaji e existencia de formatos finais.
+- Pacotes praticos `AUTO_NOTEBOOKLM_PACK_0001.md` e `VIDA_NOTEBOOKLM_PACK_0001.md` para consulta do corretor japones no atendimento a brasileiros.
 - Primeiro pacote pratico `MED_NOTEBOOKLM_PACK_0001.md` para consulta do corretor japones sobre seguro medico no atendimento a brasileiros.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
