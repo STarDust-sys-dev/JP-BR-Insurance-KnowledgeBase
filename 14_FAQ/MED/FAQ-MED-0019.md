@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Por que preciso declarar minha saúde?
 
+## Consulta natural em japonês
+
+- 告知義務をブラジル人のお客様にどう説明すればよいですか。
+- 健康状態を正しく申告しないと医療保険でどんな問題がありますか。
+
 ## Situação de atendimento
 
 Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
@@ -30,6 +35,14 @@ Dever de responder corretamente às perguntas de saúde na contratação.
 ## Como responder ao cliente brasileiro
 
 Informação errada pode causar problema na aceitação ou no pagamento.
+
+## Próximo passo seguro
+
+Orientar o cliente a responder exatamente ao que foi perguntado, conferir tratamentos e medicamentos, e tirar dúvida antes do envio quando não souber como declarar.
+
+## Limite comercial/compliance
+
+O corretor não deve sugerir omissão, ajustar resposta, interpretar condição médica por conta própria ou prometer aceitação/pagamento. A seguradora decide conforme declaração, documentos e regras do produto.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Informação errada pode causar problema na aceitação ou no pagamento.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

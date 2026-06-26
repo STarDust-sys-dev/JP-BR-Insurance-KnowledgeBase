@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.3
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de consulta japonesa, próximo passo e limite comercial.
 
 ## Código
 
@@ -40,6 +40,10 @@ Se chegar aviso de não pagamento, primeiro precisamos ler o motivo informado pe
 
 O corretor não deve prometer reversão da decisão. A reanálise só deve ser orientada quando houver fundamento, documento adicional ou dúvida objetiva sobre a análise.
 
+## Próximo passo seguro
+
+Ler o motivo formal do aviso, conferir contrato e documentos enviados, separar eventual fato novo ou erro objetivo e só então avaliar pedido de reanálise.
+
 ## Termos relacionados
 
 - MED-0037 - 不支払通知 - Aviso de não pagamento
@@ -68,5 +72,6 @@ O corretor não deve prometer reversão da decisão. A reanálise só deve ser o
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo seguro e ajuste de controle de versão. |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Reforço de consulta japonesa e limite comercial sobre aviso de não pagamento. |
+| 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
