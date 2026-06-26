@@ -1,11 +1,11 @@
-# DIALOGUE-MED-0008 - Prazo, documentos necessários e identificação
+# DIALOGUE-MED-0008 - Prazo, documentos necessários, identificação e dados bancários
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Normalização bilíngue para uso por corretor japonês no NotebookLM.
 
 ## Código
 
@@ -17,37 +17,52 @@ MED
 
 ## Situação de atendimento
 
-Cliente quer evitar atraso por falta de documento.
+Cliente quer evitar atraso no pedido de benefício médico.
+
+## Participantes
+
+- Corretor: corretor japonês
+- Cliente: cliente brasileiro residente no Japão
 
 ## Objetivo do diálogo
 
-Explicar em português simples o fluxo de documentos e análise, preservando a precisão do termo japonês.
+Explicar prazo, documentos necessários, identificação e dados bancários antes do envio.
 
-## Diálogo
+## Versão em japonês
 
-- Corretor: Vamos organizar a solicitação por etapas.
-- Cliente: Eu preciso entregar todos os documentos agora?
-- Corretor: Primeiro confirmamos o tipo de benefício e depois a lista exigida pela seguradora.
-- Corretor: Vamos confirmar `MED-0029` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Corretor: Vamos confirmar `MED-0030` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Corretor: Vamos confirmar `MED-0031` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Corretor: Vamos confirmar `MED-0032` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Cliente: Se faltar alguma coisa, eu perco o direito?
-- Corretor: Normalmente a análise fica pendente até a correção, mas precisamos respeitar prazos e instruções da seguradora.
+**Corretor:** 請求期限を過ぎないように早めに準備しましょう。
+
+**Cliente:** それはポルトガル語でお客様にどう説明すればよいですか。
+
+**Corretor:** 本人確認書類と口座情報は、支払い手続きに必要です。
+
+**Cliente:** 支払いを約束してもよいですか。
+
+**Corretor:** 口座情報に誤りがあると、入金が遅れることがあります。
+
+## Versão em português brasileiro
+
+**Corretor:** Vamos preparar tudo com antecedência para não perder prazo.
+
+**Cliente:** Então isso já garante o pagamento?
+
+**Corretor:** Documento de identificação e dados bancários são necessários para o pagamento.
+
+**Cliente:** O que eu preciso fazer agora?
+
+**Corretor:** Se a conta estiver errada, o depósito pode atrasar ou voltar.
+
+## Notas culturais ou comerciais
+
+- Confirmar documentos e condições antes de orientar o cliente.
+- Não prometer aceitação, cobertura ou pagamento antes da análise da seguradora.
+- Usar português simples e evitar tradução literal quando prejudicar a compreensão.
 
 ## Pontos de atenção para o corretor
 
-- Confirmar produto, apólice e data do evento médico.
-- Não prometer pagamento antes da análise da seguradora.
-- Explicar documentos em português simples, sem tradução literal confusa.
+- Registrar a dúvida principal do cliente.
+- Separar explicação comercial de decisão formal da seguradora.
+- Apontar os verbetes e FAQs relacionados quando houver dúvida técnica.
 
 ## Termos relacionados
 
@@ -83,11 +98,15 @@ Explicar em português simples o fluxo de documentos e análise, preservando a p
 
 - dialogue
 - med
-- solicitacao
-- atendimento
+- atendimento-bilingue
+- notebooklm
+
+## Veja também
+
+- `15_CaseStudies/MED/CASE-MED-0013.md`
 
 ## Histórico de revisão
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Normalização bilíngue com versão japonesa e portuguesa. |

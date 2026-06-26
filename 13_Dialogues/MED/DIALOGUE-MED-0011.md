@@ -1,11 +1,11 @@
-# DIALOGUE-MED-0011 - Contratação e aceitação médica 1
+# DIALOGUE-MED-0011 - Proposta, segurado, contratante e prêmio
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Normalização bilíngue para uso por corretor japonês no NotebookLM.
 
 ## Código
 
@@ -17,37 +17,52 @@ MED
 
 ## Situação de atendimento
 
-Cliente precisa entender contratação, avaliação médica, condição de aceitação ou alteração contratual.
+Cliente está iniciando contratação de seguro médico.
+
+## Participantes
+
+- Corretor: corretor japonês
+- Cliente: cliente brasileiro residente no Japão
 
 ## Objetivo do diálogo
 
-Reduzir expectativa incorreta antes da emissão e explicar que aceitação depende da análise da seguradora.
+Separar proposta, segurado, contratante e prêmio para evitar expectativa de cobertura automática.
 
-## Diálogo
+## Versão em japonês
 
-- Corretor: Antes de confirmar a contratação, precisamos revisar dados, saúde e condições do produto.
-- Cliente: Então eu já estou coberto quando envio a proposta?
-- Corretor: Ainda não necessariamente. A seguradora precisa analisar e aceitar conforme as regras.
-- Corretor: O item `MED-0041` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Corretor: O item `MED-0042` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Corretor: O item `MED-0043` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Corretor: O item `MED-0044` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Cliente: O que eu devo fazer agora?
-- Corretor: Responder corretamente, conferir documentos e aguardar a decisão formal.
+**Corretor:** 申込書を提出しても、すぐに契約成立とは限りません。
+
+**Cliente:** それはポルトガル語でお客様にどう説明すればよいですか。
+
+**Corretor:** 契約者と被保険者が同じかどうかを確認します。
+
+**Cliente:** 支払いを約束してもよいですか。
+
+**Corretor:** 保険料は保障内容と査定結果によって変わる場合があります。
+
+## Versão em português brasileiro
+
+**Corretor:** Enviar a proposta não significa que o contrato já foi aceito.
+
+**Cliente:** Então isso já garante o pagamento?
+
+**Corretor:** Vamos confirmar quem é o contratante e quem é o segurado.
+
+**Cliente:** O que eu preciso fazer agora?
+
+**Corretor:** O valor do seguro pode depender da cobertura e da análise da seguradora.
+
+## Notas culturais ou comerciais
+
+- Confirmar documentos e condições antes de orientar o cliente.
+- Não prometer aceitação, cobertura ou pagamento antes da análise da seguradora.
+- Usar português simples e evitar tradução literal quando prejudicar a compreensão.
 
 ## Pontos de atenção para o corretor
 
-- Não afirmar cobertura antes da formação do contrato.
-- Conferir segurado, contratante e forma de pagamento.
-- Explicar condições especiais antes da assinatura final.
+- Registrar a dúvida principal do cliente.
+- Separar explicação comercial de decisão formal da seguradora.
+- Apontar os verbetes e FAQs relacionados quando houver dúvida técnica.
 
 ## Termos relacionados
 
@@ -83,11 +98,15 @@ Reduzir expectativa incorreta antes da emissão e explicar que aceitação depen
 
 - dialogue
 - med
-- contratacao
-- avaliacao
+- atendimento-bilingue
+- notebooklm
+
+## Veja também
+
+- `15_CaseStudies/MED/CASE-MED-0017.md`
 
 ## Histórico de revisão
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Normalização bilíngue com versão japonesa e portuguesa. |

@@ -1,11 +1,11 @@
-# DIALOGUE-MED-0013 - Contratação e aceitação médica 3
+# DIALOGUE-MED-0013 - Aceitação com condição, exclusões e prêmio agravado
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Normalização bilíngue para uso por corretor japonês no NotebookLM.
 
 ## Código
 
@@ -17,37 +17,52 @@ MED
 
 ## Situação de atendimento
 
-Cliente precisa entender contratação, avaliação médica, condição de aceitação ou alteração contratual.
+Cliente recebeu proposta de aceitação com condição especial.
+
+## Participantes
+
+- Corretor: corretor japonês
+- Cliente: cliente brasileiro residente no Japão
 
 ## Objetivo do diálogo
 
-Reduzir expectativa incorreta antes da emissão e explicar que aceitação depende da análise da seguradora.
+Explicar exclusões, prêmio agravado e decisão consciente antes de contratar.
 
-## Diálogo
+## Versão em japonês
 
-- Corretor: Antes de confirmar a contratação, precisamos revisar dados, saúde e condições do produto.
-- Cliente: Então eu já estou coberto quando envio a proposta?
-- Corretor: Ainda não necessariamente. A seguradora precisa analisar e aceitar conforme as regras.
-- Corretor: O item `MED-0049` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Corretor: O item `MED-0050` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Corretor: O item `MED-0051` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Corretor: O item `MED-0052` deve ser explicado com cuidado nesta etapa.
-- Cliente: Isso pode mudar a aceitação?
-- Corretor: Pode influenciar a decisão, o valor ou alguma condição específica.
-- Cliente: O que eu devo fazer agora?
-- Corretor: Responder corretamente, conferir documentos e aguardar a decisão formal.
+**Corretor:** 条件付承諾の場合、通常の契約とは異なる条件があります。
+
+**Cliente:** それはポルトガル語でお客様にどう説明すればよいですか。
+
+**Corretor:** 部位不担保や特定疾病不担保は、支払い対象外になる範囲を意味します。
+
+**Cliente:** 支払いを約束してもよいですか。
+
+**Corretor:** 割増保険料がある場合は、保険料が高くなります。
+
+## Versão em português brasileiro
+
+**Corretor:** Aceitação com condição significa que o seguro foi aceito com regra especial.
+
+**Cliente:** Então isso já garante o pagamento?
+
+**Corretor:** Exclusão de parte do corpo ou de doença específica significa que aquilo pode não ser pago.
+
+**Cliente:** O que eu preciso fazer agora?
+
+**Corretor:** Prêmio agravado significa que o valor do seguro ficou maior por causa da análise de risco.
+
+## Notas culturais ou comerciais
+
+- Confirmar documentos e condições antes de orientar o cliente.
+- Não prometer aceitação, cobertura ou pagamento antes da análise da seguradora.
+- Usar português simples e evitar tradução literal quando prejudicar a compreensão.
 
 ## Pontos de atenção para o corretor
 
-- Não afirmar cobertura antes da formação do contrato.
-- Conferir segurado, contratante e forma de pagamento.
-- Explicar condições especiais antes da assinatura final.
+- Registrar a dúvida principal do cliente.
+- Separar explicação comercial de decisão formal da seguradora.
+- Apontar os verbetes e FAQs relacionados quando houver dúvida técnica.
 
 ## Termos relacionados
 
@@ -83,11 +98,15 @@ Reduzir expectativa incorreta antes da emissão e explicar que aceitação depen
 
 - dialogue
 - med
-- contratacao
-- avaliacao
+- atendimento-bilingue
+- notebooklm
+
+## Veja também
+
+- `15_CaseStudies/MED/CASE-MED-0021.md`
 
 ## Histórico de revisão
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Normalização bilíngue com versão japonesa e portuguesa. |

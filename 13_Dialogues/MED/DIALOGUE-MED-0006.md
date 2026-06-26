@@ -1,11 +1,11 @@
-# DIALOGUE-MED-0006 - Solicitação de benefício e atestado médico
+# DIALOGUE-MED-0006 - Solicitação de benefício e documentos médicos
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Normalização bilíngue para uso por corretor japonês no NotebookLM.
 
 ## Código
 
@@ -17,37 +17,52 @@ MED
 
 ## Situação de atendimento
 
-Cliente recebeu atendimento médico e quer saber como iniciar a solicitação.
+Cliente recebeu atendimento médico e quer iniciar a solicitação de benefício.
+
+## Participantes
+
+- Corretor: corretor japonês
+- Cliente: cliente brasileiro residente no Japão
 
 ## Objetivo do diálogo
 
-Explicar em português simples o fluxo de documentos e análise, preservando a precisão do termo japonês.
+Explicar o fluxo inicial de solicitação, atestado médico, recibo e detalhamento de atendimento.
 
-## Diálogo
+## Versão em japonês
 
-- Corretor: Vamos organizar a solicitação por etapas.
-- Cliente: Eu preciso entregar todos os documentos agora?
-- Corretor: Primeiro confirmamos o tipo de benefício e depois a lista exigida pela seguradora.
-- Corretor: Vamos confirmar `MED-0021` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Corretor: Vamos confirmar `MED-0022` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Corretor: Vamos confirmar `MED-0023` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Corretor: Vamos confirmar `MED-0024` e os documentos relacionados.
-- Cliente: Então esse item influencia a análise do benefício?
-- Corretor: Sim. Ele ajuda a seguradora a verificar o contrato e evitar atraso.
-- Cliente: Se faltar alguma coisa, eu perco o direito?
-- Corretor: Normalmente a análise fica pendente até a correção, mas precisamos respeitar prazos e instruções da seguradora.
+**Corretor:** 給付金請求には、保険会社が指定する書類が必要です。
+
+**Cliente:** それはポルトガル語でお客様にどう説明すればよいですか。
+
+**Corretor:** 診断書、領収書、診療明細書を確認しましょう。
+
+**Cliente:** 支払いを約束してもよいですか。
+
+**Corretor:** 書類に不足があると査定が止まる場合があります。
+
+## Versão em português brasileiro
+
+**Corretor:** Para pedir o benefício, precisamos seguir a lista de documentos da seguradora.
+
+**Cliente:** Então isso já garante o pagamento?
+
+**Corretor:** Vamos conferir atestado médico, recibo e detalhamento do atendimento.
+
+**Cliente:** O que eu preciso fazer agora?
+
+**Corretor:** Se faltar documento, a análise pode ficar parada até a correção.
+
+## Notas culturais ou comerciais
+
+- Confirmar documentos e condições antes de orientar o cliente.
+- Não prometer aceitação, cobertura ou pagamento antes da análise da seguradora.
+- Usar português simples e evitar tradução literal quando prejudicar a compreensão.
 
 ## Pontos de atenção para o corretor
 
-- Confirmar produto, apólice e data do evento médico.
-- Não prometer pagamento antes da análise da seguradora.
-- Explicar documentos em português simples, sem tradução literal confusa.
+- Registrar a dúvida principal do cliente.
+- Separar explicação comercial de decisão formal da seguradora.
+- Apontar os verbetes e FAQs relacionados quando houver dúvida técnica.
 
 ## Termos relacionados
 
@@ -83,11 +98,15 @@ Explicar em português simples o fluxo de documentos e análise, preservando a p
 
 - dialogue
 - med
-- solicitacao
-- atendimento
+- atendimento-bilingue
+- notebooklm
+
+## Veja também
+
+- `15_CaseStudies/MED/CASE-MED-0009.md`
 
 ## Histórico de revisão
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Normalização bilíngue com versão japonesa e portuguesa. |

@@ -34,6 +34,7 @@
 
 ### Corrigido
 
+- Normalizados `DIALOGUE-MED-0006` a `DIALOGUE-MED-0015` com participantes, versao japonesa, versao em portugues brasileiro, notas culturais/comerciais e pontos de atencao para o corretor.
 - Corrigida referência cruzada inexistente `CASE-MED-0025` em `DIALOGUE-MED-0015`, direcionando para `CASE-MED-0024` e ampliando o caso relacionado com `MED-0058` a `MED-0060`.
 
 ### Definido
