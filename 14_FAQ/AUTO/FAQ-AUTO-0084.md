@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Procedimento de conferir se dados, coberturas, período, condutores e condiçõe
 ## Como responder ao cliente brasileiro
 
 Vamos confirmar todos os dados para evitar erro no contrato e problema no atendimento futuro.
+
+## Consulta natural em japonês
+
+- 自動車保険を契約する前に何を確認すべきですか。
+- 契約前チェックをブラジル人のお客様にどう案内しますか。
+
+## Próximo passo seguro
+
+契約者、記名被保険者、車両情報、運転者条件、補償、免責、保険料、支払方法を確認する。
+
+## Limite comercial/compliance
+
+確認漏れがある状態で契約を急がせず、疑問点を整理してから手続きする。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Vamos confirmar todos os dados para evitar erro no contrato e problema no atendi
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

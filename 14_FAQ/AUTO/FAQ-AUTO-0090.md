@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Verificação da identidade do cliente ou parte relacionada para fins de contrat
 ## Como responder ao cliente brasileiro
 
 Alguns procedimentos exigem confirmar identidade para proteger o cliente e o contrato.
+
+## Consulta natural em japonês
+
+- 自動車保険で本人確認が必要なのはなぜですか。
+- 本人確認手続きをブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+契約者確認、不正防止、個人情報保護、支払・変更手続の正確性確保のため本人確認を行う。
+
+## Limite comercial/compliance
+
+本人確認資料の提出目的と管理方法を説明し、不要な共有や非公式送付を避ける。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Alguns procedimentos exigem confirmar identidade para proteger o cliente e o con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Sequência recomendada de ações após acidente: segurança, polícia, coleta d
 ## Como responder ao cliente brasileiro
 
 Após acidente, siga uma ordem: segurança, registro, dados da outra parte e aviso à seguradora.
+
+## Consulta natural em japonês
+
+- 交通事故後、自動車保険ではどの順番で対応すべきですか。
+- 事故直後の行動をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+安全確保、警察連絡、相手情報確認、保険会社・代理店連絡、写真・資料保存の順で対応する。
+
+## Limite comercial/compliance
+
+事故現場で過失や支払責任を断定せず、示談前に保険会社へ連絡するよう案内する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Após acidente, siga uma ordem: segurança, registro, dados da outra parte e avi
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

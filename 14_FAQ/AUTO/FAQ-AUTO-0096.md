@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Acompanhamento das datas de vencimento dos contratos para evitar interrupção d
 ## Como responder ao cliente brasileiro
 
 Controlar o vencimento evita ficar sem seguro por esquecimento ou atraso na renovação.
+
+## Consulta natural em japonês
+
+- 自動車保険の満期切れを防ぐにはどうすればよいですか。
+- 保険の更新忘れを防ぐ方法をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+満期日、支払方法、連絡先、更新案内、必要書類を早めに確認し、空白期間を避ける。
+
+## Limite comercial/compliance
+
+更新されたと推測して案内せず、保険会社の手続完了・入金確認を基準にする。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Controlar o vencimento evita ficar sem seguro por esquecimento ou atraso na reno
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

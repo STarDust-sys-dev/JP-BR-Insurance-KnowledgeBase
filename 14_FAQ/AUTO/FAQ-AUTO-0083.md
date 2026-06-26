@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Informações que chamam atenção para riscos, limitações, obrigações ou po
 ## Como responder ao cliente brasileiro
 
 Esses avisos existem para evitar problemas, como exclusões, obrigações de aviso e riscos de falta de pagamento.
+
+## Consulta natural em japonês
+
+- 注意喚起情報では、どの点を特に確認すべきですか。
+- 事故や契約トラブルを避けるための注意点をどう説明しますか。
+
+## Próximo passo seguro
+
+免責、告知・通知義務、保険料未払い、事故時連絡、補償対象外となる可能性がある事項を確認する。
+
+## Limite comercial/compliance
+
+注意喚起情報はリスク説明であり、最終判断が必要な事項は保険会社または正式書類で確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Esses avisos existem para evitar problemas, como exclusões, obrigações de avi
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

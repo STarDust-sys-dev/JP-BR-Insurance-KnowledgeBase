@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Dados sobre quem dirige o veículo, idade, relação com o segurado e condiçõe
 ## Como responder ao cliente brasileiro
 
 Precisamos saber quem dirige para aplicar corretamente restrições, idade e condições do seguro.
+
+## Consulta natural em japonês
+
+- 誰が車を運転するかを保険会社に伝える必要があるのはなぜですか。
+- 運転者条件をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+年齢条件、家族限定、本人・配偶者限定など、運転者条件が補償対象を左右する。
+
+## Limite comercial/compliance
+
+対象外運転者でも必ず補償されるとは言わず、契約条件を確認して案内する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Precisamos saber quem dirige para aplicar corretamente restrições, idade e con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

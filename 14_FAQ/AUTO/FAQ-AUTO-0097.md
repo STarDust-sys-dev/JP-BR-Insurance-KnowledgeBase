@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Acompanhamento do cliente após a contratação, incluindo dúvidas, alteraçõe
 ## Como responder ao cliente brasileiro
 
 O trabalho não termina na contratação. O cliente precisa de suporte para alterações, dúvidas, renovação e acidentes.
+
+## Consulta natural em japonês
+
+- 契約後、保険代理店はどのようなサポートを行いますか。
+- アフターサービスの範囲をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+契約後の相談、変更、事故連絡、更新案内、必要書類確認などを継続的に支援する。
+
+## Limite comercial/compliance
+
+代理店が保険金支払可否を決定するとは説明せず、判断権限は保険会社にあることを明確にする。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ O trabalho não termina na contratação. O cliente precisa de suporte para alte
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

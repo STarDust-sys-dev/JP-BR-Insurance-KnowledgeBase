@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Reavaliação periódica das coberturas contratadas para verificar se continuam 
 ## Como responder ao cliente brasileiro
 
 Com o tempo, sua situação muda. Por isso é importante revisar se as coberturas ainda fazem sentido.
+
+## Consulta natural em japonês
+
+- 自動車保険の補償内容は、どのタイミングで見直すべきですか。
+- 契約中に補償を見直した方がよい状況をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+車両の利用状況、家族構成、運転者、車両価額、生活環境が変わったときは、現在の補償が合っているか確認する。
+
+## Limite comercial/compliance
+
+補償の見直しは提案であり、変更可否・保険料・補償範囲は保険会社の条件確認後に案内する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Com o tempo, sua situação muda. Por isso é importante revisar se as cobertura
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

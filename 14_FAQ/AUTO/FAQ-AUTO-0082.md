@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Documento ou explicação resumida com os principais pontos do contrato, cobertu
 ## Como responder ao cliente brasileiro
 
 O resumo ajuda a entender os pontos principais, mas não substitui a conferência completa quando houver dúvida.
+
+## Consulta natural em japonês
+
+- 契約概要だけで自動車保険の内容を理解できますか。
+- 契約概要と約款・重要事項説明書の違いをどう説明しますか。
+
+## Próximo passo seguro
+
+契約概要は要点確認用であり、詳細条件や例外は重要事項説明書・約款で確認する必要がある。
+
+## Limite comercial/compliance
+
+Resumoだけで判断してよいとは案内せず、正式書類の確認を促す。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ O resumo ajuda a entender os pontos principais, mas não substitui a conferênci
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Procedimento para alterar o nome relacionado ao contrato, veículo ou parte resp
 ## Como responder ao cliente brasileiro
 
 Mudança de titularidade precisa ser analisada com cuidado porque pode afetar o contrato e documentos.
+
+## Consulta natural em japonês
+
+- 自動車保険の契約者を変更できますか。
+- 契約者変更の可否をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+契約者変更は保険会社の規定、車両所有・使用実態、本人確認、必要書類に基づき判断される。
+
+## Limite comercial/compliance
+
+変更可能と即答せず、保険会社の承認条件と必要書類を確認してから案内する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Mudança de titularidade precisa ser analisada com cuidado porque pode afetar o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

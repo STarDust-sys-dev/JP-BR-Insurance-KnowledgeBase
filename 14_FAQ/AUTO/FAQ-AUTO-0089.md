@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Documentos solicitados para contratação, alteração, renovação, sinistro ou
 ## Como responder ao cliente brasileiro
 
 A seguradora pode pedir documentos diferentes conforme o caso. Vamos organizar a lista correta.
+
+## Consulta natural em japonês
+
+- 自動車保険の手続きでどの書類が必要になりますか。
+- 事故や契約変更で必要書類をブラジル人のお客様にどう案内しますか。
+
+## Próximo passo seguro
+
+手続内容に応じて車検証、免許証、在留カード、事故資料、修理見積、本人確認資料などを確認する。
+
+## Limite comercial/compliance
+
+必要書類は手続・保険会社・事故内容で変わるため、確定リストとして断定せず個別確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ A seguradora pode pedir documentos diferentes conforme o caso. Vamos organizar a
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

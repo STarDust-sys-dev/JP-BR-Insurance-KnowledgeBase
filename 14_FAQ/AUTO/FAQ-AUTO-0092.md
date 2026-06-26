@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Atualização de telefone, e-mail ou outro meio de contato usado para comunicaç
 ## Como responder ao cliente brasileiro
 
 Contato desatualizado pode impedir avisos importantes. Por isso precisamos manter esses dados corretos.
+
+## Consulta natural em japonês
+
+- 電話番号やメールアドレスを変更した場合、自動車保険で更新が必要ですか。
+- 連絡先更新の重要性をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+事故、更新、重要通知、書類確認の連絡が届くよう、電話番号・メールを最新にする。
+
+## Limite comercial/compliance
+
+非公式な連絡先だけに依存せず、保険会社・代理店の正式登録情報を更新する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Contato desatualizado pode impedir avisos importantes. Por isso precisamos mante
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

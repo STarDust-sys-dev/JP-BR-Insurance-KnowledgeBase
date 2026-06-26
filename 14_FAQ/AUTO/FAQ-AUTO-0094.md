@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -30,6 +30,19 @@ Fluxo operacional para cancelar o contrato, com data, documentos e confirmação
 ## Como responder ao cliente brasileiro
 
 Cancelar exige procedimento correto. Precisamos confirmar data, documentos e possível impacto.
+
+## Consulta natural em japonês
+
+- 自動車保険を解約するにはどうすればよいですか。
+- 解約時の返戻金や注意点をブラジル人のお客様にどう説明しますか。
+
+## Próximo passo seguro
+
+解約希望日、本人確認、返戻金有無、支払状況、新契約との空白期間を確認して手続する。
+
+## Limite comercial/compliance
+
+返戻金額や解約効果を口頭で確定せず、正式計算と手続完了日を確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Cancelar exige procedimento correto. Precisamos confirmar data, documentos e pos
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
