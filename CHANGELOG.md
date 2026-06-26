@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Abertura da categoria MED com estrutura editorial dedicada em dicionário mestre, FAQ, diálogos, estudos de caso e consolidados.
+- Primeiro ciclo MED com 20 verbetes (`MED-0001` a `MED-0020`), 20 FAQs (`FAQ-MED-0001` a `FAQ-MED-0020`), 5 diálogos (`DIALOGUE-MED-0001` a `DIALOGUE-MED-0005`) e 8 estudos de caso (`CASE-MED-0001` a `CASE-MED-0008`).
+- Índice inicial `MED_INDEX_0001.md` para NotebookLM e documentos consolidados MED em Markdown, DOCX e PDF.
 - Quinto ciclo VIDA com 20 verbetes (`VIDA-0081` a `VIDA-0100`), 20 FAQs (`FAQ-VIDA-0081` a `FAQ-VIDA-0100`), 5 diálogos (`DIALOGUE-VIDA-0021` a `DIALOGUE-VIDA-0025`) e 8 estudos de caso (`CASE-VIDA-0033` a `CASE-VIDA-0040`).
 - Atualização do índice `VIDA_INDEX_0001.md` com pós-venda, alterações contratuais, beneficiários, documentos fiscais e registro de atendimento.
 - Documentos consolidados do quinto ciclo VIDA em Markdown, DOCX e PDF.
