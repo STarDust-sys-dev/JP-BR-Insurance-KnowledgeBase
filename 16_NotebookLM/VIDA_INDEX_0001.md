@@ -105,6 +105,26 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - VIDA-0058 - 減額 - Redução do valor segurado
 - VIDA-0059 - 払済保険 - Seguro quitado com cobertura reduzida
 - VIDA-0060 - 延長定期保険 - Seguro temporário prorrogado
+- VIDA-0061 - 保険金請求 - Solicitação de indenização
+- VIDA-0062 - 給付金請求 - Solicitação de benefício
+- VIDA-0063 - 請求書 - Formulário de solicitação
+- VIDA-0064 - 診断書 - Atestado ou relatório médico
+- VIDA-0065 - 死亡診断書 - Atestado de óbito médico
+- VIDA-0066 - 戸籍謄本 - Registro familiar japonês
+- VIDA-0067 - 住民票 - Registro de residência
+- VIDA-0068 - 本人確認書類 - Documento de identificação
+- VIDA-0069 - 受取人口座 - Conta bancária do beneficiário
+- VIDA-0070 - 支払査定 - Análise de pagamento
+- VIDA-0071 - 支払可否 - Decisão de pagar ou não pagar
+- VIDA-0072 - 不払 - Recusa de pagamento
+- VIDA-0073 - 支払期限 - Prazo de pagamento
+- VIDA-0074 - 追加書類 - Documentos adicionais
+- VIDA-0075 - 事実確認 - Confirmação dos fatos
+- VIDA-0076 - 調査 - Investigação da seguradora
+- VIDA-0077 - 指定代理請求人 - Representante designado para solicitação
+- VIDA-0078 - 代理請求 - Solicitação por representante
+- VIDA-0079 - 未成年受取人 - Beneficiário menor de idade
+- VIDA-0080 - 相続人 - Herdeiro
 
 ### FAQs relacionadas
 
@@ -168,6 +188,26 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - FAQ-VIDA-0058 - Posso reduzir o valor segurado?
 - FAQ-VIDA-0059 - Posso parar de pagar e manter alguma cobertura?
 - FAQ-VIDA-0060 - O que é seguro temporário prorrogado?
+- FAQ-VIDA-0061 - Como faço para pedir indenização do seguro de vida?
+- FAQ-VIDA-0062 - Como faço para pedir benefício do seguro?
+- FAQ-VIDA-0063 - Qual formulário preciso preencher para solicitar pagamento?
+- FAQ-VIDA-0064 - Por que a seguradora pede relatório médico?
+- FAQ-VIDA-0065 - Quais documentos são necessários em caso de falecimento?
+- FAQ-VIDA-0066 - Por que pode ser pedido registro familiar japonês?
+- FAQ-VIDA-0067 - Para que serve o registro de residência?
+- FAQ-VIDA-0068 - Por que preciso enviar documento de identificação?
+- FAQ-VIDA-0069 - Qual conta bancária deve ser informada?
+- FAQ-VIDA-0070 - O que a seguradora analisa antes de pagar?
+- FAQ-VIDA-0071 - Quem decide se o seguro será pago?
+- FAQ-VIDA-0072 - Por que a seguradora pode não pagar?
+- FAQ-VIDA-0073 - Quanto tempo demora para receber?
+- FAQ-VIDA-0074 - Por que a seguradora pede documentos adicionais?
+- FAQ-VIDA-0075 - O que significa confirmar os fatos?
+- FAQ-VIDA-0076 - Quando a seguradora faz investigação?
+- FAQ-VIDA-0077 - Quem pode ser representante designado?
+- FAQ-VIDA-0078 - Outra pessoa pode solicitar em meu nome?
+- FAQ-VIDA-0079 - O que acontece se o beneficiário for menor de idade?
+- FAQ-VIDA-0080 - O que acontece quando entram herdeiros?
 
 ### Diálogos relacionados
 
@@ -186,6 +226,11 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - DIALOGUE-VIDA-0013 - Explicando análise de aceitação e condições especiais
 - DIALOGUE-VIDA-0014 - Orientando recusa, contrato não efetivado e desistência
 - DIALOGUE-VIDA-0015 - Explicando perda de validade, reativação e ajustes do contrato
+- DIALOGUE-VIDA-0016 - Iniciando solicitação de indenização ou benefício
+- DIALOGUE-VIDA-0017 - Organizando documentos de falecimento e identificação
+- DIALOGUE-VIDA-0018 - Explicando conta de recebimento e análise de pagamento
+- DIALOGUE-VIDA-0019 - Orientando prazo, documentos adicionais e investigação
+- DIALOGUE-VIDA-0020 - Explicando representante, menor de idade e herdeiros
 
 ### Estudos de caso relacionados
 
@@ -213,6 +258,14 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - CASE-VIDA-0022 - Contratação recusada após análise de risco
 - CASE-VIDA-0023 - Contrato não efetivado ou desistência dentro da regra
 - CASE-VIDA-0024 - Contrato perde validade e cliente quer reduzir ou reativar
+- CASE-VIDA-0025 - Família solicita indenização por morte
+- CASE-VIDA-0026 - Segurado solicita benefício por internação ou cirurgia
+- CASE-VIDA-0027 - Documentos oficiais japoneses são necessários para comprovar relação familiar
+- CASE-VIDA-0028 - Beneficiário informa conta bancária incorreta
+- CASE-VIDA-0029 - Seguradora analisa se há direito ao pagamento
+- CASE-VIDA-0030 - Pagamento demora por falta de documentos completos
+- CASE-VIDA-0031 - Seguradora precisa confirmar fatos ou investigar
+- CASE-VIDA-0032 - Solicitação feita por representante, menor ou herdeiro
 
 ## Mapa de referências cruzadas
 
@@ -228,6 +281,10 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 | Proposta, saúde e histórico médico | VIDA-0041, VIDA-0042, VIDA-0043, VIDA-0044, VIDA-0045, VIDA-0046, VIDA-0047, VIDA-0048 | FAQ-VIDA-0041, FAQ-VIDA-0042, FAQ-VIDA-0043, FAQ-VIDA-0044, FAQ-VIDA-0045, FAQ-VIDA-0046, FAQ-VIDA-0047, FAQ-VIDA-0048 | DIALOGUE-VIDA-0011, DIALOGUE-VIDA-0012 | CASE-VIDA-0017, CASE-VIDA-0018, CASE-VIDA-0019 |
 | Aceitação, condições e recusa | VIDA-0049, VIDA-0050, VIDA-0051, VIDA-0052, VIDA-0053, VIDA-0054, VIDA-0055 | FAQ-VIDA-0049, FAQ-VIDA-0050, FAQ-VIDA-0051, FAQ-VIDA-0052, FAQ-VIDA-0053, FAQ-VIDA-0054, FAQ-VIDA-0055 | DIALOGUE-VIDA-0013, DIALOGUE-VIDA-0014 | CASE-VIDA-0020, CASE-VIDA-0021, CASE-VIDA-0022, CASE-VIDA-0023 |
 | Perda de validade e ajustes do contrato | VIDA-0056, VIDA-0057, VIDA-0058, VIDA-0059, VIDA-0060 | FAQ-VIDA-0056, FAQ-VIDA-0057, FAQ-VIDA-0058, FAQ-VIDA-0059, FAQ-VIDA-0060 | DIALOGUE-VIDA-0015 | CASE-VIDA-0024 |
+| Solicitação de indenização e benefício | VIDA-0061, VIDA-0062, VIDA-0063, VIDA-0064, VIDA-0065 | FAQ-VIDA-0061, FAQ-VIDA-0062, FAQ-VIDA-0063, FAQ-VIDA-0064, FAQ-VIDA-0065 | DIALOGUE-VIDA-0016, DIALOGUE-VIDA-0017 | CASE-VIDA-0025, CASE-VIDA-0026 |
+| Documentos e identificação para pagamento | VIDA-0066, VIDA-0067, VIDA-0068, VIDA-0069 | FAQ-VIDA-0066, FAQ-VIDA-0067, FAQ-VIDA-0068, FAQ-VIDA-0069 | DIALOGUE-VIDA-0017, DIALOGUE-VIDA-0018 | CASE-VIDA-0027, CASE-VIDA-0028 |
+| Análise, prazo e investigação | VIDA-0070, VIDA-0071, VIDA-0072, VIDA-0073, VIDA-0074, VIDA-0075, VIDA-0076 | FAQ-VIDA-0070, FAQ-VIDA-0071, FAQ-VIDA-0072, FAQ-VIDA-0073, FAQ-VIDA-0074, FAQ-VIDA-0075, FAQ-VIDA-0076 | DIALOGUE-VIDA-0018, DIALOGUE-VIDA-0019 | CASE-VIDA-0029, CASE-VIDA-0030, CASE-VIDA-0031 |
+| Representantes, menores e herdeiros | VIDA-0077, VIDA-0078, VIDA-0079, VIDA-0080 | FAQ-VIDA-0077, FAQ-VIDA-0078, FAQ-VIDA-0079, FAQ-VIDA-0080 | DIALOGUE-VIDA-0020 | CASE-VIDA-0032 |
 
 ## Referências
 
@@ -252,6 +309,10 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 - `19_Markdown/VIDA/VIDA_FAQ_0041_0060.md`
 - `19_Markdown/VIDA/VIDA_DIALOGUES_0011_0015.md`
 - `19_Markdown/VIDA/VIDA_CASES_0017_0024.md`
+- `19_Markdown/VIDA/VIDA_TERMS_0061_0080.md`
+- `19_Markdown/VIDA/VIDA_FAQ_0061_0080.md`
+- `19_Markdown/VIDA/VIDA_DIALOGUES_0016_0020.md`
+- `19_Markdown/VIDA/VIDA_CASES_0025_0032.md`
 
 ## Histórico de revisão
 
@@ -260,3 +321,4 @@ Este documento conecta o primeiro ciclo de verbetes, FAQs, diálogos e estudos d
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão do segundo ciclo VIDA. |
 | 2026-06-26 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão do terceiro ciclo VIDA. |
+| 2026-06-26 | 0.4 | JP-BR Insurance Knowledge Base | Inclusão do quarto ciclo VIDA. |
