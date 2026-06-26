@@ -10,6 +10,7 @@
 - Validador `00_Project/validate_project.py` para referencias cruzadas, secoes obrigatorias, romaji e existencia de formatos finais.
 - Pacotes praticos `AUTO_NOTEBOOKLM_PACK_0001.md` e `VIDA_NOTEBOOKLM_PACK_0001.md` para consulta do corretor japones no atendimento a brasileiros.
 - Primeiro pacote pratico `MED_NOTEBOOKLM_PACK_0001.md` para consulta do corretor japones sobre seguro medico no atendimento a brasileiros.
+- Guias de navegacao por produto em `04_Automobile`, `05_Life` e `06_Medical`, conectando pacotes NotebookLM, indices, verbetes, FAQs, dialogos e casos.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
