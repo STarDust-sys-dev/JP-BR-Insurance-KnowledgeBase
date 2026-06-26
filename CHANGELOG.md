@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-06-27
+
+### Adicionado
+
+- Normalizacao dos dialogos MED iniciais: inclusao de pontos de atencao para o corretor e casos relacionados em `DIALOGUE-MED-0001` a `DIALOGUE-MED-0005`, com regeneracao do pacote `MED_DIALOGUES_0001_0005`.
+
 ## 2026-06-26
 
 ### Adicionado

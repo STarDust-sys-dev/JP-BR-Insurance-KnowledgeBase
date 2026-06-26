@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -49,6 +49,16 @@ Comparando doenças de estilo de vida, femininas e parto.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0006
+
 ## Termos relacionados
 
 - MED-0013 - 生活習慣病保障 - Cobertura para doenças relacionadas ao estilo de vida
@@ -87,3 +97,4 @@ Comparando doenças de estilo de vida, femininas e parto.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |

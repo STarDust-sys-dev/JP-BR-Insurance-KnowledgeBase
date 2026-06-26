@@ -1,16 +1,22 @@
-# MED_DIALOGUES_0001_0005 - Primeiro ciclo de diálogos MED
+# MED_DIALOGUES_0001_0005 - Diálogos MED
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com pontos de atenção e casos relacionados.
+
+## Conteúdo consolidado
 
 # DIALOGUE-MED-0001 - Explicando seguro médico, internação e cirurgia
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -54,6 +60,17 @@ Explicando seguro médico, internação e cirurgia.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0001
+- CASE-MED-0002
+
 ## Termos relacionados
 
 - MED-0001 - 医療保険 - Seguro médico
@@ -93,6 +110,7 @@ Explicando seguro médico, internação e cirurgia.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |
 
 ---
 
@@ -100,10 +118,10 @@ Explicando seguro médico, internação e cirurgia.
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -147,6 +165,17 @@ Explicando valor diário, dias pagos e limite.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0003
+- CASE-MED-0004
+
 ## Termos relacionados
 
 - MED-0005 - 日額 - Valor diário
@@ -185,6 +214,7 @@ Explicando valor diário, dias pagos e limite.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |
 
 ---
 
@@ -192,10 +222,10 @@ Explicando valor diário, dias pagos e limite.
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -239,6 +269,16 @@ Orientando tratamento avançado, câncer e três doenças graves.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0005
+
 ## Termos relacionados
 
 - MED-0009 - 先進医療 - Tratamento médico avançado
@@ -278,6 +318,7 @@ Orientando tratamento avançado, câncer e três doenças graves.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |
 
 ---
 
@@ -285,10 +326,10 @@ Orientando tratamento avançado, câncer e três doenças graves.
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -332,6 +373,16 @@ Comparando doenças de estilo de vida, femininas e parto.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0006
+
 ## Termos relacionados
 
 - MED-0013 - 生活習慣病保障 - Cobertura para doenças relacionadas ao estilo de vida
@@ -370,6 +421,7 @@ Comparando doenças de estilo de vida, femininas e parto.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |
 
 ---
 
@@ -377,10 +429,10 @@ Comparando doenças de estilo de vida, femininas e parto.
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -424,6 +476,17 @@ Explicando saúde mental, doença prévia, declaração e início de cobertura.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0007
+- CASE-MED-0008
+
 ## Termos relacionados
 
 - MED-0017 - 精神疾患 - Transtorno mental
@@ -463,3 +526,10 @@ Explicando saúde mental, doença prévia, declaração e início de cobertura.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização dos diálogos MED 0001-0005. |

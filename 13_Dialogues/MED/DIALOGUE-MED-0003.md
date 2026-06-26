@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de pontos de atenção e casos relacionados.
 
 ## Código
 
@@ -49,6 +49,16 @@ Orientando tratamento avançado, câncer e três doenças graves.
 - Explicar que seguro médico privado não é igual ao sistema público de saúde japonês.
 - Separar benefício contratado de reembolso médico genérico.
 
+## Pontos de atenção para o corretor
+
+- Registrar a dúvida principal do cliente antes de explicar detalhes técnicos.
+- Separar explicação comercial de decisão formal da seguradora.
+- Confirmar contrato, documentos e declaração de saúde antes de responder sobre pagamento.
+
+## Casos relacionados
+
+- CASE-MED-0005
+
 ## Termos relacionados
 
 - MED-0009 - 先進医療 - Tratamento médico avançado
@@ -88,3 +98,4 @@ Orientando tratamento avançado, câncer e três doenças graves.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de pontos de atenção para o corretor e casos relacionados. |
