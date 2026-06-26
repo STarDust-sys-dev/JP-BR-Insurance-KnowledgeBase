@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -38,6 +38,10 @@ Renovar não é só continuar pagando. É também conferir se o seguro ainda est
 ## Resultado esperado
 
 Contrato renovado com informações atualizadas e menor risco de problema em caso de sinistro.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -88,3 +92,4 @@ Contrato renovado com informações atualizadas e menor risco de problema em cas
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |

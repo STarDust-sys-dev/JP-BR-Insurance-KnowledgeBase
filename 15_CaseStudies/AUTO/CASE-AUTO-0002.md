@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -38,6 +38,10 @@ Esse caso entra na cobertura para danos pessoais a terceiros, se ela estiver con
 ## Resultado esperado
 
 Cliente entende que há cobertura potencial, mas que a indenização depende de análise.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -81,3 +85,4 @@ Cliente entende que há cobertura potencial, mas que a indenização depende de 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |

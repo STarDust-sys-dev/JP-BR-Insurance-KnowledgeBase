@@ -1,16 +1,22 @@
-# AUTO_CASES_0013_0016 - Terceiro lote de estudos de caso AUTO
+# AUTO_CASES_0013_0016 - Estudos de caso AUTO
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com limite comercial/compliance.
+
+## Conteúdo consolidado
 
 # CASE-AUTO-0013 - Cliente fica sem cobertura por atraso na renovação
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -43,6 +49,10 @@ O seguro não deve ser tratado como algo que continua sozinho. Se a renovação 
 ## Resultado esperado
 
 Cliente entende a urgência da renovação e passa a confirmar datas antes do vencimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -93,6 +103,7 @@ Cliente entende a urgência da renovação e passa a confirmar datas antes do ve
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -100,10 +111,10 @@ Cliente entende a urgência da renovação e passa a confirmar datas antes do ve
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -136,6 +147,10 @@ Renovar não é só continuar pagando. É também conferir se o seguro ainda est
 ## Resultado esperado
 
 Contrato renovado com informações atualizadas e menor risco de problema em caso de sinistro.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -186,6 +201,7 @@ Contrato renovado com informações atualizadas e menor risco de problema em cas
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -193,10 +209,10 @@ Contrato renovado com informações atualizadas e menor risco de problema em cas
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -229,6 +245,10 @@ Quando o seguro é cancelado, pode haver devolução de parte do valor. Mas o c�
 ## Resultado esperado
 
 Cliente entende o procedimento de cancelamento e a devolução como cálculo contratual, não como promessa fixa.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -277,6 +297,7 @@ Cliente entende o procedimento de cancelamento e a devolução como cálculo con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -284,10 +305,10 @@ Cliente entende o procedimento de cancelamento e a devolução como cálculo con
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -320,6 +341,10 @@ No seguro, a pessoa que paga, a pessoa protegida e o dono registrado do carro po
 ## Resultado esperado
 
 Cadastro correto e menor risco de atraso na emissão, alteração ou análise de sinistro.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -372,3 +397,10 @@ Cadastro correto e menor risco de atraso na emissão, alteração ou análise de
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização de compliance dos estudos de caso AUTO. |

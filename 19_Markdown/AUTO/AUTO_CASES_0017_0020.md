@@ -1,16 +1,22 @@
-# AUTO_CASES_0017_0020 - Quarto lote de estudos de caso AUTO
+# AUTO_CASES_0017_0020 - Estudos de caso AUTO
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com limite comercial/compliance.
+
+## Conteúdo consolidado
 
 # CASE-AUTO-0017 - Cliente escolhe entre pagamento mensal e anual
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -43,6 +49,10 @@ Pagamento mensal divide o valor. Pagamento anual concentra o valor em uma vez. V
 ## Resultado esperado
 
 Cliente entende o risco, regulariza a situação e mantém o contrato coerente com a realidade.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -93,6 +103,7 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -100,10 +111,10 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -136,6 +147,10 @@ A cobrança automática pode falhar. Precisamos confirmar o motivo e regularizar
 ## Resultado esperado
 
 Cliente entende o risco, regulariza a situação e mantém o contrato coerente com a realidade.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -186,6 +201,7 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -193,10 +209,10 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -229,6 +245,10 @@ Pode existir prazo de tolerância, mas não podemos presumir. Vamos confirmar ag
 ## Resultado esperado
 
 Cliente entende o risco, regulariza a situação e mantém o contrato coerente com a realidade.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -281,6 +301,7 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -288,10 +309,10 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -324,6 +345,10 @@ Quando troca de carro, o seguro precisa ser atualizado. Não é seguro presumir 
 ## Resultado esperado
 
 Cliente entende o risco, regulariza a situação e mantém o contrato coerente com a realidade.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -371,3 +396,10 @@ Cliente entende o risco, regulariza a situação e mantém o contrato coerente c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização de compliance dos estudos de caso AUTO. |

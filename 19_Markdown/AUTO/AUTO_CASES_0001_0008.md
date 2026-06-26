@@ -1,16 +1,22 @@
-# AUTO_CASES_0001_0008 - Primeiro lote de estudos de caso AUTO
+# AUTO_CASES_0001_0008 - Estudos de caso AUTO
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com limite comercial/compliance.
+
+## Conteúdo consolidado
 
 # CASE-AUTO-0001 - Cliente quer saber o que está incluído no seguro de automóvel
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -43,6 +49,10 @@ O seguro de automóvel no Japão não é uma cobertura única. Ele é formado po
 ## Resultado esperado
 
 Cliente entende que a cobertura depende do contrato e aceita revisar a apólice por partes.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -86,6 +96,7 @@ Cliente entende que a cobertura depende do contrato e aceita revisar a apólice 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -93,10 +104,10 @@ Cliente entende que a cobertura depende do contrato e aceita revisar a apólice 
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -129,6 +140,10 @@ Esse caso entra na cobertura para danos pessoais a terceiros, se ela estiver con
 ## Resultado esperado
 
 Cliente entende que há cobertura potencial, mas que a indenização depende de análise.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -172,6 +187,7 @@ Cliente entende que há cobertura potencial, mas que a indenização depende de 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -179,10 +195,10 @@ Cliente entende que há cobertura potencial, mas que a indenização depende de 
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -215,6 +231,10 @@ O carro da outra pessoa entra em danos materiais a terceiros. O seu próprio car
 ## Resultado esperado
 
 Cliente entende qual cobertura se aplica a cada veículo envolvido.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -258,6 +278,7 @@ Cliente entende qual cobertura se aplica a cada veículo envolvido.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -265,10 +286,10 @@ Cliente entende qual cobertura se aplica a cada veículo envolvido.
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -301,6 +322,10 @@ Neste contrato, existe proteção para terceiros, mas não há cobertura para o 
 ## Resultado esperado
 
 Cliente entende a limitação da apólice e considera incluir 車両保険 na próxima contratação.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -342,6 +367,7 @@ Cliente entende a limitação da apólice e considera incluir 車両保険 na pr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -349,10 +375,10 @@ Cliente entende a limitação da apólice e considera incluir 車両保険 na pr
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -385,6 +411,10 @@ Como a pessoa estava dentro do carro segurado, vamos verificar as coberturas par
 ## Resultado esperado
 
 Cliente entende que a análise depende das coberturas de ocupantes e dos documentos do acidente.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -428,6 +458,7 @@ Cliente entende que a análise depende das coberturas de ocupantes e dos documen
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -435,10 +466,10 @@ Cliente entende que a análise depende das coberturas de ocupantes e dos documen
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -471,6 +502,10 @@ Se a franquia for maior, o seguro pode ficar mais barato agora. Mas se acontecer
 ## Resultado esperado
 
 Cliente escolhe franquia entendendo o custo mensal e o custo potencial no acidente.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -513,6 +548,7 @@ Cliente escolhe franquia entendendo o custo mensal e o custo potencial no aciden
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -520,10 +556,10 @@ Cliente escolhe franquia entendendo o custo mensal e o custo potencial no aciden
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -556,6 +592,10 @@ Quando o seguro é usado, a classe pode mudar. Essa classe influencia o preço d
 ## Resultado esperado
 
 Cliente entende a relação entre sinistro, classe e prêmio de renovação.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -600,6 +640,7 @@ Cliente entende a relação entre sinistro, classe e prêmio de renovação.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -607,10 +648,10 @@ Cliente entende a relação entre sinistro, classe e prêmio de renovação.
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -643,6 +684,10 @@ A indenização não é confirmada automaticamente no primeiro contato. A segura
 ## Resultado esperado
 
 Cliente entende o processo e sabe quais informações/documentos precisa providenciar.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -686,3 +731,10 @@ Cliente entende o processo e sabe quais informações/documentos precisa provide
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização de compliance dos estudos de caso AUTO. |

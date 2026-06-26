@@ -1,16 +1,22 @@
-# AUTO_CASES_0021_0028 - Quinto e sexto lotes de estudos de caso AUTO
+# AUTO_CASES_0021_0028 - Estudos de caso AUTO
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com limite comercial/compliance.
+
+## Conteúdo consolidado
 
 # CASE-AUTO-0021 - Cliente não sabe descrever as circunstâncias do acidente
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -43,6 +49,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -86,6 +96,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -93,10 +104,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -129,6 +140,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -174,6 +189,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -181,10 +197,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -217,6 +233,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -260,6 +280,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -267,10 +288,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -303,6 +324,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -346,6 +371,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -353,10 +379,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -389,6 +415,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -432,6 +462,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -439,10 +470,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -475,6 +506,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -526,6 +561,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -533,10 +569,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -569,6 +605,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -620,6 +660,7 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -627,10 +668,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -663,6 +704,10 @@ Vamos organizar as informações e documentos antes de decidir qualquer coisa. A
 ## Resultado esperado
 
 Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o fluxo correto de atendimento.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer cobertura, valor, prazo de pagamento, aceitação de responsabilidade ou resultado de análise. A decisão final depende da apólice, documentos, circunstâncias do evento e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -710,3 +755,10 @@ Cliente entende o procedimento, evita acordo ou decisão precipitada e segue o f
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização de compliance dos estudos de caso AUTO. |
