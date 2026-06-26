@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 Para que serve o certificado de acidente de trânsito?
 
+## Consulta natural em japonês
+
+- 交通事故証明書は保険手続きで何のために必要ですか。
+- 事故証明をブラジル人のお客様にどう説明すればよいですか。
+
 ## Resposta curta
 
 Ele serve para comprovar oficialmente a ocorrência do acidente de trânsito.
@@ -30,6 +35,14 @@ Ele serve para comprovar oficialmente a ocorrência do acidente de trânsito.
 ## Orientação ao corretor
 
 Explique que o documento pode ser importante e que o registro adequado do acidente facilita o processo.
+
+## Próximo passo seguro
+
+Confirmar se o acidente foi registrado corretamente, orientar o cliente sobre a obtenção do certificado quando necessário e verificar quais documentos a seguradora solicitou.
+
+## Limite comercial/compliance
+
+O certificado ajuda a comprovar a ocorrência do acidente, mas não garante pagamento nem define culpa sozinho. A seguradora ainda analisará cobertura, responsabilidade, documentos e condições da apólice.
 
 ## Termos relacionados
 
@@ -62,4 +75,5 @@ Explique que o documento pode ser importante e que o registro adequado do aciden
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

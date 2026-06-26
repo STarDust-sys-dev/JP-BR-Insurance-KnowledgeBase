@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 Recebo dinheiro de volta se cancelar?
 
+## Consulta natural em japonês
+
+- 自動車保険を途中解約した場合、解約返戻金はありますか。
+- 解約時の返金についてブラジル人のお客様にどう説明しますか。
+
 ## Resposta curta
 
 Pode haver devolução, mas depende da apólice, forma de pagamento, data de cancelamento e cálculo da seguradora.
@@ -30,6 +35,14 @@ Pode haver devolução, mas depende da apólice, forma de pagamento, data de can
 ## Orientação ao corretor
 
 Nunca prometer valor antes do cálculo. Informar que a seguradora precisa confirmar.
+
+## Próximo passo seguro
+
+Confirmar a data desejada de cancelamento, forma de pagamento e regra da apólice, depois solicitar ou calcular conforme procedimento da seguradora antes de informar valor ao cliente.
+
+## Limite comercial/compliance
+
+O corretor pode explicar que pode haver devolução, mas não deve prometer valor, data de crédito ou existência de reembolso. O resultado depende da apólice, do período usado, da forma de pagamento e do cálculo da seguradora.
 
 ## Termos relacionados
 
@@ -62,4 +75,5 @@ Nunca prometer valor antes do cálculo. Informar que a seguradora precisa confir
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

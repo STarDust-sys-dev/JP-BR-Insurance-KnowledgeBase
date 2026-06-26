@@ -15,6 +15,7 @@
 - Relatorio `00_Project/SUBAGENT_PILOT_REPORT_2026-06-26.md` consolidando achados do primeiro piloto com subagentes.
 - Revisao `00_Project/SUBAGENT_STRUCTURE_REVIEW_2026-06-26.md` avaliando o resultado do piloto e transformando warnings em backlog editorial.
 - Templates de FAQ, dialogo e estudo de caso reforcados com consulta natural em japones, proximo passo e limite comercial/compliance quando aplicavel.
+- Primeiro ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0002`, `FAQ-AUTO-0004`, `FAQ-AUTO-0006`, `FAQ-AUTO-0007`, `FAQ-AUTO-0008`, `FAQ-AUTO-0009`, `FAQ-AUTO-0010`, `FAQ-AUTO-0020`, `FAQ-AUTO-0025` e `FAQ-AUTO-0028`.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).

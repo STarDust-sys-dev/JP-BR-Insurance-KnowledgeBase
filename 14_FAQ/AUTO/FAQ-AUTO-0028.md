@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Quais formas de pagamento posso usar no seguro?
 
+## Consulta natural em japonês
+
+- 自動車保険の払込方法にはどのような選択肢がありますか。
+- 支払方法をブラジル人のお客様に説明するとき、何を確認すべきですか。
+
 ## Situação de atendimento
 
 Cliente quer saber quais métodos de pagamento são aceitos.
@@ -30,6 +35,14 @@ As formas de pagamento dependem da seguradora e do produto. As opções comuns i
 ## Como responder ao cliente brasileiro
 
 O seguro precisa ter uma forma de pagamento definida. Vamos confirmar quais opções a seguradora aceita para o seu contrato.
+
+## Próximo passo seguro
+
+Confirmar com a seguradora quais métodos estão disponíveis para aquele produto, se há pagamento mensal ou anual, e se débito em conta ou cartão são aceitos para o cliente.
+
+## Limite comercial/compliance
+
+O corretor pode apresentar opções possíveis, mas não deve garantir aceitação de um método de pagamento sem confirmação. A disponibilidade depende da seguradora, do produto, do contrato e das regras de cobrança.
 
 ## Termos relacionados
 
@@ -68,4 +81,5 @@ O seguro precisa ter uma forma de pagamento definida. Vamos confirmar quais opç
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

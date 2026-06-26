@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 Quando a seguradora paga a indenização?
 
+## Consulta natural em japonês
+
+- 保険金はどのタイミングで支払われるかをブラジル人のお客様にどう説明しますか。
+- 事故後に支払時期や金額を聞かれたとき、どう答えるべきですか。
+
 ## Resposta curta
 
 Quando ocorre um evento coberto, os documentos são apresentados e a seguradora confirma que as condições da apólice foram cumpridas.
@@ -30,6 +35,14 @@ Quando ocorre um evento coberto, os documentos são apresentados e a seguradora 
 ## Orientação ao corretor
 
 Explique o processo em etapas: ocorrência, comunicação, documentos, análise e pagamento. Evite prometer prazo ou valor sem confirmação da seguradora.
+
+## Próximo passo seguro
+
+Orientar o cliente a comunicar o sinistro, enviar os documentos solicitados e acompanhar a análise. Separar claramente o que já foi recebido do que ainda depende da seguradora.
+
+## Limite comercial/compliance
+
+O corretor não deve prometer prazo, valor ou pagamento. A indenização depende da cobertura, dos documentos, da responsabilidade, da franquia aplicável, das exclusões e da decisão formal da seguradora.
 
 ## Termos relacionados
 
@@ -62,4 +75,5 @@ Explique o processo em etapas: ocorrência, comunicação, documentos, análise 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

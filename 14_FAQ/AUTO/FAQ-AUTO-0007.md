@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 Quando preciso pagar franquia?
 
+## Consulta natural em japonês
+
+- 免責金額はどのような場合にお客様が負担しますか。
+- フランキアをブラジル人のお客様にどう説明すればよいですか。
+
 ## Resposta curta
 
 Normalmente quando usa uma cobertura que prevê 免責金額, como conserto do próprio veículo, conforme a apólice.
@@ -30,6 +35,14 @@ Normalmente quando usa uma cobertura que prevê 免責金額, como conserto do p
 ## Orientação ao corretor
 
 Explique a franquia antes da contratação, não apenas no sinistro. Mostre a relação entre franquia, prêmio do seguro e risco financeiro para o cliente.
+
+## Próximo passo seguro
+
+Mostrar ao cliente onde a franquia aparece na proposta ou apólice e explicar com um exemplo simples antes da contratação ou antes de abrir expectativa de pagamento no sinistro.
+
+## Limite comercial/compliance
+
+O corretor deve explicar que a franquia pode ficar sob responsabilidade do cliente, mas não deve confirmar valor final de pagamento sem verificar a apólice, o tipo de dano, a cobertura usada e a análise da seguradora.
 
 ## Termos relacionados
 
@@ -62,4 +75,5 @@ Explique a franquia antes da contratação, não apenas no sinistro. Mostre a re
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 Qual é a diferença entre danos corporais e acidentes de passageiros?
 
+## Consulta natural em japonês
+
+- 人身傷害保険と搭乗者傷害保険の違いをブラジル人のお客様にどう説明しますか。
+- けがの補償で混同しやすい点は何ですか。
+
 ## Resposta curta
 
 As duas coberturas tratam de pessoas no veículo, mas têm critérios de pagamento e finalidade diferentes conforme a apólice.
@@ -30,6 +35,14 @@ As duas coberturas tratam de pessoas no veículo, mas têm critérios de pagamen
 ## Orientação ao corretor
 
 Não apresente as duas coberturas como iguais. Use uma explicação comparativa e confirme os critérios de pagamento antes de orientar o cliente.
+
+## Próximo passo seguro
+
+Comparar as duas coberturas no material da seguradora e mostrar ao cliente qual pessoa está protegida, em que situação e por qual critério de pagamento.
+
+## Limite comercial/compliance
+
+O corretor pode comparar a finalidade das coberturas, mas não deve afirmar que uma sempre substitui a outra nem prometer pagamento. Critérios, valores e condições dependem da apólice e da análise da seguradora.
 
 ## Termos relacionados
 
@@ -62,4 +75,5 @@ Não apresente as duas coberturas como iguais. Use uma explicação comparativa 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

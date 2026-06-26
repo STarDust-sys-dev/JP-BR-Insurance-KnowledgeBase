@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 Por que o preço do seguro ficou mais alto?
 
+## Consulta natural em japonês
+
+- 自動車保険の保険料が上がった理由をブラジル人のお客様にどう説明しますか。
+- 更新時に保険料が高くなったとき、何を確認すべきですか。
+
 ## Resposta curta
 
 O prêmio pode subir por mudança de coberturas, classe, histórico de sinistro, perfil de risco ou condições do contrato.
@@ -30,6 +35,14 @@ O prêmio pode subir por mudança de coberturas, classe, histórico de sinistro,
 ## Orientação ao corretor
 
 Não responda de forma genérica. Identifique o motivo principal da mudança e explique com exemplos simples.
+
+## Próximo passo seguro
+
+Comparar a apólice anterior com a proposta atual, verificando classe, coberturas, idade, veículo, uso do seguro, forma de pagamento e alterações de regra da seguradora.
+
+## Limite comercial/compliance
+
+O corretor pode explicar os fatores que influenciam o prêmio, mas não deve garantir redução ou manutenção de preço. O valor final depende do cálculo da seguradora, das coberturas escolhidas e das condições do contrato.
 
 ## Termos relacionados
 
@@ -62,4 +75,5 @@ Não responda de forma genérica. Identifique o motivo principal da mudança e e
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

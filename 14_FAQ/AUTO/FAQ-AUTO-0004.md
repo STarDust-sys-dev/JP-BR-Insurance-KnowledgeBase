@@ -5,7 +5,7 @@
 - Versão: 0.1
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ FAQ
 
 O seguro cobre o conserto do meu próprio carro?
 
+## Consulta natural em japonês
+
+- 自分の車の修理代は自動車保険で補償されますか。
+- 車両保険がない場合、ブラジル人のお客様にどう説明すればよいですか。
+
 ## Resposta curta
 
 Somente se o contrato incluir 車両保険 e se o dano estiver dentro das condições cobertas.
@@ -30,6 +35,14 @@ As coberturas contra terceiros não cobrem automaticamente o carro do próprio s
 ## Orientação ao corretor
 
 Sempre confirme se há 車両保険 antes de responder. Explique a diferença entre proteger terceiros e proteger o próprio carro.
+
+## Próximo passo seguro
+
+Conferir a apólice ou proposta para confirmar se há 車両保険, qual franquia se aplica e quais danos estão cobertos antes de orientar o cliente sobre conserto.
+
+## Limite comercial/compliance
+
+O corretor deve explicar a diferença entre cobertura para terceiros e cobertura do próprio veículo, mas não deve prometer conserto, reembolso ou pagamento. A cobertura depende da contratação de 車両保険, das exclusões, da franquia e da análise da seguradora.
 
 ## Termos relacionados
 
@@ -61,4 +74,5 @@ Sempre confirme se há 車両保険 antes de responder. Explique a diferença en
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
