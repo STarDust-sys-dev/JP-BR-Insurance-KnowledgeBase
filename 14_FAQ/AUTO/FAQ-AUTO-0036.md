@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Quando preciso avisar mudança no contrato?
 
+## Consulta natural em japonês
+
+- 契約内容変更はどのような場合に必要ですか。
+- 住所や運転者が変わったブラジル人のお客様にどう案内しますか。
+
 ## Situação de atendimento
 
 Cliente mudou endereço, condutor, pagamento ou outras informações.
@@ -30,6 +35,14 @@ Cliente mudou endereço, condutor, pagamento ou outras informações.
 ## Como responder ao cliente brasileiro
 
 Sempre que uma informação importante mudar, avise o corretor. Assim o contrato continua correto e evita problema depois.
+
+## Próximo passo seguro
+
+Confirmar qual informação mudou, quando mudou e se a alteração afeta cobertura, prêmio, condutores, veículo ou forma de pagamento.
+
+## Limite comercial/compliance
+
+O corretor não deve dizer que a alteração não afeta o contrato sem verificar. Dados incorretos podem impactar cobertura, prêmio e análise de sinistro conforme a seguradora.
 
 ## Termos relacionados
 
@@ -66,4 +79,5 @@ Sempre que uma informação importante mudar, avise o corretor. Assim o contrato
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

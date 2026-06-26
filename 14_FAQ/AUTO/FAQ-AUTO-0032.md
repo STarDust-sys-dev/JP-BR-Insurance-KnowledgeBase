@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Posso pagar com cartão de crédito?
 
+## Consulta natural em japonês
+
+- 自動車保険料をクレジットカードで支払えますか。
+- カード払いを希望するブラジル人のお客様に何を確認しますか。
+
 ## Situação de atendimento
 
 Cliente quer usar cartão de crédito para pagar o seguro.
@@ -30,6 +35,14 @@ Cliente quer usar cartão de crédito para pagar o seguro.
 ## Como responder ao cliente brasileiro
 
 Pode ser possível pagar com cartão, mas precisamos confirmar se a seguradora aceita essa forma e se o cartão está válido para cobrança.
+
+## Próximo passo seguro
+
+Confirmar se a seguradora aceita cartão para aquele produto, se o cartão é válido, quem é o titular e quando a cobrança será feita.
+
+## Limite comercial/compliance
+
+O corretor não deve garantir pagamento por cartão sem confirmação. A aceitação depende da seguradora, do produto, do cartão, da titularidade e da regra de cobrança.
 
 ## Termos relacionados
 
@@ -66,4 +79,5 @@ Pode ser possível pagar com cartão, mas precisamos confirmar se a seguradora a
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

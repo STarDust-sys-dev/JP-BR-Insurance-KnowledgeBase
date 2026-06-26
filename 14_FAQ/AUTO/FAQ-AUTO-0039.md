@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Quais dados da outra parte devo anotar?
 
+## Consulta natural em japonês
+
+- 事故の相手方についてどの情報を確認すべきですか。
+- 相手方の情報をブラジル人のお客様にどう案内しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender outra parte envolvida no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Pessoa, veículo, empresa ou proprietário envolvido no acidente em relação ao
 ## Como responder ao cliente brasileiro
 
 Vamos confirmar os dados da outra parte para que a seguradora consiga analisar e conduzir o atendimento.
+
+## Próximo passo seguro
+
+Orientar o cliente a anotar nome, contato, placa, seguradora quando possível, local do acidente e dados do veículo, priorizando segurança e registro oficial.
+
+## Limite comercial/compliance
+
+O corretor não deve orientar negociação direta de culpa, valor ou acordo com a outra parte antes da seguradora. A condução depende dos fatos, documentos e análise da seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Vamos confirmar os dados da outra parte para que a seguradora consiga analisar e
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

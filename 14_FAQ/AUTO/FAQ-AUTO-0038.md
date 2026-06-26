@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Que informações preciso passar sobre o acidente?
 
+## Consulta natural em japonês
+
+- 事故状況として何を保険会社に伝える必要がありますか。
+- 事故の状況をブラジル人のお客様から確認するときの注意点は何ですか。
+
 ## Situação de atendimento
 
 Cliente precisa entender circunstâncias do acidente no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Informações sobre como o acidente ocorreu, incluindo local, data, horário, di
 ## Como responder ao cliente brasileiro
 
 Precisamos entender como o acidente aconteceu para orientar corretamente o aviso à seguradora e a análise do caso.
+
+## Próximo passo seguro
+
+Coletar data, local, horário, direção dos veículos, danos, feridos, registro policial e relato objetivo, sem orientar admissão de culpa.
+
+## Limite comercial/compliance
+
+O corretor deve registrar fatos e documentos, mas não deve definir culpa, percentual de responsabilidade, cobertura, valor ou pagamento. A análise cabe à seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Precisamos entender como o acidente aconteceu para orientar corretamente o aviso
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Qual é a diferença entre pagar mensal e anual?
 
+## Consulta natural em japonês
+
+- 月払と年払の違いをブラジル人のお客様にどう説明しますか。
+- 保険料の支払方法を選ぶとき、何を確認すべきですか。
+
 ## Situação de atendimento
 
 Cliente compara 月払 e 年払.
@@ -30,6 +35,14 @@ Cliente compara 月払 e 年払.
 ## Como responder ao cliente brasileiro
 
 Pagamento mensal facilita dividir o valor. Pagamento anual concentra tudo de uma vez e pode ser mais simples para evitar cobranças mensais.
+
+## Próximo passo seguro
+
+Comparar valor total, fluxo de pagamento, data de cobrança e regra da seguradora antes de o cliente escolher entre mensal e anual.
+
+## Limite comercial/compliance
+
+O corretor não deve afirmar que uma forma é sempre melhor. A escolha depende do contrato, do valor calculado, da disponibilidade da seguradora e da situação financeira do cliente.
 
 ## Termos relacionados
 
@@ -66,4 +79,5 @@ Pagamento mensal facilita dividir o valor. Pagamento anual concentra tudo de uma
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

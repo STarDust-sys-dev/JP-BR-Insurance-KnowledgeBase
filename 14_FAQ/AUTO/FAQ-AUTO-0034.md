@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Existe prazo extra se eu não conseguir pagar no dia?
 
+## Consulta natural em japonês
+
+- 払込猶予期間は自動車保険で必ずありますか。
+- 支払日に払えないお客様へ猶予期間をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer saber se há tolerância após a data de pagamento.
@@ -30,6 +35,14 @@ Cliente quer saber se há tolerância após a data de pagamento.
 ## Como responder ao cliente brasileiro
 
 Alguns contratos podem ter prazo de tolerância, mas isso depende da regra da seguradora. Não é seguro contar com isso sem confirmar.
+
+## Próximo passo seguro
+
+Verificar se o contrato possui 払込猶予期間, qual é o prazo e quais consequências ocorrem se o pagamento não for regularizado.
+
+## Limite comercial/compliance
+
+O corretor não deve presumir prazo de tolerância nem orientar o cliente a depender dele. A existência e os efeitos do prazo dependem das condições oficiais do contrato.
 
 ## Termos relacionados
 
@@ -66,4 +79,5 @@ Alguns contratos podem ter prazo de tolerância, mas isso depende da regra da se
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

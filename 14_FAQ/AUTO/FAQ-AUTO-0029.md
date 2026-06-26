@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Posso pagar o seguro por mês?
 
+## Consulta natural em japonês
+
+- 月払で自動車保険料を支払うことはできますか。
+- 月払を希望するブラジル人のお客様に何を確認しますか。
+
 ## Situação de atendimento
 
 Cliente prefere dividir o prêmio em pagamentos mensais.
@@ -30,6 +35,14 @@ Cliente prefere dividir o prêmio em pagamentos mensais.
 ## Como responder ao cliente brasileiro
 
 Em muitos casos é possível pagar por mês, mas precisamos confirmar se essa opção está disponível para o seu contrato e qual será o valor mensal.
+
+## Próximo passo seguro
+
+Confirmar se 月払 está disponível para o produto, qual será o valor mensal, qual forma de cobrança será usada e se existe diferença em relação ao pagamento anual.
+
+## Limite comercial/compliance
+
+O corretor pode explicar a possibilidade de pagamento mensal, mas não deve garantir disponibilidade, valor ou aceitação da forma de cobrança sem confirmação da seguradora.
 
 ## Termos relacionados
 
@@ -66,4 +79,5 @@ Em muitos casos é possível pagar por mês, mas precisamos confirmar se essa op
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
