@@ -65,7 +65,7 @@ Reduzir expectativa incorreta antes da emissão e explicar que aceitação depen
 
 ## Casos relacionados
 
-- CASE-MED-0025
+- CASE-MED-0024
 
 ## Referências cruzadas
 
@@ -77,7 +77,7 @@ Reduzir expectativa incorreta antes da emissão e explicar que aceitação depen
 - FAQ-MED-0058
 - FAQ-MED-0059
 - FAQ-MED-0060
-- CASE-MED-0025
+- CASE-MED-0024
 
 ## Tags
 

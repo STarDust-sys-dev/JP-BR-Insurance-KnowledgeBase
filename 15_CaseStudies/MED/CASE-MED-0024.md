@@ -44,26 +44,40 @@ Cliente entende o processo de aceitação e decide com clareza sobre condições
 - MED-0055
 - MED-0056
 - MED-0057
+- MED-0058
+- MED-0059
+- MED-0060
 
 ## FAQs relacionadas
 
 - FAQ-MED-0055
 - FAQ-MED-0056
 - FAQ-MED-0057
+- FAQ-MED-0058
+- FAQ-MED-0059
+- FAQ-MED-0060
 
 ## Diálogos relacionados
 
 - DIALOGUE-MED-0014
+- DIALOGUE-MED-0015
 
 ## Referências cruzadas
 
 - MED-0055
 - MED-0056
 - MED-0057
+- MED-0058
+- MED-0059
+- MED-0060
 - FAQ-MED-0055
 - FAQ-MED-0056
 - FAQ-MED-0057
+- FAQ-MED-0058
+- FAQ-MED-0059
+- FAQ-MED-0060
 - DIALOGUE-MED-0014
+- DIALOGUE-MED-0015
 
 ## Referências
 
@@ -79,6 +93,7 @@ Cliente entende o processo de aceitação e decide com clareza sobre condições
 ## Veja também
 
 - `13_Dialogues/MED/DIALOGUE-MED-0014.md`
+- `13_Dialogues/MED/DIALOGUE-MED-0015.md`
 
 ## Histórico de revisão
 

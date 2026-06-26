@@ -28,6 +28,10 @@
 - Atualização do índice `VIDA_INDEX_0001.md` e correção do histórico inicial do índice VIDA.
 - Documentos consolidados do segundo ciclo VIDA em Markdown, DOCX e PDF.
 
+### Corrigido
+
+- Corrigida referência cruzada inexistente `CASE-MED-0025` em `DIALOGUE-MED-0015`, direcionando para `CASE-MED-0024` e ampliando o caso relacionado com `MED-0058` a `MED-0060`.
+
 ## 2026-06-25
 
 ### Adicionado
