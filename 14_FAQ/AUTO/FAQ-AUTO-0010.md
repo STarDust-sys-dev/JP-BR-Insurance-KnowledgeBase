@@ -2,7 +2,7 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial; reforço NotebookLM e compliance.

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.3
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço de consulta japonesa, próximo passo e limite comercial.
 
 ## Código
 
@@ -40,6 +40,10 @@ A declaração de saúde precisa ser verdadeira e completa. Se alguma informaç�
 
 O corretor deve explicar a importância da declaração correta, mas não deve decidir aceitação, cobertura ou pagamento. A decisão depende da análise formal da seguradora.
 
+## Próximo passo seguro
+
+Orientar o cliente a responder exatamente ao que foi perguntado no formulário, conferir datas, tratamentos e medicamentos, e pedir confirmação à seguradora quando houver dúvida sobre como declarar.
+
 ## Termos relacionados
 
 - VIDA-0018 - 告知義務 - Obrigação de declaração de saúde
@@ -68,5 +72,6 @@ O corretor deve explicar a importância da declaração correta, mas não deve d
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.3 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo seguro e ajuste de controle de versão. |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Reforço de consulta japonesa e limite comercial sobre declaração de saúde. |
+| 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

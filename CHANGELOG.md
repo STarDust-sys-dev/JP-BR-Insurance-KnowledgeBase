@@ -16,6 +16,7 @@
 - Revisao `00_Project/SUBAGENT_STRUCTURE_REVIEW_2026-06-26.md` avaliando o resultado do piloto e transformando warnings em backlog editorial.
 - Templates de FAQ, dialogo e estudo de caso reforcados com consulta natural em japones, proximo passo e limite comercial/compliance quando aplicavel.
 - Primeiro ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0002`, `FAQ-AUTO-0004`, `FAQ-AUTO-0006`, `FAQ-AUTO-0007`, `FAQ-AUTO-0008`, `FAQ-AUTO-0009`, `FAQ-AUTO-0010`, `FAQ-AUTO-0020`, `FAQ-AUTO-0025` e `FAQ-AUTO-0028`.
+- Primeiro ciclo de normalizacao de FAQs sensiveis VIDA: `FAQ-VIDA-0018`, `FAQ-VIDA-0041`, `FAQ-VIDA-0042`, `FAQ-VIDA-0044`, `FAQ-VIDA-0045`, `FAQ-VIDA-0049`, `FAQ-VIDA-0050`, `FAQ-VIDA-0053`, `FAQ-VIDA-0085` e `FAQ-VIDA-0094`.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
@@ -44,6 +45,7 @@
 
 - Normalizados `DIALOGUE-MED-0006` a `DIALOGUE-MED-0015` com participantes, versao japonesa, versao em portugues brasileiro, notas culturais/comerciais e pontos de atencao para o corretor.
 - Reforcados `FAQ-VIDA-0018`, `FAQ-MED-0037`, `DIALOGUE-MED-0012` e `CASE-AUTO-0038` com consulta japonesa, linguagem mais natural, proximo passo ou limite comercial/compliance.
+- Normalizado controle de versao das FAQs AUTO e VIDA alteradas nos ciclos de compliance para alinhar campo `Versao` e historico de revisao.
 - Corrigida referência cruzada inexistente `CASE-MED-0025` em `DIALOGUE-MED-0015`, direcionando para `CASE-MED-0024` e ampliando o caso relacionado com `MED-0058` a `MED-0060`.
 
 ### Definido

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Preciso informar doença antiga?
 
+## Consulta natural em japonês
+
+- 以前の病気も告知する必要がありますか。
+- 既往症をブラジル人のお客様にどう説明すればよいですか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Doença, condição ou histórico médico existente antes da contratação do se
 ## Como responder ao cliente brasileiro
 
 Doença anterior precisa ser declarada quando perguntada; omitir pode causar problema depois.
+
+## Próximo passo seguro
+
+Conferir se o questionário pergunta sobre a doença, período, tratamento, cirurgia, exame ou acompanhamento médico, e orientar o cliente a declarar quando a pergunta se aplicar.
+
+## Limite comercial/compliance
+
+O corretor não deve dizer que doença antiga “não importa” nem decidir se uma informação pode ser omitida. A seguradora avalia a declaração conforme o formulário, documentos e regras de aceitação.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Doença anterior precisa ser declarada quando perguntada; omitir pode causar pro
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

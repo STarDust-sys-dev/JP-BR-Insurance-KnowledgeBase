@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 A proposta já garante que estou coberto?
 
+## Consulta natural em japonês
+
+- 申込書を出したら、もう保障は始まっていますか。
+- 生命保険の申込後に保障開始をブラジル人のお客様へどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Documento usado para solicitar contratação do seguro de vida com dados do clie
 ## Como responder ao cliente brasileiro
 
 A proposta ainda precisa ser analisada e aceita pela seguradora; ela não significa cobertura automática.
+
+## Próximo passo seguro
+
+Explicar que a proposta será analisada, confirmar se há pagamento inicial ou data prevista, e aguardar a confirmação formal de aceitação e início da cobertura.
+
+## Limite comercial/compliance
+
+O corretor não deve dizer que o cliente já está coberto apenas porque assinou ou enviou a proposta. Cobertura, início de vigência e aceitação dependem das regras do produto, documentos, pagamento quando aplicável e confirmação formal da seguradora.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A proposta ainda precisa ser analisada e aceita pela seguradora; ela não signif
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
