@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -38,6 +38,10 @@ Enviar a proposta não significa aprovação automática. Vamos aguardar a anál
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e decide com clareza sobre condições do contrato.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, pagamento, prazo, diagnóstico, enquadramento médico ou resultado de análise. A decisão final depende do contrato, declaração de saúde, documentos médicos, datas relevantes e avaliação da seguradora.
 
 ## Termos relacionados
 
@@ -100,3 +104,4 @@ Cliente entende o processo de aceitação e decide com clareza sobre condições
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
