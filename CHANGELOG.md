@@ -20,6 +20,7 @@
 - Primeiro ciclo de normalizacao de FAQs sensiveis MED: `FAQ-MED-0008`, `FAQ-MED-0019`, `FAQ-MED-0034`, `FAQ-MED-0037`, `FAQ-MED-0038`, `FAQ-MED-0046`, `FAQ-MED-0048`, `FAQ-MED-0049`, `FAQ-MED-0051` e `FAQ-MED-0053`.
 - Segundo ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0029`, `FAQ-AUTO-0030`, `FAQ-AUTO-0031`, `FAQ-AUTO-0032`, `FAQ-AUTO-0033`, `FAQ-AUTO-0034`, `FAQ-AUTO-0035`, `FAQ-AUTO-0036`, `FAQ-AUTO-0038` e `FAQ-AUTO-0039`.
 - Terceiro ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0040` a `FAQ-AUTO-0049`, cobrindo culpa, acordo, danos, reparo, avaliacao, perda total/parcial, guincho, oficina e decisao da seguradora.
+- Quarto ciclo de normalizacao de FAQs sensiveis AUTO: `FAQ-AUTO-0050` a `FAQ-AUTO-0059`, cobrindo papel da corretora, proposta, declaracoes, alteracoes, apolice, renovacao, interrupcao e exclusoes.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).

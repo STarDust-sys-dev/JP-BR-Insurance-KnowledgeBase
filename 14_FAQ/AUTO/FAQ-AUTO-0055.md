@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Para que serve a apólice?
 
+## Consulta natural em japonês
+
+- 保険証券では何を確認すべきですか。
+- 自動車保険の証券をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender apólice de seguro no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Documento que comprova o contrato de seguro e registra dados principais, cobertu
 ## Como responder ao cliente brasileiro
 
 A apólice mostra as informações do contrato. É importante conferir se os dados estão corretos.
+
+## Próximo passo seguro
+
+Orientar o cliente a conferir nome, veículo, período, coberturas, condutores, prêmio e forma de pagamento assim que receber a apólice.
+
+## Limite comercial/compliance
+
+A apólice registra as condições do contrato; o corretor não deve prometer cobertura fora do que consta nos documentos oficiais.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A apólice mostra as informações do contrato. É importante conferir se os dad
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

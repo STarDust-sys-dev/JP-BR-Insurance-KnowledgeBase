@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Como sei se uma situação está fora da cobertura?
 
+## Consulta natural em japonês
+
+- 補償対象外かどうかはどのように確認しますか。
+- 補償対象外の可能性をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente pergunta se uma situação especial, exclusão ou cobertura adicional se aplica ao seguro de automóvel.
@@ -30,6 +35,14 @@ Situação, dano, uso ou pessoa que não está incluída na proteção contratad
 ## Como responder ao cliente brasileiro
 
 Se algo estiver fora da cobertura, a seguradora pode recusar o pagamento. Vamos conferir antes de orientar o cliente.
+
+## Próximo passo seguro
+
+Comparar a situação concreta com coberturas, exclusões, condutores, uso do veículo e condições da apólice antes de orientar o cliente.
+
+## Limite comercial/compliance
+
+O corretor não deve decidir sozinho se algo está fora ou dentro da cobertura. A seguradora analisará contrato, fatos e documentos para decidir.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Se algo estiver fora da cobertura, a seguradora pode recusar o pagamento. Vamos 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 A proposta já garante cobertura?
 
+## Consulta natural em japonês
+
+- 契約申込書を出したら補償は始まりますか。
+- 自動車保険の申込書と契約成立の違いをどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender proposta de contratação no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Documento usado para solicitar a contratação do seguro, contendo dados do clie
 ## Como responder ao cliente brasileiro
 
 A proposta ainda precisa ser aceita pela seguradora. Por isso, proposta não é sempre a mesma coisa que contrato ativo.
+
+## Próximo passo seguro
+
+Confirmar se a proposta foi aceita, se há data de início definida, pagamento exigido e documento de confirmação da seguradora antes de informar cobertura.
+
+## Limite comercial/compliance
+
+O corretor não deve dizer que a proposta garante cobertura automática. Aceitação, vigência e cobertura dependem da confirmação formal da seguradora e das condições do contrato.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A proposta ainda precisa ser aceita pela seguradora. Por isso, proposta não é 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

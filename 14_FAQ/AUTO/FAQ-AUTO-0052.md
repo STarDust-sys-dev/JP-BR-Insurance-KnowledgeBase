@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ AUTO
 
 Por que preciso declarar tudo corretamente?
 
+## Consulta natural em japonês
+
+- 告知事項を正しく申告しないとどうなりますか。
+- 自動車保険の申告事項をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa entender informações declaradas na contratação no contexto de atendimento de seguro de automóvel.
@@ -30,6 +35,14 @@ Informações que o cliente deve declarar corretamente ao contratar o seguro, co
 ## Como responder ao cliente brasileiro
 
 Se uma informação importante for omitida ou estiver errada, isso pode causar problema no contrato ou em um sinistro.
+
+## Próximo passo seguro
+
+Orientar o cliente a responder corretamente sobre veículo, condutores, uso, endereço e demais informações pedidas, corrigindo dúvidas antes da contratação.
+
+## Limite comercial/compliance
+
+O corretor não deve sugerir omissão nem minimizar informação relevante. Informação incorreta pode afetar aceitação, prêmio, continuidade ou pagamento de sinistro.
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Se uma informação importante for omitida ou estiver errada, isso pode causar p
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
