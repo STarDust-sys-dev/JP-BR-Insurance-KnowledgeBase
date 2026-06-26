@@ -1,16 +1,22 @@
-# VIDA_CASES_0017_0024 - Terceiro ciclo de estudos de caso VIDA
+# VIDA_CASES_0017_0024 - Estudos de caso VIDA
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com limite comercial/compliance.
+
+## Conteúdo consolidado
 
 # CASE-VIDA-0017 - Cliente acha que proposta já garante cobertura
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -43,6 +49,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -86,6 +96,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -93,10 +104,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -129,6 +140,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -182,6 +197,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -189,10 +205,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -225,6 +241,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -272,6 +292,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -279,10 +300,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -315,6 +336,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -362,6 +387,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -369,10 +395,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -405,6 +431,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -448,6 +478,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -455,10 +486,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -491,6 +522,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -534,6 +569,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -541,10 +577,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -577,6 +613,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -620,6 +660,7 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -627,10 +668,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -663,6 +704,10 @@ A contratação passa por análise. O mais importante é responder corretamente 
 ## Resultado esperado
 
 Cliente entende o processo de aceitação e evita problemas por informação incompleta ou expectativa indevida.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -718,3 +763,10 @@ Cliente entende o processo de aceitação e evita problemas por informação inc
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização de compliance dos estudos de caso VIDA. |

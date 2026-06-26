@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -38,6 +38,10 @@ Antes de escolher o seguro, precisamos entender quem será protegido, quem receb
 ## Resultado esperado
 
 Cliente compreende os fundamentos e consegue comparar opções sem confundir tipos de cobertura.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -89,3 +93,4 @@ Cliente compreende os fundamentos e consegue comparar opções sem confundir tip
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |

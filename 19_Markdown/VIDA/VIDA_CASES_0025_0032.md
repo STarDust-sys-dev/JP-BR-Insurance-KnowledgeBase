@@ -1,16 +1,22 @@
-# VIDA_CASES_0025_0032 - Quarto ciclo de estudos de caso VIDA
+# VIDA_CASES_0025_0032 - Estudos de caso VIDA
 
+## Controle
 
----
+- Versão: 0.2
+- Data: 2026-06-26
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada com limite comercial/compliance.
+
+## Conteúdo consolidado
 
 # CASE-VIDA-0025 - Família solicita indenização por morte
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -43,6 +49,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -92,6 +102,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -99,10 +110,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -135,6 +146,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -178,6 +193,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -185,10 +201,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -221,6 +237,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -268,6 +288,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -275,10 +296,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -311,6 +332,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -354,6 +379,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -361,10 +387,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -397,6 +423,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -444,6 +474,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -451,10 +482,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -487,6 +518,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -530,6 +565,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -537,10 +573,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -573,6 +609,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -616,6 +656,7 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
 
 ---
 
@@ -623,10 +664,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; inclusão de limite comercial/compliance.
 
 ## Código
 
@@ -659,6 +700,10 @@ Vamos reunir os documentos corretos e acompanhar a análise. O pagamento depende
 ## Resultado esperado
 
 Solicitação organizada, cliente orientado e menor risco de atraso por documentação incompleta.
+
+## Limite comercial/compliance
+
+O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo, benefício fiscal, manutenção de contrato ou resultado de análise. A decisão final depende da apólice, declaração de saúde, documentos, situação familiar, regras fiscais quando aplicáveis e avaliação da seguradora ou órgão competente.
 
 ## Termos relacionados
 
@@ -710,3 +755,10 @@ Solicitação organizada, cliente orientado e menor risco de atraso por document
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Regeneração do pacote com normalização de compliance dos estudos de caso VIDA. |

@@ -34,6 +34,7 @@
 - Sexto ciclo de normalizacao de FAQs VIDA: `FAQ-VIDA-0081` a `FAQ-VIDA-0100`, cobrindo conferencia contratual, alteracoes, endereco, nome, beneficiario, representante, apolice, segunda via, comprovante de deducao, impostos, ajuste de fim de ano, declaracao final, tratamento fiscal, resgate, My Number, protecao de dados, pos-venda, revisao periodica e registro do atendimento.
 - Normalizacao de compliance em estudos de caso AUTO: inclusao de limite comercial/compliance nos casos `CASE-AUTO-0001` a `CASE-AUTO-0044` quando ausente e regeneracao dos pacotes consolidados `AUTO_CASES`.
 - Normalizacao de compliance em estudos de caso MED: inclusao de limite comercial/compliance em `CASE-MED-0001` a `CASE-MED-0024` e regeneracao dos pacotes consolidados `MED_CASES`.
+- Normalizacao de compliance em estudos de caso VIDA: inclusao de limite comercial/compliance em `CASE-VIDA-0001` a `CASE-VIDA-0040` e regeneracao dos pacotes consolidados `VIDA_CASES`.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
