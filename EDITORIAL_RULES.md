@@ -20,6 +20,8 @@ O `EDITORIAL_RULES.md` define como a especificação será aplicada no trabalho 
 - Sempre utilizar linguagem natural.
 - Sempre escrever pensando no atendimento entre corretor japonês e cliente brasileiro residente no Japão.
 - Nunca usar romaji.
+- Priorizar a recuperacao em japones para o corretor nativo japones, sem reduzir a clareza em portugues brasileiro para o cliente.
+- Resolver problemas recorrentes pela causa raiz, com validacao objetiva, antes de continuar a producao em massa.
 
 ## Escopo permanente
 
@@ -102,6 +104,20 @@ Títulos de estudos de caso devem indicar situação, produto e problema central
 
 Todo novo conteúdo deve respeitar os termos já definidos no glossário, no dicionário mestre e nos documentos anteriores. Quando um novo termo técnico for criado, ele deverá ser registrado com código, categoria, definição, explicação simplificada e referências cruzadas.
 
+Termos gerais que aparecem em mais de uma categoria, como `保険料`, `契約者`, `被保険者`, `保険証券`, `告知義務` e `支払査定`, devem ter uma traducao principal no glossario mestre. As categorias podem ter verbetes proprios quando o uso pratico muda por produto, mas devem apontar para a traducao principal e indicar a variacao de contexto.
+
+Duplicidade tecnica aceitavel:
+
+- mesmo termo japones em produtos diferentes com aplicacao pratica diferente
+- mesma traducao em portugues para conceito geral usado em varias categorias
+- termo geral repetido quando o atendimento exige explicacao especifica por produto
+
+Duplicidade tecnica nao aceitavel:
+
+- dois codigos na mesma categoria para o mesmo conceito sem justificativa
+- traducao diferente para o mesmo termo sem nota editorial
+- referencia cruzada apontando para documento inexistente
+
 ## Referências
 
 Referências devem indicar a origem técnica da informação sempre que houver fonte, norma, documento interno, termo relacionado ou conteúdo já existente.
@@ -114,8 +130,10 @@ Cada FAQ deverá conter:
 
 - Código
 - Pergunta
-- Resposta curta
-- Resposta explicada
+- Resposta técnica
+- Como responder ao cliente brasileiro
+- Resposta curta, quando a FAQ for usada diretamente em materiais de treinamento rapido
+- Resposta explicada, quando a pergunta envolver objecao, clausula sensivel ou risco de ma interpretacao
 - Termos relacionados
 - Referências cruzadas
 - Tags
@@ -123,6 +141,8 @@ Cada FAQ deverá conter:
 A pergunta deve refletir uma dúvida real de atendimento.
 
 A resposta deve ser clara, direta e adequada ao cliente brasileiro.
+
+Para recuperacao no NotebookLM, cada FAQ deve conter pelo menos uma frase natural em japones que represente como o corretor pesquisaria a duvida.
 
 ## Diálogos
 
@@ -138,6 +158,20 @@ Cada diálogo deverá conter:
 - Referências cruzadas
 
 Os diálogos devem representar conversas naturais entre corretor japonês e cliente brasileiro residente no Japão.
+
+Os dialogos sao documentos centrais para o objetivo comercial do projeto. Portanto, o padrao completo e obrigatorio:
+
+- Participantes
+- Versao em japones
+- Versao em portugues brasileiro
+- Notas culturais ou comerciais
+- Pontos de atencao para o corretor
+- Termos relacionados
+- FAQs relacionadas
+- Casos relacionados
+- Referencias cruzadas
+
+Dialogos gerados apenas como lista generica de falas devem ser tratados como rascunho e normalizados antes de compor pacotes NotebookLM.
 
 ## Estudos de caso
 
@@ -183,6 +217,47 @@ Cada documento deverá conter:
 ## Referências cruzadas
 
 Todo documento deve indicar documentos relacionados na seção `Veja também`. Verbete, FAQ, diálogo e estudo de caso devem se conectar sempre que tratarem do mesmo termo, produto, situação de atendimento ou regra prática.
+
+## Camada NotebookLM
+
+O projeto deve possuir uma camada de consulta voltada ao corretor japones. Essa camada nao substitui os verbetes, FAQs, dialogos e casos; ela organiza o conteudo para recuperacao pela IA.
+
+Cada categoria deve possuir pacotes NotebookLM com:
+
+- titulo em portugues e termos-chave em japones
+- resumo operacional em portugues
+- perguntas naturais em japones que o corretor faria
+- mapa de termos japoneses para explicacoes em portugues brasileiro
+- frases prontas para atendimento
+- alertas do que nao prometer ao cliente
+- referencias cruzadas para verbetes, FAQs, dialogos e casos
+
+## Pastas por produto
+
+As pastas `04_Automobile`, `05_Life`, `06_Medical`, `07_Fire`, `08_Housing`, `09_Business`, `10_Accident`, `11_Sales` e `12_Service` devem ser usadas como guias de navegacao por produto ou area, nao como duplicacao do dicionario mestre.
+
+O conteudo tecnico oficial continua em:
+
+- `02_MasterDictionary`
+- `13_Dialogues`
+- `14_FAQ`
+- `15_CaseStudies`
+- `16_NotebookLM`
+- `19_Markdown`
+
+Qualquer mudanca nessa divisao deve ser justificada no `CHANGELOG.md`.
+
+## Validacao obrigatoria
+
+Antes de entregas grandes, executar validacoes de:
+
+- codigos duplicados
+- referencias cruzadas inexistentes
+- secoes obrigatorias por tipo de documento
+- ausencia de romaji
+- presenca de conteudo em japones nos documentos destinados ao corretor japones
+- existencia de Markdown, DOCX e PDF para consolidados e indices
+- renderizacao visual quando houver alteracao em DOCX/PDF ou no ambiente de conversao
 
 ## Alterações desta constituição
 

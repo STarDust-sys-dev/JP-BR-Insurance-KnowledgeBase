@@ -4,6 +4,10 @@
 
 ### Adicionado
 
+- Auditoria estrutural `00_Project/PROJECT_AUDIT_2026-06-26.md` com riscos, decisoes editoriais e proximos passos para uso no NotebookLM.
+- Padrao `01_Editorial/JAPANESE_BROKER_NOTEBOOKLM_STANDARD.md` para consulta por corretor japones e atendimento a cliente brasileiro.
+- Glossario mestre `03_Glossary/MASTER_TERMINOLOGY.md` para termos recorrentes entre categorias.
+- Validador `00_Project/validate_project.py` para referencias cruzadas, secoes obrigatorias, romaji e existencia de formatos finais.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
@@ -31,6 +35,10 @@
 ### Corrigido
 
 - Corrigida referência cruzada inexistente `CASE-MED-0025` em `DIALOGUE-MED-0015`, direcionando para `CASE-MED-0024` e ampliando o caso relacionado com `MED-0058` a `MED-0060`.
+
+### Definido
+
+- `EDITORIAL_RULES.md` atualizado para exigir camada NotebookLM orientada ao corretor japones, controle de termos recorrentes e validacao automatica antes de entregas grandes.
 
 ## 2026-06-25
 
