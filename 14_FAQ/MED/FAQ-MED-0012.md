@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Quais são as três doenças graves?
 
+## Consulta natural em japonês
+
+- 三大疾病とは何ですか。
+- がん・急性心筋梗塞・脳卒中をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
@@ -30,6 +35,14 @@ Cobertura relacionada a câncer, infarto e acidente vascular cerebral, conforme 
 ## Como responder ao cliente brasileiro
 
 As três doenças têm critérios próprios; não basta qualquer diagnóstico parecido.
+
+## Próximo passo seguro
+
+対象疾病の定義、支払条件、所定状態、入院・手術要件、待機期間を確認する。
+
+## Limite comercial/compliance
+
+一般的な病名と保険上の三大疾病定義が異なる場合があるため、支払条件を必ず確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ As três doenças têm critérios próprios; não basta qualquer diagnóstico pa
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

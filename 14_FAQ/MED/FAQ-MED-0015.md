@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Gravidez e parto são cobertos?
 
+## Consulta natural em japonês
+
+- 妊娠や出産は医療保険で保障されますか。
+- 正常分娩と異常分娩の違いをブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
@@ -30,6 +35,14 @@ Condição relacionada a gestação e parto, que pode ter regra específica de c
 ## Como responder ao cliente brasileiro
 
 Gravidez e parto têm regras próprias; não devemos presumir cobertura.
+
+## Próximo passo seguro
+
+正常分娩、異常分娩、帝王切開、妊娠前後の加入時期、告知内容を確認する。
+
+## Limite comercial/compliance
+
+妊娠・出産は商品や状態で扱いが異なるため、支払や加入可否を断定しない。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Gravidez e parto têm regras próprias; não devemos presumir cobertura.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

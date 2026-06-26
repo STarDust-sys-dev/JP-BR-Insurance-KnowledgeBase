@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Quando recebo benefício por diagnóstico de câncer?
 
+## Consulta natural em japonês
+
+- がん診断給付金はいつ受け取れますか。
+- がん診断一時金の条件をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
@@ -30,6 +35,14 @@ Valor pago quando há diagnóstico de câncer que atende aos requisitos do contr
 ## Como responder ao cliente brasileiro
 
 O diagnóstico precisa cumprir as regras do contrato para gerar pagamento.
+
+## Próximo passo seguro
+
+診断確定日、病理診断、待機期間、再発・複数回支払条件、必要書類を確認する。
+
+## Limite comercial/compliance
+
+がんという言葉だけで支払を約束せず、約款上の定義と診断書を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ O diagnóstico precisa cumprir as regras do contrato para gerar pagamento.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

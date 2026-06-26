@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ MED
 
 Doença que eu já tenho influencia o seguro?
 
+## Consulta natural em japonês
+
+- 持病や既往症は医療保険に影響しますか。
+- 既にある病気をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
@@ -30,6 +35,14 @@ Doença ou condição de saúde já existente, que pode influenciar contrataçã
 ## Como responder ao cliente brasileiro
 
 Doença prévia precisa ser informada corretamente quando perguntada.
+
+## Próximo passo seguro
+
+既往症、治療歴、服薬、検査結果、告知期間、特別条件や不担保の可能性を確認する。
+
+## Limite comercial/compliance
+
+持病があっても必ず加入できる、または必ず断られるとは言わず、正確な告知を前提に案内する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Doença prévia precisa ser informada corretamente quando perguntada.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
