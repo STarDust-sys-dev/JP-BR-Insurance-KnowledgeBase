@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
+- Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
 - Índice `MED_INDEX_0003.md` para NotebookLM com foco em proposta, declaração de saúde, análise de aceitação, condições especiais, apólice e alteração contratual.
 - Documentos consolidados do terceiro ciclo MED em Markdown, DOCX e PDF.
