@@ -1,0 +1,76 @@
+# FAQ-FIRE-0009 - Como explicar queda de raio no seguro contra incêndio?
+
+## Controle
+
+- Versão: 0.1
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Criação inicial.
+
+## Código
+
+FAQ-FIRE-0009
+
+## Categoria
+
+FIRE
+
+## Pergunta
+
+Como explicar queda de raio no seguro contra incêndio?
+
+## Consulta natural em japonês
+
+- 落雷とは何ですか。
+- ブラジル人のお客様に落雷をどう説明しますか。
+
+## Situação de atendimento
+
+Cliente brasileiro quer entender queda de raio dentro do seguro residencial ou seguro contra incêndio no Japão.
+
+## Resposta técnica
+
+Dano causado por descarga atmosférica direta ou efeito previsto na cobertura contratada.
+
+## Como responder ao cliente brasileiro
+
+Precisamos verificar se o dano foi causado por raio e quais documentos comprovam a ocorrência.
+
+## Próximo passo seguro
+
+契約条件、補償範囲、免責金額、必要書類を確認してから具体的に案内する。
+
+## Limite comercial/compliance
+
+火災保険は補償範囲、免責金額、事故原因、証明書類によって支払可否が変わるため、一般説明だけで保険金支払いを断定しない。
+
+## Termos relacionados
+
+- FIRE-0009 - 落雷 - Queda de raio
+
+## Referências cruzadas
+
+- FIRE-0009
+- DIALOGUE-FIRE-0003
+- CASE-FIRE-0003
+
+## Referências
+
+- Documento interno: `02_MasterDictionary/FIRE/FIRE-0009.md`
+
+## Tags
+
+- faq
+- fire
+- queda-de-raio
+- atendimento
+
+## Veja também
+
+- `02_MasterDictionary/FIRE/FIRE-0009.md`
+
+## Histórico de revisão
+
+| Data | Versão | Autor | Alteração |
+| --- | --- | --- | --- |
+| 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

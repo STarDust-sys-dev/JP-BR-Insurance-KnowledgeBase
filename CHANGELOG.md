@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Abertura da categoria FIRE: criação dos primeiros 20 verbetes, 20 FAQs, 5 diálogos, 8 estudos de caso, guia de navegação, índice NotebookLM e pacote NotebookLM, com versões Markdown, DOCX e PDF.
+
 - Normalizacao dos dialogos MED iniciais: inclusao de pontos de atencao para o corretor e casos relacionados em `DIALOGUE-MED-0001` a `DIALOGUE-MED-0005`, com regeneracao do pacote `MED_DIALOGUES_0001_0005`.
 
 ## 2026-06-26
