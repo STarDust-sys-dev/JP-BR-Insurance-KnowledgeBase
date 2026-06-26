@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Quais documentos são necessários em caso de falecimento?
 
+## Consulta natural em japonês
+
+- 死亡保険金請求で必要な書類は何ですか。
+- 死亡時の必要書類をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Documento médico que comprova a morte e indica causa ou informações necessár
 ## Como responder ao cliente brasileiro
 
 Para seguro por morte, normalmente é necessário documento oficial que comprove o falecimento.
+
+## Próximo passo seguro
+
+死亡診断書、戸籍・住民票、本人確認、受取人口座、請求書を確認する。
+
+## Limite comercial/compliance
+
+必要書類は契約・受取人・死亡状況で変わるため、個別に確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Para seguro por morte, normalmente é necessário documento oficial que comprove
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

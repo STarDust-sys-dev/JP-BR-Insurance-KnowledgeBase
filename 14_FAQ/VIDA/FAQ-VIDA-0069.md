@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Qual conta bancária deve ser informada?
 
+## Consulta natural em japonês
+
+- 保険金の振込口座は誰の口座ですか。
+- 銀行口座情報をどう確認しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Conta indicada para recebimento de indenização ou benefício, conforme titular
 ## Como responder ao cliente brasileiro
 
 A conta precisa estar correta e normalmente deve pertencer à pessoa que tem direito ao pagamento.
+
+## Próximo passo seguro
+
+受取人名義、金融機関、支店、口座番号、名義表記を確認する。
+
+## Limite comercial/compliance
+
+他人名義口座に支払えるとは説明せず、保険会社規定を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A conta precisa estar correta e normalmente deve pertencer à pessoa que tem dir
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

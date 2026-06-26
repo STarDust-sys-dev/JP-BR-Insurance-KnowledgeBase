@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que acontece se o beneficiário for menor de idade?
 
+## Consulta natural em japonês
+
+- 受取人が未成年の場合はどうなりますか。
+- 未成年受取人の手続きをどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Beneficiário que ainda não atingiu maioridade, exigindo cuidados documentais e
 ## Como responder ao cliente brasileiro
 
 Quando o beneficiário é menor, pode haver procedimento especial para receber o valor.
+
+## Próximo passo seguro
+
+親権者、法定代理人、必要書類、口座名義、家庭裁判所関与の有無を確認する。
+
+## Limite comercial/compliance
+
+未成年本人だけで手続できるとは説明せず、法定代理人の確認を行う。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Quando o beneficiário é menor, pode haver procedimento especial para receber o
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

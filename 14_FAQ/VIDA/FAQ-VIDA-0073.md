@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Quanto tempo demora para receber?
 
+## Consulta natural em japonês
+
+- 保険金の受け取りまでどれくらいかかりますか。
+- 支払までの期間をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Prazo previsto para pagamento após recebimento de documentos completos e conclu
 ## Como responder ao cliente brasileiro
 
 O prazo depende de documentos completos e da análise da seguradora.
+
+## Próximo passo seguro
+
+書類到着日、不備有無、調査要否、保険会社の標準処理期間を確認する。
+
+## Limite comercial/compliance
+
+具体的な入金日を保証せず、審査状況と金融機関反映を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ O prazo depende de documentos completos e da análise da seguradora.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

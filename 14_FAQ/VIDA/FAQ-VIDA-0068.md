@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Por que preciso enviar documento de identificação?
 
+## Consulta natural em japonês
+
+- 本人確認書類はなぜ必要ですか。
+- 身分証明書提出をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Documento usado para confirmar identidade de segurado, contratante ou beneficiá
 ## Como responder ao cliente brasileiro
 
 A seguradora precisa confirmar quem está solicitando ou recebendo o valor.
+
+## Próximo passo seguro
+
+請求者、受取人、代理人、本人確認書類の種類と有効期限を確認する。
+
+## Limite comercial/compliance
+
+個人情報は正式ルートで提出し、不要な共有を避ける。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A seguradora precisa confirmar quem está solicitando ou recebendo o valor.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

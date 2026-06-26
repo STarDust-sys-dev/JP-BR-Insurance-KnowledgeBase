@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Por que a seguradora pode não pagar?
 
+## Consulta natural em japonês
+
+- 生命保険金が支払われない理由は何ですか。
+- 不払理由をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Situação em que a seguradora não paga por falta de cobertura, exclusão, decl
 ## Como responder ao cliente brasileiro
 
 Se a seguradora recusar, precisamos entender o motivo e explicar com base no contrato.
+
+## Próximo passo seguro
+
+免責、告知義務違反、支払事由不該当、書類不足、契約失効を確認する。
+
+## Limite comercial/compliance
+
+不払理由を推測で断定せず、保険会社の正式通知を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Se a seguradora recusar, precisamos entender o motivo e explicar com base no con
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

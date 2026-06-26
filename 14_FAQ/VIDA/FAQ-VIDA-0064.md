@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Por que a seguradora pede relatório médico?
 
+## Consulta natural em japonês
+
+- 医師の診断書や報告書はなぜ必要ですか。
+- 医療報告書の提出理由をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Documento médico que descreve diagnóstico, tratamento, período, cirurgia ou c
 ## Como responder ao cliente brasileiro
 
 O relatório médico ajuda a seguradora a confirmar se o evento está coberto.
+
+## Próximo passo seguro
+
+診断名、発生日、治療内容、障害状態、保険会社指定書式を確認する。
+
+## Limite comercial/compliance
+
+医師の記載内容を代理店が変更・解釈して支払可否を断定しない。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ O relatório médico ajuda a seguradora a confirmar se o evento está coberto.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

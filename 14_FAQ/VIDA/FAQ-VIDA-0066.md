@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Por que pode ser pedido registro familiar japonês?
 
+## Consulta natural em japonês
+
+- 戸籍謄本が必要になるのはなぜですか。
+- 日本の戸籍書類をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Documento oficial japonês que pode comprovar relações familiares, óbito ou d
 ## Como responder ao cliente brasileiro
 
 Em alguns casos, a seguradora pode pedir documento oficial para confirmar família ou falecimento.
+
+## Próximo passo seguro
+
+死亡事実、相続関係、受取人確認、法定相続人確認の必要性を確認する。
+
+## Limite comercial/compliance
+
+外国籍や家族関係が絡む場合は追加書類が必要になる可能性を説明する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Em alguns casos, a seguradora pode pedir documento oficial para confirmar famíl
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

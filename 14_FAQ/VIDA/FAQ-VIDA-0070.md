@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que a seguradora analisa antes de pagar?
 
+## Consulta natural em japonês
+
+- 保険会社は支払前に何を審査しますか。
+- 支払査定をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Processo em que a seguradora verifica documentos, cobertura, causa e condições
 ## Como responder ao cliente brasileiro
 
 A seguradora precisa analisar se tudo está dentro do contrato antes de pagar.
+
+## Próximo passo seguro
+
+契約条件、支払事由、告知内容、免責、不払事由、提出書類を確認する。
+
+## Limite comercial/compliance
+
+代理店が査定結果を先に約束せず、正式通知を待つ。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A seguradora precisa analisar se tudo está dentro do contrato antes de pagar.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

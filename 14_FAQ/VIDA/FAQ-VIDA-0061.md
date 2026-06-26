@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Como faço para pedir indenização do seguro de vida?
 
+## Consulta natural em japonês
+
+- 生命保険金はどのように請求しますか。
+- 死亡保険金の請求手続きをブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente ou família precisa solicitar indenização, benefício ou orientação documental no seguro de vida.
@@ -30,6 +35,14 @@ Procedimento para solicitar pagamento de indenização após ocorrência de even
 ## Como responder ao cliente brasileiro
 
 Quando acontece um evento coberto, precisamos fazer a solicitação com documentos corretos.
+
+## Próximo passo seguro
+
+契約番号、受取人、死亡日、必要書類、提出方法を確認する。
+
+## Limite comercial/compliance
+
+請求案内はできるが、支払可否や金額は保険会社の査定前に断定しない。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Quando acontece um evento coberto, precisamos fazer a solicitação com document
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
