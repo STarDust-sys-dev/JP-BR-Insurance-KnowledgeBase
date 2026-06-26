@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Segundo ciclo MED com 20 verbetes (`MED-0021` a `MED-0040`), 20 FAQs (`FAQ-MED-0021` a `FAQ-MED-0040`), 5 diálogos (`DIALOGUE-MED-0006` a `DIALOGUE-MED-0010`) e 8 estudos de caso (`CASE-MED-0009` a `CASE-MED-0016`).
+- Índice `MED_INDEX_0002.md` para NotebookLM com foco em solicitação de benefício, documentos médicos, análise de pagamento, pendências e reanálise.
+- Documentos consolidados do segundo ciclo MED em Markdown, DOCX e PDF.
 - Abertura da categoria MED com estrutura editorial dedicada em dicionário mestre, FAQ, diálogos, estudos de caso e consolidados.
 - Primeiro ciclo MED com 20 verbetes (`MED-0001` a `MED-0020`), 20 FAQs (`FAQ-MED-0001` a `FAQ-MED-0020`), 5 diálogos (`DIALOGUE-MED-0001` a `DIALOGUE-MED-0005`) e 8 estudos de caso (`CASE-MED-0001` a `CASE-MED-0008`).
 - Índice inicial `MED_INDEX_0001.md` para NotebookLM e documentos consolidados MED em Markdown, DOCX e PDF.
