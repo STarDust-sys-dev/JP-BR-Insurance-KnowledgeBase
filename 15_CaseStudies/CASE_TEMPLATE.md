@@ -35,6 +35,20 @@ Como o corretor japonês deve agir, explicar, confirmar informações e conduzir
 
 Explicação em português brasileiro simples, natural e adequada ao atendimento.
 
+## Próximo passo recomendado
+
+Acao pratica para o corretor conduzir o caso sem prometer aceitacao, cobertura, valor, prazo, pagamento, imposto ou decisao da seguradora.
+
+## Limite comercial/compliance
+
+Usar quando o caso tratar de aceitacao, recusa, sinistro, pagamento, exclusao, imposto, culpa, declaracao de saude, prazo, beneficiario ou alteracao contratual.
+
+Texto-base:
+
+```text
+Este material e apoio de atendimento. A decisao final sobre aceitacao, cobertura, valor, prazo, pagamento, recusa ou imposto depende dos documentos oficiais, das condicoes do contrato, da situacao concreta e da analise da seguradora ou autoridade competente.
+```
+
 ## Resultado esperado
 
 O que deve ficar claro para o cliente ao final do atendimento.

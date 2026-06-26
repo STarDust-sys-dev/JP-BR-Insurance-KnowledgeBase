@@ -24,6 +24,10 @@ Descrever a situação prática da conversa entre corretor japonês e cliente br
 
 Indicar o objetivo comercial, técnico ou explicativo da conversa.
 
+## Consulta natural em japonês
+
+- Corretor japonês pesquisa no NotebookLM usando uma frase natural em japonês, sem romaji.
+
 ## Versão em japonês
 
 **Corretor:**
@@ -43,6 +47,18 @@ Indicar o objetivo comercial, técnico ou explicativo da conversa.
 ## Notas culturais ou comerciais
 
 - 
+
+## Objeção provável do cliente
+
+- Registrar uma objeção realista do cliente brasileiro e uma resposta segura do corretor.
+
+## Pontos de atenção para o corretor
+
+- Indicar o que o corretor deve confirmar, explicar ou evitar prometer.
+
+## Limite comercial/compliance
+
+Usar quando o dialogo tratar de aceitacao, recusa, sinistro, pagamento, exclusao, imposto, culpa, declaracao de saude, prazo, beneficiario ou alteracao contratual.
 
 ## Termos relacionados
 

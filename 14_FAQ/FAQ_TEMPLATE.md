@@ -19,6 +19,10 @@ FAQ
 
 Pergunta escrita como uma dúvida real de atendimento do cliente brasileiro.
 
+## Consulta natural em japonês
+
+- Corretor japonês pesquisa no NotebookLM usando uma frase natural em japonês, sem romaji.
+
 ## Resposta curta
 
 Resposta direta, simples e útil para atendimento rápido.
@@ -30,6 +34,20 @@ Explicação completa em português brasileiro, com linguagem natural e sem trad
 ## Orientação ao corretor
 
 Como o corretor japonês deve conduzir a explicação, incluindo cuidados comerciais, culturais ou técnicos.
+
+## Próximo passo seguro
+
+Indicar a próxima ação prática: documento a confirmar, dado a coletar, explicação a reforçar ou consulta à seguradora.
+
+## Limite comercial/compliance
+
+Usar quando a FAQ tratar de aceitação, recusa, sinistro, pagamento, exclusão, imposto, culpa, declaração de saúde, prazo, beneficiário ou alteração contratual.
+
+Texto-base:
+
+```text
+Este material e apoio de atendimento. A decisao final sobre aceitacao, cobertura, valor, prazo, pagamento, recusa ou imposto depende dos documentos oficiais, das condicoes do contrato, da situacao concreta e da analise da seguradora ou autoridade competente.
+```
 
 ## Termos relacionados
 

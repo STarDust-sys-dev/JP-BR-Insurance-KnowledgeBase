@@ -13,6 +13,8 @@
 - Guias de navegacao por produto em `04_Automobile`, `05_Life` e `06_Medical`, conectando pacotes NotebookLM, indices, verbetes, FAQs, dialogos e casos.
 - Fluxo editorial `01_Editorial/SUBAGENT_EDITORIAL_WORKFLOW.md` para uso controlado de subagentes como equipe de revisao especializada.
 - Relatorio `00_Project/SUBAGENT_PILOT_REPORT_2026-06-26.md` consolidando achados do primeiro piloto com subagentes.
+- Revisao `00_Project/SUBAGENT_STRUCTURE_REVIEW_2026-06-26.md` avaliando o resultado do piloto e transformando warnings em backlog editorial.
+- Templates de FAQ, dialogo e estudo de caso reforcados com consulta natural em japones, proximo passo e limite comercial/compliance quando aplicavel.
 - Documento `00_Project/RENDERING_QA.md` com registro da correção definitiva do ambiente de renderização DOCX e regra permanente de QA visual.
 - Auditoria completa de renderização DOCX concluída com 71 arquivos testados, 71 aprovados e 0 falhas.
 - Terceiro ciclo MED com 20 verbetes (`MED-0041` a `MED-0060`), 20 FAQs (`FAQ-MED-0041` a `FAQ-MED-0060`), 5 diálogos (`DIALOGUE-MED-0011` a `DIALOGUE-MED-0015`) e 8 estudos de caso (`CASE-MED-0017` a `CASE-MED-0024`).
@@ -47,6 +49,7 @@
 
 - `EDITORIAL_RULES.md` atualizado para exigir camada NotebookLM orientada ao corretor japones, controle de termos recorrentes e validacao automatica antes de entregas grandes.
 - `README.md` e `EDITORIAL_RULES.md` atualizados com aviso de uso, limites comerciais e regras de compliance para conteudos sensiveis.
+- `SUBAGENT_EDITORIAL_WORKFLOW.md` atualizado para definir entradas, saidas por papel, consolidacao pelo editor-chefe e criterio de uso dos subagentes.
 
 ## 2026-06-25
 

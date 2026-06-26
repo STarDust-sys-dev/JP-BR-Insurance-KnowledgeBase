@@ -259,6 +259,29 @@ Antes de entregas grandes, executar validacoes de:
 - existencia de Markdown, DOCX e PDF para consolidados e indices
 - renderizacao visual quando houver alteracao em DOCX/PDF ou no ambiente de conversao
 
+## Uso de subagentes
+
+Subagentes podem ser usados para revisao especializada, auditoria editorial e controle de qualidade.
+
+O agente principal permanece como editor-chefe e deve consolidar os pareceres antes de alterar o projeto.
+
+Subagentes devem ser usados principalmente em:
+
+- lotes de FAQs
+- pacotes NotebookLM
+- conteudo sensivel
+- abertura de nova categoria
+- revisoes de qualidade antes de expansao
+
+Todo parecer de subagente deve resultar em uma destas decisoes:
+
+- aplicar agora
+- registrar como backlog
+- rejeitar com justificativa editorial
+- consultar o usuario quando houver risco ou mudanca estrutural relevante
+
+Subagentes nao devem fazer commit direto no fluxo normal do projeto.
+
 ## Limites comerciais e compliance
 
 Todo conteudo sensivel deve conter orientacao clara sobre limites do atendimento do corretor.
