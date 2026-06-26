@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que é seguro temporário prorrogado?
 
+## Consulta natural em japonês
+
+- 延長定期保険とは何ですか。
+- 保険料を払わず一定期間保障を残す方法をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Alteração em que o valor segurado é mantido por prazo menor ou ajustado, usan
 ## Como responder ao cliente brasileiro
 
 Alguns contratos permitem transformar a cobertura em temporária, mas isso depende das regras e valores acumulados.
+
+## Próximo passo seguro
+
+解約返戻金、変更後の保障期間、保障額、特約扱いを確認する。
+
+## Limite comercial/compliance
+
+すべての商品で使える制度ではないため、契約条件と保険会社承認を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Alguns contratos permitem transformar a cobertura em temporária, mas isso depen
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

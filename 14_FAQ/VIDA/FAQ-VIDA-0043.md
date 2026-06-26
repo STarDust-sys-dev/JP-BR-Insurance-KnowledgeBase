@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Minha saúde influencia a contratação?
 
+## Consulta natural em japonês
+
+- 健康状態は生命保険の加入に影響しますか。
+- 健康状態による引受判断をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Estado de saúde atual e histórico médico do segurado, considerado na análise
 ## Como responder ao cliente brasileiro
 
 A seguradora avalia a saúde para decidir se aceita, se muda condições ou se recusa.
+
+## Próximo passo seguro
+
+病歴、治療中の病気、服薬、検査結果、告知内容を確認する。
+
+## Limite comercial/compliance
+
+健康状態だけで加入可否を代理店が断定せず、保険会社の審査結果を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A seguradora avalia a saúde para decidir se aceita, se muda condições ou se r
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

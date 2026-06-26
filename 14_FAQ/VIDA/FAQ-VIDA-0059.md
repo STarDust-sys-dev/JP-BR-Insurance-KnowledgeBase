@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Posso parar de pagar e manter alguma cobertura?
 
+## Consulta natural em japonês
+
+- 保険料の支払いを止めても保障を残せますか。
+- 払済保険をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Alteração em que o contrato deixa de exigir novos pagamentos e mantém cobertu
 ## Como responder ao cliente brasileiro
 
 Em alguns contratos, é possível parar de pagar e manter uma cobertura menor.
+
+## Próximo passo seguro
+
+払済変更の可否、変更後の保障額、特約消滅、返戻金を確認する。
+
+## Limite comercial/compliance
+
+支払い停止だけで保障が残るとは説明せず、正式な変更手続を確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Em alguns contratos, é possível parar de pagar e manter uma cobertura menor.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

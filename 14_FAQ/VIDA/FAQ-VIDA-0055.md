@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Posso desistir depois de contratar?
 
+## Consulta natural em japonês
+
+- 生命保険は契約後に取り消せますか。
+- クーリングオフや取消手続きをどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Direito de cancelar a contratação dentro de prazo e condições definidos, qua
 ## Como responder ao cliente brasileiro
 
 Em alguns casos, é possível desistir dentro de um prazo. Precisamos confirmar a regra aplicável.
+
+## Próximo passo seguro
+
+法定期間、対象契約、書面・電磁的方法、返金条件を確認する。
+
+## Limite comercial/compliance
+
+取消可能と即答せず、期限と対象条件を正式資料で確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Em alguns casos, é possível desistir dentro de um prazo. Precisamos confirmar 
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

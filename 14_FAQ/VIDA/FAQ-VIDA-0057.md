@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Posso reativar um seguro que perdeu validade?
 
+## Consulta natural em japonês
+
+- 失効した生命保険を復活できますか。
+- 復活手続きをブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Procedimento para tentar reativar contrato que perdeu validade, conforme regras 
 ## Como responder ao cliente brasileiro
 
 Nem sempre é automático. Pode exigir pagamento, declaração de saúde e aprovação da seguradora.
+
+## Próximo passo seguro
+
+復活可能期間、未払保険料、健康告知、保険会社承認を確認する。
+
+## Limite comercial/compliance
+
+必ず復活できるとは説明せず、再審査と条件確認が必要と案内する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Nem sempre é automático. Pode exigir pagamento, declaração de saúde e aprov
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

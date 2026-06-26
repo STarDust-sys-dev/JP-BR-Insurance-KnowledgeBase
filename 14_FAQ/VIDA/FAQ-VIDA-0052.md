@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que é exclusão de parte ou doença específica?
 
+## Consulta natural em japonês
+
+- 特定部位や特定疾病の不担保とは何ですか。
+- 一部の病気や部位が対象外になる条件をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Condição em que determinada parte do corpo, doença ou condição fica excluí
 ## Como responder ao cliente brasileiro
 
 A seguradora pode aceitar o contrato, mas excluir determinada doença ou parte relacionada.
+
+## Próximo passo seguro
+
+不担保対象、期間、対象疾病、承諾条件、契約書面を確認する。
+
+## Limite comercial/compliance
+
+条件付き契約の制限を省略せず、契約前に不利益を明確に説明する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ A seguradora pode aceitar o contrato, mas excluir determinada doença ou parte r
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Posso reduzir o valor segurado?
 
+## Consulta natural em japonês
+
+- 生命保険の保険金額を減らせますか。
+- 減額手続きをブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente quer entender contratação, análise de saúde, aceitação ou manutenção do seguro de vida.
@@ -30,6 +35,14 @@ Alteração para reduzir valor de cobertura, geralmente com impacto no prêmio e
 ## Como responder ao cliente brasileiro
 
 Pode reduzir o prêmio, mas também diminui a proteção. Precisa ser avaliado com cuidado.
+
+## Próximo passo seguro
+
+減額後の保障額、保険料、返戻金、特約への影響を確認する。
+
+## Limite comercial/compliance
+
+減額が常に有利とは説明せず、保障不足や元に戻せない可能性を説明する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Pode reduzir o prêmio, mas também diminui a proteção. Precisa ser avaliado c
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
