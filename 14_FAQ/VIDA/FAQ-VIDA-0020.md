@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Quando a cobertura começa?
 
+## Consulta natural em japonês
+
+- 生命保険の保障はいつから始まりますか。
+- 責任開始日をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
@@ -30,6 +35,14 @@ Data a partir da qual a seguradora passa a assumir responsabilidade pela cobertu
 ## Como responder ao cliente brasileiro
 
 A cobertura não começa apenas porque conversamos sobre o seguro. Ela começa conforme a data e as condições aceitas pela seguradora.
+
+## Próximo passo seguro
+
+申込、告知、第一回保険料、承諾、責任開始条件を確認する。
+
+## Limite comercial/compliance
+
+申込書提出だけで保障開始とは説明せず、正式な責任開始条件を確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ A cobertura não começa apenas porque conversamos sobre o seguro. Ela começa c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

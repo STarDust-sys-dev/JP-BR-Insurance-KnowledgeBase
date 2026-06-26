@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que é o valor de indenização?
 
+## Consulta natural em japonês
+
+- 生命保険の保険金額とは何ですか。
+- 死亡時に受け取る金額をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
@@ -30,6 +35,14 @@ Valor pago pela seguradora quando ocorre evento coberto, como morte ou outro eve
 ## Como responder ao cliente brasileiro
 
 Quando acontece uma situação coberta, a seguradora paga o valor definido no contrato.
+
+## Próximo passo seguro
+
+保険金額、特約、減額、免責、不払事由、受取人を確認する。
+
+## Limite comercial/compliance
+
+表示金額が常に支払われるとは断定せず、契約条件と査定を確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Quando acontece uma situação coberta, a seguradora paga o valor definido no co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

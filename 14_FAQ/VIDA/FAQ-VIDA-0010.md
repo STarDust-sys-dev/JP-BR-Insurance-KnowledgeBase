@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Quem é o segurado?
 
+## Consulta natural em japonês
+
+- 生命保険の被保険者とは誰ですか。
+- 保障対象者をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
@@ -30,6 +35,14 @@ Pessoa cuja vida, saúde ou condição é objeto da cobertura do seguro.
 ## Como responder ao cliente brasileiro
 
 O segurado é a pessoa que está protegida pela cobertura.
+
+## Próximo passo seguro
+
+保障の対象となる本人、告知対象者、契約者との関係を確認する。
+
+## Limite comercial/compliance
+
+被保険者本人の同意や告知を軽視せず、正確な手続を案内する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ O segurado é a pessoa que está protegida pela cobertura.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

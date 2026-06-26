@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Existe seguro se eu não puder trabalhar?
 
+## Consulta natural em japonês
+
+- 働けなくなった場合に使える保険はありますか。
+- 就業不能保障をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
@@ -30,6 +35,14 @@ Seguro que oferece benefício quando o segurado fica impossibilitado de trabalha
 ## Como responder ao cliente brasileiro
 
 Se você não puder trabalhar por uma condição prevista, esse seguro pode ajudar na renda.
+
+## Próximo passo seguro
+
+就業不能状態の定義、待機期間、支払期間、対象外条件を確認する。
+
+## Limite comercial/compliance
+
+働けないという自己申告だけで支払対象とは説明せず、所定状態と医師書類を確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Se você não puder trabalhar por uma condição prevista, esse seguro pode ajud
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

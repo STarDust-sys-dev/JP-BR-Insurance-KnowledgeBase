@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Para que serve o seguro contra câncer?
 
+## Consulta natural em japonês
+
+- がん保険は何のためにありますか。
+- がん診断や治療の保障をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
@@ -30,6 +35,14 @@ Seguro focado em diagnóstico, tratamento, internação ou benefícios relaciona
 ## Como responder ao cliente brasileiro
 
 Se houver diagnóstico ou tratamento de câncer, essa cobertura pode ajudar conforme as regras contratadas.
+
+## Próximo passo seguro
+
+診断給付金、入院、通院、治療、待機期間、再発時条件を確認する。
+
+## Limite comercial/compliance
+
+がん関連費用がすべて支払われるとは説明せず、約款上の対象条件を確認する。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Se houver diagnóstico ou tratamento de câncer, essa cobertura pode ajudar conf
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |

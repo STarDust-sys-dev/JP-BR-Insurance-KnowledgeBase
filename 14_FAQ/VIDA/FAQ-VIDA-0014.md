@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-25
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que é prêmio do seguro de vida?
 
+## Consulta natural em japonês
+
+- 生命保険の保険料とは何ですか。
+- 毎月払うお金をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente brasileiro quer entender fundamentos de seguro de vida no Japão.
@@ -30,6 +35,14 @@ Valor pago pelo contratante para manter o seguro ativo.
 ## Como responder ao cliente brasileiro
 
 Para manter a cobertura, o prêmio precisa ser pago conforme a forma escolhida.
+
+## Próximo passo seguro
+
+保険料、払込方法、払込期間、未払い時の影響を確認する。
+
+## Limite comercial/compliance
+
+保険料は年齢・保障・健康状態で変わるため、正式見積前に断定しない。
 
 ## Termos relacionados
 
@@ -60,3 +73,4 @@ Para manter a cobertura, o prêmio precisa ser pago conforme a forma escolhida.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
