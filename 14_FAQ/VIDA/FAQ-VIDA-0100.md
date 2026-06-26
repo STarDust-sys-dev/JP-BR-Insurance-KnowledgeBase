@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Por que registrar o atendimento é importante?
 
+## Consulta natural em japonês
+
+- 相談内容を記録するのはなぜ重要ですか。
+- 保険相談の記録をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Registro interno das orientações, solicitações, decisões e documentos trata
 ## Como responder ao cliente brasileiro
 
 Registrar o atendimento ajuda a manter histórico claro e evita mal-entendidos.
+
+## Próximo passo seguro
+
+説明内容、顧客意向、確認事項、未決事項、次回対応を記録する。
+
+## Limite comercial/compliance
+
+記録は透明性確保のためであり、顧客同意なく個人情報を不適切に共有しない。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Registrar o atendimento ajuda a manter histórico claro e evita mal-entendidos.
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

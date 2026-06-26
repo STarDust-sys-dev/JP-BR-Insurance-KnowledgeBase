@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Seguro de vida dá dedução no imposto?
 
+## Consulta natural em japonês
+
+- 生命保険料は税金の控除対象になりますか。
+- 生命保険料控除をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Benefício fiscal japonês que permite deduzir parte dos prêmios pagos, conform
 ## Como responder ao cliente brasileiro
 
 O seguro pode gerar comprovante para dedução, mas o uso depende das regras fiscais e da situação do cliente.
+
+## Próximo passo seguro
+
+一般・介護医療・個人年金の区分、年間保険料、控除証明書を確認する。
+
+## Limite comercial/compliance
+
+具体的な税額や還付額を保証せず、税務上の最終判断は専門窓口で確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ O seguro pode gerar comprovante para dedução, mas o uso depende das regras fis
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

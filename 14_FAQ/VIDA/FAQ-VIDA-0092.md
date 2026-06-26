@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Como usar documentos do seguro na declaração final?
 
+## Consulta natural em japonês
+
+- 確定申告で保険書類をどう使いますか。
+- 申告時の保険書類をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Declaração anual de imposto no Japão, usada por autônomos ou situações esp
 ## Como responder ao cliente brasileiro
 
 Quem faz declaração própria pode usar documentos do seguro conforme regras fiscais.
+
+## Próximo passo seguro
+
+控除証明書、支払調書、受取保険金、契約者・受取人関係を確認する。
+
+## Limite comercial/compliance
+
+税務申告の可否や税額を代理店が断定せず、税務署・専門家確認を促す。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Quem faz declaração própria pode usar documentos do seguro conforme regras fi
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

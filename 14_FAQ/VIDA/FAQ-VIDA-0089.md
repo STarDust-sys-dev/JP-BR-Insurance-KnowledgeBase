@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Para que serve o comprovante de dedução?
 
+## Consulta natural em japonês
+
+- 生命保険料控除証明書は何のためにありますか。
+- 控除証明書をブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Documento usado para declarar dedução de prêmio de seguro no ajuste fiscal, c
 ## Como responder ao cliente brasileiro
 
 Esse documento pode ser usado no 年末調整 ou declaração, conforme sua situação.
+
+## Próximo passo seguro
+
+対象保険料、発行時期、年末調整・確定申告での利用方法を確認する。
+
+## Limite comercial/compliance
+
+税額効果を断定せず、税務判断は勤務先・税務署・専門家に確認するよう案内する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Esse documento pode ser usado no 年末調整 ou declaração, conforme sua situ
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

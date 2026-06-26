@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Com que frequência devo revisar meu seguro?
 
+## Consulta natural em japonês
+
+- 生命保険はどのくらいの頻度で見直すべきですか。
+- 定期的な見直しをブラジル人のお客様にどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Contato ou análise feita periodicamente para verificar se o contrato continua a
 ## Como responder ao cliente brasileiro
 
 Mesmo sem mudança aparente, revisar periodicamente ajuda a manter proteção correta.
+
+## Próximo passo seguro
+
+年一回または家族・収入・住宅・健康状態の変化時に確認する。
+
+## Limite comercial/compliance
+
+見直しが必ず乗換や解約を意味するとは説明せず、既存契約の不利益も確認する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Mesmo sem mudança aparente, revisar periodicamente ajuda a manter proteção co
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 Resgate de seguro pode gerar imposto?
 
+## Consulta natural em japonês
+
+- 解約返戻金や満期金に税金がかかることはありますか。
+- 保険の解約や受取時の税金をどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Possível tributação sobre valor recebido ao cancelar ou resgatar seguro, conf
 ## Como responder ao cliente brasileiro
 
 Ao cancelar e receber valor, pode haver tratamento fiscal. Não devemos prometer valor líquido sem confirmar.
+
+## Próximo passo seguro
+
+契約者、受取人、払込保険料、受取額、所得区分を確認する。
+
+## Limite comercial/compliance
+
+課税有無や税額を代理店が確定せず、税務署・税理士に確認するよう案内する。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Ao cancelar e receber valor, pode haver tratamento fiscal. Não devemos prometer
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |

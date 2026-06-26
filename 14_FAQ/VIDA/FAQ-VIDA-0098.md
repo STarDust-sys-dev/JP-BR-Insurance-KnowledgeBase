@@ -2,10 +2,10 @@
 
 ## Controle
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-26
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; reforço NotebookLM e compliance.
 
 ## Código
 
@@ -19,6 +19,11 @@ VIDA
 
 O que é acompanhamento pós-venda?
 
+## Consulta natural em japonês
+
+- 契約後のフォローとは何ですか。
+- 生命保険のアフターサービスをどう説明しますか。
+
 ## Situação de atendimento
 
 Cliente precisa atualizar, revisar ou entender obrigações de pós-venda e documentos do seguro de vida.
@@ -30,6 +35,14 @@ Atendimento após contratação para dúvidas, alterações, revisão, sinistros
 ## Como responder ao cliente brasileiro
 
 Seguro de vida precisa de acompanhamento, porque família, renda e objetivos mudam.
+
+## Próximo passo seguro
+
+住所変更、受取人変更、証券再発行、請求相談、定期見直しを確認する。
+
+## Limite comercial/compliance
+
+代理店が保険金支払可否を決めるとは説明せず、サポート範囲を明確にする。
 
 ## Termos relacionados
 
@@ -59,4 +72,5 @@ Seguro de vida precisa de acompanhamento, porque família, renda e objetivos mud
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
