@@ -10,8 +10,9 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
+CATEGORIES_RE = r"(?:AUTO|VIDA|MED|FIRE|HOME|BUS|ACC|SALES|SERVICE|FAQ|CASE|LEG|TERM)"
 CODE_RE = re.compile(
-    r"\b(?:AUTO|VIDA|MED|FAQ-(?:AUTO|VIDA|MED)|DIALOGUE-(?:AUTO|VIDA|MED)|CASE-(?:AUTO|VIDA|MED))-\d{4}\b"
+    rf"\b(?:{CATEGORIES_RE}|FAQ-{CATEGORIES_RE}|DIALOGUE-{CATEGORIES_RE}|CASE-{CATEGORIES_RE})-\d{{4}}\b"
 )
 ROMAJI_RE = re.compile(
     r"\b(?:hoken|keiyaku|hoshou|shiharai|kyuufukin|menseki|kokuchi|uketori|moushikomi)\b",
@@ -100,6 +101,13 @@ REQUIRED = {
 SECTION_ALIASES = {
     "## Código": ["## コード"],
     "## Categoria": ["## カテゴリー"],
+    "## Pergunta": ["## 質問"],
+    "## Consulta natural em japonês": ["## 日本語での自然な検索"],
+    "## Situação de atendimento": ["## 対応場面"],
+    "## Resposta técnica": ["## 技術的回答"],
+    "## Como responder ao cliente brasileiro": ["## ブラジル人顧客への回答"],
+    "## Próximo passo seguro": ["## 安全な次のステップ"],
+    "## Limite comercial/compliance": ["## コンプライアンス上の注意"],
     "## Termo Japonês": ["## 日本語用語"],
     "## Tradução Português": ["## ポルトガル語訳"],
     "## Definição Técnica": ["## 技術的定義"],
@@ -204,7 +212,10 @@ def main() -> int:
             elif not body:
                 empty_sections[kind].append((path_rel, section))
         if kind == "faq":
-            has_new_answer = "## Resposta técnica" in text and "## Como responder ao cliente brasileiro" in text
+            has_new_answer = (
+                section_body(text, "## Resposta técnica") is not None
+                and section_body(text, "## Como responder ao cliente brasileiro") is not None
+            )
             has_old_answer = "## Resposta curta" in text and "## Resposta explicada" in text
             if not (has_new_answer or has_old_answer):
                 missing_sections["faq"].append((path_rel, "answer model: Resposta técnica + cliente OR Resposta curta + explicada"))
@@ -224,11 +235,11 @@ def main() -> int:
     warnings: dict[str, list[tuple[str, str]]] = defaultdict(list)
     for path, text in texts.items():
         path_rel = rel(path)
-        if path_rel.startswith("14_FAQ/") and "## Consulta natural em japonês" not in text:
+        if path_rel.startswith("14_FAQ/") and section_body(text, "## Consulta natural em japonês") is None:
             warnings["faq_without_japanese_query"].append((path_rel, "missing ## Consulta natural em japonês"))
         if path_rel.startswith(("14_FAQ/", "15_CaseStudies/")):
             lower = text.lower()
-            if any(term.lower() in lower for term in SENSITIVE_TERMS) and "## Limite comercial/compliance" not in text:
+            if any(term.lower() in lower for term in SENSITIVE_TERMS) and section_body(text, "## Limite comercial/compliance") is None:
                 warnings["sensitive_doc_without_compliance_limit"].append((path_rel, "missing ## Limite comercial/compliance"))
         if path_rel.startswith("16_NotebookLM/") and not has_japanese(text):
             warnings["notebook_without_japanese"].append((path_rel, "no Japanese text found"))

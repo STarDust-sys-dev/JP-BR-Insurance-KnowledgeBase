@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Padronização das FAQs FIRE e HOME: títulos internos em japonês, resposta técnica em japonês, resposta ao cliente em português brasileiro com leitura em katakana, reforço de compliance e regeneração dos pacotes `FIRE_FAQ_0001_0020` e `HOME_FAQ_0001_0020`.
+- Ampliação do validador para reconhecer códigos e referências das categorias FIRE, HOME, BUS, ACC, SALES, SERVICE, FAQ, CASE, LEG e TERM, com aliases japoneses para seções de FAQ.
+
 - Padronização linguística dos verbetes do dicionário mestre: títulos internos em japonês, `技術的定義` e `簡単な説明` em japonês, e `ブラジル人顧客への説明方法` com frase em português brasileiro acompanhada de leitura em katakana para uso pelo corretor japonês.
 
 - Abertura da categoria HOME/Housing: criação dos primeiros 20 verbetes, 20 FAQs, 5 diálogos, 8 estudos de caso, guia de navegação, índice NotebookLM e pacote NotebookLM, com versões Markdown, DOCX e PDF.

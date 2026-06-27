@@ -72,8 +72,8 @@ Exemplos:
 AUTO-0001
 VIDA-0001
 MED-0001
-FAQ-0001
-CASE-0001
+FAQ-AUTO-0001
+CASE-AUTO-0001
 ```
 
 O número deverá ter quatro dígitos e nunca deverá ser reutilizado.
