@@ -1,1740 +1,1808 @@
-# AUTO_TERMS_0041_0060 - Quinto e sexto lotes de verbetes AUTO
+# AUTO_TERMS_0041_0060 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0041 - 事故状況 - Circunstâncias do acidente
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0041
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 事故状況
 
-## Tradução Português
-
+## ポルトガル語訳
 Circunstâncias do acidente
 
-## Definição Técnica
+## 技術的定義
 
-Informações sobre como o acidente ocorreu, incluindo local, data, horário, direção dos veículos, condições da via e descrição dos fatos.
+事故状況とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a explicação do que aconteceu no acidente.
+お客様には、「Circunstâncias do acidente」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Precisamos entender como o acidente aconteceu para orientar corretamente o aviso à seguradora e a análise do caso.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar circunstâncias do acidente e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Circunstâncias do acidente」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クイルクウンストアンクイアス ド アクイドエントエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クイルクウンストアンクイアス ド アクイドエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 事故状況を確認します。
-- 必要に応じて保険会社へ確認します。
+- 事故状況について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar circunstâncias do acidente.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール クイルクウンストアンクイアス ド アクイドエントエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0038
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0042 - 相手方 - Outra parte envolvida
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0038
 - DIALOGUE-AUTO-0015
 - CASE-AUTO-0021
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0038.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0042 - 相手方 - Outra parte envolvida
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0042
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 相手方
 
-## Tradução Português
-
+## ポルトガル語訳
 Outra parte envolvida
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa, veículo, empresa ou proprietário envolvido no acidente em relação ao segurado.
+相手方とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a outra pessoa ou veículo envolvido no acidente.
+お客様には、「Outra parte envolvida」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Vamos confirmar os dados da outra parte para que a seguradora consiga analisar e conduzir o atendimento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar outra parte envolvida e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Outra parte envolvida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オウトルア プアルトエ エンヴオルヴイドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール オウトルア プアルトエ エンヴオルヴイドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 相手方を確認します。
-- 必要に応じて保険会社へ確認します。
+- 相手方について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar outra parte envolvida.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール オウトルア プアルトエ エンヴオルヴイドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0039
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0041 - 事故状況 - Circunstâncias do acidente
 - AUTO-0043 - 過失割合 - Percentual de culpa
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0039
 - DIALOGUE-AUTO-0015
 - CASE-AUTO-0021
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0039.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0043 - 過失割合 - Percentual de culpa
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0043
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 過失割合
 
-## Tradução Português
-
+## ポルトガル語訳
 Percentual de culpa
 
-## Definição Técnica
+## 技術的定義
 
-Proporção de responsabilidade atribuída às partes envolvidas em um acidente, usada para calcular indenizações e cobranças.
+過失割合とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a divisão de culpa entre os envolvidos.
+お客様には、「Percentual de culpa」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Nem sempre uma pessoa é considerada 100% culpada. A seguradora analisa a situação e pode definir uma divisão de responsabilidade.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar percentual de culpa e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Percentual de culpa」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルクエントウアル ジ クウルプア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルクエントウアル ジ クウルプア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 過失割合を確認します。
-- 必要に応じて保険会社へ確認します。
+- 過失割合について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar percentual de culpa.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルクエントウアル ジ クウルプア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0040
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0042 - 相手方 - Outra parte envolvida
 - AUTO-0044 - 示談 - Acordo extrajudicial
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0040
 - DIALOGUE-AUTO-0015
 - CASE-AUTO-0021
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0040.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0044 - 示談 - Acordo extrajudicial
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0044
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 示談
 
-## Tradução Português
-
+## ポルトガル語訳
 Acordo extrajudicial
 
-## Definição Técnica
+## 技術的定義
 
-Acordo entre as partes envolvidas para resolver responsabilidade, indenização ou reparação sem decisão judicial.
+示談とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um acordo entre as partes para resolver o acidente.
+お客様には、「Acordo extrajudicial」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Não feche acordo direto sem consultar a seguradora, pois isso pode afetar o atendimento do seguro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar acordo extrajudicial e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Acordo extrajudicial」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アクオルドオ エシトルアジウドイクイアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アクオルドオ エシトルアジウドイクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 示談を確認します。
-- 必要に応じて保険会社へ確認します。
+- 示談について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar acordo extrajudicial.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール アクオルドオ エシトルアジウドイクイアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0041
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0043 - 過失割合 - Percentual de culpa
 - AUTO-0045 - 損害賠償 - Indenização por danos
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0041
 - DIALOGUE-AUTO-0015
 - CASE-AUTO-0022
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0041.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0045 - 損害賠償 - Indenização por danos
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0045
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 損害賠償
 
-## Tradução Português
-
+## ポルトガル語訳
 Indenização por danos
 
-## Definição Técnica
+## 技術的定義
 
-Compensação financeira devida por danos causados a outra pessoa, veículo, bem ou propriedade, conforme responsabilidade apurada.
+損害賠償とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o valor pago para compensar um dano causado.
+お客様には、「Indenização por danos」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando há dano a outra pessoa ou bem, a seguradora avalia a responsabilidade e os valores de indenização conforme a cobertura.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar indenização por danos e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Indenização por danos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インドエンイズアサォン ポル ダノス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インドエンイズアサォン ポル ダノス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 損害賠償を確認します。
-- 必要に応じて保険会社へ確認します。
+- 損害賠償について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar indenização por danos.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール インドエンイズアサォン ポル ダノス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0042
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0044 - 示談 - Acordo extrajudicial
 - AUTO-0046 - 修理見積書 - Orçamento de reparo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0042
 - DIALOGUE-AUTO-0016
 - CASE-AUTO-0022
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0042.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0046 - 修理見積書 - Orçamento de reparo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0046
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 修理見積書
 
-## Tradução Português
-
+## ポルトガル語訳
 Orçamento de reparo
 
-## Definição Técnica
+## 技術的定義
 
-Documento emitido por oficina ou prestador com estimativa de custo para conserto do veículo ou bem danificado.
+修理見積書とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o orçamento do conserto.
+お客様には、「Orçamento de reparo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora pode pedir o orçamento para analisar o valor do reparo antes de autorizar ou pagar.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar orçamento de reparo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Orçamento de reparo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オルスアムエントオ ジ ルエプアルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール オルスアムエントオ ジ ルエプアルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 修理見積書を確認します。
-- 必要に応じて保険会社へ確認します。
+- 修理見積書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar orçamento de reparo.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール オルスアムエントオ ジ ルエプアルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0043
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0045 - 損害賠償 - Indenização por danos
 - AUTO-0047 - 損害調査 - Avaliação de danos
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0043
 - DIALOGUE-AUTO-0016
 - CASE-AUTO-0022
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0043.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0047 - 損害調査 - Avaliação de danos
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0047
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 損害調査
 
-## Tradução Português
-
+## ポルトガル語訳
 Avaliação de danos
 
-## Definição Técnica
+## 技術的定義
 
-Processo de verificação dos danos, causas, valores e condições de cobertura realizado pela seguradora ou avaliador.
+損害調査とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a análise dos danos feita para decidir o atendimento.
+お客様には、「Avaliação de danos」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Antes de pagar ou autorizar o conserto, a seguradora pode verificar os danos e documentos.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar avaliação de danos e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Avaliação de danos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アヴアルイアサォン ジ ダノス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アヴアルイアサォン ジ ダノス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 損害調査を確認します。
-- 必要に応じて保険会社へ確認します。
+- 損害調査について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar avaliação de danos.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール アヴアルイアサォン ジ ダノス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0044
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0046 - 修理見積書 - Orçamento de reparo
 - AUTO-0048 - 全損 - Perda total
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0044
 - DIALOGUE-AUTO-0016
 - CASE-AUTO-0023
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0044.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0048 - 全損 - Perda total
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0048
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 全損
 
-## Tradução Português
-
+## ポルトガル語訳
 Perda total
 
-## Definição Técnica
+## 技術的定義
 
-Situação em que o veículo é considerado economicamente ou tecnicamente inviável para reparo conforme critérios da seguradora.
+全損とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando o carro é considerado perda total.
+お客様には、「Perda total」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o dano for muito grande, a seguradora pode avaliar como perda total e aplicar as regras da apólice.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar perda total e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Perda total」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルドア トオトアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルドア トオトアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 全損を確認します。
-- 必要に応じて保険会社へ確認します。
+- 全損について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar perda total.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルドア トオトアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0045
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0047 - 損害調査 - Avaliação de danos
 - AUTO-0049 - 分損 - Perda parcial
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0045
 - DIALOGUE-AUTO-0016
 - CASE-AUTO-0023
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0045.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0049 - 分損 - Perda parcial
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0049
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 分損
 
-## Tradução Português
-
+## ポルトガル語訳
 Perda parcial
 
-## Definição Técnica
+## 技術的定義
 
-Situação em que o veículo sofre danos reparáveis, sem ser classificado como perda total.
+分損とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando o carro teve dano, mas pode ser consertado.
+お客様には、「Perda parcial」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se for perda parcial, o processo normalmente segue para orçamento, avaliação e reparo conforme cobertura.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar perda parcial e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Perda parcial」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルドア プアルクイアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルドア プアルクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 分損を確認します。
-- 必要に応じて保険会社へ確認します。
+- 分損について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar perda parcial.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルドア プアルクイアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0046
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0048 - 全損 - Perda total
 - AUTO-0050 - レッカー搬送 - Remoção por guincho
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0046
 - DIALOGUE-AUTO-0017
 - CASE-AUTO-0023
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0046.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0050 - レッカー搬送 - Remoção por guincho
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0050
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 レッカー搬送
 
-## Tradução Português
-
+## ポルトガル語訳
 Remoção por guincho
 
-## Definição Técnica
+## 技術的定義
 
-Transporte do veículo por guincho após acidente, pane ou impossibilidade de circulação, conforme cobertura ou serviço disponível.
+レッカー搬送とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É levar o carro de guincho.
+お客様には、「Remoção por guincho」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o carro não puder andar, verificamos se há serviço de guincho disponível no contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar remoção por guincho e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Remoção por guincho」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエムオサォン ポル ギンシオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエムオサォン ポル ギンシオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- レッカー搬送を確認します。
-- 必要に応じて保険会社へ確認します。
+- レッカー搬送について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar remoção por guincho.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエムオサォン ポル ギンシオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0047
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0049 - 分損 - Perda parcial
 - AUTO-0051 - 修理工場 - Oficina de reparo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0047
 - DIALOGUE-AUTO-0017
 - CASE-AUTO-0024
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0047.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0051 - 修理工場 - Oficina de reparo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0051
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 修理工場
 
-## Tradução Português
-
+## ポルトガル語訳
 Oficina de reparo
 
-## Definição Técnica
+## 技術的定義
 
-Estabelecimento responsável por avaliar, orçar e realizar reparos no veículo danificado.
+修理工場とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a oficina que fará o conserto.
+お客様には、「Oficina de reparo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Podemos confirmar se a oficina é indicada, aceita pela seguradora ou escolhida pelo cliente conforme as regras do contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar oficina de reparo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Oficina de reparo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オフイクインア ジ ルエプアルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール オフイクインア ジ ルエプアルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 修理工場を確認します。
-- 必要に応じて保険会社へ確認します。
+- 修理工場について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar oficina de reparo.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール オフイクインア ジ ルエプアルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0048
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0050 - レッカー搬送 - Remoção por guincho
 - AUTO-0052 - 保険会社 - Seguradora
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0048
 - DIALOGUE-AUTO-0017
 - CASE-AUTO-0024
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0048.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0052 - 保険会社 - Seguradora
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0052
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険会社
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguradora
 
-## Definição Técnica
+## 技術的定義
 
-Empresa que assume o risco do contrato de seguro e decide sobre aceitação, cobrança, cobertura e pagamento de indenização.
+保険会社とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a empresa responsável pelo seguro.
+お客様には、「Seguradora」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora analisa o contrato, o acidente e os documentos para decidir o atendimento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguradora e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguradora」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグラドーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグラドーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険会社を確認します。
-- 必要に応じて保険会社へ確認します。
+- 保険会社について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguradora.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール セグラドーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0049
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0051 - 修理工場 - Oficina de reparo
 - AUTO-0053 - 保険代理店 - Agência ou corretora de seguros
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0049
 - DIALOGUE-AUTO-0017
 - CASE-AUTO-0024
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0049.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0053 - 保険代理店 - Agência ou corretora de seguros
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0053
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険代理店
 
-## Tradução Português
-
+## ポルトガル語訳
 Agência ou corretora de seguros
 
-## Definição Técnica
+## 技術的定義
 
-Intermediário autorizado que orienta o cliente, auxilia na contratação, renovação, alteração e comunicação com a seguradora.
+保険代理店とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quem ajuda o cliente com o seguro.
+お客様には、「Agência ou corretora de seguros」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A corretora ajuda a explicar, organizar documentos e fazer contato, mas a decisão de cobertura é da seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar agência ou corretora de seguros e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Agência ou corretora de seguros」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アグエンクイア オウ クオホエトオルア ジ セグーロス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アグエンクイア オウ クオホエトオルア ジ セグーロス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険代理店を確認します。
-- 必要に応じて保険会社へ確認します。
+- 保険代理店について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar agência ou corretora de seguros.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール アグエンクイア オウ クオホエトオルア ジ セグーロス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0050
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0052 - 保険会社 - Seguradora
 - AUTO-0054 - 契約申込書 - Proposta de contratação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0050
 - DIALOGUE-AUTO-0018
 - CASE-AUTO-0025
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0050.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0054 - 契約申込書 - Proposta de contratação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0054
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 契約申込書
 
-## Tradução Português
-
+## ポルトガル語訳
 Proposta de contratação
 
-## Definição Técnica
+## 技術的定義
 
-Documento usado para solicitar a contratação do seguro, contendo dados do cliente, veículo, cobertura e condições desejadas.
+契約申込書とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o pedido formal para contratar o seguro.
+お客様には、「Proposta de contratação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A proposta ainda precisa ser aceita pela seguradora. Por isso, proposta não é sempre a mesma coisa que contrato ativo.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar proposta de contratação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Proposta de contratação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルオプオストア ジ クオントルアトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約申込書を確認します。
-- 必要に応じて保険会社へ確認します。
+- 契約申込書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar proposta de contratação.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0051
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0053 - 保険代理店 - Agência ou corretora de seguros
 - AUTO-0055 - 告知事項 - Informações declaradas na contratação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0051
 - DIALOGUE-AUTO-0018
 - CASE-AUTO-0025
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0051.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0055 - 告知事項 - Informações declaradas na contratação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0055
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 告知事項
 
-## Tradução Português
-
+## ポルトガル語訳
 Informações declaradas na contratação
 
-## Definição Técnica
+## 技術的定義
 
-Informações que o cliente deve declarar corretamente ao contratar o seguro, conforme perguntas e exigências da seguradora.
+告知事項とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São informações importantes que precisam ser declaradas corretamente.
+お客様には、「Informações declaradas na contratação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se uma informação importante for omitida ou estiver errada, isso pode causar problema no contrato ou em um sinistro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar informações declaradas na contratação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Informações declaradas na contratação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インフオルムアソインス ドエクルアルアドアス ナ クオントルアトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インフオルムアソインス ドエクルアルアドアス ナ クオントルアトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 告知事項を確認します。
-- 必要に応じて保険会社へ確認します。
+- 告知事項について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar informações declaradas na contratação.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール インフオルムアソインス ドエクルアルアドアス ナ クオントルアトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0052
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0054 - 契約申込書 - Proposta de contratação
 - AUTO-0056 - 通知義務 - Obrigação de comunicar alterações
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0052
 - DIALOGUE-AUTO-0018
 - CASE-AUTO-0025
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0052.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0056 - 通知義務 - Obrigação de comunicar alterações
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0056
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 通知義務
 
-## Tradução Português
-
+## ポルトガル語訳
 Obrigação de comunicar alterações
 
-## Definição Técnica
+## 技術的定義
 
-Obrigação contratual de informar à seguradora alterações relevantes durante a vigência do seguro.
+通知義務とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o dever de avisar mudanças importantes.
+お客様には、「Obrigação de comunicar alterações」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se mudar algo importante, como uso do carro, endereço ou condutor, avise para manter o seguro correto.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar obrigação de comunicar alterações e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Obrigação de comunicar alterações」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オブリガサォン ジ クオムウンイクアル アルトエルアソインス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール オブリガサォン ジ クオムウンイクアル アルトエルアソインス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 通知義務を確認します。
-- 必要に応じて保険会社へ確認します。
+- 通知義務について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar obrigação de comunicar alterações.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール オブリガサォン ジ クオムウンイクアル アルトエルアソインス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0053
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0055 - 告知事項 - Informações declaradas na contratação
 - AUTO-0057 - 変更手続き - Procedimento de alteração
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0053
 - DIALOGUE-AUTO-0018
 - CASE-AUTO-0026
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0053.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0057 - 変更手続き - Procedimento de alteração
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0057
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 変更手続き
 
-## Tradução Português
-
+## ポルトガル語訳
 Procedimento de alteração
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento operacional para registrar mudanças no contrato de seguro, conforme regras da seguradora.
+変更手続きとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o processo para alterar o contrato.
+お客様には、「Procedimento de alteração」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando houver mudança, fazemos o procedimento correto para a seguradora atualizar os dados.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar procedimento de alteração e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Procedimento de alteração」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルオクエドイムエントオ ジ アルトエルアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プルオクエドイムエントオ ジ アルトエルアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 変更手続きを確認します。
-- 必要に応じて保険会社へ確認します。
+- 変更手続きについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar procedimento de alteração.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール プルオクエドイムエントオ ジ アルトエルアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0054
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0056 - 通知義務 - Obrigação de comunicar alterações
 - AUTO-0058 - 保険証券 - Apólice de seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0054
 - DIALOGUE-AUTO-0019
 - CASE-AUTO-0026
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0054.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0058 - 保険証券 - Apólice de seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0058
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険証券
 
-## Tradução Português
-
+## ポルトガル語訳
 Apólice de seguro
 
-## Definição Técnica
+## 技術的定義
 
-Documento que comprova o contrato de seguro e registra dados principais, coberturas, período, prêmio e condições.
+保険証券とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o documento principal do seguro.
+お客様には、「Apólice de seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A apólice mostra as informações do contrato. É importante conferir se os dados estão corretos.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar apólice de seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Apólice de seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アプオルイクエ ジ セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アプオルイクエ ジ セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険証券を確認します。
-- 必要に応じて保険会社へ確認します。
+- 保険証券について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar apólice de seguro.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール アプオルイクエ ジ セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0055
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0057 - 変更手続き - Procedimento de alteração
 - AUTO-0059 - 継続証 - Comprovante de renovação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0055
 - DIALOGUE-AUTO-0019
 - CASE-AUTO-0026
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0055.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0059 - 継続証 - Comprovante de renovação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0059
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 継続証
 
-## Tradução Português
-
+## ポルトガル語訳
 Comprovante de renovação
 
-## Definição Técnica
+## 技術的定義
 
-Documento ou confirmação que indica a continuidade ou renovação do contrato conforme condições aceitas.
+継続証とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a confirmação de renovação do seguro.
+お客様には、「Comprovante de renovação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Após renovar, confirme o documento ou registro que mostra que o seguro continua válido.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar comprovante de renovação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Comprovante de renovação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオムプルオヴアントエ ジ ヘノヴァサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クオムプルオヴアントエ ジ ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 継続証を確認します。
-- 必要に応じて保険会社へ確認します。
+- 継続証について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar comprovante de renovação.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール クオムプルオヴアントエ ジ ヘノヴァサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0056
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0058 - 保険証券 - Apólice de seguro
 - AUTO-0060 - 中断証明書 - Certificado de interrupção
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0056
 - DIALOGUE-AUTO-0019
 - CASE-AUTO-0027
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0056.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0060 - 中断証明書 - Certificado de interrupção
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0060
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 中断証明書
 
-## Tradução Português
-
+## ポルトガル語訳
 Certificado de interrupção
 
-## Definição Técnica
+## 技術的定義
 
-Documento que pode preservar determinada condição ou histórico do seguro quando o cliente interrompe o contrato, conforme regras da seguradora.
+中断証明書とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um documento para guardar histórico quando o seguro é interrompido, quando aplicável.
+お客様には、「Certificado de interrupção」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se você vai parar de usar o seguro por um tempo, precisamos verificar se é possível emitir esse certificado para não perder condições importantes.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar certificado de interrupção e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Certificado de interrupção」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クエルトイフイクアドオ ジ イントエホウプサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クエルトイフイクアドオ ジ イントエホウプサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 中断証明書を確認します。
-- 必要に応じて保険会社へ確認します。
+- 中断証明書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar certificado de interrupção.
-- Se necessário, vamos verificar com a seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール クエルトイフイクアドオ ジ イントエホウプサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0057
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0059 - 継続証 - Comprovante de renovação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0057
 - DIALOGUE-AUTO-0019
 - CASE-AUTO-0027
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - sinistro
 - atendimento
 - documento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0057.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

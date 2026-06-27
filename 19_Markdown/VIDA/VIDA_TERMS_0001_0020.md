@@ -1,1740 +1,1808 @@
-# VIDA_TERMS_0001_0020 - Primeiro ciclo de verbetes VIDA
+# VIDA_TERMS_0001_0020 - Verbetes VIDA
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # VIDA-0001 - 生命保険 - Seguro de vida
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0001
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 生命保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro de vida
 
-## Definição Técnica
+## 技術的定義
 
-Seguro que protege financeiramente beneficiários ou segurado em caso de morte, sobrevivência, doença grave ou outras condições contratadas.
+生命保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um seguro para proteger financeiramente a família ou o próprio segurado.
+お客様には、「Seguro de vida」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O seguro de vida ajuda a família ou o segurado em momentos difíceis, conforme as coberturas escolhidas.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro de vida e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 生命保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro de vida.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0001
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0002 - 死亡保険 - Seguro por morte
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0001
 - DIALOGUE-VIDA-0001
 - CASE-VIDA-0001
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0001.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0002 - 死亡保険 - Seguro por morte
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0002
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 死亡保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro por morte
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura que paga valor definido aos beneficiários quando ocorre morte do segurado, conforme contrato.
+死亡保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a cobertura que paga quando o segurado falece.
+お客様には、「Seguro por morte」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o segurado falecer, a família ou beneficiário pode receber o valor contratado.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro por morte e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro por morte」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ポル モルチ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ポル モルチ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 死亡保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro por morte.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ポル モルチ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0002
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0001 - 生命保険 - Seguro de vida
 - VIDA-0003 - 定期保険 - Seguro temporário
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0002
 - DIALOGUE-VIDA-0001
 - CASE-VIDA-0001
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0002.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0003 - 定期保険 - Seguro temporário
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0003
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 定期保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro temporário
 
-## Definição Técnica
+## 技術的定義
 
-Seguro de vida com cobertura por período determinado, sem garantia vitalícia.
+定期保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É seguro de vida por prazo definido.
+お客様には、「Seguro temporário」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Essa cobertura vale por um período específico, por exemplo até certa idade ou por alguns anos.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro temporário e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro temporário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ トエムプオルアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ トエムプオルアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 定期保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro temporário.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ トエムプオルアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0003
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0002 - 死亡保険 - Seguro por morte
 - VIDA-0004 - 終身保険 - Seguro vitalício
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0003
 - DIALOGUE-VIDA-0001
 - CASE-VIDA-0001
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0003.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0004 - 終身保険 - Seguro vitalício
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0004
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 終身保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro vitalício
 
-## Definição Técnica
+## 技術的定義
 
-Seguro de vida com cobertura por toda a vida do segurado, conforme condições do contrato.
+終身保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É seguro de vida para a vida inteira.
+お客様には、「Seguro vitalício」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A cobertura continua por toda a vida, desde que o contrato seja mantido conforme as regras.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro vitalício e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro vitalício」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ヴイトアルイクイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ヴイトアルイクイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 終身保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro vitalício.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ヴイトアルイクイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0004
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0003 - 定期保険 - Seguro temporário
 - VIDA-0005 - 養老保険 - Seguro misto com vencimento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0004
 - DIALOGUE-VIDA-0001
 - CASE-VIDA-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0004.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0005 - 養老保険 - Seguro misto com vencimento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0005
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 養老保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro misto com vencimento
 
-## Definição Técnica
+## 技術的定義
 
-Seguro que combina proteção por morte com pagamento ao final do período se o segurado sobreviver, conforme contrato.
+養老保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um seguro com proteção e valor no vencimento.
+お客様には、「Seguro misto com vencimento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Esse tipo pode pagar em caso de morte ou no vencimento, dependendo das condições.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro misto com vencimento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro misto com vencimento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ムイストオ コン ヴエンクイムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ムイストオ コン ヴエンクイムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 養老保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro misto com vencimento.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ムイストオ コン ヴエンクイムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0005
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0004 - 終身保険 - Seguro vitalício
 - VIDA-0006 - 医療保険 - Seguro médico
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0005
 - DIALOGUE-VIDA-0002
 - CASE-VIDA-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0005.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0006 - 医療保険 - Seguro médico
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0006
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 医療保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro médico
 
-## Definição Técnica
+## 技術的定義
 
-Seguro voltado a despesas ou benefícios relacionados a internação, cirurgia e tratamentos, conforme contrato.
+医療保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É seguro para situações médicas.
+お客様には、「Seguro médico」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Ele ajuda em casos de internação, cirurgia ou tratamentos previstos no contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro médico e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro médico」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ メジコ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 医療保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro médico.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ メジコ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0006
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0005 - 養老保険 - Seguro misto com vencimento
 - VIDA-0007 - がん保険 - Seguro contra câncer
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0006
 - DIALOGUE-VIDA-0002
 - CASE-VIDA-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0006.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0007 - がん保険 - Seguro contra câncer
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0007
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 がん保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro contra câncer
 
-## Definição Técnica
+## 技術的定義
 
-Seguro focado em diagnóstico, tratamento, internação ou benefícios relacionados a câncer, conforme contrato.
+がん保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É seguro específico para câncer.
+お客様には、「Seguro contra câncer」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se houver diagnóstico ou tratamento de câncer, essa cobertura pode ajudar conforme as regras contratadas.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro contra câncer e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro contra câncer」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ コントラ カンセル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ コントラ カンセル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - がん保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro contra câncer.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ コントラ カンセル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0007
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0006 - 医療保険 - Seguro médico
 - VIDA-0008 - 就業不能保険 - Seguro por incapacidade de trabalhar
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0007
 - DIALOGUE-VIDA-0002
 - CASE-VIDA-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0007.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0008 - 就業不能保険 - Seguro por incapacidade de trabalhar
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0008
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 就業不能保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro por incapacidade de trabalhar
 
-## Definição Técnica
+## 技術的定義
 
-Seguro que oferece benefício quando o segurado fica impossibilitado de trabalhar por doença ou acidente, conforme contrato.
+就業不能保険とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É seguro para quando a pessoa não consegue trabalhar.
+お客様には、「Seguro por incapacidade de trabalhar」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se você não puder trabalhar por uma condição prevista, esse seguro pode ajudar na renda.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro por incapacidade de trabalhar e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro por incapacidade de trabalhar」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 就業不能保険について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar seguro por incapacidade de trabalhar.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0008
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0007 - がん保険 - Seguro contra câncer
 - VIDA-0009 - 保険契約者 - Contratante do seguro de vida
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0008
 - DIALOGUE-VIDA-0002
 - CASE-VIDA-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0008.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0009 - 保険契約者 - Contratante do seguro de vida
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0009
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 保険契約者
 
-## Tradução Português
-
+## ポルトガル語訳
 Contratante do seguro de vida
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa que firma o contrato e assume obrigações como pagamento do prêmio.
+保険契約者とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quem faz o contrato.
+お客様には、「Contratante do seguro de vida」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O contratante é a pessoa responsável pelo contrato e pelo pagamento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar contratante do seguro de vida e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Contratante do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオントルアトアントエ ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 保険契約者について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar contratante do seguro de vida.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0009
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0008 - 就業不能保険 - Seguro por incapacidade de trabalhar
 - VIDA-0010 - 被保険者 - Segurado do seguro de vida
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0009
 - DIALOGUE-VIDA-0003
 - CASE-VIDA-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0010 - 被保険者 - Segurado do seguro de vida
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0010
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 被保険者
 
-## Tradução Português
-
+## ポルトガル語訳
 Segurado do seguro de vida
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa cuja vida, saúde ou condição é objeto da cobertura do seguro.
+被保険者とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a pessoa protegida pelo seguro.
+お客様には、「Segurado do seguro de vida」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O segurado é a pessoa que está protegida pela cobertura.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar segurado do seguro de vida e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Segurado do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグラード ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグラード ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 被保険者について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar segurado do seguro de vida.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール セグラード ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0010
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0009 - 保険契約者 - Contratante do seguro de vida
 - VIDA-0011 - 受取人 - Beneficiário
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0010
 - DIALOGUE-VIDA-0003
 - CASE-VIDA-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0011 - 受取人 - Beneficiário
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0011
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 受取人
 
-## Tradução Português
-
+## ポルトガル語訳
 Beneficiário
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa ou entidade indicada para receber o valor do seguro em caso previsto no contrato.
+受取人とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quem recebe o dinheiro do seguro.
+お客様には、「Beneficiário」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O beneficiário precisa ser definido corretamente, porque é ele quem receberá o valor quando houver direito.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar beneficiário e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Beneficiário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ブエンエフイクイアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ブエンエフイクイアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 受取人について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar beneficiário.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール ブエンエフイクイアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0011
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0010 - 被保険者 - Segurado do seguro de vida
 - VIDA-0012 - 保険金 - Valor de indenização do seguro de vida
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0011
 - DIALOGUE-VIDA-0003
 - CASE-VIDA-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0011.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0012 - 保険金 - Valor de indenização do seguro de vida
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0012
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 保険金
 
-## Tradução Português
-
+## ポルトガル語訳
 Valor de indenização do seguro de vida
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago pela seguradora quando ocorre evento coberto, como morte ou outro evento previsto.
+保険金とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o valor pago pelo seguro.
+お客様には、「Valor de indenização do seguro de vida」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando acontece uma situação coberta, a seguradora paga o valor definido no contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar valor de indenização do seguro de vida e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Valor de indenização do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 保険金について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar valor de indenização do seguro de vida.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0012
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0011 - 受取人 - Beneficiário
 - VIDA-0013 - 給付金 - Benefício pago pelo seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0012
 - DIALOGUE-VIDA-0003
 - CASE-VIDA-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0012.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0013 - 給付金 - Benefício pago pelo seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0013
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 給付金
 
-## Tradução Português
-
+## ポルトガル語訳
 Benefício pago pelo seguro
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago em situações como internação, cirurgia, diagnóstico ou incapacidade, conforme cobertura contratada.
+給付金とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um benefício pago em situações específicas.
+お客様には、「Benefício pago pelo seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Algumas coberturas pagam benefício por internação, cirurgia ou diagnóstico, conforme contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar benefício pago pelo seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Benefício pago pelo seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ パーゴ プエルオ セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ベネフィシオ パーゴ プエルオ セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 給付金について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar benefício pago pelo seguro.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ パーゴ プエルオ セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0013
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0012 - 保険金 - Valor de indenização do seguro de vida
 - VIDA-0014 - 保険料 - Prêmio do seguro de vida
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0013
 - DIALOGUE-VIDA-0004
 - CASE-VIDA-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0013.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0014 - 保険料 - Prêmio do seguro de vida
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0014
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 保険料
 
-## Tradução Português
-
+## ポルトガル語訳
 Prêmio do seguro de vida
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago pelo contratante para manter o seguro ativo.
+保険料とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o valor que você paga pelo seguro.
+お客様には、「Prêmio do seguro de vida」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Para manter a cobertura, o prêmio precisa ser pago conforme a forma escolhida.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar prêmio do seguro de vida e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Prêmio do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルエムイオ ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プルエムイオ ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 保険料について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar prêmio do seguro de vida.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール プルエムイオ ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0014
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0013 - 給付金 - Benefício pago pelo seguro
 - VIDA-0015 - 払込期間 - Período de pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0014
 - DIALOGUE-VIDA-0004
 - CASE-VIDA-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0014.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0015 - 払込期間 - Período de pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0015
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 払込期間
 
-## Tradução Português
-
+## ポルトガル語訳
 Período de pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Período durante o qual o contratante deve pagar os prêmios do seguro.
+払込期間とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o prazo em que você paga o seguro.
+お客様には、「Período de pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Alguns seguros são pagos por toda a vida, outros por um período definido.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar período de pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Período de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルイオドオ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 払込期間について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar período de pagamento.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0015
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0014 - 保険料 - Prêmio do seguro de vida
 - VIDA-0016 - 保険期間 - Período de cobertura
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0015
 - DIALOGUE-VIDA-0004
 - CASE-VIDA-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0015.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0016 - 保険期間 - Período de cobertura
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0016
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 保険期間
 
-## Tradução Português
-
+## ポルトガル語訳
 Período de cobertura
 
-## Definição Técnica
+## 技術的定義
 
-Período durante o qual a cobertura do seguro permanece válida, conforme contrato.
+保険期間とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o prazo em que o seguro vale.
+お客様には、「Período de cobertura」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Precisamos separar o período de pagamento do período de cobertura, porque podem ser diferentes.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar período de cobertura e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Período de cobertura」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ コベルツーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルイオドオ ジ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 保険期間について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar período de cobertura.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ コベルツーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0016
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0015 - 払込期間 - Período de pagamento
 - VIDA-0017 - 解約返戻金 - Valor de resgate por cancelamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0016
 - DIALOGUE-VIDA-0004
 - CASE-VIDA-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0016.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0017 - 解約返戻金 - Valor de resgate por cancelamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0017
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 解約返戻金
 
-## Tradução Português
-
+## ポルトガル語訳
 Valor de resgate por cancelamento
 
-## Definição Técnica
+## 技術的定義
 
-Valor que pode ser devolvido ao cancelar certos contratos, conforme regras, tempo decorrido e tipo de produto.
+解約返戻金とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o valor que pode voltar se cancelar, quando houver.
+お客様には、「Valor de resgate por cancelamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Nem todo seguro tem resgate. Quando existe, o valor depende do contrato e do tempo pago.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar valor de resgate por cancelamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Valor de resgate por cancelamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 解約返戻金について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar valor de resgate por cancelamento.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0017
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0016 - 保険期間 - Período de cobertura
 - VIDA-0018 - 告知義務 - Obrigação de declaração de saúde
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0017
 - DIALOGUE-VIDA-0005
 - CASE-VIDA-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0017.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0018 - 告知義務 - Obrigação de declaração de saúde
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0018
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 告知義務
 
-## Tradução Português
-
+## ポルトガル語訳
 Obrigação de declaração de saúde
 
-## Definição Técnica
+## 技術的定義
 
-Dever de declarar corretamente informações de saúde e outros dados solicitados na contratação.
+告知義務とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É responder corretamente sobre saúde e informações exigidas.
+お客様には、「Obrigação de declaração de saúde」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se a declaração de saúde estiver errada, pode haver problema na aceitação ou no pagamento do seguro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar obrigação de declaração de saúde e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Obrigação de declaração de saúde」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オブリガサォン ジ デクララサォン ジ サウージ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール オブリガサォン ジ デクララサォン ジ サウージ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 告知義務について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar obrigação de declaração de saúde.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール オブリガサォン ジ デクララサォン ジ サウージ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0018
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0017 - 解約返戻金 - Valor de resgate por cancelamento
 - VIDA-0019 - 免責期間 - Período de carência ou exclusão inicial
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0018
 - DIALOGUE-VIDA-0005
 - CASE-VIDA-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0018.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0019 - 免責期間 - Período de carência ou exclusão inicial
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0019
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 免責期間
 
-## Tradução Português
-
+## ポルトガル語訳
 Período de carência ou exclusão inicial
 
-## Definição Técnica
+## 技術的定義
 
-Período inicial em que determinada cobertura pode não valer ou ter limitação, conforme contrato.
+免責期間とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um prazo inicial em que a cobertura pode ser limitada.
+お客様には、「Período de carência ou exclusão inicial」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Alguns seguros têm período inicial com regra especial. Precisamos explicar isso antes da contratação.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar período de carência ou exclusão inicial e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Período de carência ou exclusão inicial」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 免責期間について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar período de carência ou exclusão inicial.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0019
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0018 - 告知義務 - Obrigação de declaração de saúde
 - VIDA-0020 - 責任開始日 - Data de início da responsabilidade da seguradora
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0019
 - DIALOGUE-VIDA-0005
 - CASE-VIDA-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0019.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0020 - 責任開始日 - Data de início da responsabilidade da seguradora
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0020
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 責任開始日
 
-## Tradução Português
-
+## ポルトガル語訳
 Data de início da responsabilidade da seguradora
 
-## Definição Técnica
+## 技術的定義
 
-Data a partir da qual a seguradora passa a assumir responsabilidade pela cobertura, conforme aceitação e condições do contrato.
+責任開始日とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando a cobertura começa de verdade.
+お客様には、「Data de início da responsabilidade da seguradora」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A cobertura não começa apenas porque conversamos sobre o seguro. Ela começa conforme a data e as condições aceitas pela seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar data de início da responsabilidade da seguradora e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Data de início da responsabilidade da seguradora」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
 - 責任開始日について確認しましょう。
-- 契約内容を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar data de início da responsabilidade da seguradora.
-- Vou explicar o conteúdo do contrato de forma simples.
+  - Leitura de apoio: ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0020
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0019 - 免責期間 - Período de carência ou exclusão inicial
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0020
 - DIALOGUE-VIDA-0005
 - CASE-VIDA-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - seguro-de-vida
 - atendimento
 - fundamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0020.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

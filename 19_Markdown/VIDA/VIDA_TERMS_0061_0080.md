@@ -1,1740 +1,1808 @@
-# VIDA_TERMS_0061_0080 - Quarto ciclo de verbetes VIDA
+# VIDA_TERMS_0061_0080 - Verbetes VIDA
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # VIDA-0061 - 保険金請求 - Solicitação de indenização
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0061
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 保険金請求
 
-## Tradução Português
-
+## ポルトガル語訳
 Solicitação de indenização
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento para solicitar pagamento de indenização após ocorrência de evento coberto pelo seguro de vida.
+保険金請求とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É pedir o pagamento do seguro.
+お客様には、「Solicitação de indenização」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando acontece um evento coberto, precisamos fazer a solicitação com documentos corretos.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar solicitação de indenização e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Solicitação de indenização」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スオルイクイトアサォン ジ インドエンイズアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール スオルイクイトアサォン ジ インドエンイズアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険金請求の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 保険金請求について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de solicitação de indenização.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar solicitação de indenização.
+  - Leitura de apoio: ヴァモス コンフィルマール スオルイクイトアサォン ジ インドエンイズアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0061
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0062 - 給付金請求 - Solicitação de benefício
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0061
 - DIALOGUE-VIDA-0016
 - CASE-VIDA-0025
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0061.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0062 - 給付金請求 - Solicitação de benefício
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0062
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 給付金請求
 
-## Tradução Português
-
+## ポルトガル語訳
 Solicitação de benefício
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento para solicitar benefício previsto, como internação, cirurgia ou diagnóstico.
+給付金請求とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É pedir o benefício do seguro.
+お客様には、「Solicitação de benefício」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Para receber benefício, é preciso comprovar a situação prevista no contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar solicitação de benefício e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Solicitação de benefício」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スオルイクイトアサォン ジ ベネフィシオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール スオルイクイトアサォン ジ ベネフィシオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 給付金請求の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 給付金請求について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de solicitação de benefício.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar solicitação de benefício.
+  - Leitura de apoio: ヴァモス コンフィルマール スオルイクイトアサォン ジ ベネフィシオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0062
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0061 - 保険金請求 - Solicitação de indenização
 - VIDA-0063 - 請求書 - Formulário de solicitação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0062
 - DIALOGUE-VIDA-0016
 - CASE-VIDA-0025
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0062.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0063 - 請求書 - Formulário de solicitação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0063
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 請求書
 
-## Tradução Português
-
+## ポルトガル語訳
 Formulário de solicitação
 
-## Definição Técnica
+## 技術的定義
 
-Documento usado para formalizar pedido de indenização ou benefício junto à seguradora.
+請求書とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o formulário para pedir pagamento.
+お客様には、「Formulário de solicitação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora normalmente exige um formulário próprio preenchido corretamente.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar formulário de solicitação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Formulário de solicitação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フオルムウルアルイオ ジ スオルイクイトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール フオルムウルアルイオ ジ スオルイクイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 請求書の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 請求書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de formulário de solicitação.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar formulário de solicitação.
+  - Leitura de apoio: ヴァモス コンフィルマール フオルムウルアルイオ ジ スオルイクイトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0063
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0062 - 給付金請求 - Solicitação de benefício
 - VIDA-0064 - 診断書 - Atestado ou relatório médico
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0063
 - DIALOGUE-VIDA-0016
 - CASE-VIDA-0025
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0063.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0064 - 診断書 - Atestado ou relatório médico
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0064
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 診断書
 
-## Tradução Português
-
+## ポルトガル語訳
 Atestado ou relatório médico
 
-## Definição Técnica
+## 技術的定義
 
-Documento médico que descreve diagnóstico, tratamento, período, cirurgia ou condição do segurado.
+診断書とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o documento médico que comprova a situação.
+お客様には、「Atestado ou relatório médico」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O relatório médico ajuda a seguradora a confirmar se o evento está coberto.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar atestado ou relatório médico e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Atestado ou relatório médico」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトエストアドオ オウ ルエルアトオルイオ メジコ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アトエストアドオ オウ ルエルアトオルイオ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 診断書の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 診断書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de atestado ou relatório médico.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar atestado ou relatório médico.
+  - Leitura de apoio: ヴァモス コンフィルマール アトエストアドオ オウ ルエルアトオルイオ メジコ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0064
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0063 - 請求書 - Formulário de solicitação
 - VIDA-0065 - 死亡診断書 - Atestado de óbito médico
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0064
 - DIALOGUE-VIDA-0016
 - CASE-VIDA-0026
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0064.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0065 - 死亡診断書 - Atestado de óbito médico
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0065
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 死亡診断書
 
-## Tradução Português
-
+## ポルトガル語訳
 Atestado de óbito médico
 
-## Definição Técnica
+## 技術的定義
 
-Documento médico que comprova a morte e indica causa ou informações necessárias, conforme regras.
+死亡診断書とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o documento médico de falecimento.
+お客様には、「Atestado de óbito médico」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Para seguro por morte, normalmente é necessário documento oficial que comprove o falecimento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar atestado de óbito médico e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Atestado de óbito médico」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトエストアドオ ジ オブイトオ メジコ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アトエストアドオ ジ オブイトオ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 死亡診断書の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 死亡診断書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de atestado de óbito médico.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar atestado de óbito médico.
+  - Leitura de apoio: ヴァモス コンフィルマール アトエストアドオ ジ オブイトオ メジコ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0065
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0064 - 診断書 - Atestado ou relatório médico
 - VIDA-0066 - 戸籍謄本 - Registro familiar japonês
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0065
 - DIALOGUE-VIDA-0017
 - CASE-VIDA-0026
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0065.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0066 - 戸籍謄本 - Registro familiar japonês
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0066
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 戸籍謄本
 
-## Tradução Português
-
+## ポルトガル語訳
 Registro familiar japonês
 
-## Definição Técnica
+## 技術的定義
 
-Documento oficial japonês que pode comprovar relações familiares, óbito ou dados necessários em certos pedidos.
+戸籍謄本とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um documento oficial de família no Japão.
+お客様には、「Registro familiar japonês」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Em alguns casos, a seguradora pode pedir documento oficial para confirmar família ou falecimento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar registro familiar japonês e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Registro familiar japonês」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエグイストルオ フアムイルイアル ジアプオンエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエグイストルオ フアムイルイアル ジアプオンエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 戸籍謄本の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 戸籍謄本について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de registro familiar japonês.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar registro familiar japonês.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエグイストルオ フアムイルイアル ジアプオンエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0066
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0065 - 死亡診断書 - Atestado de óbito médico
 - VIDA-0067 - 住民票 - Registro de residência
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0066
 - DIALOGUE-VIDA-0017
 - CASE-VIDA-0026
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0066.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0067 - 住民票 - Registro de residência
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0067
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 住民票
 
-## Tradução Português
-
+## ポルトガル語訳
 Registro de residência
 
-## Definição Técnica
+## 技術的定義
 
-Documento oficial de residência no Japão usado para comprovar endereço ou composição familiar.
+住民票とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o comprovante oficial de residência.
+お客様には、「Registro de residência」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Pode ser necessário para confirmar dados do segurado ou beneficiário.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar registro de residência e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Registro de residência」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエグイストルオ ジ ルエスイドエンクイア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエグイストルオ ジ ルエスイドエンクイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 住民票の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 住民票について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de registro de residência.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar registro de residência.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエグイストルオ ジ ルエスイドエンクイア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0067
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0066 - 戸籍謄本 - Registro familiar japonês
 - VIDA-0068 - 本人確認書類 - Documento de identificação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0067
 - DIALOGUE-VIDA-0017
 - CASE-VIDA-0027
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0067.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0068 - 本人確認書類 - Documento de identificação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0068
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 本人確認書類
 
-## Tradução Português
-
+## ポルトガル語訳
 Documento de identificação
 
-## Definição Técnica
+## 技術的定義
 
-Documento usado para confirmar identidade de segurado, contratante ou beneficiário.
+本人確認書類とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o documento para provar identidade.
+お客様には、「Documento de identificação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora precisa confirmar quem está solicitando ou recebendo o valor.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar documento de identificação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Documento de identificação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドオクウムエントオ ジ イドエントイフイクアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドオクウムエントオ ジ イドエントイフイクアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 本人確認書類の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 本人確認書類について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de documento de identificação.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar documento de identificação.
+  - Leitura de apoio: ヴァモス コンフィルマール ドオクウムエントオ ジ イドエントイフイクアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0068
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0067 - 住民票 - Registro de residência
 - VIDA-0069 - 受取人口座 - Conta bancária do beneficiário
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0068
 - DIALOGUE-VIDA-0017
 - CASE-VIDA-0027
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0068.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0069 - 受取人口座 - Conta bancária do beneficiário
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0069
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 受取人口座
 
-## Tradução Português
-
+## ポルトガル語訳
 Conta bancária do beneficiário
 
-## Definição Técnica
+## 技術的定義
 
-Conta indicada para recebimento de indenização ou benefício, conforme titularidade e regras da seguradora.
+受取人口座とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a conta onde o dinheiro será depositado.
+お客様には、「Conta bancária do beneficiário」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A conta precisa estar correta e normalmente deve pertencer à pessoa que tem direito ao pagamento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar conta bancária do beneficiário e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Conta bancária do beneficiário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオントア ブアンクアルイア ド ブエンエフイクイアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クオントア ブアンクアルイア ド ブエンエフイクイアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 受取人口座の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 受取人口座について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de conta bancária do beneficiário.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar conta bancária do beneficiário.
+  - Leitura de apoio: ヴァモス コンフィルマール クオントア ブアンクアルイア ド ブエンエフイクイアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0069
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0068 - 本人確認書類 - Documento de identificação
 - VIDA-0070 - 支払査定 - Análise de pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0069
 - DIALOGUE-VIDA-0018
 - CASE-VIDA-0027
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0069.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0070 - 支払査定 - Análise de pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0070
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 支払査定
 
-## Tradução Português
-
+## ポルトガル語訳
 Análise de pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Processo em que a seguradora verifica documentos, cobertura, causa e condições antes de pagar.
+支払査定とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a análise antes do pagamento.
+お客様には、「Análise de pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora precisa analisar se tudo está dentro do contrato antes de pagar.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar análise de pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Análise de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アナリゼ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アナリゼ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 支払査定の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 支払査定について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de análise de pagamento.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar análise de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール アナリゼ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0070
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0069 - 受取人口座 - Conta bancária do beneficiário
 - VIDA-0071 - 支払可否 - Decisão de pagar ou não pagar
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0070
 - DIALOGUE-VIDA-0018
 - CASE-VIDA-0028
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0070.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0071 - 支払可否 - Decisão de pagar ou não pagar
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0071
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 支払可否
 
-## Tradução Português
-
+## ポルトガル語訳
 Decisão de pagar ou não pagar
 
-## Definição Técnica
+## 技術的定義
 
-Resultado da análise da seguradora sobre existência de direito ao pagamento.
+支払可否とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a decisão se paga ou não.
+お客様には、「Decisão de pagar ou não pagar」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Depois da análise, a seguradora decide se há direito ao pagamento conforme o contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar decisão de pagar ou não pagar e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Decisão de pagar ou não pagar」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 支払可否の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 支払可否について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de decisão de pagar ou não pagar.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar decisão de pagar ou não pagar.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0071
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0070 - 支払査定 - Análise de pagamento
 - VIDA-0072 - 不払 - Recusa de pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0071
 - DIALOGUE-VIDA-0018
 - CASE-VIDA-0028
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0071.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0072 - 不払 - Recusa de pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0072
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 不払
 
-## Tradução Português
-
+## ポルトガル語訳
 Recusa de pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Situação em que a seguradora não paga por falta de cobertura, exclusão, declaração incorreta ou outra razão prevista.
+不払とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando a seguradora não paga.
+お客様には、「Recusa de pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se a seguradora recusar, precisamos entender o motivo e explicar com base no contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar recusa de pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Recusa de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエクウスア ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエクウスア ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 不払の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 不払について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de recusa de pagamento.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar recusa de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエクウスア ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0072
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0071 - 支払可否 - Decisão de pagar ou não pagar
 - VIDA-0073 - 支払期限 - Prazo de pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0072
 - DIALOGUE-VIDA-0018
 - CASE-VIDA-0028
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0072.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0073 - 支払期限 - Prazo de pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0073
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 支払期限
 
-## Tradução Português
-
+## ポルトガル語訳
 Prazo de pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Prazo previsto para pagamento após recebimento de documentos completos e conclusão da análise, conforme regras.
+支払期限とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o prazo para pagar depois da análise.
+お客様には、「Prazo de pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O prazo depende de documentos completos e da análise da seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar prazo de pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Prazo de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルアズオ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プルアズオ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 支払期限の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 支払期限について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de prazo de pagamento.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar prazo de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール プルアズオ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0073
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0072 - 不払 - Recusa de pagamento
 - VIDA-0074 - 追加書類 - Documentos adicionais
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0073
 - DIALOGUE-VIDA-0019
 - CASE-VIDA-0029
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0073.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0074 - 追加書類 - Documentos adicionais
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0074
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 追加書類
 
-## Tradução Português
-
+## ポルトガル語訳
 Documentos adicionais
 
-## Definição Técnica
+## 技術的定義
 
-Documentos extras solicitados pela seguradora para concluir análise do pedido.
+追加書類とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São documentos extras pedidos pela seguradora.
+お客様には、「Documentos adicionais」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se faltar informação, a seguradora pode pedir documentos adicionais antes de decidir.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar documentos adicionais e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Documentos adicionais」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドクメントス アドイクイオンアイス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドクメントス アドイクイオンアイス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 追加書類の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 追加書類について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de documentos adicionais.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar documentos adicionais.
+  - Leitura de apoio: ヴァモス コンフィルマール ドクメントス アドイクイオンアイス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0074
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0073 - 支払期限 - Prazo de pagamento
 - VIDA-0075 - 事実確認 - Confirmação dos fatos
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0074
 - DIALOGUE-VIDA-0019
 - CASE-VIDA-0029
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0074.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0075 - 事実確認 - Confirmação dos fatos
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0075
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 事実確認
 
-## Tradução Português
-
+## ポルトガル語訳
 Confirmação dos fatos
 
-## Definição Técnica
+## 技術的定義
 
-Verificação das circunstâncias, documentos e informações relacionadas ao evento informado.
+事実確認とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É confirmar o que aconteceu.
+お客様には、「Confirmação dos fatos」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora pode precisar confirmar os fatos antes de pagar.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar confirmação dos fatos e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Confirmação dos fatos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンフィルマサォン ドス フアトオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コンフィルマサォン ドス フアトオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 事実確認の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 事実確認について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de confirmação dos fatos.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar confirmação dos fatos.
+  - Leitura de apoio: ヴァモス コンフィルマール コンフィルマサォン ドス フアトオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0075
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0074 - 追加書類 - Documentos adicionais
 - VIDA-0076 - 調査 - Investigação da seguradora
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0075
 - DIALOGUE-VIDA-0019
 - CASE-VIDA-0029
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0075.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0076 - 調査 - Investigação da seguradora
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0076
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 調査
 
-## Tradução Português
-
+## ポルトガル語訳
 Investigação da seguradora
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento de apuração mais detalhada quando há dúvidas sobre evento, declaração, causa ou cobertura.
+調査とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma investigação mais detalhada.
+お客様には、「Investigação da seguradora」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Em alguns casos, a seguradora precisa investigar melhor antes de decidir.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar investigação da seguradora e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Investigação da seguradora」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インヴエストイグアサォン ダ セグラドーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インヴエストイグアサォン ダ セグラドーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 調査の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 調査について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de investigação da seguradora.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar investigação da seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール インヴエストイグアサォン ダ セグラドーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0076
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0075 - 事実確認 - Confirmação dos fatos
 - VIDA-0077 - 指定代理請求人 - Representante designado para solicitação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0076
 - DIALOGUE-VIDA-0019
 - CASE-VIDA-0030
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0076.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0077 - 指定代理請求人 - Representante designado para solicitação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0077
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 指定代理請求人
 
-## Tradução Português
-
+## ポルトガル語訳
 Representante designado para solicitação
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa previamente indicada para solicitar benefício em nome do segurado em situações permitidas.
+指定代理請求人とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma pessoa indicada para pedir benefício em certas situações.
+お客様には、「Representante designado para solicitação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Essa indicação pode ajudar quando o segurado não consegue solicitar sozinho.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar representante designado para solicitação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Representante designado para solicitação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 指定代理請求人の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 指定代理請求人について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de representante designado para solicitação.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar representante designado para solicitação.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0077
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0076 - 調査 - Investigação da seguradora
 - VIDA-0078 - 代理請求 - Solicitação por representante
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0077
 - DIALOGUE-VIDA-0020
 - CASE-VIDA-0030
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0077.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0078 - 代理請求 - Solicitação por representante
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0078
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 代理請求
 
-## Tradução Português
-
+## ポルトガル語訳
 Solicitação por representante
 
-## Definição Técnica
+## 技術的定義
 
-Pedido feito por pessoa autorizada em nome do segurado ou beneficiário, conforme contrato e regras.
+代理請求とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando outra pessoa autorizada faz o pedido.
+お客様には、「Solicitação por representante」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Nem qualquer pessoa pode solicitar; precisa haver autorização ou regra aplicável.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar solicitação por representante e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Solicitação por representante」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スオルイクイトアサォン ポル ルエプルエスエントアントエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール スオルイクイトアサォン ポル ルエプルエスエントアントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 代理請求の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 代理請求について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de solicitação por representante.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar solicitação por representante.
+  - Leitura de apoio: ヴァモス コンフィルマール スオルイクイトアサォン ポル ルエプルエスエントアントエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0078
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0077 - 指定代理請求人 - Representante designado para solicitação
 - VIDA-0079 - 未成年受取人 - Beneficiário menor de idade
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0078
 - DIALOGUE-VIDA-0020
 - CASE-VIDA-0030
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0078.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0079 - 未成年受取人 - Beneficiário menor de idade
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0079
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 未成年受取人
 
-## Tradução Português
-
+## ポルトガル語訳
 Beneficiário menor de idade
 
-## Definição Técnica
+## 技術的定義
 
-Beneficiário que ainda não atingiu maioridade, exigindo cuidados documentais e representação legal.
+未成年受取人とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É beneficiário menor de idade.
+お客様には、「Beneficiário menor de idade」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando o beneficiário é menor, pode haver procedimento especial para receber o valor.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar beneficiário menor de idade e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Beneficiário menor de idade」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ブエンエフイクイアルイオ ムエンオル ジ イドアドエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ブエンエフイクイアルイオ ムエンオル ジ イドアドエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 未成年受取人の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 未成年受取人について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de beneficiário menor de idade.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar beneficiário menor de idade.
+  - Leitura de apoio: ヴァモス コンフィルマール ブエンエフイクイアルイオ ムエンオル ジ イドアドエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0079
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0078 - 代理請求 - Solicitação por representante
 - VIDA-0080 - 相続人 - Herdeiro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0079
 - DIALOGUE-VIDA-0020
 - CASE-VIDA-0031
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0079.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0080 - 相続人 - Herdeiro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-26
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 VIDA-0080
 
-## Categoria
-
+## カテゴリー
 VIDA
 
-## Termo Japonês
-
+## 日本語用語
 相続人
 
-## Tradução Português
-
+## ポルトガル語訳
 Herdeiro
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa com direito sucessório, que pode ter papel em pedidos quando não há beneficiário definido ou conforme situação.
+相続人とは、生命保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quem tem direito de herança.
+お客様には、「Herdeiro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se não houver beneficiário claro, pode ser necessário confirmar herdeiros conforme documentos e regras.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar herdeiro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Herdeiro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エルドエイルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール エルドエイルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 相続人の手続きを確認します。
-- 必要書類を保険会社へ確認しましょう。
+- 相続人について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o procedimento de herdeiro.
-- Precisamos verificar os documentos necessários com a seguradora.
+- Vamos confirmar herdeiro.
+  - Leitura de apoio: ヴァモス コンフィルマール エルドエイルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-VIDA-0080
 
-## Termos relacionados
-
+## 関連用語
 - VIDA-0079 - 未成年受取人 - Beneficiário menor de idade
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-VIDA-0080
 - DIALOGUE-VIDA-0020
 - CASE-VIDA-0031
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - vida
 - sinistro
 - documentos
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/VIDA/FAQ-VIDA-0080.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

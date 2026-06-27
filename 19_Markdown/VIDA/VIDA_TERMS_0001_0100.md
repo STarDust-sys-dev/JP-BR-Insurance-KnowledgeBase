@@ -1,14 +1,21 @@
-# VIDA_TERMS_0001_0100
+# VIDA_TERMS_0001_0100 - Verbetes VIDA
 
-Pacote consolidado VIDA gerado em 2026-06-27.
+## 管理情報
+
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # VIDA-0001 - 生命保険 - Seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0001
@@ -32,31 +39,33 @@ Seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 生命保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0001
@@ -85,17 +94,17 @@ Vamos confirmar seguro de vida e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0002 - 死亡保険 - Seguro por morte
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0002
@@ -119,31 +128,33 @@ Seguro por morte
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro por morte e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro por morte」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ポル モルチ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ポル モルチ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro por morte」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro por morte.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ポル モルチ
-  - 日本語確認用: 「Seguro por morte」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 死亡保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro por morte.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ポル モルチ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0002
@@ -173,17 +184,17 @@ Vamos confirmar seguro por morte e explicar de forma simples, conforme o contrat
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0003 - 定期保険 - Seguro temporário
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0003
@@ -207,31 +218,33 @@ Seguro temporário
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro temporário e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro temporário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ トエムプオルアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ トエムプオルアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro temporário」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro temporário.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ トエムプオルアルイオ
-  - 日本語確認用: 「Seguro temporário」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 定期保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro temporário.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ トエムプオルアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0003
@@ -261,17 +274,17 @@ Vamos confirmar seguro temporário e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0004 - 終身保険 - Seguro vitalício
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0004
@@ -295,31 +308,33 @@ Seguro vitalício
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro vitalício e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro vitalício」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ヴイトアルイクイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ヴイトアルイクイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro vitalício」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro vitalício.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ヴイトアルイクイオ
-  - 日本語確認用: 「Seguro vitalício」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 終身保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro vitalício.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ヴイトアルイクイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0004
@@ -349,17 +364,17 @@ Vamos confirmar seguro vitalício e explicar de forma simples, conforme o contra
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0005 - 養老保険 - Seguro misto com vencimento
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0005
@@ -383,31 +398,33 @@ Seguro misto com vencimento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro misto com vencimento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro misto com vencimento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ムイストオ コン ヴエンクイムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ムイストオ コン ヴエンクイムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro misto com vencimento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro misto com vencimento.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ムイストオ コン ヴエンクイムエントオ
-  - 日本語確認用: 「Seguro misto com vencimento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 養老保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro misto com vencimento.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ムイストオ コン ヴエンクイムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0005
@@ -437,17 +454,17 @@ Vamos confirmar seguro misto com vencimento e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0006 - 医療保険 - Seguro médico
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0006
@@ -471,31 +488,33 @@ Seguro médico
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro médico e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro médico」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ メジコ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro médico」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro médico.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ メジコ
-  - 日本語確認用: 「Seguro médico」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 医療保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro médico.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ メジコ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0006
@@ -525,17 +544,17 @@ Vamos confirmar seguro médico e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0007 - がん保険 - Seguro contra câncer
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0007
@@ -559,31 +578,33 @@ Seguro contra câncer
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro contra câncer e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro contra câncer」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ コントラ カンセル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ コントラ カンセル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro contra câncer」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro contra câncer.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ コントラ カンセル
-  - 日本語確認用: 「Seguro contra câncer」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - がん保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro contra câncer.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ コントラ カンセル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0007
@@ -613,17 +634,17 @@ Vamos confirmar seguro contra câncer e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0008 - 就業不能保険 - Seguro por incapacidade de trabalhar
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0008
@@ -647,31 +668,33 @@ Seguro por incapacidade de trabalhar
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro por incapacidade de trabalhar e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro por incapacidade de trabalhar」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro por incapacidade de trabalhar」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro por incapacidade de trabalhar.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル
-  - 日本語確認用: 「Seguro por incapacidade de trabalhar」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 就業不能保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro por incapacidade de trabalhar.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ポル インクアプアクイドアドエ ジ トルアブアリアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0008
@@ -701,17 +724,17 @@ Vamos confirmar seguro por incapacidade de trabalhar e explicar de forma simples
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0009 - 保険契約者 - Contratante do seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0009
@@ -735,31 +758,33 @@ Contratante do seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar contratante do seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Contratante do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオントルアトアントエ ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Contratante do seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar contratante do seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Contratante do seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険契約者について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar contratante do seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0009
@@ -789,17 +814,17 @@ Vamos confirmar contratante do seguro de vida e explicar de forma simples, confo
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0010 - 被保険者 - Segurado do seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0010
@@ -823,31 +848,33 @@ Segurado do seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar segurado do seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Segurado do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグラード ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグラード ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Segurado do seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar segurado do seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール セグラード ド セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Segurado do seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 被保険者について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar segurado do seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール セグラード ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0010
@@ -877,17 +904,17 @@ Vamos confirmar segurado do seguro de vida e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0011 - 受取人 - Beneficiário
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0011
@@ -911,31 +938,33 @@ Beneficiário
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar beneficiário e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Beneficiário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ブエンエフイクイアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ブエンエフイクイアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Beneficiário」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar beneficiário.
-  - カタカナ読み: ヴァモス コンフィルマール ブエンエフイクイアルイオ
-  - 日本語確認用: 「Beneficiário」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 受取人について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar beneficiário.
+  - Leitura de apoio: ヴァモス コンフィルマール ブエンエフイクイアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0011
@@ -965,17 +994,17 @@ Vamos confirmar beneficiário e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0012 - 保険金 - Valor de indenização do seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0012
@@ -999,31 +1028,33 @@ Valor de indenização do seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor de indenização do seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor de indenização do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor de indenização do seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor de indenização do seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Valor de indenização do seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor de indenização do seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ジ インドエンイズアサォン ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0012
@@ -1053,17 +1084,17 @@ Vamos confirmar valor de indenização do seguro de vida e explicar de forma sim
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0013 - 給付金 - Benefício pago pelo seguro
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0013
@@ -1087,31 +1118,33 @@ Benefício pago pelo seguro
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar benefício pago pelo seguro e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Benefício pago pelo seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ パーゴ プエルオ セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベネフィシオ パーゴ プエルオ セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Benefício pago pelo seguro」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar benefício pago pelo seguro.
-  - カタカナ読み: ヴァモス コンフィルマール ベネフィシオ パーゴ プエルオ セグーロ
-  - 日本語確認用: 「Benefício pago pelo seguro」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 給付金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar benefício pago pelo seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ パーゴ プエルオ セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0013
@@ -1141,17 +1174,17 @@ Vamos confirmar benefício pago pelo seguro e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0014 - 保険料 - Prêmio do seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0014
@@ -1175,31 +1208,33 @@ Prêmio do seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar prêmio do seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Prêmio do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルエムイオ ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プルエムイオ ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Prêmio do seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar prêmio do seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール プルエムイオ ド セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Prêmio do seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険料について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar prêmio do seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール プルエムイオ ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0014
@@ -1229,17 +1264,17 @@ Vamos confirmar prêmio do seguro de vida e explicar de forma simples, conforme 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0015 - 払込期間 - Período de pagamento
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0015
@@ -1263,31 +1298,33 @@ Período de pagamento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar período de pagamento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Período de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プエルイオドオ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Período de pagamento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar período de pagamento.
-  - カタカナ読み: ヴァモス コンフィルマール プエルイオドオ ジ パガメント
-  - 日本語確認用: 「Período de pagamento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 払込期間について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar período de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0015
@@ -1317,17 +1354,17 @@ Vamos confirmar período de pagamento e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0016 - 保険期間 - Período de cobertura
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0016
@@ -1351,31 +1388,33 @@ Período de cobertura
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar período de cobertura e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Período de cobertura」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ コベルツーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プエルイオドオ ジ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Período de cobertura」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar período de cobertura.
-  - カタカナ読み: ヴァモス コンフィルマール プエルイオドオ ジ コベルツーラ
-  - 日本語確認用: 「Período de cobertura」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険期間について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar período de cobertura.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ コベルツーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0016
@@ -1405,17 +1444,17 @@ Vamos confirmar período de cobertura e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0017 - 解約返戻金 - Valor de resgate por cancelamento
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0017
@@ -1439,31 +1478,33 @@ Valor de resgate por cancelamento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor de resgate por cancelamento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor de resgate por cancelamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor de resgate por cancelamento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor de resgate por cancelamento.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ
-  - 日本語確認用: 「Valor de resgate por cancelamento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 解約返戻金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor de resgate por cancelamento.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ジ ルエスグアトエ ポル クアンクエルアムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0017
@@ -1493,17 +1534,17 @@ Vamos confirmar valor de resgate por cancelamento e explicar de forma simples, c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0018 - 告知義務 - Obrigação de declaração de saúde
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0018
@@ -1527,31 +1568,33 @@ Obrigação de declaração de saúde
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar obrigação de declaração de saúde e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Obrigação de declaração de saúde」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オブリガサォン ジ デクララサォン ジ サウージ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール オブリガサォン ジ デクララサォン ジ サウージ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Obrigação de declaração de saúde」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar obrigação de declaração de saúde.
-  - カタカナ読み: ヴァモス コンフィルマール オブリガサォン ジ デクララサォン ジ サウージ
-  - 日本語確認用: 「Obrigação de declaração de saúde」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 告知義務について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar obrigação de declaração de saúde.
+  - Leitura de apoio: ヴァモス コンフィルマール オブリガサォン ジ デクララサォン ジ サウージ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0018
@@ -1581,17 +1624,17 @@ Vamos confirmar obrigação de declaração de saúde e explicar de forma simple
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0019 - 免責期間 - Período de carência ou exclusão inicial
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0019
@@ -1615,31 +1658,33 @@ Período de carência ou exclusão inicial
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar período de carência ou exclusão inicial e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Período de carência ou exclusão inicial」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Período de carência ou exclusão inicial」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar período de carência ou exclusão inicial.
-  - カタカナ読み: ヴァモス コンフィルマール プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル
-  - 日本語確認用: 「Período de carência ou exclusão inicial」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 免責期間について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar período de carência ou exclusão inicial.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ クアルエンクイア オウ エシクルウスアォン インイクイアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0019
@@ -1669,17 +1714,17 @@ Vamos confirmar período de carência ou exclusão inicial e explicar de forma s
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0020 - 責任開始日 - Data de início da responsabilidade da seguradora
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-25
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0020
@@ -1703,31 +1748,33 @@ Data de início da responsabilidade da seguradora
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar data de início da responsabilidade da seguradora e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Data de início da responsabilidade da seguradora」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Data de início da responsabilidade da seguradora」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar data de início da responsabilidade da seguradora.
-  - カタカナ読み: ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ
-  - 日本語確認用: 「Data de início da responsabilidade da seguradora」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 責任開始日について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar data de início da responsabilidade da seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ ヘスポンサビリダージ ダ セグラドーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0020
@@ -1756,17 +1803,17 @@ Vamos confirmar data de início da responsabilidade da seguradora e explicar de 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0021 - 高度障害保険金 - Indenização por invalidez grave
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0021
@@ -1790,31 +1837,33 @@ Indenização por invalidez grave
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar indenização por invalidez grave e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Indenização por invalidez grave」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インドエンイズアサォン ポル インヴアルイドエズ グラーヴィ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール インドエンイズアサォン ポル インヴアルイドエズ グラーヴィ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Indenização por invalidez grave」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar indenização por invalidez grave.
-  - カタカナ読み: ヴァモス コンフィルマール インドエンイズアサォン ポル インヴアルイドエズ グラーヴィ
-  - 日本語確認用: 「Indenização por invalidez grave」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 高度障害保険金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar indenização por invalidez grave.
+  - Leitura de apoio: ヴァモス コンフィルマール インドエンイズアサォン ポル インヴアルイドエズ グラーヴィ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0021
@@ -1843,17 +1892,17 @@ Vamos confirmar indenização por invalidez grave e explicar de forma simples, c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0022 - 三大疾病 - Três doenças graves
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0022
@@ -1877,31 +1926,33 @@ Três doenças graves
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar três doenças graves e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Três doenças graves」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「トルエス ドオエンスアス グルアヴエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール トルエス ドオエンスアス グルアヴエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Três doenças graves」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar três doenças graves.
-  - カタカナ読み: ヴァモス コンフィルマール トルエス ドオエンスアス グルアヴエス
-  - 日本語確認用: 「Três doenças graves」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 三大疾病について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar três doenças graves.
+  - Leitura de apoio: ヴァモス コンフィルマール トルエス ドオエンスアス グルアヴエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0022
@@ -1931,17 +1982,17 @@ Vamos confirmar três doenças graves e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0023 - がん診断給付金 - Benefício por diagnóstico de câncer
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0023
@@ -1965,31 +2016,33 @@ Benefício por diagnóstico de câncer
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar benefício por diagnóstico de câncer e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Benefício por diagnóstico de câncer」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ ポル ジアグノスチコ ジ カンセル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベネフィシオ ポル ジアグノスチコ ジ カンセル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Benefício por diagnóstico de câncer」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar benefício por diagnóstico de câncer.
-  - カタカナ読み: ヴァモス コンフィルマール ベネフィシオ ポル ジアグノスチコ ジ カンセル
-  - 日本語確認用: 「Benefício por diagnóstico de câncer」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - がん診断給付金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar benefício por diagnóstico de câncer.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ ポル ジアグノスチコ ジ カンセル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0023
@@ -2019,17 +2072,17 @@ Vamos confirmar benefício por diagnóstico de câncer e explicar de forma simpl
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0024 - 入院給付金 - Benefício por internação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0024
@@ -2053,31 +2106,33 @@ Benefício por internação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar benefício por internação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Benefício por internação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ ポル インテルナサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベネフィシオ ポル インテルナサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Benefício por internação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar benefício por internação.
-  - カタカナ読み: ヴァモス コンフィルマール ベネフィシオ ポル インテルナサォン
-  - 日本語確認用: 「Benefício por internação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 入院給付金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar benefício por internação.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ ポル インテルナサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0024
@@ -2107,17 +2162,17 @@ Vamos confirmar benefício por internação e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0025 - 手術給付金 - Benefício por cirurgia
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0025
@@ -2141,31 +2196,33 @@ Benefício por cirurgia
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar benefício por cirurgia e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Benefício por cirurgia」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ ポル シルルジーア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベネフィシオ ポル シルルジーア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Benefício por cirurgia」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar benefício por cirurgia.
-  - カタカナ読み: ヴァモス コンフィルマール ベネフィシオ ポル シルルジーア
-  - 日本語確認用: 「Benefício por cirurgia」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 手術給付金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar benefício por cirurgia.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ ポル シルルジーア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0025
@@ -2195,17 +2252,17 @@ Vamos confirmar benefício por cirurgia e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0026 - 通院給付金 - Benefício por consulta ou tratamento ambulatorial
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0026
@@ -2229,31 +2286,33 @@ Benefício por consulta ou tratamento ambulatorial
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar benefício por consulta ou tratamento ambulatorial e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Benefício por consulta ou tratamento ambulatorial」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ ポル クオンスウルトア オウ トラタメント アムブウルアトオルイアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベネフィシオ ポル クオンスウルトア オウ トラタメント アムブウルアトオルイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Benefício por consulta ou tratamento ambulatorial」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar benefício por consulta ou tratamento ambulatorial.
-  - カタカナ読み: ヴァモス コンフィルマール ベネフィシオ ポル クオンスウルトア オウ トラタメント アムブウルアトオルイアル
-  - 日本語確認用: 「Benefício por consulta ou tratamento ambulatorial」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 通院給付金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar benefício por consulta ou tratamento ambulatorial.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ ポル クオンスウルトア オウ トラタメント アムブウルアトオルイアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0026
@@ -2283,17 +2342,17 @@ Vamos confirmar benefício por consulta ou tratamento ambulatorial e explicar de
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0027 - 先進医療特約 - Cobertura adicional de tratamento médico avançado
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0027
@@ -2317,31 +2376,33 @@ Cobertura adicional de tratamento médico avançado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar cobertura adicional de tratamento médico avançado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Cobertura adicional de tratamento médico avançado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル ジ トラタメント メジコ アヴアンスアドオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ トラタメント メジコ アヴアンスアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Cobertura adicional de tratamento médico avançado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar cobertura adicional de tratamento médico avançado.
-  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ トラタメント メジコ アヴアンスアドオ
-  - 日本語確認用: 「Cobertura adicional de tratamento médico avançado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 先進医療特約について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar cobertura adicional de tratamento médico avançado.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ トラタメント メジコ アヴアンスアドオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0027
@@ -2371,17 +2432,17 @@ Vamos confirmar cobertura adicional de tratamento médico avançado e explicar d
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0028 - 女性疾病特約 - Cobertura adicional para doenças femininas
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0028
@@ -2405,31 +2466,33 @@ Cobertura adicional para doenças femininas
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar cobertura adicional para doenças femininas e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Cobertura adicional para doenças femininas」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル パラ ドオエンスアス フエムインインアス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドオエンスアス フエムインインアス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Cobertura adicional para doenças femininas」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar cobertura adicional para doenças femininas.
-  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドオエンスアス フエムインインアス
-  - 日本語確認用: 「Cobertura adicional para doenças femininas」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 女性疾病特約について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar cobertura adicional para doenças femininas.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドオエンスアス フエムインインアス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0028
@@ -2459,17 +2522,17 @@ Vamos confirmar cobertura adicional para doenças femininas e explicar de forma 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0029 - 生活習慣病 - Doenças relacionadas ao estilo de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0029
@@ -2493,31 +2556,33 @@ Doenças relacionadas ao estilo de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar doenças relacionadas ao estilo de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Doenças relacionadas ao estilo de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドオエンスアス ルエルアクイオンアドアス アオ エストイルオ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドオエンスアス ルエルアクイオンアドアス アオ エストイルオ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Doenças relacionadas ao estilo de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar doenças relacionadas ao estilo de vida.
-  - カタカナ読み: ヴァモス コンフィルマール ドオエンスアス ルエルアクイオンアドアス アオ エストイルオ ジ ヴィーダ
-  - 日本語確認用: 「Doenças relacionadas ao estilo de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 生活習慣病について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar doenças relacionadas ao estilo de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール ドオエンスアス ルエルアクイオンアドアス アオ エストイルオ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0029
@@ -2547,17 +2612,17 @@ Vamos confirmar doenças relacionadas ao estilo de vida e explicar de forma simp
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0030 - 介護保険 - Seguro de cuidados de longa duração
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0030
@@ -2581,31 +2646,33 @@ Seguro de cuidados de longa duração
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro de cuidados de longa duração e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro de cuidados de longa duração」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ クウイドアドオス ジ ルオングア ドウルアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ジ クウイドアドオス ジ ルオングア ドウルアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro de cuidados de longa duração」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro de cuidados de longa duração.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ クウイドアドオス ジ ルオングア ドウルアサォン
-  - 日本語確認用: 「Seguro de cuidados de longa duração」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 介護保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro de cuidados de longa duração.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ クウイドアドオス ジ ルオングア ドウルアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0030
@@ -2635,17 +2702,17 @@ Vamos confirmar seguro de cuidados de longa duração e explicar de forma simple
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0031 - 認知症保険 - Seguro para demência
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0031
@@ -2669,31 +2736,33 @@ Seguro para demência
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro para demência e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro para demência」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ パラ ドエムエンクイア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ パラ ドエムエンクイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro para demência」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro para demência.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ パラ ドエムエンクイア
-  - 日本語確認用: 「Seguro para demência」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 認知症保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro para demência.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ パラ ドエムエンクイア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0031
@@ -2723,17 +2792,17 @@ Vamos confirmar seguro para demência e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0032 - 年金保険 - Seguro de renda ou aposentadoria
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0032
@@ -2757,31 +2826,33 @@ Seguro de renda ou aposentadoria
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro de renda ou aposentadoria e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro de renda ou aposentadoria」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ ルエンドア オウ アプオスエントアドオルイア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ジ ルエンドア オウ アプオスエントアドオルイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro de renda ou aposentadoria」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro de renda ou aposentadoria.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ ルエンドア オウ アプオスエントアドオルイア
-  - 日本語確認用: 「Seguro de renda ou aposentadoria」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 年金保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro de renda ou aposentadoria.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ ルエンドア オウ アプオスエントアドオルイア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0032
@@ -2811,17 +2882,17 @@ Vamos confirmar seguro de renda ou aposentadoria e explicar de forma simples, co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0033 - 個人年金保険 - Seguro de previdência individual
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0033
@@ -2845,31 +2916,33 @@ Seguro de previdência individual
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro de previdência individual e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro de previdência individual」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ プルエヴイドエンクイア インドイヴイドウアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ジ プルエヴイドエンクイア インドイヴイドウアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro de previdência individual」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro de previdência individual.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ プルエヴイドエンクイア インドイヴイドウアル
-  - 日本語確認用: 「Seguro de previdência individual」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 個人年金保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro de previdência individual.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ プルエヴイドエンクイア インドイヴイドウアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0033
@@ -2899,17 +2972,17 @@ Vamos confirmar seguro de previdência individual e explicar de forma simples, c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0034 - 学資保険 - Seguro educacional
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0034
@@ -2933,31 +3006,33 @@ Seguro educacional
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro educacional e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro educacional」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ エドウクアクイオンアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ エドウクアクイオンアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro educacional」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro educacional.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ エドウクアクイオンアル
-  - 日本語確認用: 「Seguro educacional」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 学資保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro educacional.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ エドウクアクイオンアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0034
@@ -2987,17 +3062,17 @@ Vamos confirmar seguro educacional e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0035 - 収入保障保険 - Seguro de garantia de renda
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0035
@@ -3021,31 +3096,33 @@ Seguro de garantia de renda
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro de garantia de renda e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro de garantia de renda」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ グアルアントイア ジ ルエンドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ジ グアルアントイア ジ ルエンドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro de garantia de renda」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro de garantia de renda.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ グアルアントイア ジ ルエンドア
-  - 日本語確認用: 「Seguro de garantia de renda」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 収入保障保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro de garantia de renda.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ グアルアントイア ジ ルエンドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0035
@@ -3075,17 +3152,17 @@ Vamos confirmar seguro de garantia de renda e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0036 - 保険金額 - Valor segurado
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0036
@@ -3109,31 +3186,33 @@ Valor segurado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor segurado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor segurado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール セグラード」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール セグラード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor segurado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor segurado.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール セグラード
-  - 日本語確認用: 「Valor segurado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険金額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor segurado.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール セグラード
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0036
@@ -3163,17 +3242,17 @@ Vamos confirmar valor segurado e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0037 - 必要保障額 - Valor necessário de proteção
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0037
@@ -3197,31 +3276,33 @@ Valor necessário de proteção
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor necessário de proteção e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor necessário de proteção」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ンエクエスアルイオ ジ プロテサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール ンエクエスアルイオ ジ プロテサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor necessário de proteção」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor necessário de proteção.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール ンエクエスアルイオ ジ プロテサォン
-  - 日本語確認用: 「Valor necessário de proteção」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 必要保障額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor necessário de proteção.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ンエクエスアルイオ ジ プロテサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0037
@@ -3251,17 +3332,17 @@ Vamos confirmar valor necessário de proteção e explicar de forma simples, con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0038 - ライフプラン - Planejamento de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0038
@@ -3285,31 +3366,33 @@ Planejamento de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar planejamento de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Planejamento de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルアンエジアムエントオ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プルアンエジアムエントオ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Planejamento de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar planejamento de vida.
-  - カタカナ読み: ヴァモス コンフィルマール プルアンエジアムエントオ ジ ヴィーダ
-  - 日本語確認用: 「Planejamento de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - ライフプランについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar planejamento de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール プルアンエジアムエントオ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0038
@@ -3339,17 +3422,17 @@ Vamos confirmar planejamento de vida e explicar de forma simples, conforme o con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0039 - 見直し - Revisão do seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0039
@@ -3373,31 +3456,33 @@ Revisão do seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar revisão do seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Revisão do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエヴイスアォン ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエヴイスアォン ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Revisão do seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar revisão do seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール ルエヴイスアォン ド セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Revisão do seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 見直しについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar revisão do seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエヴイスアォン ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0039
@@ -3427,17 +3512,17 @@ Vamos confirmar revisão do seguro de vida e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0040 - ライフイベント - Evento de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0040
@@ -3461,31 +3546,33 @@ Evento de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar evento de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Evento de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エヴエントオ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール エヴエントオ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Evento de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar evento de vida.
-  - カタカナ読み: ヴァモス コンフィルマール エヴエントオ ジ ヴィーダ
-  - 日本語確認用: 「Evento de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - ライフイベントについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar evento de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール エヴエントオ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0040
@@ -3514,17 +3601,17 @@ Vamos confirmar evento de vida e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0041 - 申込書 - Proposta de contratação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0041
@@ -3548,31 +3635,33 @@ Proposta de contratação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar proposta de contratação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Proposta de contratação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルオプオストア ジ クオントルアトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Proposta de contratação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar proposta de contratação.
-  - カタカナ読み: ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン
-  - 日本語確認用: 「Proposta de contratação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 申込書について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar proposta de contratação.
+  - Leitura de apoio: ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0041
@@ -3601,17 +3690,17 @@ Vamos confirmar proposta de contratação e explicar de forma simples, conforme 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0042 - 告知書 - Questionário de declaração de saúde
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0042
@@ -3635,31 +3724,33 @@ Questionário de declaração de saúde
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar questionário de declaração de saúde e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Questionário de declaração de saúde」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ケスチオナーリオ ジ デクララサォン ジ サウージ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ケスチオナーリオ ジ デクララサォン ジ サウージ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Questionário de declaração de saúde」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar questionário de declaração de saúde.
-  - カタカナ読み: ヴァモス コンフィルマール ケスチオナーリオ ジ デクララサォン ジ サウージ
-  - 日本語確認用: 「Questionário de declaração de saúde」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 告知書について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar questionário de declaração de saúde.
+  - Leitura de apoio: ヴァモス コンフィルマール ケスチオナーリオ ジ デクララサォン ジ サウージ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0042
@@ -3689,17 +3780,17 @@ Vamos confirmar questionário de declaração de saúde e explicar de forma simp
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0043 - 健康状態 - Condição de saúde
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0043
@@ -3723,31 +3814,33 @@ Condição de saúde
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar condição de saúde e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Condição de saúde」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンジサォン ジ サウージ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コンジサォン ジ サウージ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Condição de saúde」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar condição de saúde.
-  - カタカナ読み: ヴァモス コンフィルマール コンジサォン ジ サウージ
-  - 日本語確認用: 「Condição de saúde」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 健康状態について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar condição de saúde.
+  - Leitura de apoio: ヴァモス コンフィルマール コンジサォン ジ サウージ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0043
@@ -3777,17 +3870,17 @@ Vamos confirmar condição de saúde e explicar de forma simples, conforme o con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0044 - 既往症 - Doença preexistente
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0044
@@ -3811,31 +3904,33 @@ Doença preexistente
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar doença preexistente e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Doença preexistente」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエンサ プルエエシイストエントエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドエンサ プルエエシイストエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Doença preexistente」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar doença preexistente.
-  - カタカナ読み: ヴァモス コンフィルマール ドエンサ プルエエシイストエントエ
-  - 日本語確認用: 「Doença preexistente」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 既往症について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar doença preexistente.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエンサ プルエエシイストエントエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0044
@@ -3865,17 +3960,17 @@ Vamos confirmar doença preexistente e explicar de forma simples, conforme o con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0045 - 通院歴 - Histórico de consultas ou tratamentos
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0045
@@ -3899,31 +3994,33 @@ Histórico de consultas ou tratamentos
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar histórico de consultas ou tratamentos e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Histórico de consultas ou tratamentos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イストオルイクオ ジ クオンスウルトアス オウ トルアトアムエントオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール イストオルイクオ ジ クオンスウルトアス オウ トルアトアムエントオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Histórico de consultas ou tratamentos」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar histórico de consultas ou tratamentos.
-  - カタカナ読み: ヴァモス コンフィルマール イストオルイクオ ジ クオンスウルトアス オウ トルアトアムエントオス
-  - 日本語確認用: 「Histórico de consultas ou tratamentos」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 通院歴について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar histórico de consultas ou tratamentos.
+  - Leitura de apoio: ヴァモス コンフィルマール イストオルイクオ ジ クオンスウルトアス オウ トルアトアムエントオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0045
@@ -3953,17 +4050,17 @@ Vamos confirmar histórico de consultas ou tratamentos e explicar de forma simpl
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0046 - 入院歴 - Histórico de internação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0046
@@ -3987,31 +4084,33 @@ Histórico de internação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar histórico de internação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Histórico de internação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イストオルイクオ ジ インテルナサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール イストオルイクオ ジ インテルナサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Histórico de internação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar histórico de internação.
-  - カタカナ読み: ヴァモス コンフィルマール イストオルイクオ ジ インテルナサォン
-  - 日本語確認用: 「Histórico de internação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 入院歴について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar histórico de internação.
+  - Leitura de apoio: ヴァモス コンフィルマール イストオルイクオ ジ インテルナサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0046
@@ -4041,17 +4140,17 @@ Vamos confirmar histórico de internação e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0047 - 手術歴 - Histórico de cirurgia
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0047
@@ -4075,31 +4174,33 @@ Histórico de cirurgia
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar histórico de cirurgia e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Histórico de cirurgia」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イストオルイクオ ジ シルルジーア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール イストオルイクオ ジ シルルジーア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Histórico de cirurgia」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar histórico de cirurgia.
-  - カタカナ読み: ヴァモス コンフィルマール イストオルイクオ ジ シルルジーア
-  - 日本語確認用: 「Histórico de cirurgia」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 手術歴について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar histórico de cirurgia.
+  - Leitura de apoio: ヴァモス コンフィルマール イストオルイクオ ジ シルルジーア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0047
@@ -4129,17 +4230,17 @@ Vamos confirmar histórico de cirurgia e explicar de forma simples, conforme o c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0048 - 健康診断結果 - Resultado de exame de saúde
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0048
@@ -4163,31 +4264,33 @@ Resultado de exame de saúde
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar resultado de exame de saúde e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Resultado de exame de saúde」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエスウルトアドオ ジ エシアムエ ジ サウージ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエスウルトアドオ ジ エシアムエ ジ サウージ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Resultado de exame de saúde」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar resultado de exame de saúde.
-  - カタカナ読み: ヴァモス コンフィルマール ルエスウルトアドオ ジ エシアムエ ジ サウージ
-  - 日本語確認用: 「Resultado de exame de saúde」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 健康診断結果について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar resultado de exame de saúde.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエスウルトアドオ ジ エシアムエ ジ サウージ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0048
@@ -4217,17 +4320,17 @@ Vamos confirmar resultado de exame de saúde e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0049 - 引受審査 - Análise de aceitação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0049
@@ -4251,31 +4354,33 @@ Análise de aceitação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar análise de aceitação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Análise de aceitação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アナリゼ ジ アセイタサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アナリゼ ジ アセイタサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Análise de aceitação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar análise de aceitação.
-  - カタカナ読み: ヴァモス コンフィルマール アナリゼ ジ アセイタサォン
-  - 日本語確認用: 「Análise de aceitação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 引受審査について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar análise de aceitação.
+  - Leitura de apoio: ヴァモス コンフィルマール アナリゼ ジ アセイタサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0049
@@ -4305,17 +4410,17 @@ Vamos confirmar análise de aceitação e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0050 - 条件付引受 - Aceitação com condição
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0050
@@ -4339,31 +4444,33 @@ Aceitação com condição
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar aceitação com condição e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Aceitação com condição」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アセイタサォン コン コンジサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アセイタサォン コン コンジサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Aceitação com condição」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar aceitação com condição.
-  - カタカナ読み: ヴァモス コンフィルマール アセイタサォン コン コンジサォン
-  - 日本語確認用: 「Aceitação com condição」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 条件付引受について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar aceitação com condição.
+  - Leitura de apoio: ヴァモス コンフィルマール アセイタサォン コン コンジサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0050
@@ -4393,17 +4500,17 @@ Vamos confirmar aceitação com condição e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0051 - 特別保険料 - Prêmio adicional especial
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0051
@@ -4427,31 +4534,33 @@ Prêmio adicional especial
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar prêmio adicional especial e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Prêmio adicional especial」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルエムイオ アドイクイオンアル エスプエクイアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プルエムイオ アドイクイオンアル エスプエクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Prêmio adicional especial」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar prêmio adicional especial.
-  - カタカナ読み: ヴァモス コンフィルマール プルエムイオ アドイクイオンアル エスプエクイアル
-  - 日本語確認用: 「Prêmio adicional especial」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 特別保険料について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar prêmio adicional especial.
+  - Leitura de apoio: ヴァモス コンフィルマール プルエムイオ アドイクイオンアル エスプエクイアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0051
@@ -4481,17 +4590,17 @@ Vamos confirmar prêmio adicional especial e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0052 - 部位不担保 - Exclusão de parte ou condição específica
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0052
@@ -4515,31 +4624,33 @@ Exclusão de parte ou condição específica
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar exclusão de parte ou condição específica e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Exclusão de parte ou condição específica」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エシクルウスアォン ジ プアルトエ オウ コンジサォン エスプエクイフイクア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール エシクルウスアォン ジ プアルトエ オウ コンジサォン エスプエクイフイクア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Exclusão de parte ou condição específica」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar exclusão de parte ou condição específica.
-  - カタカナ読み: ヴァモス コンフィルマール エシクルウスアォン ジ プアルトエ オウ コンジサォン エスプエクイフイクア
-  - 日本語確認用: 「Exclusão de parte ou condição específica」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 部位不担保について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar exclusão de parte ou condição específica.
+  - Leitura de apoio: ヴァモス コンフィルマール エシクルウスアォン ジ プアルトエ オウ コンジサォン エスプエクイフイクア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0052
@@ -4569,17 +4680,17 @@ Vamos confirmar exclusão de parte ou condição específica e explicar de forma
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0053 - 契約不可 - Recusa de contratação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0053
@@ -4603,31 +4714,33 @@ Recusa de contratação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar recusa de contratação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Recusa de contratação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエクウスア ジ クオントルアトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエクウスア ジ クオントルアトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Recusa de contratação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar recusa de contratação.
-  - カタカナ読み: ヴァモス コンフィルマール ルエクウスア ジ クオントルアトアサォン
-  - 日本語確認用: 「Recusa de contratação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 契約不可について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar recusa de contratação.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエクウスア ジ クオントルアトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0053
@@ -4657,17 +4770,17 @@ Vamos confirmar recusa de contratação e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0054 - 不成立 - Contrato não efetivado
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0054
@@ -4691,31 +4804,33 @@ Contrato não efetivado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar contrato não efetivado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Contrato não efetivado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コントラート ンアォン エフエトイヴアドオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コントラート ンアォン エフエトイヴアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Contrato não efetivado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar contrato não efetivado.
-  - カタカナ読み: ヴァモス コンフィルマール コントラート ンアォン エフエトイヴアドオ
-  - 日本語確認用: 「Contrato não efetivado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 不成立について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar contrato não efetivado.
+  - Leitura de apoio: ヴァモス コンフィルマール コントラート ンアォン エフエトイヴアドオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0054
@@ -4745,17 +4860,17 @@ Vamos confirmar contrato não efetivado e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0055 - クーリングオフ - Direito de desistência
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0055
@@ -4779,31 +4894,33 @@ Direito de desistência
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar direito de desistência e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Direito de desistência」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドイルエイトオ ジ ドエスイストエンクイア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドイルエイトオ ジ ドエスイストエンクイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Direito de desistência」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar direito de desistência.
-  - カタカナ読み: ヴァモス コンフィルマール ドイルエイトオ ジ ドエスイストエンクイア
-  - 日本語確認用: 「Direito de desistência」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - クーリングオフについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar direito de desistência.
+  - Leitura de apoio: ヴァモス コンフィルマール ドイルエイトオ ジ ドエスイストエンクイア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0055
@@ -4833,17 +4950,17 @@ Vamos confirmar direito de desistência e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0056 - 失効 - Perda de validade do contrato
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0056
@@ -4867,31 +4984,33 @@ Perda de validade do contrato
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar perda de validade do contrato e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Perda de validade do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルドア ジ ヴアルイドアドエ ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Perda de validade do contrato」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar perda de validade do contrato.
-  - カタカナ読み: ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート
-  - 日本語確認用: 「Perda de validade do contrato」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 失効について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar perda de validade do contrato.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0056
@@ -4921,17 +5040,17 @@ Vamos confirmar perda de validade do contrato e explicar de forma simples, confo
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0057 - 復活 - Reativação do contrato
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0057
@@ -4955,31 +5074,33 @@ Reativação do contrato
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar reativação do contrato e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Reativação do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエアトイヴアサォン ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエアトイヴアサォン ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Reativação do contrato」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar reativação do contrato.
-  - カタカナ読み: ヴァモス コンフィルマール ルエアトイヴアサォン ド コントラート
-  - 日本語確認用: 「Reativação do contrato」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 復活について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar reativação do contrato.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエアトイヴアサォン ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0057
@@ -5009,17 +5130,17 @@ Vamos confirmar reativação do contrato e explicar de forma simples, conforme o
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0058 - 減額 - Redução do valor segurado
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0058
@@ -5043,31 +5164,33 @@ Redução do valor segurado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar redução do valor segurado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Redução do valor segurado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエドウサォン ド ヴァロール セグラード」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエドウサォン ド ヴァロール セグラード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Redução do valor segurado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar redução do valor segurado.
-  - カタカナ読み: ヴァモス コンフィルマール ルエドウサォン ド ヴァロール セグラード
-  - 日本語確認用: 「Redução do valor segurado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 減額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar redução do valor segurado.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエドウサォン ド ヴァロール セグラード
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0058
@@ -5097,17 +5220,17 @@ Vamos confirmar redução do valor segurado e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0059 - 払済保険 - Seguro quitado com cobertura reduzida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0059
@@ -5131,31 +5254,33 @@ Seguro quitado com cobertura reduzida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro quitado com cobertura reduzida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro quitado com cobertura reduzida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ キトアドオ コン コベルツーラ ルエドウズイドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ キトアドオ コン コベルツーラ ルエドウズイドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro quitado com cobertura reduzida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro quitado com cobertura reduzida.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ キトアドオ コン コベルツーラ ルエドウズイドア
-  - 日本語確認用: 「Seguro quitado com cobertura reduzida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 払済保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro quitado com cobertura reduzida.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ キトアドオ コン コベルツーラ ルエドウズイドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0059
@@ -5185,17 +5310,17 @@ Vamos confirmar seguro quitado com cobertura reduzida e explicar de forma simple
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0060 - 延長定期保険 - Seguro temporário prorrogado
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0060
@@ -5219,31 +5344,33 @@ Seguro temporário prorrogado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro temporário prorrogado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro temporário prorrogado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ トエムプオルアルイオ プルオホオグアドオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ トエムプオルアルイオ プルオホオグアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro temporário prorrogado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro temporário prorrogado.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ トエムプオルアルイオ プルオホオグアドオ
-  - 日本語確認用: 「Seguro temporário prorrogado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 延長定期保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro temporário prorrogado.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ トエムプオルアルイオ プルオホオグアドオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0060
@@ -5272,17 +5399,17 @@ Vamos confirmar seguro temporário prorrogado e explicar de forma simples, confo
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0061 - 保険金請求 - Solicitação de indenização
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0061
@@ -5306,31 +5433,33 @@ Solicitação de indenização
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar solicitação de indenização e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Solicitação de indenização」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スオルイクイトアサォン ジ インドエンイズアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール スオルイクイトアサォン ジ インドエンイズアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Solicitação de indenização」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar solicitação de indenização.
-  - カタカナ読み: ヴァモス コンフィルマール スオルイクイトアサォン ジ インドエンイズアサォン
-  - 日本語確認用: 「Solicitação de indenização」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険金請求について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar solicitação de indenização.
+  - Leitura de apoio: ヴァモス コンフィルマール スオルイクイトアサォン ジ インドエンイズアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0061
@@ -5359,17 +5488,17 @@ Vamos confirmar solicitação de indenização e explicar de forma simples, conf
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0062 - 給付金請求 - Solicitação de benefício
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0062
@@ -5393,31 +5522,33 @@ Solicitação de benefício
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar solicitação de benefício e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Solicitação de benefício」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スオルイクイトアサォン ジ ベネフィシオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール スオルイクイトアサォン ジ ベネフィシオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Solicitação de benefício」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar solicitação de benefício.
-  - カタカナ読み: ヴァモス コンフィルマール スオルイクイトアサォン ジ ベネフィシオ
-  - 日本語確認用: 「Solicitação de benefício」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 給付金請求について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar solicitação de benefício.
+  - Leitura de apoio: ヴァモス コンフィルマール スオルイクイトアサォン ジ ベネフィシオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0062
@@ -5447,17 +5578,17 @@ Vamos confirmar solicitação de benefício e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0063 - 請求書 - Formulário de solicitação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0063
@@ -5481,31 +5612,33 @@ Formulário de solicitação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar formulário de solicitação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Formulário de solicitação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フオルムウルアルイオ ジ スオルイクイトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール フオルムウルアルイオ ジ スオルイクイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Formulário de solicitação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar formulário de solicitação.
-  - カタカナ読み: ヴァモス コンフィルマール フオルムウルアルイオ ジ スオルイクイトアサォン
-  - 日本語確認用: 「Formulário de solicitação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 請求書について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar formulário de solicitação.
+  - Leitura de apoio: ヴァモス コンフィルマール フオルムウルアルイオ ジ スオルイクイトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0063
@@ -5535,17 +5668,17 @@ Vamos confirmar formulário de solicitação e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0064 - 診断書 - Atestado ou relatório médico
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0064
@@ -5569,31 +5702,33 @@ Atestado ou relatório médico
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar atestado ou relatório médico e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Atestado ou relatório médico」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトエストアドオ オウ ルエルアトオルイオ メジコ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アトエストアドオ オウ ルエルアトオルイオ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Atestado ou relatório médico」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar atestado ou relatório médico.
-  - カタカナ読み: ヴァモス コンフィルマール アトエストアドオ オウ ルエルアトオルイオ メジコ
-  - 日本語確認用: 「Atestado ou relatório médico」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 診断書について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar atestado ou relatório médico.
+  - Leitura de apoio: ヴァモス コンフィルマール アトエストアドオ オウ ルエルアトオルイオ メジコ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0064
@@ -5623,17 +5758,17 @@ Vamos confirmar atestado ou relatório médico e explicar de forma simples, conf
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0065 - 死亡診断書 - Atestado de óbito médico
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0065
@@ -5657,31 +5792,33 @@ Atestado de óbito médico
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar atestado de óbito médico e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Atestado de óbito médico」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトエストアドオ ジ オブイトオ メジコ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アトエストアドオ ジ オブイトオ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Atestado de óbito médico」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar atestado de óbito médico.
-  - カタカナ読み: ヴァモス コンフィルマール アトエストアドオ ジ オブイトオ メジコ
-  - 日本語確認用: 「Atestado de óbito médico」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 死亡診断書について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar atestado de óbito médico.
+  - Leitura de apoio: ヴァモス コンフィルマール アトエストアドオ ジ オブイトオ メジコ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0065
@@ -5711,17 +5848,17 @@ Vamos confirmar atestado de óbito médico e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0066 - 戸籍謄本 - Registro familiar japonês
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0066
@@ -5745,31 +5882,33 @@ Registro familiar japonês
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar registro familiar japonês e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Registro familiar japonês」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエグイストルオ フアムイルイアル ジアプオンエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエグイストルオ フアムイルイアル ジアプオンエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Registro familiar japonês」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar registro familiar japonês.
-  - カタカナ読み: ヴァモス コンフィルマール ルエグイストルオ フアムイルイアル ジアプオンエス
-  - 日本語確認用: 「Registro familiar japonês」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 戸籍謄本について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar registro familiar japonês.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエグイストルオ フアムイルイアル ジアプオンエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0066
@@ -5799,17 +5938,17 @@ Vamos confirmar registro familiar japonês e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0067 - 住民票 - Registro de residência
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0067
@@ -5833,31 +5972,33 @@ Registro de residência
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar registro de residência e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Registro de residência」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエグイストルオ ジ ルエスイドエンクイア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエグイストルオ ジ ルエスイドエンクイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Registro de residência」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar registro de residência.
-  - カタカナ読み: ヴァモス コンフィルマール ルエグイストルオ ジ ルエスイドエンクイア
-  - 日本語確認用: 「Registro de residência」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 住民票について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar registro de residência.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエグイストルオ ジ ルエスイドエンクイア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0067
@@ -5887,17 +6028,17 @@ Vamos confirmar registro de residência e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0068 - 本人確認書類 - Documento de identificação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0068
@@ -5921,31 +6062,33 @@ Documento de identificação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar documento de identificação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Documento de identificação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドオクウムエントオ ジ イドエントイフイクアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドオクウムエントオ ジ イドエントイフイクアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Documento de identificação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar documento de identificação.
-  - カタカナ読み: ヴァモス コンフィルマール ドオクウムエントオ ジ イドエントイフイクアサォン
-  - 日本語確認用: 「Documento de identificação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 本人確認書類について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar documento de identificação.
+  - Leitura de apoio: ヴァモス コンフィルマール ドオクウムエントオ ジ イドエントイフイクアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0068
@@ -5975,17 +6118,17 @@ Vamos confirmar documento de identificação e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0069 - 受取人口座 - Conta bancária do beneficiário
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0069
@@ -6009,31 +6152,33 @@ Conta bancária do beneficiário
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar conta bancária do beneficiário e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Conta bancária do beneficiário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオントア ブアンクアルイア ド ブエンエフイクイアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール クオントア ブアンクアルイア ド ブエンエフイクイアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Conta bancária do beneficiário」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar conta bancária do beneficiário.
-  - カタカナ読み: ヴァモス コンフィルマール クオントア ブアンクアルイア ド ブエンエフイクイアルイオ
-  - 日本語確認用: 「Conta bancária do beneficiário」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 受取人口座について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar conta bancária do beneficiário.
+  - Leitura de apoio: ヴァモス コンフィルマール クオントア ブアンクアルイア ド ブエンエフイクイアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0069
@@ -6063,17 +6208,17 @@ Vamos confirmar conta bancária do beneficiário e explicar de forma simples, co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0070 - 支払査定 - Análise de pagamento
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0070
@@ -6097,31 +6242,33 @@ Análise de pagamento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar análise de pagamento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Análise de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アナリゼ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アナリゼ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Análise de pagamento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar análise de pagamento.
-  - カタカナ読み: ヴァモス コンフィルマール アナリゼ ジ パガメント
-  - 日本語確認用: 「Análise de pagamento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 支払査定について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar análise de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール アナリゼ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0070
@@ -6151,17 +6298,17 @@ Vamos confirmar análise de pagamento e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0071 - 支払可否 - Decisão de pagar ou não pagar
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0071
@@ -6185,31 +6332,33 @@ Decisão de pagar ou não pagar
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar decisão de pagar ou não pagar e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Decisão de pagar ou não pagar」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Decisão de pagar ou não pagar」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar decisão de pagar ou não pagar.
-  - カタカナ読み: ヴァモス コンフィルマール ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル
-  - 日本語確認用: 「Decisão de pagar ou não pagar」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 支払可否について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar decisão de pagar ou não pagar.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエクイスアォン ジ プアグアル オウ ンアォン プアグアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0071
@@ -6239,17 +6388,17 @@ Vamos confirmar decisão de pagar ou não pagar e explicar de forma simples, con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0072 - 不払 - Recusa de pagamento
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0072
@@ -6273,31 +6422,33 @@ Recusa de pagamento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar recusa de pagamento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Recusa de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエクウスア ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエクウスア ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Recusa de pagamento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar recusa de pagamento.
-  - カタカナ読み: ヴァモス コンフィルマール ルエクウスア ジ パガメント
-  - 日本語確認用: 「Recusa de pagamento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 不払について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar recusa de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエクウスア ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0072
@@ -6327,17 +6478,17 @@ Vamos confirmar recusa de pagamento e explicar de forma simples, conforme o cont
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0073 - 支払期限 - Prazo de pagamento
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0073
@@ -6361,31 +6512,33 @@ Prazo de pagamento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar prazo de pagamento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Prazo de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルアズオ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プルアズオ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Prazo de pagamento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar prazo de pagamento.
-  - カタカナ読み: ヴァモス コンフィルマール プルアズオ ジ パガメント
-  - 日本語確認用: 「Prazo de pagamento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 支払期限について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar prazo de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール プルアズオ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0073
@@ -6415,17 +6568,17 @@ Vamos confirmar prazo de pagamento e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0074 - 追加書類 - Documentos adicionais
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0074
@@ -6449,31 +6602,33 @@ Documentos adicionais
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar documentos adicionais e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Documentos adicionais」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドクメントス アドイクイオンアイス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドクメントス アドイクイオンアイス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Documentos adicionais」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar documentos adicionais.
-  - カタカナ読み: ヴァモス コンフィルマール ドクメントス アドイクイオンアイス
-  - 日本語確認用: 「Documentos adicionais」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 追加書類について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar documentos adicionais.
+  - Leitura de apoio: ヴァモス コンフィルマール ドクメントス アドイクイオンアイス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0074
@@ -6503,17 +6658,17 @@ Vamos confirmar documentos adicionais e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0075 - 事実確認 - Confirmação dos fatos
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0075
@@ -6537,31 +6692,33 @@ Confirmação dos fatos
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar confirmação dos fatos e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Confirmação dos fatos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンフィルマサォン ドス フアトオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コンフィルマサォン ドス フアトオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Confirmação dos fatos」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar confirmação dos fatos.
-  - カタカナ読み: ヴァモス コンフィルマール コンフィルマサォン ドス フアトオス
-  - 日本語確認用: 「Confirmação dos fatos」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 事実確認について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar confirmação dos fatos.
+  - Leitura de apoio: ヴァモス コンフィルマール コンフィルマサォン ドス フアトオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0075
@@ -6591,17 +6748,17 @@ Vamos confirmar confirmação dos fatos e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0076 - 調査 - Investigação da seguradora
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0076
@@ -6625,31 +6782,33 @@ Investigação da seguradora
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar investigação da seguradora e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Investigação da seguradora」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インヴエストイグアサォン ダ セグラドーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール インヴエストイグアサォン ダ セグラドーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Investigação da seguradora」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar investigação da seguradora.
-  - カタカナ読み: ヴァモス コンフィルマール インヴエストイグアサォン ダ セグラドーラ
-  - 日本語確認用: 「Investigação da seguradora」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 調査について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar investigação da seguradora.
+  - Leitura de apoio: ヴァモス コンフィルマール インヴエストイグアサォン ダ セグラドーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0076
@@ -6679,17 +6838,17 @@ Vamos confirmar investigação da seguradora e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0077 - 指定代理請求人 - Representante designado para solicitação
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0077
@@ -6713,31 +6872,33 @@ Representante designado para solicitação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar representante designado para solicitação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Representante designado para solicitação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Representante designado para solicitação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar representante designado para solicitação.
-  - カタカナ読み: ヴァモス コンフィルマール ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン
-  - 日本語確認用: 「Representante designado para solicitação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 指定代理請求人について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar representante designado para solicitação.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエプルエスエントアントエ ドエスイグンアドオ パラ スオルイクイトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0077
@@ -6767,17 +6928,17 @@ Vamos confirmar representante designado para solicitação e explicar de forma s
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0078 - 代理請求 - Solicitação por representante
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0078
@@ -6801,31 +6962,33 @@ Solicitação por representante
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar solicitação por representante e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Solicitação por representante」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スオルイクイトアサォン ポル ルエプルエスエントアントエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール スオルイクイトアサォン ポル ルエプルエスエントアントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Solicitação por representante」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar solicitação por representante.
-  - カタカナ読み: ヴァモス コンフィルマール スオルイクイトアサォン ポル ルエプルエスエントアントエ
-  - 日本語確認用: 「Solicitação por representante」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 代理請求について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar solicitação por representante.
+  - Leitura de apoio: ヴァモス コンフィルマール スオルイクイトアサォン ポル ルエプルエスエントアントエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0078
@@ -6855,17 +7018,17 @@ Vamos confirmar solicitação por representante e explicar de forma simples, con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0079 - 未成年受取人 - Beneficiário menor de idade
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0079
@@ -6889,31 +7052,33 @@ Beneficiário menor de idade
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar beneficiário menor de idade e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Beneficiário menor de idade」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ブエンエフイクイアルイオ ムエンオル ジ イドアドエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ブエンエフイクイアルイオ ムエンオル ジ イドアドエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Beneficiário menor de idade」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar beneficiário menor de idade.
-  - カタカナ読み: ヴァモス コンフィルマール ブエンエフイクイアルイオ ムエンオル ジ イドアドエ
-  - 日本語確認用: 「Beneficiário menor de idade」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 未成年受取人について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar beneficiário menor de idade.
+  - Leitura de apoio: ヴァモス コンフィルマール ブエンエフイクイアルイオ ムエンオル ジ イドアドエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0079
@@ -6943,17 +7108,17 @@ Vamos confirmar beneficiário menor de idade e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0080 - 相続人 - Herdeiro
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0080
@@ -6977,31 +7142,33 @@ Herdeiro
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar herdeiro e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Herdeiro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エルドエイルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール エルドエイルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Herdeiro」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar herdeiro.
-  - カタカナ読み: ヴァモス コンフィルマール エルドエイルオ
-  - 日本語確認用: 「Herdeiro」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 相続人について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar herdeiro.
+  - Leitura de apoio: ヴァモス コンフィルマール エルドエイルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0080
@@ -7030,17 +7197,17 @@ Vamos confirmar herdeiro e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0081 - 契約内容確認 - Confirmação do conteúdo do contrato
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0081
@@ -7064,31 +7231,33 @@ Confirmação do conteúdo do contrato
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar confirmação do conteúdo do contrato e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Confirmação do conteúdo do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンフィルマサォン ド クオントエウドオ ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コンフィルマサォン ド クオントエウドオ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Confirmação do conteúdo do contrato」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar confirmação do conteúdo do contrato.
-  - カタカナ読み: ヴァモス コンフィルマール コンフィルマサォン ド クオントエウドオ ド コントラート
-  - 日本語確認用: 「Confirmação do conteúdo do contrato」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 契約内容確認について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar confirmação do conteúdo do contrato.
+  - Leitura de apoio: ヴァモス コンフィルマール コンフィルマサォン ド クオントエウドオ ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0081
@@ -7117,17 +7286,17 @@ Vamos confirmar confirmação do conteúdo do contrato e explicar de forma simpl
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0082 - 契約内容変更 - Alteração do conteúdo do contrato
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0082
@@ -7151,31 +7320,33 @@ Alteração do conteúdo do contrato
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar alteração do conteúdo do contrato e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Alteração do conteúdo do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ド クオントエウドオ ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アルトエルアサォン ド クオントエウドオ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Alteração do conteúdo do contrato」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar alteração do conteúdo do contrato.
-  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ド クオントエウドオ ド コントラート
-  - 日本語確認用: 「Alteração do conteúdo do contrato」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 契約内容変更について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar alteração do conteúdo do contrato.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ド クオントエウドオ ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0082
@@ -7205,17 +7376,17 @@ Vamos confirmar alteração do conteúdo do contrato e explicar de forma simples
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0083 - 住所変更 - Alteração de endereço
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0083
@@ -7239,31 +7410,33 @@ Alteração de endereço
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar alteração de endereço e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Alteração de endereço」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ エンドエルエスオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Alteração de endereço」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar alteração de endereço.
-  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ
-  - 日本語確認用: 「Alteração de endereço」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 住所変更について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar alteração de endereço.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0083
@@ -7293,17 +7466,17 @@ Vamos confirmar alteração de endereço e explicar de forma simples, conforme o
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0084 - 改姓 - Alteração de sobrenome
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0084
@@ -7327,31 +7500,33 @@ Alteração de sobrenome
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar alteração de sobrenome e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Alteração de sobrenome」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ スオブルエンオムエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アルトエルアサォン ジ スオブルエンオムエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Alteração de sobrenome」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar alteração de sobrenome.
-  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ スオブルエンオムエ
-  - 日本語確認用: 「Alteração de sobrenome」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 改姓について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar alteração de sobrenome.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ スオブルエンオムエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0084
@@ -7381,17 +7556,17 @@ Vamos confirmar alteração de sobrenome e explicar de forma simples, conforme o
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0085 - 受取人変更 - Alteração de beneficiário
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0085
@@ -7415,31 +7590,33 @@ Alteração de beneficiário
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar alteração de beneficiário e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Alteração de beneficiário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ ブエンエフイクイアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アルトエルアサォン ジ ブエンエフイクイアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Alteração de beneficiário」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar alteração de beneficiário.
-  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ ブエンエフイクイアルイオ
-  - 日本語確認用: 「Alteração de beneficiário」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 受取人変更について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar alteração de beneficiário.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ ブエンエフイクイアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0085
@@ -7469,17 +7646,17 @@ Vamos confirmar alteração de beneficiário e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0086 - 指定代理請求人変更 - Alteração do representante designado
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0086
@@ -7503,31 +7680,33 @@ Alteração do representante designado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar alteração do representante designado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Alteração do representante designado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ド ルエプルエスエントアントエ ドエスイグンアドオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アルトエルアサォン ド ルエプルエスエントアントエ ドエスイグンアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Alteração do representante designado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar alteração do representante designado.
-  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ド ルエプルエスエントアントエ ドエスイグンアドオ
-  - 日本語確認用: 「Alteração do representante designado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 指定代理請求人変更について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar alteração do representante designado.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ド ルエプルエスエントアントエ ドエスイグンアドオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0086
@@ -7557,17 +7736,17 @@ Vamos confirmar alteração do representante designado e explicar de forma simpl
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0087 - 保険証券 - Apólice do seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0087
@@ -7591,31 +7770,33 @@ Apólice do seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar apólice do seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Apólice do seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アプオルイクエ ド セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アプオルイクエ ド セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Apólice do seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar apólice do seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール アプオルイクエ ド セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Apólice do seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険証券について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar apólice do seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール アプオルイクエ ド セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0087
@@ -7645,17 +7826,17 @@ Vamos confirmar apólice do seguro de vida e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0088 - 証券再発行 - Reemissão da apólice
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0088
@@ -7679,31 +7860,33 @@ Reemissão da apólice
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar reemissão da apólice e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Reemissão da apólice」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエエムイスアォン ダ アプオルイクエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエエムイスアォン ダ アプオルイクエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Reemissão da apólice」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar reemissão da apólice.
-  - カタカナ読み: ヴァモス コンフィルマール ルエエムイスアォン ダ アプオルイクエ
-  - 日本語確認用: 「Reemissão da apólice」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 証券再発行について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar reemissão da apólice.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエエムイスアォン ダ アプオルイクエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0088
@@ -7733,17 +7916,17 @@ Vamos confirmar reemissão da apólice e explicar de forma simples, conforme o c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0089 - 控除証明書 - Comprovante para dedução de seguro
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0089
@@ -7767,31 +7950,33 @@ Comprovante para dedução de seguro
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar comprovante para dedução de seguro e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Comprovante para dedução de seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオムプルオヴアントエ パラ ドエドウサォン ジ セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール クオムプルオヴアントエ パラ ドエドウサォン ジ セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Comprovante para dedução de seguro」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar comprovante para dedução de seguro.
-  - カタカナ読み: ヴァモス コンフィルマール クオムプルオヴアントエ パラ ドエドウサォン ジ セグーロ
-  - 日本語確認用: 「Comprovante para dedução de seguro」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 控除証明書について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar comprovante para dedução de seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール クオムプルオヴアントエ パラ ドエドウサォン ジ セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0089
@@ -7821,17 +8006,17 @@ Vamos confirmar comprovante para dedução de seguro e explicar de forma simples
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0090 - 生命保険料控除 - Dedução de prêmio de seguro de vida
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0090
@@ -7855,31 +8040,33 @@ Dedução de prêmio de seguro de vida
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar dedução de prêmio de seguro de vida e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Dedução de prêmio de seguro de vida」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエドウサォン ジ プルエムイオ ジ セグーロ ジ ヴィーダ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドエドウサォン ジ プルエムイオ ジ セグーロ ジ ヴィーダ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Dedução de prêmio de seguro de vida」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar dedução de prêmio de seguro de vida.
-  - カタカナ読み: ヴァモス コンフィルマール ドエドウサォン ジ プルエムイオ ジ セグーロ ジ ヴィーダ
-  - 日本語確認用: 「Dedução de prêmio de seguro de vida」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 生命保険料控除について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar dedução de prêmio de seguro de vida.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエドウサォン ジ プルエムイオ ジ セグーロ ジ ヴィーダ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0090
@@ -7909,17 +8096,17 @@ Vamos confirmar dedução de prêmio de seguro de vida e explicar de forma simpl
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0091 - 年末調整 - Ajuste fiscal de fim de ano
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0091
@@ -7943,31 +8130,33 @@ Ajuste fiscal de fim de ano
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar ajuste fiscal de fim de ano e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Ajuste fiscal de fim de ano」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アジウストエ フイスクアル ジ フイム ジ アンオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アジウストエ フイスクアル ジ フイム ジ アンオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Ajuste fiscal de fim de ano」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar ajuste fiscal de fim de ano.
-  - カタカナ読み: ヴァモス コンフィルマール アジウストエ フイスクアル ジ フイム ジ アンオ
-  - 日本語確認用: 「Ajuste fiscal de fim de ano」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 年末調整について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar ajuste fiscal de fim de ano.
+  - Leitura de apoio: ヴァモス コンフィルマール アジウストエ フイスクアル ジ フイム ジ アンオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0091
@@ -7997,17 +8186,17 @@ Vamos confirmar ajuste fiscal de fim de ano e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0092 - 確定申告 - Declaração final de imposto
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0092
@@ -8031,31 +8220,33 @@ Declaração final de imposto
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar declaração final de imposto e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Declaração final de imposto」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「デクララサォン フインアル ジ イムプオストオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール デクララサォン フインアル ジ イムプオストオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Declaração final de imposto」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar declaração final de imposto.
-  - カタカナ読み: ヴァモス コンフィルマール デクララサォン フインアル ジ イムプオストオ
-  - 日本語確認用: 「Declaração final de imposto」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 確定申告について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar declaração final de imposto.
+  - Leitura de apoio: ヴァモス コンフィルマール デクララサォン フインアル ジ イムプオストオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0092
@@ -8085,17 +8276,17 @@ Vamos confirmar declaração final de imposto e explicar de forma simples, confo
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0093 - 税務上の取扱い - Tratamento fiscal
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0093
@@ -8119,31 +8310,33 @@ Tratamento fiscal
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar tratamento fiscal e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Tratamento fiscal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「トラタメント フイスクアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール トラタメント フイスクアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Tratamento fiscal」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar tratamento fiscal.
-  - カタカナ読み: ヴァモス コンフィルマール トラタメント フイスクアル
-  - 日本語確認用: 「Tratamento fiscal」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 税務上の取扱いについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar tratamento fiscal.
+  - Leitura de apoio: ヴァモス コンフィルマール トラタメント フイスクアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0093
@@ -8173,17 +8366,17 @@ Vamos confirmar tratamento fiscal e explicar de forma simples, conforme o contra
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0094 - 保険金の税金 - Imposto sobre indenização do seguro
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0094
@@ -8207,31 +8400,33 @@ Imposto sobre indenização do seguro
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar imposto sobre indenização do seguro e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Imposto sobre indenização do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イムプオストオ スオブルエ インドエンイズアサォン ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール イムプオストオ スオブルエ インドエンイズアサォン ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Imposto sobre indenização do seguro」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar imposto sobre indenização do seguro.
-  - カタカナ読み: ヴァモス コンフィルマール イムプオストオ スオブルエ インドエンイズアサォン ド セグーロ
-  - 日本語確認用: 「Imposto sobre indenização do seguro」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険金の税金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar imposto sobre indenização do seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール イムプオストオ スオブルエ インドエンイズアサォン ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0094
@@ -8261,17 +8456,17 @@ Vamos confirmar imposto sobre indenização do seguro e explicar de forma simple
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0095 - 解約返戻金の税金 - Imposto sobre valor de resgate
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0095
@@ -8295,31 +8490,33 @@ Imposto sobre valor de resgate
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar imposto sobre valor de resgate e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Imposto sobre valor de resgate」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イムプオストオ スオブルエ ヴァロール ジ ルエスグアトエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール イムプオストオ スオブルエ ヴァロール ジ ルエスグアトエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Imposto sobre valor de resgate」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar imposto sobre valor de resgate.
-  - カタカナ読み: ヴァモス コンフィルマール イムプオストオ スオブルエ ヴァロール ジ ルエスグアトエ
-  - 日本語確認用: 「Imposto sobre valor de resgate」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 解約返戻金の税金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar imposto sobre valor de resgate.
+  - Leitura de apoio: ヴァモス コンフィルマール イムプオストオ スオブルエ ヴァロール ジ ルエスグアトエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0095
@@ -8349,17 +8546,17 @@ Vamos confirmar imposto sobre valor de resgate e explicar de forma simples, conf
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0096 - マイナンバー - Número individual japonês
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0096
@@ -8383,31 +8580,33 @@ Número individual japonês
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar número individual japonês e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Número individual japonês」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ンウムエルオ インドイヴイドウアル ジアプオンエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ンウムエルオ インドイヴイドウアル ジアプオンエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Número individual japonês」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar número individual japonês.
-  - カタカナ読み: ヴァモス コンフィルマール ンウムエルオ インドイヴイドウアル ジアプオンエス
-  - 日本語確認用: 「Número individual japonês」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - マイナンバーについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar número individual japonês.
+  - Leitura de apoio: ヴァモス コンフィルマール ンウムエルオ インドイヴイドウアル ジアプオンエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0096
@@ -8437,17 +8636,17 @@ Vamos confirmar número individual japonês e explicar de forma simples, conform
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0097 - 個人情報保護 - Proteção de dados pessoais
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0097
@@ -8471,31 +8670,33 @@ Proteção de dados pessoais
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar proteção de dados pessoais e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Proteção de dados pessoais」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プロテサォン ジ ドアドオス プエスオアイス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール プロテサォン ジ ドアドオス プエスオアイス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Proteção de dados pessoais」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar proteção de dados pessoais.
-  - カタカナ読み: ヴァモス コンフィルマール プロテサォン ジ ドアドオス プエスオアイス
-  - 日本語確認用: 「Proteção de dados pessoais」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 個人情報保護について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar proteção de dados pessoais.
+  - Leitura de apoio: ヴァモス コンフィルマール プロテサォン ジ ドアドオス プエスオアイス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0097
@@ -8525,17 +8726,17 @@ Vamos confirmar proteção de dados pessoais e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0098 - アフターフォロー - Acompanhamento pós-venda
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0098
@@ -8559,31 +8760,33 @@ Acompanhamento pós-venda
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar acompanhamento pós-venda e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Acompanhamento pós-venda」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アクオムプアニアムエントオ プオス ヴエンドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アクオムプアニアムエントオ プオス ヴエンドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Acompanhamento pós-venda」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar acompanhamento pós-venda.
-  - カタカナ読み: ヴァモス コンフィルマール アクオムプアニアムエントオ プオス ヴエンドア
-  - 日本語確認用: 「Acompanhamento pós-venda」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - アフターフォローについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar acompanhamento pós-venda.
+  - Leitura de apoio: ヴァモス コンフィルマール アクオムプアニアムエントオ プオス ヴエンドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0098
@@ -8613,17 +8816,17 @@ Vamos confirmar acompanhamento pós-venda e explicar de forma simples, conforme 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0099 - 定期点検 - Revisão periódica
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0099
@@ -8647,31 +8850,33 @@ Revisão periódica
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar revisão periódica e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Revisão periódica」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエヴイスアォン プエルイオドイクア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエヴイスアォン プエルイオドイクア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Revisão periódica」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar revisão periódica.
-  - カタカナ読み: ヴァモス コンフィルマール ルエヴイスアォン プエルイオドイクア
-  - 日本語確認用: 「Revisão periódica」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 定期点検について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar revisão periódica.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエヴイスアォン プエルイオドイクア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0099
@@ -8701,17 +8906,17 @@ Vamos confirmar revisão periódica e explicar de forma simples, conforme o cont
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # VIDA-0100 - 顧客対応記録 - Registro de atendimento ao cliente
 
 ## 管理情報
-- Versão: 0.1
-- Data: 2026-06-26
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 VIDA-0100
@@ -8735,31 +8940,33 @@ Registro de atendimento ao cliente
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar registro de atendimento ao cliente e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Registro de atendimento ao cliente」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエグイストルオ ジ アトエンドイムエントオ アオ クリエンチ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルエグイストルオ ジ アトエンドイムエントオ アオ クリエンチ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Registro de atendimento ao cliente」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar registro de atendimento ao cliente.
-  - カタカナ読み: ヴァモス コンフィルマール ルエグイストルオ ジ アトエンドイムエントオ アオ クリエンチ
-  - 日本語確認用: 「Registro de atendimento ao cliente」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 顧客対応記録について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar registro de atendimento ao cliente.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエグイストルオ ジ アトエンドイムエントオ アオ クリエンチ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-VIDA-0100
@@ -8788,4 +8995,6 @@ Vamos confirmar registro de atendimento ao cliente e explicar de forma simples, 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
+---

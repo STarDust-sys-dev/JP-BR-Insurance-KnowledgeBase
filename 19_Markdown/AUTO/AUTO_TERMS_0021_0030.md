@@ -1,876 +1,914 @@
-# AUTO_TERMS_0021_0030 - Terceiro lote de verbetes AUTO
+# AUTO_TERMS_0021_0030 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0021 - 保険期間 - Período do seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0021
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険期間
 
-## Tradução Português
-
+## ポルトガル語訳
 Período do seguro
 
-## Definição Técnica
+## 技術的定義
 
-Intervalo de vigência durante o qual a apólice de seguro está ativa, conforme data e horário de início e término estabelecidos no contrato.
+保険期間とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o prazo em que o seguro vale.
+お客様には、「Período do seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O seguro só funciona dentro do período contratado. Por isso, é importante verificar a data de início, a data de término e fazer a renovação antes de ficar sem cobertura.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar período do seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Período do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルイオドオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険期間を必ず確認しましょう。
-- 満期日前に更新手続きを行うことが大切です。
+- 保険期間について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar o período de validade do seguro.
-- É importante renovar antes do vencimento.
+- Vamos confirmar período do seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0021 - A partir de quando o seguro começa a valer?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0022 - 始期日 - Data de início da cobertura
 - AUTO-0023 - 満期日 - Data de vencimento do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0021
 - DIALOGUE-AUTO-0009
 - CASE-AUTO-0013
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - vigencia
 - periodo
 - renovacao
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0022.md`
 - `02_MasterDictionary/AUTO/AUTO-0023.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0022 - 始期日 - Data de início da cobertura
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0022
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 始期日
 
-## Tradução Português
-
+## ポルトガル語訳
 Data de início da cobertura
 
-## Definição Técnica
+## 技術的定義
 
-Data a partir da qual a cobertura do seguro passa a vigorar, respeitando horário de início, pagamento e demais condições contratuais.
+始期日とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o dia em que o seguro começa.
+お客様には、「Data de início da cobertura」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O seguro não cobre acidentes antes da data de início. Precisamos confirmar exatamente quando a cobertura começa para evitar intervalo sem proteção.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar data de início da cobertura e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Data de início da cobertura」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドアトア ジ インイクイオ ダ コベルツーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 始期日より前の事故は補償対象外です。
-- 補償開始日を確認してください。
+- 始期日について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Acidentes antes da data de início não entram na cobertura.
-- Confirme a data em que a cobertura começa.
+- Vamos confirmar data de início da cobertura.
+  - Leitura de apoio: ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ コベルツーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0021 - A partir de quando o seguro começa a valer?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0021 - 保険期間 - Período do seguro
 - AUTO-0023 - 満期日 - Data de vencimento do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0021
 - DIALOGUE-AUTO-0009
 - CASE-AUTO-0013
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - inicio
 - cobertura
 - vigencia
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0021.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0023 - 満期日 - Data de vencimento do seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0023
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 満期日
 
-## Tradução Português
-
+## ポルトガル語訳
 Data de vencimento do seguro
 
-## Definição Técnica
+## 技術的定義
 
-Data em que termina a vigência da apólice, salvo renovação, prorrogação ou outra condição contratual aplicável.
+満期日とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o dia em que o seguro termina.
+お客様には、「Data de vencimento do seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o seguro vencer e não for renovado, pode haver período sem cobertura. Por isso, a renovação deve ser feita antes da data de vencimento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar data de vencimento do seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Data de vencimento do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドアトア ジ ヴエンクイムエントオ ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドアトア ジ ヴエンクイムエントオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 満期日を過ぎると補償が切れる場合があります。
-- 更新手続きは満期日前に行いましょう。
+- 満期日について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Depois do vencimento, a cobertura pode terminar.
-- Faça a renovação antes da data de vencimento.
+- Vamos confirmar data de vencimento do seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール ドアトア ジ ヴエンクイムエントオ ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0022 - O que acontece se o seguro vencer?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0021 - 保険期間 - Período do seguro
 - AUTO-0024 - 更新 - Renovação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0022
 - DIALOGUE-AUTO-0009
 - CASE-AUTO-0013
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - vencimento
 - renovacao
 - vigencia
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0024.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0024 - 更新 - Renovação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0024
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 更新
 
-## Tradução Português
-
+## ポルトガル語訳
 Renovação
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento para contratar novo período de seguro após ou antes do vencimento da apólice atual, podendo envolver revisão de coberturas, prêmio, classe e condições.
+更新とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É fazer o seguro continuar por mais um período.
+お客様には、「Renovação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Na renovação, revisamos se as coberturas continuam adequadas, se o preço mudou e se houve alteração de classe, carro, uso ou condutores.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar renovação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Renovação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヘノヴァサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 更新時に補償内容を見直しましょう。
-- 保険料や等級が変わる場合があります。
+- 更新について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Na renovação, vamos revisar as coberturas.
-- O preço e a classe podem mudar.
+- Vamos confirmar renovação.
+  - Leitura de apoio: ヴァモス コンフィルマール ヘノヴァサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0023 - O que devo revisar na renovação?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0023 - 満期日 - Data de vencimento do seguro
 - AUTO-0008 - 等級 - Classe de bônus/malus
 - AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0023
 - DIALOGUE-AUTO-0009
 - CASE-AUTO-0014
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - renovacao
 - premio
 - classe
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0008.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0025 - 中途解約 - Cancelamento antes do vencimento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0025
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 中途解約
 
-## Tradução Português
-
+## ポルトガル語訳
 Cancelamento antes do vencimento
 
-## Definição Técnica
+## 技術的定義
 
-Cancelamento da apólice antes da data de vencimento, conforme regras contratuais, podendo gerar devolução, cobrança ou ajustes proporcionais.
+中途解約とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É cancelar o seguro antes dele terminar.
+お客様には、「Cancelamento antes do vencimento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o cliente vendeu o carro ou não precisa mais do seguro, pode solicitar cancelamento antes do vencimento. Mas é preciso confirmar regras, data efetiva e eventual valor a devolver ou pagar.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar cancelamento antes do vencimento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Cancelamento antes do vencimento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クアンクエルアムエントオ アンチス ド ヴエンクイムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クアンクエルアムエントオ アンチス ド ヴエンクイムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 中途解約には手続きが必要です。
-- 解約日と返戻金の有無を確認しましょう。
+- 中途解約について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O cancelamento antes do vencimento exige procedimento.
-- Vamos confirmar a data de cancelamento e se há valor a devolver.
+- Vamos confirmar cancelamento antes do vencimento.
+  - Leitura de apoio: ヴァモス コンフィルマール クアンクエルアムエントオ アンチス ド ヴエンクイムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0024 - Posso cancelar o seguro antes do vencimento?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0021 - 保険期間 - Período do seguro
 - AUTO-0026 - 解約返戻金 - Valor de devolução por cancelamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0024
 - DIALOGUE-AUTO-0010
 - CASE-AUTO-0015
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - cancelamento
 - vencimento
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0026.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0026 - 解約返戻金 - Valor de devolução por cancelamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0026
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 解約返戻金
 
-## Tradução Português
-
+## ポルトガル語訳
 Valor de devolução por cancelamento
 
-## Definição Técnica
+## 技術的定義
 
-Valor eventualmente devolvido ao segurado em caso de cancelamento da apólice antes do vencimento, calculado conforme regras contratuais e forma de pagamento.
+解約返戻金とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o valor que pode voltar ao cliente quando o seguro é cancelado antes do fim.
+お客様には、「Valor de devolução por cancelamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Nem todo cancelamento gera devolução. O valor depende da data, do contrato, do período usado e da forma como o seguro foi pago.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar valor de devolução por cancelamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Valor de devolução por cancelamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ジ ドエヴオルウサォン ポル クアンクエルアムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ヴァロール ジ ドエヴオルウサォン ポル クアンクエルアムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 解約返戻金が発生するか確認します。
-- 支払方法や解約日により金額が変わります。
+- 解約返戻金について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar se há valor de devolução.
-- O valor depende da forma de pagamento e da data de cancelamento.
+- Vamos confirmar valor de devolução por cancelamento.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ジ ドエヴオルウサォン ポル クアンクエルアムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0025 - Recebo dinheiro de volta se cancelar?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0025 - 中途解約 - Cancelamento antes do vencimento
 - AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0025
 - DIALOGUE-AUTO-0010
 - CASE-AUTO-0015
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - cancelamento
 - devolucao
 - premio
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0025.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0027 - 契約者 - Contratante do seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0027
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 契約者
 
-## Tradução Português
-
+## ポルトガル語訳
 Contratante do seguro
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa que celebra o contrato de seguro com a seguradora e assume obrigações contratuais, como pagamento do prêmio e solicitação de alterações.
+契約者とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a pessoa que faz o contrato do seguro.
+お客様には、「Contratante do seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O contratante é quem assina ou assume o contrato. Ele pode ser diferente do dono do carro ou da pessoa que dirige, dependendo da situação.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar contratante do seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Contratante do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオントルアトアントエ ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約者は保険契約を結ぶ方です。
-- 契約者と記名被保険者が異なる場合があります。
+- 契約者について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O contratante é a pessoa que faz o contrato.
-- O contratante pode ser diferente do segurado principal.
+- Vamos confirmar contratante do seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0026 - Contratante, segurado e dono do carro são sempre a mesma pessoa?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0028 - 記名被保険者 - Segurado principal
 - AUTO-0029 - 所有者 - Proprietário do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0026
 - DIALOGUE-AUTO-0011
 - CASE-AUTO-0016
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - contratante
 - contrato
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0028.md`
 - `02_MasterDictionary/AUTO/AUTO-0029.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0028 - 記名被保険者 - Segurado principal
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0028
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 記名被保険者
 
-## Tradução Português
-
+## ポルトガル語訳
 Segurado principal
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa indicada na apólice como principal referência do risco segurado, frequentemente relacionada ao uso principal do veículo e ao cálculo das condições contratuais.
+記名被保険者とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a pessoa principal considerada pelo seguro.
+お客様には、「Segurado principal」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O segurado principal é a pessoa usada como referência para o seguro. Em muitos casos, é quem usa mais o carro, mas isso deve ser confirmado conforme a regra da seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar segurado principal e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Segurado principal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグラード プルインクイプアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグラード プルインクイプアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 記名被保険者は保険上の中心となる方です。
-- 主にお車を使用する方を確認します。
+- 記名被保険者について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O segurado principal é a pessoa central do contrato.
-- Precisamos confirmar quem usa mais o carro.
+- Vamos confirmar segurado principal.
+  - Leitura de apoio: ヴァモス コンフィルマール セグラード プルインクイプアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0026 - Contratante, segurado e dono do carro são sempre a mesma pessoa?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0027 - 契約者 - Contratante do seguro
 - AUTO-0029 - 所有者 - Proprietário do veículo
 - AUTO-0016 - 運転者限定 - Restrição de condutores
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0026
 - DIALOGUE-AUTO-0011
 - CASE-AUTO-0016
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - segurado
 - segurado-principal
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0027.md`
 - `02_MasterDictionary/AUTO/AUTO-0029.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0029 - 所有者 - Proprietário do veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0029
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 所有者
 
-## Tradução Português
-
+## ポルトガル語訳
 Proprietário do veículo
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa ou entidade indicada como proprietária do veículo, conforme documentos do veículo e critérios exigidos pela seguradora.
+所有者とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o dono do carro.
+お客様には、「Proprietário do veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O proprietário é quem aparece como dono do carro nos documentos. Ele pode ser diferente do contratante ou do segurado principal, por exemplo em financiamento, empresa ou família.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar proprietário do veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Proprietário do veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プロプリエターリオ ド ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プロプリエターリオ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 所有者は車検証などで確認します。
-- 契約者と所有者が異なる場合があります。
+- 所有者について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O proprietário é confirmado pelos documentos do veículo.
-- O contratante e o proprietário podem ser pessoas diferentes.
+- Vamos confirmar proprietário do veículo.
+  - Leitura de apoio: ヴァモス コンフィルマール プロプリエターリオ ド ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0026 - Contratante, segurado e dono do carro são sempre a mesma pessoa?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0027 - 契約者 - Contratante do seguro
 - AUTO-0028 - 記名被保険者 - Segurado principal
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0026
 - DIALOGUE-AUTO-0011
 - CASE-AUTO-0016
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - proprietario
 - documentos-do-veiculo
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0027.md`
 - `02_MasterDictionary/AUTO/AUTO-0028.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0030 - 車検証 - Certificado de inspeção veicular
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0030
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 車検証
 
-## Tradução Português
-
+## ポルトガル語訳
 Certificado de inspeção veicular
 
-## Definição Técnica
+## 技術的定義
 
-Documento oficial do veículo no Japão que contém informações relevantes como dados do veículo, proprietário, usuário e validade da inspeção veicular.
+車検証とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o documento principal do carro no Japão.
+お客様には、「Certificado de inspeção veicular」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O 車検証 traz dados importantes para contratar ou alterar o seguro, como informações do veículo e do proprietário. Por isso, o corretor normalmente precisa conferir esse documento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar certificado de inspeção veicular e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Certificado de inspeção veicular」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クエルトイフイクアドオ ジ インスプエサォン ヴエイクウルアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クエルトイフイクアドオ ジ インスプエサォン ヴエイクウルアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 車検証の内容を確認させてください。
-- 所有者や車両情報は車検証で確認します。
+- 車検証について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Preciso conferir as informações do certificado de inspeção veicular.
-- Os dados do veículo e do proprietário são confirmados pelo documento do carro.
+- Vamos confirmar certificado de inspeção veicular.
+  - Leitura de apoio: ヴァモス コンフィルマール クエルトイフイクアドオ ジ インスプエサォン ヴエイクウルアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0027 - Por que preciso enviar o 車検証?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0029 - 所有者 - Proprietário do veículo
 - AUTO-0018 - 使用目的 - Finalidade de uso do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0027
 - DIALOGUE-AUTO-0011
 - CASE-AUTO-0016
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - documento
 - veiculo
 - certificado
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0029.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

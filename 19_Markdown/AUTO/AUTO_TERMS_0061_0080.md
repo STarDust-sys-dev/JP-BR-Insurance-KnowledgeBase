@@ -1,1736 +1,1804 @@
-# AUTO_TERMS_0061_0080 - Sétimo e oitavo lotes de verbetes AUTO
+# AUTO_TERMS_0061_0080 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0061 - 免責事項 - Exclusões e limitações de cobertura
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0061
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 免責事項
 
-## Tradução Português
-
+## ポルトガル語訳
 Exclusões e limitações de cobertura
 
-## Definição Técnica
+## 技術的定義
 
-Condições, situações ou eventos em que a seguradora pode não pagar indenização, conforme contrato e regras aplicáveis.
+免責事項とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São situações em que o seguro pode não cobrir.
+お客様には、「Exclusões e limitações de cobertura」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Mesmo tendo seguro, existem situações que podem ficar fora da cobertura. Por isso precisamos confirmar as exclusões antes de prometer atendimento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar exclusões e limitações de cobertura e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Exclusões e limitações de cobertura」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エシクルウスオエス イ ルイムイトアソインス ジ コベルツーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール エシクルウスオエス イ ルイムイトアソインス ジ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 免責事項に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 免責事項について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em exclusões e limitações de cobertura.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar exclusões e limitações de cobertura.
+  - Leitura de apoio: ヴァモス コンフィルマール エシクルウスオエス イ ルイムイトアソインス ジ コベルツーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0058
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0062 - 補償対象外 - Fora da cobertura
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0058
 - DIALOGUE-AUTO-0021
 - CASE-AUTO-0029
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0058.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0062 - 補償対象外 - Fora da cobertura
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0062
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 補償対象外
 
-## Tradução Português
-
+## ポルトガル語訳
 Fora da cobertura
 
-## Definição Técnica
+## 技術的定義
 
-Situação, dano, uso ou pessoa que não está incluída na proteção contratada.
+補償対象外とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É algo que o seguro não cobre.
+お客様には、「Fora da cobertura」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se algo estiver fora da cobertura, a seguradora pode recusar o pagamento. Vamos conferir antes de orientar o cliente.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar fora da cobertura e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Fora da cobertura」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フオルア ダ コベルツーラ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール フオルア ダ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 補償対象外に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 補償対象外について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em fora da cobertura.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar fora da cobertura.
+  - Leitura de apoio: ヴァモス コンフィルマール フオルア ダ コベルツーラ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0059
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0061 - 免責事項 - Exclusões e limitações de cobertura
 - AUTO-0063 - 飲酒運転 - Direção sob efeito de álcool
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0059
 - DIALOGUE-AUTO-0021
 - CASE-AUTO-0029
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0059.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0063 - 飲酒運転 - Direção sob efeito de álcool
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0063
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 飲酒運転
 
-## Tradução Português
-
+## ポルトガル語訳
 Direção sob efeito de álcool
 
-## Definição Técnica
+## 技術的定義
 
-Condução de veículo após consumo de álcool, situação que pode gerar exclusão, recusa de cobertura ou consequências legais.
+飲酒運転とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dirigir depois de beber.
+お客様には、「Direção sob efeito de álcool」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Dirigir após beber pode causar recusa de cobertura e também problema legal. O cliente deve entender que é uma situação muito grave.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar direção sob efeito de álcool e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Direção sob efeito de álcool」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドイルエサォン スオブ エフエイトオ ジ アルクオオル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドイルエサォン スオブ エフエイトオ ジ アルクオオル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 飲酒運転に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 飲酒運転について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em direção sob efeito de álcool.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar direção sob efeito de álcool.
+  - Leitura de apoio: ヴァモス コンフィルマール ドイルエサォン スオブ エフエイトオ ジ アルクオオル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0060
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0062 - 補償対象外 - Fora da cobertura
 - AUTO-0064 - 無免許運転 - Direção sem habilitação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0060
 - DIALOGUE-AUTO-0021
 - CASE-AUTO-0029
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0060.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0064 - 無免許運転 - Direção sem habilitação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0064
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 無免許運転
 
-## Tradução Português
-
+## ポルトガル語訳
 Direção sem habilitação
 
-## Definição Técnica
+## 技術的定義
 
-Condução de veículo sem licença válida ou sem autorização legal adequada para dirigir.
+無免許運転とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dirigir sem carteira válida.
+お客様には、「Direção sem habilitação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se a pessoa dirige sem habilitação válida, a cobertura pode ser afetada e há risco legal sério.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar direção sem habilitação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Direção sem habilitação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドイルエサォン セン アブイルイトアサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドイルエサォン セン アブイルイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 無免許運転に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 無免許運転について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em direção sem habilitação.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar direção sem habilitação.
+  - Leitura de apoio: ヴァモス コンフィルマール ドイルエサォン セン アブイルイトアサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0061
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0063 - 飲酒運転 - Direção sob efeito de álcool
 - AUTO-0065 - 重大な過失 - Culpa grave
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0061
 - DIALOGUE-AUTO-0021
 - CASE-AUTO-0030
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0061.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0065 - 重大な過失 - Culpa grave
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0065
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 重大な過失
 
-## Tradução Português
-
+## ポルトガル語訳
 Culpa grave
 
-## Definição Técnica
+## 技術的定義
 
-Conduta com descuido muito sério que aumenta significativamente o risco ou contribui para o dano.
+重大な過失とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma falha muito séria de cuidado.
+お客様には、「Culpa grave」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora pode analisar se houve culpa grave. Isso não deve ser simplificado como acidente comum.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar culpa grave e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Culpa grave」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クウルプア グラーヴィ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クウルプア グラーヴィ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 重大な過失に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 重大な過失について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em culpa grave.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar culpa grave.
+  - Leitura de apoio: ヴァモス コンフィルマール クウルプア グラーヴィ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0062
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0064 - 無免許運転 - Direção sem habilitação
 - AUTO-0066 - 故意 - Ato intencional
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0062
 - DIALOGUE-AUTO-0022
 - CASE-AUTO-0030
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0062.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0066 - 故意 - Ato intencional
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0066
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 故意
 
-## Tradução Português
-
+## ポルトガル語訳
 Ato intencional
 
-## Definição Técnica
+## 技術的定義
 
-Ação praticada de propósito para causar dano, perda ou acidente.
+故意とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É fazer de propósito.
+お客様には、「Ato intencional」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Seguro não é feito para cobrir dano causado intencionalmente. Se houver suspeita de ato intencional, a análise será rigorosa.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar ato intencional e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Ato intencional」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトオ イントエンクイオンアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アトオ イントエンクイオンアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 故意に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 故意について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em ato intencional.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar ato intencional.
+  - Leitura de apoio: ヴァモス コンフィルマール アトオ イントエンクイオンアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0063
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0065 - 重大な過失 - Culpa grave
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0063
 - DIALOGUE-AUTO-0022
 - CASE-AUTO-0030
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0063.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0067 - 地震 - Terremoto
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0067
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 地震
 
-## Tradução Português
-
+## ポルトガル語訳
 Terremoto
 
-## Definição Técnica
+## 技術的定義
 
-Fenômeno sísmico que pode causar danos ao veículo e cuja cobertura depende das condições do contrato.
+地震とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dano causado por terremoto.
+お客様には、「Terremoto」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Danos por terremoto podem ter regra especial ou não estar cobertos. Precisamos conferir a apólice.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar terremoto e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Terremoto」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「テヘモート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール テヘモート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 地震に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 地震について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em terremoto.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar terremoto.
+  - Leitura de apoio: ヴァモス コンフィルマール テヘモート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0064
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0068 - 台風 - Tufão
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0064
 - DIALOGUE-AUTO-0022
 - CASE-AUTO-0031
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0064.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0068 - 台風 - Tufão
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0068
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 台風
 
-## Tradução Português
-
+## ポルトガル語訳
 Tufão
 
-## Definição Técnica
+## 技術的定義
 
-Fenômeno meteorológico com vento forte e chuva intensa que pode causar danos ao veículo.
+台風とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dano relacionado a tufão.
+お客様には、「Tufão」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No Japão, tufões podem causar danos ao carro. A cobertura depende das condições contratadas.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar tufão e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Tufão」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「トウフアォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール トウフアォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 台風に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 台風について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em tufão.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar tufão.
+  - Leitura de apoio: ヴァモス コンフィルマール トウフアォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0065
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0067 - 地震 - Terremoto
 - AUTO-0069 - 洪水 - Inundação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0065
 - DIALOGUE-AUTO-0022
 - CASE-AUTO-0031
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0065.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0069 - 洪水 - Inundação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0069
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 洪水
 
-## Tradução Português
-
+## ポルトガル語訳
 Inundação
 
-## Definição Técnica
+## 技術的定義
 
-Acúmulo ou invasão de água que causa dano ao veículo, podendo estar sujeito a regra específica de cobertura.
+洪水とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dano por enchente ou inundação.
+お客様には、「Inundação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o carro foi atingido por água, precisamos verificar se a cobertura contratada inclui esse tipo de dano.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar inundação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Inundação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イヌンダサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール イヌンダサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 洪水に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 洪水について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em inundação.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar inundação.
+  - Leitura de apoio: ヴァモス コンフィルマール イヌンダサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0066
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0068 - 台風 - Tufão
 - AUTO-0070 - 盗難 - Roubo ou furto do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0066
 - DIALOGUE-AUTO-0023
 - CASE-AUTO-0031
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0066.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0070 - 盗難 - Roubo ou furto do veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0070
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 盗難
 
-## Tradução Português
-
+## ポルトガル語訳
 Roubo ou furto do veículo
 
-## Definição Técnica
+## 技術的定義
 
-Subtração do veículo ou de partes, conforme definição e condições aplicáveis na apólice.
+盗難とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando o carro é roubado ou furtado.
+お客様には、「Roubo ou furto do veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se houver roubo ou furto, registre formalmente e avise a seguradora. A cobertura depende do contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar roubo ou furto do veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Roubo ou furto do veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ホウボ オウ フルト ド ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ホウボ オウ フルト ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 盗難に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 盗難について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em roubo ou furto do veículo.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar roubo ou furto do veículo.
+  - Leitura de apoio: ヴァモス コンフィルマール ホウボ オウ フルト ド ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0067
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0069 - 洪水 - Inundação
 - AUTO-0071 - いたずら - Vandalismo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0067
 - DIALOGUE-AUTO-0023
 - CASE-AUTO-0032
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0067.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0071 - いたずら - Vandalismo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0071
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 いたずら
 
-## Tradução Português
-
+## ポルトガル語訳
 Vandalismo
 
-## Definição Técnica
+## 技術的定義
 
-Dano causado por terceiro por brincadeira, má intenção ou ato de destruição, conforme análise da seguradora.
+いたずらとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dano causado por outra pessoa de forma indevida.
+お客様には、「Vandalismo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Risco de vandalismo precisa ser documentado. Fotos, boletim ou registro podem ajudar a análise.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar vandalismo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Vandalismo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴアンドアルイスムオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ヴアンドアルイスムオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- いたずらに該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- いたずらについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em vandalismo.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar vandalismo.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴアンドアルイスムオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0068
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0070 - 盗難 - Roubo ou furto do veículo
 - AUTO-0072 - 飛び石 - Dano por pedra lançada
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0068
 - DIALOGUE-AUTO-0023
 - CASE-AUTO-0032
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0068.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0072 - 飛び石 - Dano por pedra lançada
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0072
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 飛び石
 
-## Tradução Português
-
+## ポルトガル語訳
 Dano por pedra lançada
 
-## Definição Técnica
+## 技術的定義
 
-Dano causado por pedra ou objeto pequeno lançado contra o veículo, frequentemente no para-brisa ou carroceria.
+飛び石とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando uma pedra atinge o carro.
+お客様には、「Dano por pedra lançada」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Dano por pedra, como no para-brisa, deve ser verificado conforme cobertura do veículo e franquia.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar dano por pedra lançada e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Dano por pedra lançada」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ダノ ポル プエドルア ルアンスアドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ダノ ポル プエドルア ルアンスアドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 飛び石に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 飛び石について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em dano por pedra lançada.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar dano por pedra lançada.
+  - Leitura de apoio: ヴァモス コンフィルマール ダノ ポル プエドルア ルアンスアドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0069
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0071 - いたずら - Vandalismo
 - AUTO-0073 - 自然災害 - Desastre natural
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0069
 - DIALOGUE-AUTO-0023
 - CASE-AUTO-0032
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0069.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0073 - 自然災害 - Desastre natural
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0073
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 自然災害
 
-## Tradução Português
-
+## ポルトガル語訳
 Desastre natural
 
-## Definição Técnica
+## 技術的定義
 
-Evento da natureza, como tufão, inundação, terremoto ou outros fenômenos, que pode causar dano ao veículo.
+自然災害とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É dano causado por fenômeno natural.
+お客様には、「Desastre natural」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Nem todo desastre natural é tratado da mesma forma no seguro. Precisamos verificar qual evento ocorreu e qual cobertura existe.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar desastre natural e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Desastre natural」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエスアストルエ ンアトウルアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドエスアストルエ ンアトウルアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 自然災害に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 自然災害について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em desastre natural.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar desastre natural.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエスアストルエ ンアトウルアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0070
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0072 - 飛び石 - Dano por pedra lançada
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0070
 - DIALOGUE-AUTO-0024
 - CASE-AUTO-0033
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0070.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0074 - 使用者 - Usuário do veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0074
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 使用者
 
-## Tradução Português
-
+## ポルトガル語訳
 Usuário do veículo
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa que usa o veículo, podendo ou não ser o proprietário, contratante ou segurado principal.
+使用者とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quem usa o carro.
+お客様には、「Usuário do veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Precisamos saber quem realmente usa o carro, porque isso pode afetar condições, condutores e análise de risco.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar usuário do veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Usuário do veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ウスウアルイオ ド ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ウスウアルイオ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 使用者に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 使用者について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em usuário do veículo.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar usuário do veículo.
+  - Leitura de apoio: ヴァモス コンフィルマール ウスウアルイオ ド ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0071
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0075 - 記名被保険者 - Segurado principal nomeado
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0071
 - DIALOGUE-AUTO-0024
 - CASE-AUTO-0033
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0071.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0075 - 記名被保険者 - Segurado principal nomeado
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0075
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 記名被保険者
 
-## Tradução Português
-
+## ポルトガル語訳
 Segurado principal nomeado
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa indicada na apólice como segurado principal, usada como referência para certas condições do contrato.
+記名被保険者とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a pessoa principal indicada no seguro.
+お客様には、「Segurado principal nomeado」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O segurado principal é importante para definir condições do contrato. Ele não deve ser escolhido sem conferir a realidade de uso.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar segurado principal nomeado e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Segurado principal nomeado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグラード プルインクイプアル ンオムエアドオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグラード プルインクイプアル ンオムエアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 記名被保険者に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 記名被保険者について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em segurado principal nomeado.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar segurado principal nomeado.
+  - Leitura de apoio: ヴァモス コンフィルマール セグラード プルインクイプアル ンオムエアドオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0072
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0074 - 使用者 - Usuário do veículo
 - AUTO-0076 - 家族限定 - Restrição a familiares
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0072
 - DIALOGUE-AUTO-0024
 - CASE-AUTO-0033
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0072.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0076 - 家族限定 - Restrição a familiares
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0076
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 家族限定
 
-## Tradução Português
-
+## ポルトガル語訳
 Restrição a familiares
 
-## Definição Técnica
+## 技術的定義
 
-Condição contratual que limita a cobertura a determinados familiares, conforme definição da seguradora.
+家族限定とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando só familiares definidos podem dirigir com cobertura.
+お客様には、「Restrição a familiares」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se houver restrição a familiares, alguém fora desse grupo pode não estar coberto ao dirigir.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar restrição a familiares e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Restrição a familiares」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエストルイサォン ア フアムイルイアルエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエストルイサォン ア フアムイルイアルエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 家族限定に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 家族限定について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em restrição a familiares.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar restrição a familiares.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエストルイサォン ア フアムイルイアルエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0073
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0075 - 記名被保険者 - Segurado principal nomeado
 - AUTO-0077 - 夫婦限定 - Restrição a casal
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0073
 - DIALOGUE-AUTO-0024
 - CASE-AUTO-0034
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0073.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0077 - 夫婦限定 - Restrição a casal
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0077
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 夫婦限定
 
-## Tradução Português
-
+## ポルトガル語訳
 Restrição a casal
 
-## Definição Técnica
+## 技術的定義
 
-Condição contratual que limita a cobertura ao casal definido nas regras da seguradora.
+夫婦限定とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando a cobertura fica limitada ao casal.
+お客様には、「Restrição a casal」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o contrato for limitado ao casal, outro motorista pode ficar fora da cobertura.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar restrição a casal e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Restrição a casal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエストルイサォン ア クアスアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエストルイサォン ア クアスアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 夫婦限定に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 夫婦限定について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em restrição a casal.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar restrição a casal.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエストルイサォン ア クアスアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0074
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0076 - 家族限定 - Restrição a familiares
 - AUTO-0078 - 他車運転特約 - Cobertura adicional para dirigir outro veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0074
 - DIALOGUE-AUTO-0025
 - CASE-AUTO-0034
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0074.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0078 - 他車運転特約 - Cobertura adicional para dirigir outro veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0078
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 他車運転特約
 
-## Tradução Português
-
+## ポルトガル語訳
 Cobertura adicional para dirigir outro veículo
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura adicional que pode proteger o segurado ao dirigir veículo de outra pessoa, conforme regras da seguradora.
+他車運転特約とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura para quando dirige outro carro, se contratada e aplicável.
+お客様には、「Cobertura adicional para dirigir outro veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Não presuma que dirigir outro carro está coberto. Precisamos verificar se existe essa cobertura adicional e suas condições.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar cobertura adicional para dirigir outro veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Cobertura adicional para dirigir outro veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル パラ ドイルイグイル オウトルオ ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドイルイグイル オウトルオ ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 他車運転特約に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 他車運転特約について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em cobertura adicional para dirigir outro veículo.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar cobertura adicional para dirigir outro veículo.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドイルイグイル オウトルオ ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0075
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0077 - 夫婦限定 - Restrição a casal
 - AUTO-0079 - ファミリーバイク特約 - Cobertura adicional para moto pequena da família
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0075
 - DIALOGUE-AUTO-0025
 - CASE-AUTO-0034
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0075.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0079 - ファミリーバイク特約 - Cobertura adicional para moto pequena da família
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0079
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 ファミリーバイク特約
 
-## Tradução Português
-
+## ポルトガル語訳
 Cobertura adicional para moto pequena da família
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura adicional relacionada ao uso de determinadas motocicletas pequenas ou ciclomotores por membros da família, conforme contrato.
+ファミリーバイク特約とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura adicional para moto pequena, quando contratada.
+お客様には、「Cobertura adicional para moto pequena da família」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se a família usa moto pequena, essa cobertura pode ser importante, mas depende das regras da seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar cobertura adicional para moto pequena da família e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Cobertura adicional para moto pequena da família」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル パラ ムオトオ プエケンア ダ フアムイルイア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ムオトオ プエケンア ダ フアムイルイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- ファミリーバイク特約に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- ファミリーバイク特約について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em cobertura adicional para moto pequena da família.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar cobertura adicional para moto pequena da família.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ムオトオ プエケンア ダ フアムイルイア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0076
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0078 - 他車運転特約 - Cobertura adicional para dirigir outro veículo
 - AUTO-0080 - 個人賠償責任特約 - Cobertura adicional de responsabilidade civil pessoal
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0076
 - DIALOGUE-AUTO-0025
 - CASE-AUTO-0035
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0076.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0080 - 個人賠償責任特約 - Cobertura adicional de responsabilidade civil pessoal
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0080
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 個人賠償責任特約
 
-## Tradução Português
-
+## ポルトガル語訳
 Cobertura adicional de responsabilidade civil pessoal
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura adicional para responsabilidade civil em situações da vida cotidiana, fora do uso principal do veículo, conforme contrato.
+個人賠償責任特約とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura para danos a terceiros em situações do dia a dia.
+お客様には、「Cobertura adicional de responsabilidade civil pessoal」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Essa cobertura pode ajudar em situações cotidianas, mas precisa estar contratada e dentro das regras.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar cobertura adicional de responsabilidade civil pessoal e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Cobertura adicional de responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル ジ ヘスポンサビリダージ シヴィウ ペソアウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ ヘスポンサビリダージ シヴィウ ペソアウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 個人賠償責任特約に該当するか確認します。
-- 補償対象かどうかを保険会社へ確認しましょう。
+- 個人賠償責任特約について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar se isso se enquadra em cobertura adicional de responsabilidade civil pessoal.
-- Precisamos confirmar se há cobertura com a seguradora.
+- Vamos confirmar cobertura adicional de responsabilidade civil pessoal.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ ヘスポンサビリダージ シヴィウ ペソアウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0077
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0079 - ファミリーバイク特約 - Cobertura adicional para moto pequena da família
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0077
 - DIALOGUE-AUTO-0025
 - CASE-AUTO-0035
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - exclusao
 - cobertura
 - risco
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0077.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

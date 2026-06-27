@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Padronização dos 300 verbetes do dicionário mestre conforme modelo aprovado: títulos principais em japonês, bloco `PT-Br`, bloco `JP（ふりがな）`, leitura de apoio em katakana, frases separadas em japonês e português brasileiro, com pacotes Markdown/DOCX/PDF de termos regenerados.
+
 - Fechamento do padrão MED em diálogos e estudos de caso: `DIALOGUE-MED-0001` a `DIALOGUE-MED-0015` e `CASE-MED-0001` a `CASE-MED-0024` agora incluem fala ao cliente brasileiro em português explícito, leitura em katakana, confirmação japonesa e pacotes Markdown/DOCX/PDF regenerados.
 
 - Correção integral do padrão de atendimento ao cliente brasileiro: frases em português brasileiro agora aparecem explicitamente antes da leitura em katakana nos verbetes, FAQs MED/FIRE/HOME, diálogos FIRE/HOME e estudos de caso FIRE/HOME; remoção de marcação `ruby` nos conteúdos de atendimento; reforço do validador para bloquear português escondido e ausência de bloco português ao cliente.

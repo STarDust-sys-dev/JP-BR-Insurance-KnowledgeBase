@@ -1,903 +1,941 @@
-# AUTO_TERMS_0031_0040 - Quarto lote de verbetes AUTO
+# AUTO_TERMS_0031_0040 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0031 - 払込方法 - Forma de pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0031
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 払込方法
 
-## Tradução Português
-
+## ポルトガル語訳
 Forma de pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Método definido no contrato para pagamento do prêmio do seguro, como débito em conta, cartão de crédito, pagamento mensal ou pagamento anual.
+払込方法とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a forma escolhida para pagar o seguro.
+お客様には、「Forma de pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O seguro precisa ter uma forma de pagamento definida. Vamos confirmar se será por débito em conta, cartão ou outro método aceito pela seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar forma de pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Forma de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フォルマ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール フォルマ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 払込方法を確認します。
-- 保険料の支払い方法を選択してください。
+- 払込方法について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar a forma de pagamento.
-- Escolha como deseja pagar o prêmio do seguro.
+- Vamos confirmar forma de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール フォルマ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0028 - Quais formas de pagamento posso usar no seguro?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0032 - 月払 - Pagamento mensal
 - AUTO-0033 - 年払 - Pagamento anual
 - AUTO-0034 - 口座振替 - Débito em conta
 - AUTO-0035 - クレジットカード払 - Pagamento por cartão de crédito
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0028
 - DIALOGUE-AUTO-0012
 - CASE-AUTO-0017
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - pagamento
 - premio
 - contrato
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0032.md`
 - `02_MasterDictionary/AUTO/AUTO-0033.md`
 - `02_MasterDictionary/AUTO/AUTO-0034.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0032 - 月払 - Pagamento mensal
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0032
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 月払
 
-## Tradução Português
-
+## ポルトガル語訳
 Pagamento mensal
 
-## Definição Técnica
+## 技術的定義
 
-Forma de pagamento em que o prêmio do seguro é dividido em parcelas mensais conforme condições da seguradora.
+月払とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É pagar o seguro todo mês.
+お客様には、「Pagamento mensal」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No pagamento mensal, o valor é pago em parcelas. É importante manter saldo ou limite suficiente para evitar falha no pagamento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar pagamento mensal e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Pagamento mensal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「パガメント ムエンスアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール パガメント ムエンスアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 月払を選択できます。
-- 毎月の保険料を確認しましょう。
+- 月払について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Você pode escolher pagamento mensal.
-- Vamos confirmar o valor mensal do seguro.
+- Vamos confirmar pagamento mensal.
+  - Leitura de apoio: ヴァモス コンフィルマール パガメント ムエンスアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0029 - Posso pagar o seguro por mês?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0031 - 払込方法 - Forma de pagamento
 - AUTO-0033 - 年払 - Pagamento anual
 - AUTO-0036 - 払込期日 - Data limite de pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0029
 - DIALOGUE-AUTO-0012
 - CASE-AUTO-0017
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - pagamento
 - mensal
 - premio
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0031.md`
 - `02_MasterDictionary/AUTO/AUTO-0033.md`
 - `02_MasterDictionary/AUTO/AUTO-0036.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0033 - 年払 - Pagamento anual
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0033
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 年払
 
-## Tradução Português
-
+## ポルトガル語訳
 Pagamento anual
 
-## Definição Técnica
+## 技術的定義
 
-Forma de pagamento em que o prêmio do seguro é pago de uma vez para todo o período anual do contrato, conforme aceitação da seguradora.
+年払とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É pagar o seguro do ano inteiro de uma vez.
+お客様には、「Pagamento anual」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No pagamento anual, o valor é pago uma vez para o período contratado. Pode ser mais simples para evitar pagamentos mensais.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar pagamento anual e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Pagamento anual」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「パガメント アンウアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール パガメント アンウアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 年払の場合、年間保険料を一括で支払います。
-- 年払と月払を比較しましょう。
+- 年払について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- No pagamento anual, você paga o valor do ano de uma vez.
-- Vamos comparar pagamento anual e mensal.
+- Vamos confirmar pagamento anual.
+  - Leitura de apoio: ヴァモス コンフィルマール パガメント アンウアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0030 - Qual é a diferença entre pagar mensal e anual?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0031 - 払込方法 - Forma de pagamento
 - AUTO-0032 - 月払 - Pagamento mensal
 - AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0030
 - DIALOGUE-AUTO-0012
 - CASE-AUTO-0017
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - pagamento
 - anual
 - premio
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0031.md`
 - `02_MasterDictionary/AUTO/AUTO-0032.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0034 - 口座振替 - Débito em conta
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0034
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 口座振替
 
-## Tradução Português
-
+## ポルトガル語訳
 Débito em conta
 
-## Definição Técnica
+## 技術的定義
 
-Forma de pagamento em que o prêmio do seguro é debitado automaticamente de uma conta bancária cadastrada.
+口座振替とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É pagar automaticamente pela conta bancária.
+お客様には、「Débito em conta」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se escolher débito em conta, a seguradora cobrará o valor da conta cadastrada. É importante confirmar os dados bancários e manter saldo suficiente.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar débito em conta e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Débito em conta」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエブイトオ エン クオントア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドエブイトオ エン クオントア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 口座振替の手続きが必要です。
-- 引落口座を確認してください。
+- 口座振替について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- É necessário fazer o procedimento de débito em conta.
-- Confirme a conta bancária para débito.
+- Vamos confirmar débito em conta.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエブイトオ エン クオントア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0031 - O que acontece se o débito em conta falhar?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0031 - 払込方法 - Forma de pagamento
 - AUTO-0036 - 払込期日 - Data limite de pagamento
 - AUTO-0037 - 払込猶予期間 - Período de tolerância para pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0031
 - DIALOGUE-AUTO-0013
 - CASE-AUTO-0018
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - debito
 - conta
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0031.md`
 - `02_MasterDictionary/AUTO/AUTO-0036.md`
 - `02_MasterDictionary/AUTO/AUTO-0037.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0035 - クレジットカード払 - Pagamento por cartão de crédito
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0035
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 クレジットカード払
 
-## Tradução Português
-
+## ポルトガル語訳
 Pagamento por cartão de crédito
 
-## Definição Técnica
+## 技術的定義
 
-Forma de pagamento em que o prêmio do seguro é cobrado no cartão de crédito aceito pela seguradora.
+クレジットカード払とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É pagar o seguro com cartão de crédito.
+お客様には、「Pagamento por cartão de crédito」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se pagar com cartão, precisamos confirmar se o cartão é aceito, se está válido e se há limite suficiente para a cobrança.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar pagamento por cartão de crédito e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Pagamento por cartão de crédito」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「パガメント ポル クアルトアォン ジ クルエドイトオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール パガメント ポル クアルトアォン ジ クルエドイトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- クレジットカード払が利用できる場合があります。
-- カード情報を正確に確認しましょう。
+- クレジットカード払について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Pode ser possível pagar com cartão de crédito.
-- Vamos confirmar corretamente os dados do cartão.
+- Vamos confirmar pagamento por cartão de crédito.
+  - Leitura de apoio: ヴァモス コンフィルマール パガメント ポル クアルトアォン ジ クルエドイトオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0032 - Posso pagar com cartão de crédito?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0031 - 払込方法 - Forma de pagamento
 - AUTO-0036 - 払込期日 - Data limite de pagamento
 - AUTO-0032 - 月払 - Pagamento mensal
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0032
 - DIALOGUE-AUTO-0013
 - CASE-AUTO-0018
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - cartao
 - pagamento
 - premio
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0031.md`
 - `02_MasterDictionary/AUTO/AUTO-0036.md`
 - `02_MasterDictionary/AUTO/AUTO-0032.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0036 - 払込期日 - Data limite de pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0036
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 払込期日
 
-## Tradução Português
-
+## ポルトガル語訳
 Data limite de pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Data estabelecida para pagamento do prêmio do seguro ou de uma parcela, conforme regras do contrato e da seguradora.
+払込期日とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o prazo para pagar o seguro.
+お客様には、「Data limite de pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O pagamento precisa ser feito até a data limite. Se houver atraso, a cobertura pode ser afetada conforme as regras do contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar data limite de pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Data limite de pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドアトア ルイムイトエ ジ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドアトア ルイムイトエ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 払込期日を確認してください。
-- 期日までに保険料を支払う必要があります。
+- 払込期日について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Confirme a data limite de pagamento.
-- O prêmio precisa ser pago até o prazo.
+- Vamos confirmar data limite de pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール ドアトア ルイムイトエ ジ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0033 - O que acontece se eu atrasar o pagamento?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0037 - 払込猶予期間 - Período de tolerância para pagamento
 - AUTO-0038 - 失効 - Perda de validade do contrato
 - AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0033
 - DIALOGUE-AUTO-0013
 - CASE-AUTO-0018
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - pagamento
 - prazo
 - atraso
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0037.md`
 - `02_MasterDictionary/AUTO/AUTO-0038.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0037 - 払込猶予期間 - Período de tolerância para pagamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0037
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 払込猶予期間
 
-## Tradução Português
-
+## ポルトガル語訳
 Período de tolerância para pagamento
 
-## Definição Técnica
+## 技術的定義
 
-Período limitado em que a seguradora pode aceitar o pagamento após a data prevista, conforme condições contratuais, antes de consequências mais graves ao contrato.
+払込猶予期間とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um prazo extra limitado para regularizar pagamento atrasado, quando permitido.
+お客様には、「Período de tolerância para pagamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Alguns contratos podem ter um período de tolerância, mas isso não deve ser tratado como pagamento livre. Precisamos confirmar a regra da seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar período de tolerância para pagamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Período de tolerância para pagamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルイオドオ ジ トオルエルアンクイア パラ パガメント」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルイオドオ ジ トオルエルアンクイア パラ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 払込猶予期間を確認します。
-- 猶予期間を過ぎると契約に影響する場合があります。
+- 払込猶予期間について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar se existe período de tolerância.
-- Se passar desse período, o contrato pode ser afetado.
+- Vamos confirmar período de tolerância para pagamento.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルイオドオ ジ トオルエルアンクイア パラ パガメント
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0034 - Existe prazo extra se eu não conseguir pagar no dia?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0036 - 払込期日 - Data limite de pagamento
 - AUTO-0038 - 失効 - Perda de validade do contrato
 - AUTO-0021 - 保険期間 - Período do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0034
 - DIALOGUE-AUTO-0013
 - CASE-AUTO-0019
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - pagamento
 - tolerancia
 - atraso
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0036.md`
 - `02_MasterDictionary/AUTO/AUTO-0038.md`
 - `02_MasterDictionary/AUTO/AUTO-0021.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0038 - 失効 - Perda de validade do contrato
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0038
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 失効
 
-## Tradução Português
-
+## ポルトガル語訳
 Perda de validade do contrato
 
-## Definição Técnica
+## 技術的定義
 
-Situação em que o contrato perde sua validade ou eficácia conforme regras contratuais, frequentemente associada ao não pagamento dentro das condições estabelecidas.
+失効とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando o seguro deixa de valer por problema no contrato, como falta de pagamento.
+お客様には、「Perda de validade do contrato」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o contrato perder a validade, o seguro pode não proteger em caso de acidente. Por isso, pagamento e prazos precisam ser acompanhados com atenção.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar perda de validade do contrato e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Perda de validade do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プエルドア ジ ヴアルイドアドエ ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約が失効する場合があります。
-- 失効すると補償を受けられない可能性があります。
+- 失効について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O contrato pode perder a validade.
-- Se perder a validade, pode não haver cobertura.
+- Vamos confirmar perda de validade do contrato.
+  - Leitura de apoio: ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0035 - Posso ficar sem seguro por falta de pagamento?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0036 - 払込期日 - Data limite de pagamento
 - AUTO-0037 - 払込猶予期間 - Período de tolerância para pagamento
 - AUTO-0021 - 保険期間 - Período do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0035
 - DIALOGUE-AUTO-0014
 - CASE-AUTO-0019
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - validade
 - pagamento
 - cobertura
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0036.md`
 - `02_MasterDictionary/AUTO/AUTO-0037.md`
 - `02_MasterDictionary/AUTO/AUTO-0021.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0039 - 契約内容変更 - Alteração de dados do contrato
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0039
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 契約内容変更
 
-## Tradução Português
-
+## ポルトガル語訳
 Alteração de dados do contrato
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento para alterar informações registradas no contrato, como endereço, veículo, condutores, forma de pagamento ou outras condições aceitas pela seguradora.
+契約内容変更とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É mudar uma informação do seguro depois da contratação.
+お客様には、「Alteração de dados do contrato」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se mudar endereço, carro, condutor ou forma de pagamento, precisamos avisar e atualizar o contrato. Não é bom deixar informação antiga.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar alteração de dados do contrato e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Alteração de dados do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ ドアドオス ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アルトエルアサォン ジ ドアドオス ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約内容変更の手続きが必要です。
-- 変更内容を保険会社に確認します。
+- 契約内容変更について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- É necessário fazer alteração no contrato.
-- Vamos confirmar a mudança com a seguradora.
+- Vamos confirmar alteração de dados do contrato.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ ドアドオス ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0036 - Quando preciso avisar mudança no contrato?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0040 - 車両入替 - Substituição do veículo segurado
 - AUTO-0016 - 運転者限定 - Restrição de condutores
 - AUTO-0031 - 払込方法 - Forma de pagamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0036
 - DIALOGUE-AUTO-0014
 - CASE-AUTO-0020
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - alteracao
 - contrato
 - cadastro
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0040.md`
 - `02_MasterDictionary/AUTO/AUTO-0016.md`
 - `02_MasterDictionary/AUTO/AUTO-0031.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0040 - 車両入替 - Substituição do veículo segurado
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0040
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 車両入替
 
-## Tradução Português
-
+## ポルトガル語訳
 Substituição do veículo segurado
 
-## Definição Técnica
+## 技術的定義
 
-Alteração contratual para substituir o veículo coberto por outro veículo, conforme critérios de aceitação da seguradora.
+車両入替とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É trocar o carro segurado no contrato.
+お客様には、「Substituição do veículo segurado」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando você troca de carro, o seguro precisa ser atualizado. Não basta comprar outro carro; precisamos fazer a substituição do veículo segurado.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar substituição do veículo segurado e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Substituição do veículo segurado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「スウブストイトウイサォン ド ヴエイクウルオ セグラード」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール スウブストイトウイサォン ド ヴエイクウルオ セグラード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 車両入替の手続きを行います。
-- 新しい車両の情報を確認してください。
+- 車両入替について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos fazer a substituição do veículo segurado.
-- Confirme os dados do novo carro.
+- Vamos confirmar substituição do veículo segurado.
+  - Leitura de apoio: ヴァモス コンフィルマール スウブストイトウイサォン ド ヴエイクウルオ セグラード
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0037 - Troquei de carro. Preciso mudar o seguro?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0039 - 契約内容変更 - Alteração de dados do contrato
 - AUTO-0030 - 車検証 - Certificado de inspeção veicular
 - AUTO-0029 - 車両所有者 - Proprietário do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0037
 - DIALOGUE-AUTO-0014
 - CASE-AUTO-0020
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - veiculo
 - substituicao
 - alteracao
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0039.md`
 - `02_MasterDictionary/AUTO/AUTO-0030.md`
 - `02_MasterDictionary/AUTO/AUTO-0029.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

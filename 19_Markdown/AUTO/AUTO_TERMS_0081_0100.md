@@ -1,1740 +1,1808 @@
-# AUTO_TERMS_0081_0100 - Nono e décimo lotes de verbetes AUTO
+# AUTO_TERMS_0081_0100 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0081 - 補償の見直し - Revisão das coberturas
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0081
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 補償の見直し
 
-## Tradução Português
-
+## ポルトガル語訳
 Revisão das coberturas
 
-## Definição Técnica
+## 技術的定義
 
-Reavaliação periódica das coberturas contratadas para verificar se continuam adequadas à situação do cliente.
+補償の見直しとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É revisar se o seguro ainda está adequado.
+お客様には、「Revisão das coberturas」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Com o tempo, sua situação muda. Por isso é importante revisar se as coberturas ainda fazem sentido.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar revisão das coberturas e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Revisão das coberturas」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエヴイスアォン ダス コベルツーラス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエヴイスアォン ダス コベルツーラス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 補償の見直しを確認しましょう。
-- 必要な情報を正確に整理します。
+- 補償の見直しについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar revisão das coberturas.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエヴイスアォン ダス コベルツーラス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0078
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0082 - 保険料の見直し - Revisão do prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0078
 - DIALOGUE-AUTO-0027
 - CASE-AUTO-0037
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0078.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0082 - 保険料の見直し - Revisão do prêmio do seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0082
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険料の見直し
 
-## Tradução Português
-
+## ポルトガル語訳
 Revisão do prêmio do seguro
 
-## Definição Técnica
+## 技術的定義
 
-Verificação do valor do prêmio e dos fatores que podem influenciar aumento, redução ou manutenção do custo.
+保険料の見直しとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É revisar o preço do seguro.
+お客様には、「Revisão do prêmio do seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Podemos analisar por que o valor mudou e se há ajustes possíveis sem prejudicar a proteção.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar revisão do prêmio do seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Revisão do prêmio do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエヴイスアォン ド プルエムイオ ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエヴイスアォン ド プルエムイオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険料の見直しを確認しましょう。
-- 必要な情報を正確に整理します。
+- 保険料の見直しについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar revisão do prêmio do seguro.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエヴイスアォン ド プルエムイオ ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0079
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0081 - 補償の見直し - Revisão das coberturas
 - AUTO-0083 - 契約条件 - Condições do contrato
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0079
 - DIALOGUE-AUTO-0027
 - CASE-AUTO-0037
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0079.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0083 - 契約条件 - Condições do contrato
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0083
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 契約条件
 
-## Tradução Português
-
+## ポルトガル語訳
 Condições do contrato
 
-## Definição Técnica
+## 技術的定義
 
-Conjunto de regras, limites, coberturas, exclusões e obrigações que formam o contrato de seguro.
+契約条件とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São as regras do seguro.
+お客様には、「Condições do contrato」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O contrato tem condições que definem o que está coberto, o que não está e quais são os deveres do cliente.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar condições do contrato e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Condições do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンジソインス ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コンジソインス ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約条件を確認しましょう。
-- 必要な情報を正確に整理します。
+- 契約条件について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar condições do contrato.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール コンジソインス ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0080
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0082 - 保険料の見直し - Revisão do prêmio do seguro
 - AUTO-0084 - 重要事項説明 - Explicação de informações importantes
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0080
 - DIALOGUE-AUTO-0027
 - CASE-AUTO-0037
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0080.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0084 - 重要事項説明 - Explicação de informações importantes
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0084
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 重要事項説明
 
-## Tradução Português
-
+## ポルトガル語訳
 Explicação de informações importantes
 
-## Definição Técnica
+## 技術的定義
 
-Explicação formal dos pontos relevantes do seguro, incluindo cobertura, exclusões, obrigações e cuidados antes da contratação.
+重要事項説明とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a explicação dos pontos importantes antes de contratar.
+お客様には、「Explicação de informações importantes」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Antes de contratar, precisamos explicar os pontos principais para evitar mal-entendidos depois.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar explicação de informações importantes e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Explicação de informações importantes」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エシプルイクアサォン ジ インフオルムアソインス イムプオルトアントエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール エシプルイクアサォン ジ インフオルムアソインス イムプオルトアントエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 重要事項説明を確認しましょう。
-- 必要な情報を正確に整理します。
+- 重要事項説明について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar explicação de informações importantes.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール エシプルイクアサォン ジ インフオルムアソインス イムプオルトアントエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0081
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0083 - 契約条件 - Condições do contrato
 - AUTO-0085 - 契約概要 - Resumo do contrato
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0081
 - DIALOGUE-AUTO-0027
 - CASE-AUTO-0038
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0081.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0085 - 契約概要 - Resumo do contrato
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0085
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 契約概要
 
-## Tradução Português
-
+## ポルトガル語訳
 Resumo do contrato
 
-## Definição Técnica
+## 技術的定義
 
-Documento ou explicação resumida com os principais pontos do contrato, coberturas e condições.
+契約概要とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o resumo do seguro.
+お客様には、「Resumo do contrato」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O resumo ajuda a entender os pontos principais, mas não substitui a conferência completa quando houver dúvida.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar resumo do contrato e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Resumo do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエスウムオ ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエスウムオ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約概要を確認しましょう。
-- 必要な情報を正確に整理します。
+- 契約概要について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar resumo do contrato.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエスウムオ ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0082
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0084 - 重要事項説明 - Explicação de informações importantes
 - AUTO-0086 - 注意喚起情報 - Informações de alerta
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0082
 - DIALOGUE-AUTO-0028
 - CASE-AUTO-0038
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0082.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0086 - 注意喚起情報 - Informações de alerta
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0086
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 注意喚起情報
 
-## Tradução Português
-
+## ポルトガル語訳
 Informações de alerta
 
-## Definição Técnica
+## 技術的定義
 
-Informações que chamam atenção para riscos, limitações, obrigações ou pontos que exigem cuidado especial do cliente.
+注意喚起情報とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São avisos importantes do seguro.
+お客様には、「Informações de alerta」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Esses avisos existem para evitar problemas, como exclusões, obrigações de aviso e riscos de falta de pagamento.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar informações de alerta e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Informações de alerta」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インフオルムアソインス ジ アルエルトア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インフオルムアソインス ジ アルエルトア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 注意喚起情報を確認しましょう。
-- 必要な情報を正確に整理します。
+- 注意喚起情報について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar informações de alerta.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール インフオルムアソインス ジ アルエルトア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0083
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0085 - 契約概要 - Resumo do contrato
 - AUTO-0087 - 契約確認 - Confirmação do contrato
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0083
 - DIALOGUE-AUTO-0028
 - CASE-AUTO-0038
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0083.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0087 - 契約確認 - Confirmação do contrato
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0087
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 契約確認
 
-## Tradução Português
-
+## ポルトガル語訳
 Confirmação do contrato
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento de conferir se dados, coberturas, período, condutores e condições do contrato estão corretos.
+契約確認とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É conferir se o seguro está correto.
+お客様には、「Confirmação do contrato」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Vamos confirmar todos os dados para evitar erro no contrato e problema no atendimento futuro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar confirmação do contrato e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Confirmação do contrato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンフィルマサォン ド コントラート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コンフィルマサォン ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 契約確認を確認しましょう。
-- 必要な情報を正確に整理します。
+- 契約確認について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar confirmação do contrato.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール コンフィルマサォン ド コントラート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0084
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0086 - 注意喚起情報 - Informações de alerta
 - AUTO-0088 - 顧客情報 - Informações do cliente
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0084
 - DIALOGUE-AUTO-0028
 - CASE-AUTO-0039
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0084.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0088 - 顧客情報 - Informações do cliente
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0088
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 顧客情報
 
-## Tradução Português
-
+## ポルトガル語訳
 Informações do cliente
 
-## Definição Técnica
+## 技術的定義
 
-Dados pessoais e de contato do cliente usados para contratação, atendimento, renovação e comunicação.
+顧客情報とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São os dados do cliente.
+お客様には、「Informações do cliente」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Dados como endereço, telefone e nome precisam estar corretos para evitar falha de comunicação.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar informações do cliente e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Informações do cliente」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インフオルムアソインス ド クリエンチ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インフオルムアソインス ド クリエンチ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 顧客情報を確認しましょう。
-- 必要な情報を正確に整理します。
+- 顧客情報について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar informações do cliente.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール インフオルムアソインス ド クリエンチ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0085
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0087 - 契約確認 - Confirmação do contrato
 - AUTO-0089 - 車両情報 - Informações do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0085
 - DIALOGUE-AUTO-0028
 - CASE-AUTO-0039
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0085.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0089 - 車両情報 - Informações do veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0089
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 車両情報
 
-## Tradução Português
-
+## ポルトガル語訳
 Informações do veículo
 
-## Definição Técnica
+## 技術的定義
 
-Dados do veículo, como placa, modelo, ano, chassi e informações do 車検証 usados no contrato.
+車両情報とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São os dados do carro.
+お客様には、「Informações do veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Os dados do carro precisam bater com o documento para o seguro ficar correto.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar informações do veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Informações do veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インフオルムアソインス ド ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インフオルムアソインス ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 車両情報を確認しましょう。
-- 必要な情報を正確に整理します。
+- 車両情報について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar informações do veículo.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール インフオルムアソインス ド ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0086
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0088 - 顧客情報 - Informações do cliente
 - AUTO-0090 - 運転者情報 - Informações do condutor
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0086
 - DIALOGUE-AUTO-0029
 - CASE-AUTO-0039
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0086.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0090 - 運転者情報 - Informações do condutor
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0090
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 運転者情報
 
-## Tradução Português
-
+## ポルトガル語訳
 Informações do condutor
 
-## Definição Técnica
+## 技術的定義
 
-Dados sobre quem dirige o veículo, idade, relação com o segurado e condições aplicáveis ao contrato.
+運転者情報とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São os dados de quem dirige.
+お客様には、「Informações do condutor」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Precisamos saber quem dirige para aplicar corretamente restrições, idade e condições do seguro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar informações do condutor e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Informações do condutor」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インフオルムアソインス ド クオンドウトオル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インフオルムアソインス ド クオンドウトオル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 運転者情報を確認しましょう。
-- 必要な情報を正確に整理します。
+- 運転者情報について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar informações do condutor.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール インフオルムアソインス ド クオンドウトオル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0087
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0089 - 車両情報 - Informações do veículo
 - AUTO-0091 - 事故対応フロー - Fluxo de atendimento em acidente
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0087
 - DIALOGUE-AUTO-0029
 - CASE-AUTO-0040
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0087.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0091 - 事故対応フロー - Fluxo de atendimento em acidente
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0091
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 事故対応フロー
 
-## Tradução Português
-
+## ポルトガル語訳
 Fluxo de atendimento em acidente
 
-## Definição Técnica
+## 技術的定義
 
-Sequência recomendada de ações após acidente: segurança, polícia, coleta de dados, aviso à seguradora e acompanhamento.
+事故対応フローとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o passo a passo depois de um acidente.
+お客様には、「Fluxo de atendimento em acidente」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Após acidente, siga uma ordem: segurança, registro, dados da outra parte e aviso à seguradora.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar fluxo de atendimento em acidente e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Fluxo de atendimento em acidente」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フルウシオ ジ アトエンドイムエントオ エン アクイドエントエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール フルウシオ ジ アトエンドイムエントオ エン アクイドエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 事故対応フローを確認しましょう。
-- 必要な情報を正確に整理します。
+- 事故対応フローについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar fluxo de atendimento em acidente.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール フルウシオ ジ アトエンドイムエントオ エン アクイドエントエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0088
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0090 - 運転者情報 - Informações do condutor
 - AUTO-0092 - 必要書類 - Documentos necessários
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0088
 - DIALOGUE-AUTO-0029
 - CASE-AUTO-0040
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0088.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0092 - 必要書類 - Documentos necessários
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0092
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 必要書類
 
-## Tradução Português
-
+## ポルトガル語訳
 Documentos necessários
 
-## Definição Técnica
+## 技術的定義
 
-Documentos solicitados para contratação, alteração, renovação, sinistro ou pagamento de indenização.
+必要書類とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São os documentos que precisam ser enviados.
+お客様には、「Documentos necessários」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora pode pedir documentos diferentes conforme o caso. Vamos organizar a lista correta.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar documentos necessários e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Documentos necessários」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドクメントス ンエクエスアルイオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ドクメントス ンエクエスアルイオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 必要書類を確認しましょう。
-- 必要な情報を正確に整理します。
+- 必要書類について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar documentos necessários.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール ドクメントス ンエクエスアルイオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0089
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0091 - 事故対応フロー - Fluxo de atendimento em acidente
 - AUTO-0093 - 本人確認 - Confirmação de identidade
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0089
 - DIALOGUE-AUTO-0029
 - CASE-AUTO-0040
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0089.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0093 - 本人確認 - Confirmação de identidade
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0093
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 本人確認
 
-## Tradução Português
-
+## ポルトガル語訳
 Confirmação de identidade
 
-## Definição Técnica
+## 技術的定義
 
-Verificação da identidade do cliente ou parte relacionada para fins de contratação, alteração ou atendimento.
+本人確認とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É confirmar quem é a pessoa.
+お客様には、「Confirmação de identidade」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Alguns procedimentos exigem confirmar identidade para proteger o cliente e o contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar confirmação de identidade e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Confirmação de identidade」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンフィルマサォン ジ イドエントイドアドエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コンフィルマサォン ジ イドエントイドアドエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 本人確認を確認しましょう。
-- 必要な情報を正確に整理します。
+- 本人確認について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar confirmação de identidade.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール コンフィルマサォン ジ イドエントイドアドエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0090
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0092 - 必要書類 - Documentos necessários
 - AUTO-0094 - 住所変更 - Alteração de endereço
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0090
 - DIALOGUE-AUTO-0030
 - CASE-AUTO-0041
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0090.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0094 - 住所変更 - Alteração de endereço
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0094
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 住所変更
 
-## Tradução Português
-
+## ポルトガル語訳
 Alteração de endereço
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento para atualizar o endereço do cliente no contrato.
+住所変更とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É mudar o endereço cadastrado no seguro.
+お客様には、「Alteração de endereço」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se mudar de endereço, avise para atualizar o contrato e evitar perda de comunicação.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar alteração de endereço e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Alteração de endereço」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ エンドエルエスオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 住所変更を確認しましょう。
-- 必要な情報を正確に整理します。
+- 住所変更について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar alteração de endereço.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0091
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0093 - 本人確認 - Confirmação de identidade
 - AUTO-0095 - 連絡先変更 - Alteração de contato
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0091
 - DIALOGUE-AUTO-0030
 - CASE-AUTO-0041
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0091.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0095 - 連絡先変更 - Alteração de contato
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0095
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 連絡先変更
 
-## Tradução Português
-
+## ポルトガル語訳
 Alteração de contato
 
-## Definição Técnica
+## 技術的定義
 
-Atualização de telefone, e-mail ou outro meio de contato usado para comunicação com o cliente.
+連絡先変更とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É atualizar telefone ou e-mail.
+お客様には、「Alteração de contato」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Contato desatualizado pode impedir avisos importantes. Por isso precisamos manter esses dados corretos.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar alteração de contato e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Alteração de contato」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ クオントアトオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アルトエルアサォン ジ クオントアトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 連絡先変更を確認しましょう。
-- 必要な情報を正確に整理します。
+- 連絡先変更について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar alteração de contato.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ クオントアトオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0092
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0094 - 住所変更 - Alteração de endereço
 - AUTO-0096 - 名義変更 - Alteração de titularidade
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0092
 - DIALOGUE-AUTO-0030
 - CASE-AUTO-0041
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0092.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0096 - 名義変更 - Alteração de titularidade
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0096
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 名義変更
 
-## Tradução Português
-
+## ポルトガル語訳
 Alteração de titularidade
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento para alterar o nome relacionado ao contrato, veículo ou parte responsável, conforme regras da seguradora.
+名義変更とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É mudar o nome/titular vinculado ao contrato.
+お客様には、「Alteração de titularidade」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Mudança de titularidade precisa ser analisada com cuidado porque pode afetar o contrato e documentos.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar alteração de titularidade e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Alteração de titularidade」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アルトエルアサォン ジ トイトウルアルイドアドエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アルトエルアサォン ジ トイトウルアルイドアドエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 名義変更を確認しましょう。
-- 必要な情報を正確に整理します。
+- 名義変更について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar alteração de titularidade.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール アルトエルアサォン ジ トイトウルアルイドアドエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0093
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0095 - 連絡先変更 - Alteração de contato
 - AUTO-0097 - 解約手続き - Procedimento de cancelamento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0093
 - DIALOGUE-AUTO-0030
 - CASE-AUTO-0042
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0093.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0097 - 解約手続き - Procedimento de cancelamento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0097
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 解約手続き
 
-## Tradução Português
-
+## ポルトガル語訳
 Procedimento de cancelamento
 
-## Definição Técnica
+## 技術的定義
 
-Fluxo operacional para cancelar o contrato, com data, documentos e confirmação da seguradora.
+解約手続きとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o processo para cancelar o seguro.
+お客様には、「Procedimento de cancelamento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Cancelar exige procedimento correto. Precisamos confirmar data, documentos e possível impacto.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar procedimento de cancelamento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Procedimento de cancelamento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルオクエドイムエントオ ジ クアンクエルアムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プルオクエドイムエントオ ジ クアンクエルアムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 解約手続きを確認しましょう。
-- 必要な情報を正確に整理します。
+- 解約手続きについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar procedimento de cancelamento.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール プルオクエドイムエントオ ジ クアンクエルアムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0094
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0096 - 名義変更 - Alteração de titularidade
 - AUTO-0098 - 更新案内 - Aviso de renovação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0094
 - DIALOGUE-AUTO-0031
 - CASE-AUTO-0042
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0094.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0098 - 更新案内 - Aviso de renovação
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0098
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 更新案内
 
-## Tradução Português
-
+## ポルトガル語訳
 Aviso de renovação
 
-## Definição Técnica
+## 技術的定義
 
-Comunicação enviada ou realizada antes do vencimento para orientar a renovação do contrato.
+更新案内とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o aviso para renovar o seguro.
+お客様には、「Aviso de renovação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O aviso de renovação ajuda a evitar vencimento sem cobertura. Mesmo assim, precisamos conferir os dados.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar aviso de renovação e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Aviso de renovação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アヴイスオ ジ ヘノヴァサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アヴイスオ ジ ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 更新案内を確認しましょう。
-- 必要な情報を正確に整理します。
+- 更新案内について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar aviso de renovação.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール アヴイスオ ジ ヘノヴァサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0095
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0097 - 解約手続き - Procedimento de cancelamento
 - AUTO-0099 - 満期管理 - Controle de vencimento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0095
 - DIALOGUE-AUTO-0031
 - CASE-AUTO-0042
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0095.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0099 - 満期管理 - Controle de vencimento
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0099
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 満期管理
 
-## Tradução Português
-
+## ポルトガル語訳
 Controle de vencimento
 
-## Definição Técnica
+## 技術的定義
 
-Acompanhamento das datas de vencimento dos contratos para evitar interrupção de cobertura.
+満期管理とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É controlar quando o seguro vence.
+お客様には、「Controle de vencimento」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Controlar o vencimento evita ficar sem seguro por esquecimento ou atraso na renovação.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar controle de vencimento e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Controle de vencimento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クオントルオルエ ジ ヴエンクイムエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クオントルオルエ ジ ヴエンクイムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 満期管理を確認しましょう。
-- 必要な情報を正確に整理します。
+- 満期管理について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar controle de vencimento.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール クオントルオルエ ジ ヴエンクイムエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0096
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0098 - 更新案内 - Aviso de renovação
 - AUTO-0100 - アフターサービス - Atendimento pós-venda
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0096
 - DIALOGUE-AUTO-0031
 - CASE-AUTO-0043
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0096.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0100 - アフターサービス - Atendimento pós-venda
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0100
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 アフターサービス
 
-## Tradução Português
-
+## ポルトガル語訳
 Atendimento pós-venda
 
-## Definição Técnica
+## 技術的定義
 
-Acompanhamento do cliente após a contratação, incluindo dúvidas, alterações, renovação e suporte em sinistro.
+アフターサービスとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o atendimento depois da venda.
+お客様には、「Atendimento pós-venda」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O trabalho não termina na contratação. O cliente precisa de suporte para alterações, dúvidas, renovação e acidentes.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar atendimento pós-venda e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Atendimento pós-venda」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトエンドイムエントオ プオス ヴエンドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アトエンドイムエントオ プオス ヴエンドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- アフターサービスを確認しましょう。
-- 必要な情報を正確に整理します。
+- アフターサービスについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
 - Vamos confirmar atendimento pós-venda.
-- Vamos organizar as informações necessárias corretamente.
+  - Leitura de apoio: ヴァモス コンフィルマール アトエンドイムエントオ プオス ヴエンドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0097
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0099 - 満期管理 - Controle de vencimento
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0097
 - DIALOGUE-AUTO-0031
 - CASE-AUTO-0043
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - atendimento
 - revisao
 - contrato
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/AUTO/FAQ-AUTO-0097.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

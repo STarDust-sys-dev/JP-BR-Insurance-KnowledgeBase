@@ -266,6 +266,7 @@ def main() -> int:
                 "ブラジル人顧客" in text
                 and "Português brasileiro:" not in text
                 and "## ブラジルポルトガル語版" not in text
+                and "### PT-Br" not in text
                 and "### ポルトガル語で伝える内容" not in text
             ):
                 warnings["customer_portuguese_block_missing"].append((path_rel, "missing explicit Portuguese customer-facing text"))

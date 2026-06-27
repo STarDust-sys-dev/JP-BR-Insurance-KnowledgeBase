@@ -1,879 +1,917 @@
-# AUTO_TERMS_0011_0020 - Segundo lote de verbetes AUTO
+# AUTO_TERMS_0011_0020 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0011 - 自賠責保険 - Seguro obrigatório de responsabilidade civil automóvel
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0011
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 自賠責保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro obrigatório de responsabilidade civil automóvel
 
-## Definição Técnica
+## 技術的定義
 
-Seguro obrigatório no Japão destinado a oferecer cobertura básica para danos pessoais causados a terceiros em acidente de trânsito, conforme o sistema legal aplicável.
+自賠責保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o seguro obrigatório do carro, mas ele tem cobertura limitada e não substitui o seguro voluntário.
+お客様には、「Seguro obrigatório de responsabilidade civil automóvel」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No Japão, todo veículo deve ter 自賠責保険. Ele é obrigatório, mas a proteção é limitada. Por isso, normalmente também se contrata 任意保険 para ampliar a proteção.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro obrigatório de responsabilidade civil automóvel e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro obrigatório de responsabilidade civil automóvel」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ オブルイグアトオルイオ ジ ヘスポンサビリダージ シヴィウ アウトモーヴェウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ オブルイグアトオルイオ ジ ヘスポンサビリダージ シヴィウ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 自賠責保険は法律で義務付けられている保険です。
-- 補償範囲が限られているため、任意保険も確認しましょう。
+- 自賠責保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O seguro obrigatório é exigido por lei.
-- Como a cobertura é limitada, também precisamos verificar o seguro voluntário.
+- Vamos confirmar seguro obrigatório de responsabilidade civil automóvel.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ オブルイグアトオルイオ ジ ヘスポンサビリダージ シヴィウ アウトモーヴェウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0011 - Qual é a diferença entre 自賠責保険 e 任意保険?
 - FAQ-AUTO-0012 - O seguro obrigatório é suficiente?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0012 - 任意保険 - Seguro voluntário de automóvel
 - AUTO-0002 - 対人賠償保険 - Seguro contra danos pessoais a terceiros
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0011
 - FAQ-AUTO-0012
 - DIALOGUE-AUTO-0005
 - CASE-AUTO-0009
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - obrigatorio
 - responsabilidade-civil
 - terceiros
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0012.md`
 - `14_FAQ/AUTO/FAQ-AUTO-0011.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0012 - 任意保険 - Seguro voluntário de automóvel
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0012
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 任意保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro voluntário de automóvel
 
-## Definição Técnica
+## 技術的定義
 
-Seguro contratado voluntariamente para ampliar a proteção do motorista e do veículo além da cobertura obrigatória, incluindo danos a terceiros, veículo próprio, ocupantes e coberturas adicionais.
+任意保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o seguro adicional que complementa o seguro obrigatório e oferece proteção mais ampla.
+お客様には、「Seguro voluntário de automóvel」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O seguro obrigatório existe, mas é limitado. O seguro voluntário serve para proteger melhor em acidentes, principalmente quando há prejuízos altos, danos materiais ou necessidade de cobrir o próprio carro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro voluntário de automóvel e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro voluntário de automóvel」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ヴオルウントアルイオ ジ アウトモーヴェウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ヴオルウントアルイオ ジ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 任意保険は自賠責保険を補うための保険です。
-- お客様のリスクに合わせて補償内容を選びます。
+- 任意保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O seguro voluntário complementa o seguro obrigatório.
-- As coberturas são escolhidas conforme o risco e a necessidade do cliente.
+- Vamos confirmar seguro voluntário de automóvel.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ヴオルウントアルイオ ジ アウトモーヴェウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0011 - Qual é a diferença entre 自賠責保険 e 任意保険?
 - FAQ-AUTO-0012 - O seguro obrigatório é suficiente?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0011 - 自賠責保険 - Seguro obrigatório de responsabilidade civil automóvel
 - AUTO-0001 - 自動車保険 - Seguro de automóvel
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0011
 - FAQ-AUTO-0012
 - DIALOGUE-AUTO-0005
 - CASE-AUTO-0009
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - seguro-voluntario
 - cobertura-ampliada
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0011.md`
 - `02_MasterDictionary/AUTO/AUTO-0001.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0013 - ロードサービス - Assistência na estrada
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0013
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 ロードサービス
 
-## Tradução Português
-
+## ポルトガル語訳
 Assistência na estrada
 
-## Definição Técnica
+## 技術的定義
 
-Serviço associado ao seguro de automóvel que pode oferecer suporte em pane, guincho, bateria descarregada, chave trancada no veículo, pneu furado ou outras emergências, conforme contrato.
+ロードサービスとは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o serviço de ajuda quando o carro para ou tem problema durante o uso.
+お客様には、「Assistência na estrada」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o carro quebrar, ficar sem bateria ou precisar de guincho, o ロードサービス pode ajudar. Mas os limites e serviços disponíveis dependem da seguradora e do contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar assistência na estrada e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Assistência na estrada」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アスイストエンクイア ナ エストルアドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール アスイストエンクイア ナ エストルアドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- ロードサービスの利用条件を確認しましょう。
-- レッカーサービスの距離制限がある場合があります。
+- ロードサービスについて確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar as condições da assistência na estrada.
-- Pode haver limite de distância para o serviço de guincho.
+- Vamos confirmar assistência na estrada.
+  - Leitura de apoio: ヴァモス コンフィルマール アスイストエンクイア ナ エストルアドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0013 - Quando posso usar o serviço de assistência na estrada?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0015 - 代車費用特約 - Cobertura adicional de carro substituto
 - AUTO-0019 - 事故受付 - Registro de aviso de acidente
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0013
 - DIALOGUE-AUTO-0006
 - CASE-AUTO-0010
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - assistencia
 - estrada
 - guincho
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0015.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0014 - 弁護士費用特約 - Cobertura adicional de honorários advocatícios
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0014
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 弁護士費用特約
 
-## Tradução Português
-
+## ポルトガル語訳
 Cobertura adicional de honorários advocatícios
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura adicional que pode reembolsar ou cobrir custos de advogado e despesas relacionadas em disputas decorrentes de acidente de trânsito, conforme condições da apólice.
+弁護士費用特約とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura para ajudar com custos de advogado em certas situações de acidente.
+お客様には、「Cobertura adicional de honorários advocatícios」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se houver conflito após um acidente, como discussão sobre responsabilidade ou indenização, esta cobertura pode ajudar com despesas de advogado, conforme o contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar cobertura adicional de honorários advocatícios e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Cobertura adicional de honorários advocatícios」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル ジ オンオルアルイオス アドヴオクアトイクイオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ オンオルアルイオス アドヴオクアトイクイオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 弁護士費用特約は事故後の交渉に備える特約です。
-- 利用条件と対象範囲を確認する必要があります。
+- 弁護士費用特約について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A cobertura de advogado ajuda em disputas após acidente.
-- É necessário confirmar as condições e o alcance da cobertura.
+- Vamos confirmar cobertura adicional de honorários advocatícios.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ オンオルアルイオス アドヴオクアトイクイオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0014 - Para que serve a cobertura de advogado?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0010 - 保険金 - Indenização do seguro
 - AUTO-0019 - 事故受付 - Registro de aviso de acidente
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0014
 - CASE-AUTO-0012
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - advogado
 - cobertura-adicional
 - disputa
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0019.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0015 - 代車費用特約 - Cobertura adicional de carro substituto
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0015
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 代車費用特約
 
-## Tradução Português
-
+## ポルトガル語訳
 Cobertura adicional de carro substituto
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura adicional que pode cobrir despesas de carro substituto durante reparo ou indisponibilidade do veículo segurado em evento coberto, conforme limites e condições.
+代車費用特約とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura para ajudar com o custo de um carro temporário quando o carro segurado está em reparo.
+お客様には、「Cobertura adicional de carro substituto」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o seu carro ficar parado por causa de um acidente coberto, esta cobertura pode ajudar com o custo de um carro substituto. É preciso verificar limite diário, período máximo e condições.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar cobertura adicional de carro substituto e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Cobertura adicional de carro substituto」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コベルツーラ アドイクイオンアル ジ クアホオ スウブストイトウトオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ クアホオ スウブストイトウトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 代車費用特約は修理中の代車費用に備える特約です。
-- 利用日数や上限金額を確認しましょう。
+- 代車費用特約について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A cobertura de carro substituto ajuda durante o período de reparo.
-- Precisamos confirmar limite diário e número máximo de dias.
+- Vamos confirmar cobertura adicional de carro substituto.
+  - Leitura de apoio: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ クアホオ スウブストイトウトオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0015 - Quando tenho direito a carro substituto?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0004 - 車両保険 - Seguro do veículo
 - AUTO-0013 - ロードサービス - Assistência na estrada
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0015
 - DIALOGUE-AUTO-0006
 - CASE-AUTO-0010
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - carro-substituto
 - cobertura-adicional
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0013.md`
 - `02_MasterDictionary/AUTO/AUTO-0004.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0016 - 運転者限定 - Restrição de condutores
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0016
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 運転者限定
 
-## Tradução Português
-
+## ポルトガル語訳
 Restrição de condutores
 
-## Definição Técnica
+## 技術的定義
 
-Condição contratual que limita quais pessoas podem dirigir o veículo segurado para fins de cobertura, conforme critérios definidos na apólice.
+運転者限定とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a regra que define quem pode dirigir o carro e ainda estar coberto pelo seguro.
+お客様には、「Restrição de condutores」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o contrato limita os condutores, uma pessoa fora da regra pode não estar coberta ao dirigir. Por isso, é importante informar quem usa o carro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar restrição de condutores e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Restrição de condutores」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエストルイサォン ジ クオンドウトオルエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエストルイサォン ジ クオンドウトオルエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 運転者限定の範囲を確認しましょう。
-- 対象外の方が運転すると補償されない場合があります。
+- 運転者限定について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos confirmar quem está autorizado a dirigir pelo contrato.
-- Se uma pessoa fora da regra dirigir, pode não haver cobertura.
+- Vamos confirmar restrição de condutores.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエストルイサォン ジ クオンドウトオルエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0016 - Quem pode dirigir o carro segurado?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0017 - 年齢条件 - Condição de idade do condutor
 - AUTO-0018 - 使用目的 - Finalidade de uso do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0016
 - DIALOGUE-AUTO-0007
 - CASE-AUTO-0011
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - condutor
 - restricao
 - cobertura
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0017.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0017 - 年齢条件 - Condição de idade do condutor
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0017
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 年齢条件
 
-## Tradução Português
-
+## ポルトガル語訳
 Condição de idade do condutor
 
-## Definição Técnica
+## 技術的定義
 
-Condição contratual que define a faixa etária dos condutores cobertos pelo seguro, podendo influenciar elegibilidade de cobertura e cálculo do prêmio.
+年齢条件とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a regra de idade para quem pode dirigir o carro com cobertura.
+お客様には、「Condição de idade do condutor」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o contrato tem condição de idade, um motorista mais jovem do que a idade permitida pode não estar coberto. Essa regra também pode influenciar o preço do seguro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar condição de idade do condutor e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Condição de idade do condutor」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コンジサォン ジ イドアドエ ド クオンドウトオル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール コンジサォン ジ イドアドエ ド クオンドウトオル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 年齢条件は補償対象となる運転者の年齢に関係します。
-- 若い方が運転する場合は条件を見直す必要があります。
+- 年齢条件について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A condição de idade define quais motoristas estão cobertos.
-- Se uma pessoa mais jovem dirigir, talvez seja necessário ajustar o contrato.
+- Vamos confirmar condição de idade do condutor.
+  - Leitura de apoio: ヴァモス コンフィルマール コンジサォン ジ イドアドエ ド クオンドウトオル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0017 - A idade do motorista muda o preço do seguro?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0016 - 運転者限定 - Restrição de condutores
 - AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0017
 - DIALOGUE-AUTO-0007
 - CASE-AUTO-0011
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - idade
 - condutor
 - premio
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0016.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0018 - 使用目的 - Finalidade de uso do veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0018
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 使用目的
 
-## Tradução Português
-
+## ポルトガル語訳
 Finalidade de uso do veículo
 
-## Definição Técnica
+## 技術的定義
 
-Informação contratual que indica como o veículo segurado é utilizado, por exemplo uso diário, deslocamento ao trabalho ou uso comercial, podendo influenciar risco e prêmio.
+使用目的とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a informação sobre para que o carro é usado.
+お客様には、「Finalidade de uso do veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A seguradora precisa saber se o carro é usado para lazer, trabalho, deslocamento diário ou atividade comercial. Essa informação pode mudar o preço e a análise do risco.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar finalidade de uso do veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Finalidade de uso do veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フインアルイドアドエ ジ ウスオ ド ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール フインアルイドアドエ ジ ウスオ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 使用目的は保険料や契約条件に関係します。
-- 実際の使用状況に合わせて申告する必要があります。
+- 使用目的について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A finalidade de uso influencia o preço e as condições do seguro.
-- É importante informar o uso real do carro.
+- Vamos confirmar finalidade de uso do veículo.
+  - Leitura de apoio: ヴァモス コンフィルマール フインアルイドアドエ ジ ウスオ ド ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0018 - Por que preciso informar a finalidade de uso do carro?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0009 - 保険料 - Prêmio do seguro
 - AUTO-0016 - 運転者限定 - Restrição de condutores
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0018
 - DIALOGUE-AUTO-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - uso-do-veiculo
 - risco
 - premio
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0019 - 事故受付 - Registro de aviso de acidente
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0019
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 事故受付
 
-## Tradução Português
-
+## ポルトガル語訳
 Registro de aviso de acidente
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento de comunicação do acidente à seguradora ou central responsável, iniciando o processo de análise, orientação e eventual indenização.
+事故受付とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o aviso formal do acidente para a seguradora começar o atendimento.
+お客様には、「Registro de aviso de acidente」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Depois de um acidente, é importante avisar a seguradora. Esse registro inicia o atendimento, a análise do caso e as próximas orientações.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar registro de aviso de acidente e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Registro de aviso de acidente」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルエグイストルオ ジ アヴイスオ ジ アクイドエントエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール ルエグイストルオ ジ アヴイスオ ジ アクイドエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 事故が発生したら、まず事故受付を行います。
-- 事故内容、場所、相手方情報を確認します。
+- 事故受付について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Depois do acidente, fazemos o registro do aviso.
-- Precisamos confirmar detalhes do acidente, local e dados da outra parte.
+- Vamos confirmar registro de aviso de acidente.
+  - Leitura de apoio: ヴァモス コンフィルマール ルエグイストルオ ジ アヴイスオ ジ アクイドエントエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0019 - O que devo fazer logo após um acidente?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0010 - 保険金 - Indenização do seguro
 - AUTO-0020 - 交通事故証明書 - Certificado de acidente de trânsito
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0019
 - DIALOGUE-AUTO-0008
 - CASE-AUTO-0012
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - acidente
 - aviso
 - sinistro
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0020.md`
 - `02_MasterDictionary/AUTO/AUTO-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0020 - 交通事故証明書 - Certificado de acidente de trânsito
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0020
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 交通事故証明書
 
-## Tradução Português
-
+## ポルトガル語訳
 Certificado de acidente de trânsito
 
-## Definição Técnica
+## 技術的定義
 
-Documento que certifica oficialmente a ocorrência de acidente de trânsito, podendo ser necessário para processos de seguro, análise de sinistro e comprovação de informações.
+交通事故証明書とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um documento oficial que comprova que o acidente de trânsito foi registrado.
+お客様には、「Certificado de acidente de trânsito」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Em alguns casos, a seguradora pode pedir o 交通事故証明書. Ele serve para comprovar oficialmente o acidente e ajudar na análise do seguro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar certificado de acidente de trânsito e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Certificado de acidente de trânsito」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クエルトイフイクアドオ ジ アクイドエントエ ジ トルアンスイトオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クエルトイフイクアドオ ジ アクイドエントエ ジ トルアンスイトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 交通事故証明書が必要になる場合があります。
-- 警察への届出が重要です。
+- 交通事故証明書について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Pode ser necessário apresentar o certificado de acidente de trânsito.
-- É importante registrar o acidente junto à polícia.
+- Vamos confirmar certificado de acidente de trânsito.
+  - Leitura de apoio: ヴァモス コンフィルマール クエルトイフイクアドオ ジ アクイドエントエ ジ トルアンスイトオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0020 - Para que serve o certificado de acidente de trânsito?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0019 - 事故受付 - Registro de aviso de acidente
 - AUTO-0010 - 保険金 - Indenização do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0020
 - DIALOGUE-AUTO-0008
 - CASE-AUTO-0012
 
-## Referências
-
+## 参考資料
 - Documento interno: `00_Project/AUTO_ROADMAP_0001.md`
 
-## Tags
-
+## タグ
 - auto
 - acidente
 - documento
 - policia
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0019.md`
 - `02_MasterDictionary/AUTO/AUTO-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

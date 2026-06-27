@@ -1,14 +1,21 @@
-# FIRE_TERMS_0001_0020
+# FIRE_TERMS_0001_0020 - Verbetes FIRE
 
-Pacote consolidado FIRE gerado em 2026-06-27.
+## 管理情報
+
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # FIRE-0001 - 火災保険 - Seguro contra incêndio
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0001
@@ -32,31 +39,33 @@ Seguro contra incêndio
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro contra incêndio e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro contra incêndio」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ コントラ インセンジオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ コントラ インセンジオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro contra incêndio」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro contra incêndio.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ コントラ インセンジオ
-  - 日本語確認用: 「Seguro contra incêndio」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 火災保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro contra incêndio.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ コントラ インセンジオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0001
@@ -85,17 +94,17 @@ Vamos confirmar seguro contra incêndio e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0002 - 建物 - Edificação
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0002
@@ -119,31 +128,33 @@ Edificação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar edificação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Edificação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エジフィカサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール エジフィカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Edificação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar edificação.
-  - カタカナ読み: ヴァモス コンフィルマール エジフィカサォン
-  - 日本語確認用: 「Edificação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 建物について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar edificação.
+  - Leitura de apoio: ヴァモス コンフィルマール エジフィカサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0002
@@ -173,17 +184,17 @@ Vamos confirmar edificação e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0003 - 家財 - Bens domésticos
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0003
@@ -207,31 +218,33 @@ Bens domésticos
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar bens domésticos e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Bens domésticos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベンス ドメスチコス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベンス ドメスチコス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Bens domésticos」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar bens domésticos.
-  - カタカナ読み: ヴァモス コンフィルマール ベンス ドメスチコス
-  - 日本語確認用: 「Bens domésticos」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 家財について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar bens domésticos.
+  - Leitura de apoio: ヴァモス コンフィルマール ベンス ドメスチコス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0003
@@ -261,17 +274,17 @@ Vamos confirmar bens domésticos e explicar de forma simples, conforme o contrat
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0004 - 保険金額 - Valor segurado
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0004
@@ -295,31 +308,33 @@ Valor segurado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor segurado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor segurado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール セグラード」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール セグラード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor segurado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor segurado.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール セグラード
-  - 日本語確認用: 「Valor segurado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保険金額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor segurado.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール セグラード
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0004
@@ -349,17 +364,17 @@ Vamos confirmar valor segurado e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0005 - 再調達価額 - Valor de reposição
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0005
@@ -383,31 +398,33 @@ Valor de reposição
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor de reposição e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor de reposição」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール ジ ルエプオスイサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール ジ ルエプオスイサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor de reposição」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor de reposição.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール ジ ルエプオスイサォン
-  - 日本語確認用: 「Valor de reposição」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 再調達価額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor de reposição.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール ジ ルエプオスイサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0005
@@ -437,17 +454,17 @@ Vamos confirmar valor de reposição e explicar de forma simples, conforme o con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0006 - 時価額 - Valor atual
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0006
@@ -471,31 +488,33 @@ Valor atual
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar valor atual e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Valor atual」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴァロール アトウアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴァロール アトウアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Valor atual」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar valor atual.
-  - カタカナ読み: ヴァモス コンフィルマール ヴァロール アトウアル
-  - 日本語確認用: 「Valor atual」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 時価額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar valor atual.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴァロール アトウアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0006
@@ -525,17 +544,17 @@ Vamos confirmar valor atual e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0007 - 免責金額 - Franquia
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0007
@@ -559,31 +578,33 @@ Franquia
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar franquia e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Franquia」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フランキア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール フランキア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Franquia」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar franquia.
-  - カタカナ読み: ヴァモス コンフィルマール フランキア
-  - 日本語確認用: 「Franquia」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 免責金額について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar franquia.
+  - Leitura de apoio: ヴァモス コンフィルマール フランキア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0007
@@ -613,17 +634,17 @@ Vamos confirmar franquia e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0008 - 火災 - Incêndio
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0008
@@ -647,31 +668,33 @@ Incêndio
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar incêndio e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Incêndio」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インセンジオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール インセンジオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Incêndio」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar incêndio.
-  - カタカナ読み: ヴァモス コンフィルマール インセンジオ
-  - 日本語確認用: 「Incêndio」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 火災について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar incêndio.
+  - Leitura de apoio: ヴァモス コンフィルマール インセンジオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0008
@@ -701,17 +724,17 @@ Vamos confirmar incêndio e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0009 - 落雷 - Queda de raio
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0009
@@ -735,31 +758,33 @@ Queda de raio
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar queda de raio e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Queda de raio」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ケドア ジ ルアイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ケドア ジ ルアイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Queda de raio」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar queda de raio.
-  - カタカナ読み: ヴァモス コンフィルマール ケドア ジ ルアイオ
-  - 日本語確認用: 「Queda de raio」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 落雷について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar queda de raio.
+  - Leitura de apoio: ヴァモス コンフィルマール ケドア ジ ルアイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0009
@@ -789,17 +814,17 @@ Vamos confirmar queda de raio e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0010 - 破裂・爆発 - Ruptura ou explosão
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0010
@@ -823,31 +848,33 @@ Ruptura ou explosão
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar ruptura ou explosão e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Ruptura ou explosão」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルウプトウルア オウ エシプルオスアォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルウプトウルア オウ エシプルオスアォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Ruptura ou explosão」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar ruptura ou explosão.
-  - カタカナ読み: ヴァモス コンフィルマール ルウプトウルア オウ エシプルオスアォン
-  - 日本語確認用: 「Ruptura ou explosão」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 破裂・爆発について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar ruptura ou explosão.
+  - Leitura de apoio: ヴァモス コンフィルマール ルウプトウルア オウ エシプルオスアォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0010
@@ -877,17 +904,17 @@ Vamos confirmar ruptura ou explosão e explicar de forma simples, conforme o con
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0011 - 風災 - Danos por vento
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0011
@@ -911,31 +938,33 @@ Danos por vento
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar danos por vento e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Danos por vento」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ダノス ポル ヴエントオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ダノス ポル ヴエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Danos por vento」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar danos por vento.
-  - カタカナ読み: ヴァモス コンフィルマール ダノス ポル ヴエントオ
-  - 日本語確認用: 「Danos por vento」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 風災について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar danos por vento.
+  - Leitura de apoio: ヴァモス コンフィルマール ダノス ポル ヴエントオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0011
@@ -965,17 +994,17 @@ Vamos confirmar danos por vento e explicar de forma simples, conforme o contrato
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0012 - 雹災 - Danos por granizo
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0012
@@ -999,31 +1028,33 @@ Danos por granizo
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar danos por granizo e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Danos por granizo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ダノス ポル グルアンイズオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ダノス ポル グルアンイズオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Danos por granizo」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar danos por granizo.
-  - カタカナ読み: ヴァモス コンフィルマール ダノス ポル グルアンイズオ
-  - 日本語確認用: 「Danos por granizo」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 雹災について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar danos por granizo.
+  - Leitura de apoio: ヴァモス コンフィルマール ダノス ポル グルアンイズオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0012
@@ -1053,17 +1084,17 @@ Vamos confirmar danos por granizo e explicar de forma simples, conforme o contra
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0013 - 雪災 - Danos por neve
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0013
@@ -1087,31 +1118,33 @@ Danos por neve
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar danos por neve e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Danos por neve」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ダノス ポル ンエヴエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ダノス ポル ンエヴエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Danos por neve」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar danos por neve.
-  - カタカナ読み: ヴァモス コンフィルマール ダノス ポル ンエヴエ
-  - 日本語確認用: 「Danos por neve」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 雪災について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar danos por neve.
+  - Leitura de apoio: ヴァモス コンフィルマール ダノス ポル ンエヴエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0013
@@ -1141,17 +1174,17 @@ Vamos confirmar danos por neve e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0014 - 水災 - Danos por inundação
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0014
@@ -1175,31 +1208,33 @@ Danos por inundação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar danos por inundação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Danos por inundação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ダノス ポル イヌンダサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ダノス ポル イヌンダサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Danos por inundação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar danos por inundação.
-  - カタカナ読み: ヴァモス コンフィルマール ダノス ポル イヌンダサォン
-  - 日本語確認用: 「Danos por inundação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 水災について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar danos por inundação.
+  - Leitura de apoio: ヴァモス コンフィルマール ダノス ポル イヌンダサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0014
@@ -1229,17 +1264,17 @@ Vamos confirmar danos por inundação e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0015 - 水濡れ - Danos por vazamento de água
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0015
@@ -1263,31 +1298,33 @@ Danos por vazamento de água
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar danos por vazamento de água e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Danos por vazamento de água」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ダノス ポル ヴァザメント ジ アグア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ダノス ポル ヴァザメント ジ アグア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Danos por vazamento de água」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar danos por vazamento de água.
-  - カタカナ読み: ヴァモス コンフィルマール ダノス ポル ヴァザメント ジ アグア
-  - 日本語確認用: 「Danos por vazamento de água」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 水濡れについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar danos por vazamento de água.
+  - Leitura de apoio: ヴァモス コンフィルマール ダノス ポル ヴァザメント ジ アグア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0015
@@ -1317,17 +1354,17 @@ Vamos confirmar danos por vazamento de água e explicar de forma simples, confor
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0016 - 盗難 - Furto ou roubo
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0016
@@ -1351,31 +1388,33 @@ Furto ou roubo
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar furto ou roubo e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Furto ou roubo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フルト オウ ホウボ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール フルト オウ ホウボ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Furto ou roubo」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar furto ou roubo.
-  - カタカナ読み: ヴァモス コンフィルマール フルト オウ ホウボ
-  - 日本語確認用: 「Furto ou roubo」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 盗難について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar furto ou roubo.
+  - Leitura de apoio: ヴァモス コンフィルマール フルト オウ ホウボ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0016
@@ -1405,17 +1444,17 @@ Vamos confirmar furto ou roubo e explicar de forma simples, conforme o contrato.
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0017 - 破損・汚損 - Quebra ou dano acidental
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0017
@@ -1439,31 +1478,33 @@ Quebra ou dano acidental
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar quebra ou dano acidental e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Quebra ou dano acidental」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ケブルア オウ ダノ アクイドエントアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ケブルア オウ ダノ アクイドエントアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Quebra ou dano acidental」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar quebra ou dano acidental.
-  - カタカナ読み: ヴァモス コンフィルマール ケブルア オウ ダノ アクイドエントアル
-  - 日本語確認用: 「Quebra ou dano acidental」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 破損・汚損について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar quebra ou dano acidental.
+  - Leitura de apoio: ヴァモス コンフィルマール ケブルア オウ ダノ アクイドエントアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0017
@@ -1493,17 +1534,17 @@ Vamos confirmar quebra ou dano acidental e explicar de forma simples, conforme o
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0018 - 地震保険 - Seguro contra terremoto
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0018
@@ -1527,31 +1568,33 @@ Seguro contra terremoto
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro contra terremoto e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro contra terremoto」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ コントラ テヘモート」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ コントラ テヘモート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro contra terremoto」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro contra terremoto.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ コントラ テヘモート
-  - 日本語確認用: 「Seguro contra terremoto」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 地震保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro contra terremoto.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ コントラ テヘモート
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0018
@@ -1581,17 +1624,17 @@ Vamos confirmar seguro contra terremoto e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0019 - 臨時費用保険金 - Beneficio para despesas emergenciais
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0019
@@ -1615,31 +1658,33 @@ Beneficio para despesas emergenciais
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar beneficio para despesas emergenciais e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Beneficio para despesas emergenciais」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ベネフィシオ パラ ドエスプエスアス エムエルグエンクイアイス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ベネフィシオ パラ ドエスプエスアス エムエルグエンクイアイス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Beneficio para despesas emergenciais」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar beneficio para despesas emergenciais.
-  - カタカナ読み: ヴァモス コンフィルマール ベネフィシオ パラ ドエスプエスアス エムエルグエンクイアイス
-  - 日本語確認用: 「Beneficio para despesas emergenciais」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 臨時費用保険金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar beneficio para despesas emergenciais.
+  - Leitura de apoio: ヴァモス コンフィルマール ベネフィシオ パラ ドエスプエスアス エムエルグエンクイアイス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0019
@@ -1669,17 +1714,17 @@ Vamos confirmar beneficio para despesas emergenciais e explicar de forma simples
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # FIRE-0020 - 個人賠償責任特約 - Cláusula de responsabilidade civil pessoal
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 FIRE-0020
@@ -1703,31 +1748,33 @@ Cláusula de responsabilidade civil pessoal
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar cláusula de responsabilidade civil pessoal e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Cláusula de responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クラウズラ ジ ヘスポンサビリダージ シヴィウ ペソアウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール クラウズラ ジ ヘスポンサビリダージ シヴィウ ペソアウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Cláusula de responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar cláusula de responsabilidade civil pessoal.
-  - カタカナ読み: ヴァモス コンフィルマール クラウズラ ジ ヘスポンサビリダージ シヴィウ ペソアウ
-  - 日本語確認用: 「Cláusula de responsabilidade civil pessoal」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 個人賠償責任特約について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar cláusula de responsabilidade civil pessoal.
+  - Leitura de apoio: ヴァモス コンフィルマール クラウズラ ジ ヘスポンサビリダージ シヴィウ ペソアウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-FIRE-0020
@@ -1756,4 +1803,6 @@ Vamos confirmar cláusula de responsabilidade civil pessoal e explicar de forma 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
+---

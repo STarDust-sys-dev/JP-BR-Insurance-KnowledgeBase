@@ -1,904 +1,942 @@
-# AUTO_TERMS_0001_0010 - Primeiro lote de verbetes AUTO
+# AUTO_TERMS_0001_0010 - Verbetes AUTO
 
+## 管理情報
 
----
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # AUTO-0001 - 自動車保険 - Seguro de automóvel
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0001
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 自動車保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro de automóvel
 
-## Definição Técnica
+## 技術的定義
 
-Seguro destinado a cobrir riscos relacionados ao uso, posse ou condução de veículo automotor, incluindo responsabilidade civil, danos ao próprio veículo e coberturas adicionais conforme o contrato.
+自動車保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o seguro para proteger o motorista, o carro e terceiros em caso de acidente, dano ou outra situação prevista na apólice.
+お客様には、「Seguro de automóvel」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No Japão, o seguro de automóvel ajuda a proteger você financeiramente quando ocorre um acidente. Ele pode cobrir danos causados a outras pessoas, danos materiais, danos ao seu próprio carro e outras situações, dependendo das coberturas contratadas.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro de automóvel e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro de automóvel」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ アウトモーヴェウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ジ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 自動車保険の補償内容を確認しましょう。
-- お客様の使用状況に合わせて補償を選ぶことが大切です。
+- 自動車保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- Vamos verificar as coberturas do seguro de automóvel.
-- É importante escolher as coberturas de acordo com o uso do carro.
+- Vamos confirmar seguro de automóvel.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ アウトモーヴェウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0001 - O que o seguro de automóvel cobre no Japão?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0002 - 対人賠償保険 - Seguro contra danos pessoais a terceiros
 - AUTO-0003 - 対物賠償保険 - Seguro contra danos materiais a terceiros
 - AUTO-0004 - 車両保険 - Seguro do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0001
 - DIALOGUE-AUTO-0001
 - CASE-AUTO-0001
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - seguro-de-automovel
 - cobertura
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/TERM_TEMPLATE.md`
 - `14_FAQ/FAQ_TEMPLATE.md`
 - `13_Dialogues/DIALOGUE_TEMPLATE.md`
 - `15_CaseStudies/CASE_TEMPLATE.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0002 - 対人賠償保険 - Seguro contra danos pessoais a terceiros
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0002
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 対人賠償保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro contra danos pessoais a terceiros
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura do seguro de automóvel destinada a indenizar danos corporais causados a terceiros em acidente de trânsito, dentro das condições da apólice.
+対人賠償保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a cobertura que ajuda a pagar indenizações quando outra pessoa se machuca em um acidente causado pelo segurado.
+お客様には、「Seguro contra danos pessoais a terceiros」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se você causar um acidente e outra pessoa se ferir, esta cobertura pode ajudar a pagar despesas e indenizações relacionadas aos danos pessoais dessa pessoa, conforme as regras do contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro contra danos pessoais a terceiros e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro contra danos pessoais a terceiros」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ コントラ ダノス プエスオアイス ア トエルクエイルオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ コントラ ダノス プエスオアイス ア トエルクエイルオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 対人賠償は相手のけがに対する補償です。
-- 万一の事故に備えて、十分な補償額を設定することが重要です。
+- 対人賠償保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A cobertura de danos pessoais a terceiros protege em caso de ferimentos causados a outra pessoa.
-- É importante definir um limite adequado para esse tipo de risco.
+- Vamos confirmar seguro contra danos pessoais a terceiros.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ コントラ ダノス プエスオアイス ア トエルクエイルオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0002 - O que acontece se eu machucar outra pessoa em um acidente?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0001 - 自動車保険 - Seguro de automóvel
 - AUTO-0003 - 対物賠償保険 - Seguro contra danos materiais a terceiros
 - AUTO-0005 - 人身傷害保険 - Seguro de danos corporais
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0002
 - DIALOGUE-AUTO-0001
 - CASE-AUTO-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - terceiros
 - danos-pessoais
 - responsabilidade-civil
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0001.md`
 - `02_MasterDictionary/AUTO/AUTO-0003.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0003 - 対物賠償保険 - Seguro contra danos materiais a terceiros
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0003
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 対物賠償保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro contra danos materiais a terceiros
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura do seguro de automóvel destinada a indenizar danos materiais causados a bens de terceiros em acidente de trânsito, conforme limites e condições da apólice.
+対物賠償保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a cobertura para danos causados ao carro, muro, poste, loja ou outro bem de outra pessoa.
+お客様には、「Seguro contra danos materiais a terceiros」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se você causar um acidente e danificar o carro ou outro bem de terceiros, esta cobertura pode ajudar a pagar o prejuízo, respeitando as condições contratadas.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro contra danos materiais a terceiros e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro contra danos materiais a terceiros」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ コントラ ダノス ムアトエルイアイス ア トエルクエイルオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ コントラ ダノス ムアトエルイアイス ア トエルクエイルオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 対物賠償は相手の物に対する補償です。
-- 車だけでなく、建物や設備への損害も対象になる場合があります。
+- 対物賠償保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A cobertura de danos materiais a terceiros protege contra prejuízos causados aos bens de outra pessoa.
-- Dependendo do caso, pode envolver carro, prédio, equipamentos ou outros bens.
+- Vamos confirmar seguro contra danos materiais a terceiros.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ コントラ ダノス ムアトエルイアイス ア トエルクエイルオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0003 - Se eu bater no carro de outra pessoa, essa cobertura paga?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0001 - 自動車保険 - Seguro de automóvel
 - AUTO-0002 - 対人賠償保険 - Seguro contra danos pessoais a terceiros
 - AUTO-0004 - 車両保険 - Seguro do veículo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0003
 - DIALOGUE-AUTO-0001
 - CASE-AUTO-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - terceiros
 - danos-materiais
 - responsabilidade-civil
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0001.md`
 - `02_MasterDictionary/AUTO/AUTO-0002.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0004 - 車両保険 - Seguro do veículo
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0004
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 車両保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro do veículo
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura destinada a indenizar danos ao próprio veículo segurado, conforme as condições, exclusões, franquia e tipo de cobertura contratada.
+車両保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a parte do seguro que pode cobrir o conserto ou perda do seu próprio carro.
+お客様には、「Seguro do veículo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-As coberturas contra terceiros protegem outras pessoas. Já o seguro do veículo protege o seu próprio carro, por exemplo em colisão, roubo, desastre natural ou outros eventos previstos na apólice.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro do veículo e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro do veículo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ド ヴエイクウルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 車両保険はご自身のお車の損害に対する補償です。
-- 補償範囲と免責金額を確認しましょう。
+- 車両保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O seguro do veículo cobre danos ao seu próprio carro.
-- Vamos confirmar o alcance da cobertura e o valor da franquia.
+- Vamos confirmar seguro do veículo.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ド ヴエイクウルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0004 - O seguro cobre o conserto do meu próprio carro?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0001 - 自動車保険 - Seguro de automóvel
 - AUTO-0007 - 免責金額 - Franquia
 - AUTO-0010 - 保険金 - Indenização do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0004
 - DIALOGUE-AUTO-0002
 - CASE-AUTO-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - veiculo
 - danos-ao-proprio-carro
 - franquia
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0001.md`
 - `02_MasterDictionary/AUTO/AUTO-0007.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0005 - 人身傷害保険 - Seguro de danos corporais
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0005
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 人身傷害保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro de danos corporais
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura destinada a indenizar danos corporais sofridos pelo segurado ou ocupantes do veículo, conforme condições da apólice e critérios de cálculo previstos no contrato.
+人身傷害保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura para proteger o motorista e passageiros em caso de ferimentos no acidente.
+お客様には、「Seguro de danos corporais」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Esta cobertura é voltada para as pessoas dentro do carro segurado. Ela pode ajudar com indenizações relacionadas a ferimentos, tratamento ou consequências do acidente, conforme o contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro de danos corporais e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro de danos corporais」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ ダノス クオルプオルアイス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ジ ダノス クオルプオルアイス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 人身傷害はご自身や同乗者のけがに備える補償です。
-- 事故後の治療費や損害に関係する重要な補償です。
+- 人身傷害保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O seguro de danos corporais protege o motorista e os passageiros.
-- É uma cobertura importante para lidar com ferimentos após um acidente.
+- Vamos confirmar seguro de danos corporais.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ ダノス クオルプオルアイス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0005 - Quem está protegido pelo seguro de danos corporais?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0002 - 対人賠償保険 - Seguro contra danos pessoais a terceiros
 - AUTO-0006 - 搭乗者傷害保険 - Seguro de acidentes de passageiros
 - AUTO-0010 - 保険金 - Indenização do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0005
 - DIALOGUE-AUTO-0002
 - CASE-AUTO-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - danos-corporais
 - motorista
 - passageiros
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0002.md`
 - `02_MasterDictionary/AUTO/AUTO-0006.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0006 - 搭乗者傷害保険 - Seguro de acidentes de passageiros
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0006
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 搭乗者傷害保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro de acidentes de passageiros
 
-## Definição Técnica
+## 技術的定義
 
-Cobertura que prevê indenização aos ocupantes do veículo segurado em caso de lesão ou morte decorrente de acidente coberto, conforme critérios definidos na apólice.
+搭乗者傷害保険とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma cobertura para passageiros e ocupantes do carro quando sofrem acidente.
+お客様には、「Seguro de acidentes de passageiros」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Essa cobertura pode pagar uma indenização aos ocupantes do veículo segurado quando há ferimento ou morte em acidente coberto. Ela deve ser explicada junto com o seguro de danos corporais para evitar confusão.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar seguro de acidentes de passageiros e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Seguro de acidentes de passageiros」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ アクイドエントエス ジ プアスアグエイルオス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール セグーロ ジ アクイドエントエス ジ プアスアグエイルオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 搭乗者傷害はお車に乗っている方の事故に備える補償です。
-- 人身傷害との違いを確認してご案内します。
+- 搭乗者傷害保険について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O seguro de acidentes de passageiros protege pessoas que estão dentro do veículo.
-- Vamos explicar a diferença entre esta cobertura e o seguro de danos corporais.
+- Vamos confirmar seguro de acidentes de passageiros.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ アクイドエントエス ジ プアスアグエイルオス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0006 - Qual é a diferença entre danos corporais e acidentes de passageiros?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0005 - 人身傷害保険 - Seguro de danos corporais
 - AUTO-0010 - 保険金 - Indenização do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0006
 - DIALOGUE-AUTO-0002
 - CASE-AUTO-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - passageiros
 - acidente
 - indenizacao
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0005.md`
 - `02_MasterDictionary/AUTO/AUTO-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0007 - 免責金額 - Franquia
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0007
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 免責金額
 
-## Tradução Português
-
+## ポルトガル語訳
 Franquia
 
-## Definição Técnica
+## 技術的定義
 
-Valor que fica sob responsabilidade do segurado em determinados sinistros, antes ou durante o pagamento da indenização pela seguradora, conforme previsto na apólice.
+免責金額とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a parte que o cliente paga quando usa certas coberturas do seguro.
+お客様には、「Franquia」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Franquia é um valor que pode ficar por sua conta quando o seguro é usado, principalmente em conserto do próprio carro. Um plano com franquia maior pode reduzir o prêmio, mas aumenta o valor pago pelo cliente no sinistro.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar franquia e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Franquia」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フランキア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール フランキア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 免責金額は事故の際にお客様が負担する金額です。
-- 保険料とのバランスを見て設定しましょう。
+- 免責金額について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A franquia é o valor que o cliente paga em caso de uso de certas coberturas.
-- Vamos escolher considerando o equilíbrio entre preço do seguro e custo no sinistro.
+- Vamos confirmar franquia.
+  - Leitura de apoio: ヴァモス コンフィルマール フランキア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0007 - Quando preciso pagar franquia?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0004 - 車両保険 - Seguro do veículo
 - AUTO-0009 - 保険料 - Prêmio do seguro
 - AUTO-0010 - 保険金 - Indenização do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0007
 - DIALOGUE-AUTO-0003
 - CASE-AUTO-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - franquia
 - sinistro
 - custo-do-cliente
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0004.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 - `02_MasterDictionary/AUTO/AUTO-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0008 - 等級 - Classe de bônus/malus
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0008
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 等級
 
-## Tradução Português
-
+## ポルトガル語訳
 Classe de bônus/malus
 
-## Definição Técnica
+## 技術的定義
 
-Sistema de classificação usado no seguro de automóvel para refletir histórico de contrato e sinistros, influenciando descontos, acréscimos e o cálculo do prêmio.
+等級とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma classe que influencia o preço do seguro conforme o histórico do motorista e do contrato.
+お客様には、「Classe de bônus/malus」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No Japão, o seguro de automóvel usa uma classe chamada 等級. Em geral, um histórico favorável pode melhorar a classe e reduzir o custo. Acidentes ou uso do seguro podem afetar essa classe e aumentar o prêmio.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar classe de bônus/malus e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Classe de bônus/malus」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クルアスエ ジ ブオンウス ムアルウス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール クルアスエ ジ ブオンウス ムアルウス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 等級は保険料に大きく関係します。
-- 事故の有無によって翌年の等級が変わる場合があります。
+- 等級について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A classe de bônus/malus influencia bastante o preço do seguro.
-- Dependendo do uso do seguro, a classe do próximo ano pode mudar.
+- Vamos confirmar classe de bônus/malus.
+  - Leitura de apoio: ヴァモス コンフィルマール クルアスエ ジ ブオンウス ムアルウス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0008 - Por que o preço muda quando a classe muda?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0009 - 保険料 - Prêmio do seguro
 - AUTO-0010 - 保険金 - Indenização do seguro
 - AUTO-0001 - 自動車保険 - Seguro de automóvel
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0008
 - DIALOGUE-AUTO-0003
 - CASE-AUTO-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - classe
 - bonus-malus
 - preco-do-seguro
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 - `02_MasterDictionary/AUTO/AUTO-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0009
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険料
 
-## Tradução Português
-
+## ポルトガル語訳
 Prêmio do seguro
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago pelo segurado à seguradora para manter a cobertura do seguro vigente, conforme condições, período, forma de pagamento e risco contratado.
+保険料とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o preço que o cliente paga pelo seguro.
+お客様には、「Prêmio do seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Prêmio do seguro é o valor que você paga para manter o seguro ativo. Esse valor pode mudar conforme coberturas, idade, uso do carro, classe, histórico e outras condições do contrato.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar prêmio do seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Prêmio do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「プルエムイオ ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール プルエムイオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険料は補償内容や条件によって変わります。
-- 月払いと年払いの違いも確認しましょう。
+- 保険料について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- O prêmio do seguro muda conforme as coberturas e condições.
-- Vamos comparar a diferença entre pagamento mensal e anual.
+- Vamos confirmar prêmio do seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール プルエムイオ ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0009 - Por que o preço do seguro ficou mais alto?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0007 - 免責金額 - Franquia
 - AUTO-0008 - 等級 - Classe de bônus/malus
 - AUTO-0010 - 保険金 - Indenização do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0009
 - DIALOGUE-AUTO-0003
 - CASE-AUTO-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - premio
 - preco-do-seguro
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0007.md`
 - `02_MasterDictionary/AUTO/AUTO-0008.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # AUTO-0010 - 保険金 - Indenização do seguro
 
-## Controle
-
-- Versão: 0.1
-- Data: 2026-06-25
+## 管理情報
+- Versão: 0.2
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial do verbete.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
-## Código
-
+## コード
 AUTO-0010
 
-## Categoria
-
+## カテゴリー
 AUTO
 
-## Termo Japonês
-
+## 日本語用語
 保険金
 
-## Tradução Português
-
+## ポルトガル語訳
 Indenização do seguro
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago pela seguradora ao segurado, beneficiário ou terceiro quando ocorre evento coberto pela apólice e são cumpridas as condições contratuais.
+保険金とは、自動車保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o dinheiro que a seguradora paga quando acontece um sinistro coberto.
+お客様には、「Indenização do seguro」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Indenização do seguro é o valor pago pela seguradora quando ocorre um acidente ou evento coberto. O pagamento depende da análise do caso, das coberturas contratadas, dos documentos apresentados e das condições da apólice.
+### PT-Br
 
-## Frases utilizadas
+Vamos confirmar indenização do seguro e explicar de forma simples, conforme o contrato.
+
+### JP（ふりがな）
+
+「Indenização do seguro」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「インドエンイズアサォン ド セグーロ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
+
+ヴァモス コンフィルマール インドエンイズアサォン ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## 使用フレーズ
 
 ### Japonês
 
-- 保険金は補償対象となる事故が発生した場合に支払われます。
-- お支払いには事故内容と契約条件の確認が必要です。
+- 保険金について確認しましょう。
+- 契約内容と必要書類を分けて確認します.
 
 ### Português brasileiro
 
-- A indenização é paga quando ocorre um evento coberto pelo seguro.
-- Para o pagamento, é necessário verificar o acidente e as condições do contrato.
+- Vamos confirmar indenização do seguro.
+  - Leitura de apoio: ヴァモス コンフィルマール インドエンイズアサォン ド セグーロ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-AUTO-0010 - Quando a seguradora paga a indenização?
 
-## Termos relacionados
-
+## 関連用語
 - AUTO-0004 - 車両保険 - Seguro do veículo
 - AUTO-0007 - 免責金額 - Franquia
 - AUTO-0009 - 保険料 - Prêmio do seguro
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-AUTO-0010
 - DIALOGUE-AUTO-0004
 - CASE-AUTO-0008
 
-## Referências
-
+## 参考資料
 - Documento interno: `README.md`
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - auto
 - indenizacao
 - sinistro
 - pagamento
 
-## Veja também
-
+## 関連項目
 - `02_MasterDictionary/AUTO/AUTO-0004.md`
 - `02_MasterDictionary/AUTO/AUTO-0007.md`
 - `02_MasterDictionary/AUTO/AUTO-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-25 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
+
+---

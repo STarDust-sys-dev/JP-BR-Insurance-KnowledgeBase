@@ -1,14 +1,21 @@
-# HOME_TERMS_0001_0020
+# HOME_TERMS_0001_0020 - Verbetes HOME
 
-Pacote consolidado HOME gerado em 2026-06-27.
+## 管理情報
+
+- Versão: 0.2
+- Data: 2026-06-27
+- Autor: JP-BR Insurance Knowledge Base
+- Histórico: Consolidação atualizada conforme modelo aprovado de verbetes.
+
+## 統合コンテンツ
 
 # HOME-0001 - 賃貸住宅 - Imóvel alugado
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0001
@@ -32,31 +39,33 @@ Imóvel alugado
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar imóvel alugado e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Imóvel alugado」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「イモーヴェウ アウガード」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール イモーヴェウ アウガード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Imóvel alugado」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar imóvel alugado.
-  - カタカナ読み: ヴァモス コンフィルマール イモーヴェウ アウガード
-  - 日本語確認用: 「Imóvel alugado」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 賃貸住宅について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar imóvel alugado.
+  - Leitura de apoio: ヴァモス コンフィルマール イモーヴェウ アウガード
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0001
@@ -85,17 +94,17 @@ Vamos confirmar imóvel alugado e explicar de forma simples, conforme o contrato
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0002 - 賃貸借契約 - Contrato de locação
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0002
@@ -119,31 +128,33 @@ Contrato de locação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar contrato de locação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Contrato de locação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「コントラート ジ ロカサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール コントラート ジ ロカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Contrato de locação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar contrato de locação.
-  - カタカナ読み: ヴァモス コンフィルマール コントラート ジ ロカサォン
-  - 日本語確認用: 「Contrato de locação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 賃貸借契約について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar contrato de locação.
+  - Leitura de apoio: ヴァモス コンフィルマール コントラート ジ ロカサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0002
@@ -173,33 +184,28 @@ Vamos confirmar contrato de locação e explicar de forma simples, conforme o co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0003 - 火災保険加入義務 - Obrigação de contratar seguro contra incêndio
 
 ## 管理情報
-
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
-
 HOME-0003
 
 ## カテゴリー
-
 HOME
 
 ## 日本語用語
-
 火災保険加入義務
 
 ## ポルトガル語訳
-
 Obrigação de contratar seguro contra incêndio
 
 ## 技術的定義
@@ -212,78 +218,73 @@ Obrigação de contratar seguro contra incêndio
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar obrigação de contratar seguro contra incêndio e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Obrigação de contratar seguro contra incêndio」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「オブリガサォン ジ コントラタール セグーロ コントラ インセンジオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール オブリガサォン ジ コントラタール セグーロ コントラ インセンジオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Obrigação de contratar seguro contra incêndio」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar obrigação de contratar seguro contra incêndio.
-  - カタカナ読み: ヴァモス コンフィルマール オブリガサォン ジ コントラタール セグーロ コントラ インセンジオ
-  - 日本語確認用: 「Obrigação de contratar seguro contra incêndio」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 火災保険加入義務について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
 
-## よくある質問
+### Português brasileiro
 
+- Vamos confirmar obrigação de contratar seguro contra incêndio.
+  - Leitura de apoio: ヴァモス コンフィルマール オブリガサォン ジ コントラタール セグーロ コントラ インセンジオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
+
+## よくある質問
 - FAQ-HOME-0003
 
 ## 関連用語
-
 - HOME-0002 - 賃貸借契約 - Contrato de locação
 - HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 
 ## 相互参照
-
 - FAQ-HOME-0003
 - DIALOGUE-HOME-0001
 - CASE-HOME-0001
 
 ## 参考資料
-
 - Documento interno: `EDITORIAL_RULES.md`
 
 ## タグ
-
 - home
 - housing
 - obrigacao-de-contratar-seguro-contra-incendio
 - atendimento
 
 ## 関連項目
-
 - `14_FAQ/HOME/FAQ-HOME-0003.md`
 
 ## 改訂履歴
-
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0004
@@ -307,31 +308,33 @@ Responsabilidade do inquilino perante o proprietário
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar responsabilidade do inquilino perante o proprietário e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Responsabilidade do inquilino perante o proprietário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヘスポンサビリダージ ド インキリーノ ペランチ オ プロプリエターリオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヘスポンサビリダージ ド インキリーノ ペランチ オ プロプリエターリオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Responsabilidade do inquilino perante o proprietário」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar responsabilidade do inquilino perante o proprietário.
-  - カタカナ読み: ヴァモス コンフィルマール ヘスポンサビリダージ ド インキリーノ ペランチ オ プロプリエターリオ
-  - 日本語確認用: 「Responsabilidade do inquilino perante o proprietário」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 借家人賠償責任について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar responsabilidade do inquilino perante o proprietário.
+  - Leitura de apoio: ヴァモス コンフィルマール ヘスポンサビリダージ ド インキリーノ ペランチ オ プロプリエターリオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0004
@@ -361,17 +364,17 @@ Vamos confirmar responsabilidade do inquilino perante o proprietário e explicar
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0005 - 個人賠償責任 - Responsabilidade civil pessoal
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0005
@@ -395,31 +398,33 @@ Responsabilidade civil pessoal
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar responsabilidade civil pessoal e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヘスポンサビリダージ シヴィウ ペソアウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヘスポンサビリダージ シヴィウ ペソアウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar responsabilidade civil pessoal.
-  - カタカナ読み: ヴァモス コンフィルマール ヘスポンサビリダージ シヴィウ ペソアウ
-  - 日本語確認用: 「Responsabilidade civil pessoal」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 個人賠償責任について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar responsabilidade civil pessoal.
+  - Leitura de apoio: ヴァモス コンフィルマール ヘスポンサビリダージ シヴィウ ペソアウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0005
@@ -449,17 +454,17 @@ Vamos confirmar responsabilidade civil pessoal e explicar de forma simples, conf
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0006 - 修理費用 - Despesas de reparo
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0006
@@ -483,31 +488,33 @@ Despesas de reparo
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar despesas de reparo e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Despesas de reparo」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエスプエスアス ジ ルエプアルオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドエスプエスアス ジ ルエプアルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Despesas de reparo」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar despesas de reparo.
-  - カタカナ読み: ヴァモス コンフィルマール ドエスプエスアス ジ ルエプアルオ
-  - 日本語確認用: 「Despesas de reparo」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 修理費用について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar despesas de reparo.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエスプエスアス ジ ルエプアルオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0006
@@ -537,17 +544,17 @@ Vamos confirmar despesas de reparo e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0007 - 原状回復 - Restauração ao estado original
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0007
@@ -571,31 +578,33 @@ Restauração ao estado original
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar restauração ao estado original e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Restauração ao estado original」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヘスタウラサォン アオ エスタード オリジナウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヘスタウラサォン アオ エスタード オリジナウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Restauração ao estado original」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar restauração ao estado original.
-  - カタカナ読み: ヴァモス コンフィルマール ヘスタウラサォン アオ エスタード オリジナウ
-  - 日本語確認用: 「Restauração ao estado original」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 原状回復について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar restauração ao estado original.
+  - Leitura de apoio: ヴァモス コンフィルマール ヘスタウラサォン アオ エスタード オリジナウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0007
@@ -625,17 +634,17 @@ Vamos confirmar restauração ao estado original e explicar de forma simples, co
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0008 - 敷金 - Depósito caução
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0008
@@ -659,31 +668,33 @@ Depósito caução
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar depósito caução e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Depósito caução」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ドエプオスイトオ クアウサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ドエプオスイトオ クアウサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Depósito caução」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar depósito caução.
-  - カタカナ読み: ヴァモス コンフィルマール ドエプオスイトオ クアウサォン
-  - 日本語確認用: 「Depósito caução」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 敷金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar depósito caução.
+  - Leitura de apoio: ヴァモス コンフィルマール ドエプオスイトオ クアウサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0008
@@ -713,17 +724,17 @@ Vamos confirmar depósito caução e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0009 - 礼金 - Luvas de locação
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0009
@@ -747,31 +758,33 @@ Luvas de locação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar luvas de locação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Luvas de locação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ルウヴアス ジ ロカサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ルウヴアス ジ ロカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Luvas de locação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar luvas de locação.
-  - カタカナ読み: ヴァモス コンフィルマール ルウヴアス ジ ロカサォン
-  - 日本語確認用: 「Luvas de locação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 礼金について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar luvas de locação.
+  - Leitura de apoio: ヴァモス コンフィルマール ルウヴアス ジ ロカサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0009
@@ -801,17 +814,17 @@ Vamos confirmar luvas de locação e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0010 - 保証会社 - Empresa garantidora
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0010
@@ -835,31 +848,33 @@ Empresa garantidora
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar empresa garantidora e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Empresa garantidora」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エムプルエスア グアルアントイドオルア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール エムプルエスア グアルアントイドオルア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Empresa garantidora」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar empresa garantidora.
-  - カタカナ読み: ヴァモス コンフィルマール エムプルエスア グアルアントイドオルア
-  - 日本語確認用: 「Empresa garantidora」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 保証会社について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar empresa garantidora.
+  - Leitura de apoio: ヴァモス コンフィルマール エムプルエスア グアルアントイドオルア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0010
@@ -889,17 +904,17 @@ Vamos confirmar empresa garantidora e explicar de forma simples, conforme o cont
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0011 - 連帯保証人 - Fiador solidário
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0011
@@ -923,31 +938,33 @@ Fiador solidário
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar fiador solidário e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Fiador solidário」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「フイアドオル スオルイドアルイオ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール フイアドオル スオルイドアルイオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Fiador solidário」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar fiador solidário.
-  - カタカナ読み: ヴァモス コンフィルマール フイアドオル スオルイドアルイオ
-  - 日本語確認用: 「Fiador solidário」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 連帯保証人について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar fiador solidário.
+  - Leitura de apoio: ヴァモス コンフィルマール フイアドオル スオルイドアルイオ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0011
@@ -977,17 +994,17 @@ Vamos confirmar fiador solidário e explicar de forma simples, conforme o contra
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0012 - 管理会社 - Administradora do imóvel
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0012
@@ -1011,31 +1028,33 @@ Administradora do imóvel
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar administradora do imóvel e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Administradora do imóvel」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アドミニストラドーラ ド イモーヴェウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アドミニストラドーラ ド イモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Administradora do imóvel」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar administradora do imóvel.
-  - カタカナ読み: ヴァモス コンフィルマール アドミニストラドーラ ド イモーヴェウ
-  - 日本語確認用: 「Administradora do imóvel」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 管理会社について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar administradora do imóvel.
+  - Leitura de apoio: ヴァモス コンフィルマール アドミニストラドーラ ド イモーヴェウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0012
@@ -1065,17 +1084,17 @@ Vamos confirmar administradora do imóvel e explicar de forma simples, conforme 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0013 - 退去立会い - Vistoria de saída
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0013
@@ -1099,31 +1118,33 @@ Vistoria de saída
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar vistoria de saída e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Vistoria de saída」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヴイストオルイア ジ スアイドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヴイストオルイア ジ スアイドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Vistoria de saída」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar vistoria de saída.
-  - カタカナ読み: ヴァモス コンフィルマール ヴイストオルイア ジ スアイドア
-  - 日本語確認用: 「Vistoria de saída」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 退去立会いについて確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar vistoria de saída.
+  - Leitura de apoio: ヴァモス コンフィルマール ヴイストオルイア ジ スアイドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0013
@@ -1153,17 +1174,17 @@ Vamos confirmar vistoria de saída e explicar de forma simples, conforme o contr
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0014 - 入居審査 - Análise de entrada
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0014
@@ -1187,31 +1208,33 @@ Análise de entrada
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar análise de entrada e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Análise de entrada」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アナリゼ ジ エントルアドア」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アナリゼ ジ エントルアドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Análise de entrada」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar análise de entrada.
-  - カタカナ読み: ヴァモス コンフィルマール アナリゼ ジ エントルアドア
-  - 日本語確認用: 「Análise de entrada」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 入居審査について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar análise de entrada.
+  - Leitura de apoio: ヴァモス コンフィルマール アナリゼ ジ エントルアドア
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0014
@@ -1241,17 +1264,17 @@ Vamos confirmar análise de entrada e explicar de forma simples, conforme o cont
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0015 - 重要事項説明 - Explicação de pontos importantes
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0015
@@ -1275,31 +1298,33 @@ Explicação de pontos importantes
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar explicação de pontos importantes e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Explicação de pontos importantes」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「エシプルイクアサォン ジ プオントオス イムプオルトアントエス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール エシプルイクアサォン ジ プオントオス イムプオルトアントエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Explicação de pontos importantes」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar explicação de pontos importantes.
-  - カタカナ読み: ヴァモス コンフィルマール エシプルイクアサォン ジ プオントオス イムプオルトアントエス
-  - 日本語確認用: 「Explicação de pontos importantes」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 重要事項説明について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar explicação de pontos importantes.
+  - Leitura de apoio: ヴァモス コンフィルマール エシプルイクアサォン ジ プオントオス イムプオルトアントエス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0015
@@ -1329,17 +1354,17 @@ Vamos confirmar explicação de pontos importantes e explicar de forma simples, 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0016 - 契約更新 - Renovação contratual
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0016
@@ -1363,31 +1388,33 @@ Renovação contratual
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar renovação contratual e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Renovação contratual」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「ヘノヴァサォン クオントルアトウアル」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール ヘノヴァサォン クオントルアトウアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Renovação contratual」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar renovação contratual.
-  - カタカナ読み: ヴァモス コンフィルマール ヘノヴァサォン クオントルアトウアル
-  - 日本語確認用: 「Renovação contratual」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 契約更新について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar renovação contratual.
+  - Leitura de apoio: ヴァモス コンフィルマール ヘノヴァサォン クオントルアトウアル
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0016
@@ -1417,17 +1444,17 @@ Vamos confirmar renovação contratual e explicar de forma simples, conforme o c
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0017 - 更新料 - Taxa de renovação
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0017
@@ -1451,31 +1478,33 @@ Taxa de renovação
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar taxa de renovação e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Taxa de renovação」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「タシャ ジ ヘノヴァサォン」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール タシャ ジ ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Taxa de renovação」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar taxa de renovação.
-  - カタカナ読み: ヴァモス コンフィルマール タシャ ジ ヘノヴァサォン
-  - 日本語確認用: 「Taxa de renovação」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 更新料について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar taxa de renovação.
+  - Leitura de apoio: ヴァモス コンフィルマール タシャ ジ ヘノヴァサォン
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0017
@@ -1505,17 +1534,17 @@ Vamos confirmar taxa de renovação e explicar de forma simples, conforme o cont
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0018 - 家賃滞納 - Atraso no aluguel
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0018
@@ -1539,31 +1568,33 @@ Atraso no aluguel
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar atraso no aluguel e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Atraso no aluguel」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「アトルアスオ ノ アウゲウ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール アトルアスオ ノ アウゲウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Atraso no aluguel」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar atraso no aluguel.
-  - カタカナ読み: ヴァモス コンフィルマール アトルアスオ ノ アウゲウ
-  - 日本語確認用: 「Atraso no aluguel」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 家賃滞納について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar atraso no aluguel.
+  - Leitura de apoio: ヴァモス コンフィルマール アトルアスオ ノ アウゲウ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0018
@@ -1593,17 +1624,17 @@ Vamos confirmar atraso no aluguel e explicar de forma simples, conforme o contra
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0019 - 鍵交換費用 - Custo de troca de chave
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0019
@@ -1627,31 +1658,33 @@ Custo de troca de chave
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar custo de troca de chave e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Custo de troca de chave」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「クスト ジ トルオクア ジ シアヴエ」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール クスト ジ トルオクア ジ シアヴエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Custo de troca de chave」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar custo de troca de chave.
-  - カタカナ読み: ヴァモス コンフィルマール クスト ジ トルオクア ジ シアヴエ
-  - 日本語確認用: 「Custo de troca de chave」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 鍵交換費用について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar custo de troca de chave.
+  - Leitura de apoio: ヴァモス コンフィルマール クスト ジ トルオクア ジ シアヴエ
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0019
@@ -1681,17 +1714,17 @@ Vamos confirmar custo de troca de chave e explicar de forma simples, conforme o 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
-
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
 ---
 
 # HOME-0020 - 家財保険 - Seguro de bens domésticos
 
 ## 管理情報
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Ajuste ao modelo aprovado com títulos principais em japonês e camadas PT-Br/JP/leitura de apoio.
 
 ## コード
 HOME-0020
@@ -1715,31 +1748,33 @@ Seguro de bens domésticos
 
 ## ブラジル人顧客への説明方法
 
-### ポルトガル語で伝える内容
+### PT-Br
 
 Vamos confirmar seguro de bens domésticos e explicar de forma simples, conforme o contrato.
 
-### カタカナ読み
+### JP（ふりがな）
+
+「Seguro de bens domésticos」について、契約内容に沿って分かりやすく確認します。
+
+ふりがな: 「セグーロ ジ ベンス ドメスチコス」について、けいやくないようにそって、わかりやすくかくにんします。
+
+### Leitura de apoio para o corretor
 
 ヴァモス コンフィルマール セグーロ ジ ベンス ドメスチコス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
-日本語確認用: 「Seguro de bens domésticos」について、契約内容に沿って分かりやすく確認します。
-
 ## 使用フレーズ
 
-### ポルトガル語で伝える内容
-
-- Português brasileiro: Vamos confirmar seguro de bens domésticos.
-  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ ベンス ドメスチコス
-  - 日本語確認用: 「Seguro de bens domésticos」について確認しましょう。
-- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
-  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
-  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
-
-### 社内確認用の日本語
+### Japonês
 
 - 家財保険について確認しましょう。
 - 契約内容と必要書類を分けて確認します.
+
+### Português brasileiro
+
+- Vamos confirmar seguro de bens domésticos.
+  - Leitura de apoio: ヴァモス コンフィルマール セグーロ ジ ベンス ドメスチコス
+- Vou explicar de forma simples, conforme o contrato.
+  - Leitura de apoio: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 ## よくある質問
 - FAQ-HOME-0020
@@ -1768,4 +1803,6 @@ Vamos confirmar seguro de bens domésticos e explicar de forma simples, conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Ajuste ao modelo aprovado com PT-Br, JP（ふりがな） e leitura de apoio para o corretor. |
 
+---
