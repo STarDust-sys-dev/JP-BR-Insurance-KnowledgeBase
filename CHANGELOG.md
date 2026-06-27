@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Padronização dos diálogos FIRE e HOME: estrutura interna em japonês, orientação para o corretor japonês, falas em português brasileiro com leitura em katakana e regeneração dos pacotes `FIRE_DIALOGUES_0001_0005` e `HOME_DIALOGUES_0001_0005`.
+
 - Padronização das FAQs FIRE e HOME: títulos internos em japonês, resposta técnica em japonês, resposta ao cliente em português brasileiro com leitura em katakana, reforço de compliance e regeneração dos pacotes `FIRE_FAQ_0001_0020` e `HOME_FAQ_0001_0020`.
 - Ampliação do validador para reconhecer códigos e referências das categorias FIRE, HOME, BUS, ACC, SALES, SERVICE, FAQ, CASE, LEG e TERM, com aliases japoneses para seções de FAQ.
 

@@ -1,103 +1,112 @@
-# DIALOGUE-HOME-0001 - Explicando contrato de aluguel e seguro obrigatório
+# DIALOGUE-HOME-0001 - Contrato de aluguel e seguro obrigatório
 
-## Controle
+## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; padronização para uso do corretor japonês com fala em português e leitura em katakana.
 
-## Código
+## コード
 
 DIALOGUE-HOME-0001
 
-## Situação de atendimento
+## 対応場面
 
-Cliente brasileiro quer entender explicando contrato de aluguel e seguro obrigatório no Japão.
+ブラジル人のお客様が「Contrato de aluguel e seguro obrigatório」について相談しており、契約内容、補償範囲、責任関係、必要書類を確認する場面。
 
-## Participantes
+## 参加者
 
-- Corretor: corretor japonês
-- Cliente: cliente brasileiro residente no Japão
+- 募集人: 日本人保険募集人
+- 顧客: 日本在住のブラジル人顧客
 
-## Objetivo do diálogo
+## 対話の目的
 
-Explicar explicando contrato de aluguel e seguro obrigatório conectando contrato de moradia, responsabilidade e seguro.
+日本語で対応方針を理解し、ブラジルポルトガル語でお客様に自然に説明できるようにする。
 
-## Versão em japonês
+## 日本語版
 
-**Cliente:** 賃貸契約と保険はどう関係しますか。
+**顧客:** 賃貸契約と保険はどう関係しますか。
 
-**Corretor:** 賃貸契約で求められる保険、借家人賠償責任、家財の補償を分けて確認します。
+**募集人:** 賃貸契約で求められる保険、借家人賠償責任、家財の補償を分けて確認します。
 
-**Cliente:** 費用は必ず保険で支払われますか。
+**顧客:** 費用は必ず保険で支払われますか。
 
-**Corretor:** 契約内容、事故原因、管理会社の確認、保険会社の判断によって変わります。
+**募集人:** 契約内容、事故原因、管理会社の確認、保険会社の判断によって変わります。
 
-## Versão em português brasileiro
+## ブラジルポルトガル語版
 
-**Cliente:** Qual é a relação entre aluguel e seguro?
+**顧客:**
+Leitura para pronúncia: クアウ é ア ヘラサォン エントリ アウゲウ イ セグーロ
+Português brasileiro: Qual é a relação entre aluguel e seguro?
 
-**Corretor:** Vamos separar o seguro exigido no contrato, a responsabilidade do inquilino e a proteção dos seus bens.
+**Corretor:**
+Leitura para pronúncia: ヴァモス セパラール オ セグーロ エジジード ノ コントラート ア ヘスポンサビリダージ ド インキリーノ イ ア プロテサォン ドス セウス ベンス
+Português brasileiro: Vamos separar o seguro exigido no contrato, a responsabilidade do inquilino e a proteção dos seus bens.
 
-**Cliente:** Todo custo será pago pelo seguro?
+**顧客:**
+Leitura para pronúncia: トード クスト セラ パーゴ ペロ セグーロ
+Português brasileiro: Todo custo será pago pelo seguro?
 
-**Corretor:** Depende do contrato, da causa, da confirmação da administradora e da análise da seguradora.
+**Corretor:**
+Leitura para pronúncia: デペンジ ド コントラート ダ カウザ ダ コンフィルマサォン ダ アドミニストラドーラ イ ダ アナリゼ ダ セグラドーラ
+Português brasileiro: Depende do contrato, da causa, da confirmação da administradora e da análise da seguradora.
 
-## Notas culturais ou comerciais
+## 文化・営業上の注意
 
-- Explicar que imobiliária, administradora, garantidora e seguradora têm funções diferentes.
-- Confirmar documentos antes de responder sobre custo, cobertura ou devolução.
+- 不動産会社、管理会社、保証会社、保険会社の役割を混同しない。
+- 一般説明と保険会社の正式判断を分けて説明する。
 
-## Pontos de atenção para o corretor
+## 募集人の注意点
 
-- Verificar contrato de locação e apólice.
-- Separar obrigação do inquilino de cobertura securitária.
-- Não prometer aprovação, devolução, pagamento ou isenção de custo.
+- 契約書、保険証券、事故状況、写真、領収書、管理会社からの案内を確認する。
+- 支払可否、費用負担、返金、審査結果を断定しない。
+- お客様が理解できる短いポルトガル語で説明する。
 
-## Casos relacionados
+## 関連ケース
 
 - CASE-HOME-0001
 - CASE-HOME-0002
 
-## Termos relacionados
+## 関連用語
 
 - HOME-0001 - 賃貸住宅 - Imóvel alugado
 - HOME-0002 - 賃貸借契約 - Contrato de locação
 - HOME-0003 - 火災保険加入義務 - Obrigação de contratar seguro contra incêndio
 - HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 
-## FAQs relacionadas
+## 関連FAQ
 
 - FAQ-HOME-0001
 - FAQ-HOME-0002
 - FAQ-HOME-0003
 - FAQ-HOME-0004
 
-## Referências cruzadas
+## 相互参照
 
 - HOME-0001 - 賃貸住宅 - Imóvel alugado
 - HOME-0002 - 賃貸借契約 - Contrato de locação
 - HOME-0003 - 火災保険加入義務 - Obrigação de contratar seguro contra incêndio
 - HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 
-## Referências
+## 参考資料
 
 - Documento interno: `02_MasterDictionary/HOME/HOME-0001.md`
 
-## Tags
+## タグ
 
 - dialogue
 - home
-- housing
 - atendimento
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `14_FAQ/HOME/FAQ-HOME-0001.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Padronização para uso do corretor japonês com fala em português e leitura em katakana. |
