@@ -1,25 +1,42 @@
-# HOME_NOTEBOOKLM_PACK_0001 - Pacote inicial HOME para NotebookLM
+# HOME_NOTEBOOKLM_PACK_0001 - 住居・賃貸・保険対応ナビゲーション
 
 ## Título
 
-HOME NOTEBOOKLM PACK 0001 - Moradia, locação e seguro no Japão
+HOME_NOTEBOOKLM_PACK_0001 - 住居・賃貸・保険対応ナビゲーション
 
 ## Resumo
 
-Índice inicial da categoria HOME para consulta por corretores japoneses que atendem clientes brasileiros sobre moradia, locação, seguro e responsabilidade do inquilino.
+賃貸住宅、賃貸借契約、火災保険加入義務、借家人賠償責任、原状回復、保証会社、管理会社、家財保険を、ブラジル人顧客へ説明するための検索導線。 この資料はNotebookLMでの検索を前提とし、日本人保険募集人が日本語で理解し、必要に応じてブラジルポルトガル語の説明文とカタカナ読みを使って顧客対応できるように設計されている。
 
 ## Palavras-chave
 
-賃貸住宅, 賃貸借契約, 借家人賠償責任, 原状回復, 家財保険, aluguel, moradia, seguro residencial
+賃貸住宅, 賃貸借契約, 借家人賠償責任, 原状回復, 家財保険, 管理会社, ブラジル人顧客, português com katakana
 
 ## Categorias
 
 - HOME
-- Housing
-- Atendimento
 - NotebookLM
+- 日本人保険募集人
+- ブラジル人顧客対応
+- Português brasileiro com leitura em katakana
 
 ## Conteúdo
+
+### 検索方針
+
+- まず日本語用語で検索する。
+- 次にFAQで顧客への短い回答を確認する。
+- 会話が必要な場合はDIALOGUEを使い、ポルトガル語の発話とカタカナ読みを確認する。
+- 判断が難しい場合はCASEを使い、募集人の対応方針とコンプライアンス上の注意を確認する。
+- 支払可否、補償、返金、審査結果は断定しない。
+
+### 推奨確認順序
+
+- HOME-0001〜HOME-0003で、賃貸住宅、賃貸借契約、保険加入義務を確認する。
+- HOME-0004〜HOME-0007で、借家人賠償責任、修理費用、原状回復を説明する。
+- HOME-0008〜HOME-0012で、敷金、礼金、保証会社、連帯保証人、管理会社を切り分ける。
+- HOME-0013〜HOME-0017で、退去立会い、入居審査、重要事項説明、更新料を確認する。
+- HOME-0018〜HOME-0020で、家賃滞納、鍵交換費用、家財保険を整理する。
 
 ### Verbetes
 
@@ -46,45 +63,45 @@ HOME NOTEBOOKLM PACK 0001 - Moradia, locação e seguro no Japão
 
 ### FAQs
 
-- FAQ-HOME-0001 - Como explicar imóvel alugado ao cliente brasileiro?
-- FAQ-HOME-0002 - Como explicar contrato de locação ao cliente brasileiro?
-- FAQ-HOME-0003 - Como explicar obrigação de contratar seguro contra incêndio ao cliente brasileiro?
-- FAQ-HOME-0004 - Como explicar responsabilidade do inquilino perante o proprietário ao cliente brasileiro?
-- FAQ-HOME-0005 - Como explicar responsabilidade civil pessoal ao cliente brasileiro?
-- FAQ-HOME-0006 - Como explicar despesas de reparo ao cliente brasileiro?
-- FAQ-HOME-0007 - Como explicar restauração ao estado original ao cliente brasileiro?
-- FAQ-HOME-0008 - Como explicar depósito caução ao cliente brasileiro?
-- FAQ-HOME-0009 - Como explicar luvas de locação ao cliente brasileiro?
-- FAQ-HOME-0010 - Como explicar empresa garantidora ao cliente brasileiro?
-- FAQ-HOME-0011 - Como explicar fiador solidário ao cliente brasileiro?
-- FAQ-HOME-0012 - Como explicar administradora do imóvel ao cliente brasileiro?
-- FAQ-HOME-0013 - Como explicar vistoria de saída ao cliente brasileiro?
-- FAQ-HOME-0014 - Como explicar análise de entrada ao cliente brasileiro?
-- FAQ-HOME-0015 - Como explicar explicação de pontos importantes ao cliente brasileiro?
-- FAQ-HOME-0016 - Como explicar renovação contratual ao cliente brasileiro?
-- FAQ-HOME-0017 - Como explicar taxa de renovação ao cliente brasileiro?
-- FAQ-HOME-0018 - Como explicar atraso no aluguel ao cliente brasileiro?
-- FAQ-HOME-0019 - Como explicar custo de troca de chave ao cliente brasileiro?
-- FAQ-HOME-0020 - Como explicar seguro de bens domésticos ao cliente brasileiro?
+- FAQ-HOME-0001
+- FAQ-HOME-0002
+- FAQ-HOME-0003
+- FAQ-HOME-0004
+- FAQ-HOME-0005
+- FAQ-HOME-0006
+- FAQ-HOME-0007
+- FAQ-HOME-0008
+- FAQ-HOME-0009
+- FAQ-HOME-0010
+- FAQ-HOME-0011
+- FAQ-HOME-0012
+- FAQ-HOME-0013
+- FAQ-HOME-0014
+- FAQ-HOME-0015
+- FAQ-HOME-0016
+- FAQ-HOME-0017
+- FAQ-HOME-0018
+- FAQ-HOME-0019
+- FAQ-HOME-0020
 
 ### Diálogos
 
-- DIALOGUE-HOME-0001 - Explicando contrato de aluguel e seguro obrigatório
-- DIALOGUE-HOME-0002 - Responsabilidade do inquilino e dano a terceiros
-- DIALOGUE-HOME-0003 - Custos iniciais, garantidora e fiador
-- DIALOGUE-HOME-0004 - Vistoria, análise de entrada e explicação importante
-- DIALOGUE-HOME-0005 - Renovação, atraso, chave e bens domésticos
+- DIALOGUE-HOME-0001
+- DIALOGUE-HOME-0002
+- DIALOGUE-HOME-0003
+- DIALOGUE-HOME-0004
+- DIALOGUE-HOME-0005
 
 ### Estudos de caso
 
-- CASE-HOME-0001 - Cliente aluga apartamento e não entende por que precisa de seguro
-- CASE-HOME-0002 - Cliente causa dano ao imóvel alugado e teme cobrança do proprietário
-- CASE-HOME-0003 - Vazamento atinge apartamento vizinho
-- CASE-HOME-0004 - Cliente confunde depósito caução com luvas de locação
-- CASE-HOME-0005 - Cliente não entende função da empresa garantidora
-- CASE-HOME-0006 - Cliente discorda de cobrança na vistoria de saída
-- CASE-HOME-0007 - Cliente precisa renovar aluguel e seguro ao mesmo tempo
-- CASE-HOME-0008 - Cliente quer proteger móveis e eletrodomésticos no imóvel alugado
+- CASE-HOME-0001
+- CASE-HOME-0002
+- CASE-HOME-0003
+- CASE-HOME-0004
+- CASE-HOME-0005
+- CASE-HOME-0006
+- CASE-HOME-0007
+- CASE-HOME-0008
 
 ## Referências
 
@@ -96,4 +113,7 @@ HOME NOTEBOOKLM PACK 0001 - Moradia, locação e seguro no Japão
 ## Veja também
 
 - `08_Housing/HOUSING_NAVIGATION_GUIDE.md`
-- `16_NotebookLM/HOME_NOTEBOOKLM_PACK_0001.md`
+- `19_Markdown/HOME/HOME_TERMS_0001_0020.md`
+- `19_Markdown/HOME/HOME_FAQ_0001_0020.md`
+- `19_Markdown/HOME/HOME_DIALOGUES_0001_0005.md`
+- `19_Markdown/HOME/HOME_CASES_0001_0008.md`

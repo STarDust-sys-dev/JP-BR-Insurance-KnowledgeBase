@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Padronização dos guias e pacotes NotebookLM FIRE/HOME: mapas de consulta em japonês para o corretor, fluxo recomendado de busca, orientação de uso de FAQ/DIALOGUE/CASE e regeneração de DOCX/PDF de `FIRE_INDEX_0001`, `FIRE_NOTEBOOKLM_PACK_0001`, `FIRE_NAVIGATION_GUIDE`, `HOME_INDEX_0001`, `HOME_NOTEBOOKLM_PACK_0001` e `HOUSING_NAVIGATION_GUIDE`.
+
 - Padronização dos estudos de caso FIRE e HOME: estrutura em japonês, análise e orientação para o corretor japonês, explicação ao cliente em português brasileiro com leitura em katakana e regeneração dos pacotes `FIRE_CASES_0001_0008` e `HOME_CASES_0001_0008`.
 
 - Padronização dos diálogos FIRE e HOME: estrutura interna em japonês, orientação para o corretor japonês, falas em português brasileiro com leitura em katakana e regeneração dos pacotes `FIRE_DIALOGUES_0001_0005` e `HOME_DIALOGUES_0001_0005`.

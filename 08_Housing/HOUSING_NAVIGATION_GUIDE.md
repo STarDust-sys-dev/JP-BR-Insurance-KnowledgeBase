@@ -1,38 +1,46 @@
-# HOUSING_NAVIGATION_GUIDE - Guia de navegação HOME
+# HOUSING_NAVIGATION_GUIDE - 住居・賃貸・保険対応ナビゲーション
 
-## Controle
+## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; padronização para consulta do corretor japonês e uso no NotebookLM.
 
-## Objetivo
+## 目的
 
-Orientar a consulta da categoria HOME para atendimento sobre moradia, contrato de aluguel, seguro exigido, responsabilidade do inquilino e proteção de bens domésticos.
+賃貸住宅、賃貸借契約、火災保険加入義務、借家人賠償責任、原状回復、保証会社、管理会社、家財保険を、ブラジル人顧客へ説明するための検索導線。 日本語で対応方針を確認し、必要に応じてポルトガル語の説明文とカタカナ読みを使って顧客に説明する。
 
-## Sequência recomendada
+## 推奨確認順序
 
-1. Começar por HOME-0001 a HOME-0003 para explicar imóvel alugado, contrato e obrigação de seguro.
-2. Usar HOME-0004 a HOME-0007 para responsabilidade, reparos e restauração do imóvel.
-3. Consultar HOME-0008 a HOME-0012 para custos iniciais, garantidora, fiador e administradora.
-4. Usar HOME-0013 a HOME-0017 para vistoria, análise, explicação importante e renovação.
-5. Usar HOME-0018 a HOME-0020 para atraso, chave e seguro de bens domésticos.
+1. HOME-0001〜HOME-0003で、賃貸住宅、賃貸借契約、保険加入義務を確認する。
+2. HOME-0004〜HOME-0007で、借家人賠償責任、修理費用、原状回復を説明する。
+3. HOME-0008〜HOME-0012で、敷金、礼金、保証会社、連帯保証人、管理会社を切り分ける。
+4. HOME-0013〜HOME-0017で、退去立会い、入居審査、重要事項説明、更新料を確認する。
+5. HOME-0018〜HOME-0020で、家賃滞納、鍵交換費用、家財保険を整理する。
 
-## Pontos críticos de atendimento
+## NotebookLMでの検索例
 
-- Separar contrato de locação, garantidora, administradora e seguradora.
-- Não prometer devolução de depósito, aprovação de aluguel ou pagamento de seguro.
-- Confirmar documentos antes de orientar sobre custos ou responsabilidades.
+- ブラジル人のお客様に説明する時の注意点は何ですか。
+- ポルトガル語でどう説明しますか。
+- 支払可否を断定しないために何を確認しますか。
+- 必要書類、契約条件、関係先をどう切り分けますか。
 
-## Referências cruzadas
+## 対応上の注意
+
+- 日本語の技術理解と、顧客に伝えるポルトガル語を分ける。
+- ポルトガル語の発話は、カタカナ読みを確認してから使う。
+- 契約条件、証券、事故原因、管理会社または保険会社の確認前に断定しない。
+- 迷う場合はFAQ、DIALOGUE、CASEの順で確認する。
+
+## 相互参照
 
 - HOME-0001
 - FAQ-HOME-0001
 - DIALOGUE-HOME-0001
 - CASE-HOME-0001
 
-## Veja também
+## 関連項目
 
 - `16_NotebookLM/HOME_INDEX_0001.md`
 - `16_NotebookLM/HOME_NOTEBOOKLM_PACK_0001.md`
