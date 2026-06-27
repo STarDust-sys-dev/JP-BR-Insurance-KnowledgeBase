@@ -1,65 +1,69 @@
 # CASE-FIRE-0005 - Cliente pergunta se furto de bens dentro da residência está coberto
 
-## Controle
+## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; padronização para uso do corretor japonês com explicação em português e leitura em katakana.
 
-## Código
+## コード
 
 CASE-FIRE-0005
 
-## Produto ou categoria
+## 商品・カテゴリー
 
 FIRE
 
-## Situação
+## 状況
 
-Cliente pergunta se furto de bens dentro da residência está coberto.
+火災保険に関する具体的な相談ケース。お客様が補償範囲、事故原因、必要書類、支払可否について確認している場面。
 
-## Problema
+## 問題
 
-Cliente pode interpretar cobertura, franquia, objeto segurado ou documentos de forma incorreta e criar expectativa de pagamento automático.
+お客様が契約上の義務、補償範囲、費用負担、必要書類、保険会社または関係先の判断を混同し、支払いや免除を期待してしまう可能性があります。
 
-## Análise
+## 分析
 
-O atendimento deve separar objeto segurado, causa do dano, cobertura contratada, franquia, documentos e decisão formal da seguradora.
+対象物、事故原因、契約条件、免責金額、写真、見積書、領収書、保険会社の確認を分けて整理する必要があります。
 
-## Orientação ao corretor
+## 募集人への対応方針
 
-Confirmar contrato, endereço segurado, data do evento, fotos, documentos disponíveis e diferença entre explicação geral e análise oficial.
+火災保険の補償、対象物、事故原因、免責金額、必要書類を確認する場面。契約書、保険証券、写真、領収書、管理会社または保険会社からの案内を確認し、一般説明と正式判断を分けて案内します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Vamos primeiro verificar o que está segurado, qual foi a causa do dano e quais documentos a seguradora precisa analisar.
+Leitura para pronúncia: ヴァモス プリメイロ ヴェリフィカール オ キ エスタ セグラード クアウ フォイ ア カウザ ド ダノ イ クアイス ドクメントス ア セグラドーラ プレシーザ アナリザール
 
-## Resultado esperado
+Português brasileiro: Vamos primeiro verificar o que está segurado, qual foi a causa do dano e quais documentos a seguradora precisa analisar.
 
-Cliente entende o próximo passo e evita concluir sozinho que o dano será pago ou recusado.
+日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
-## Limite comercial/compliance
+## 期待される結果
 
-O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, valor de indenização, prazo ou pagamento. A decisão final depende da apólice, causa do sinistro, franquia, exclusões, documentos e avaliação da seguradora.
+お客様が次に確認すべき書類、連絡先、判断できることと判断できないことを理解する。
 
-## Termos relacionados
+## コンプライアンス上の注意
+
+募集人はこのケースを対応方針として使用し、契約成立、補償、支払可否、返金、費用免除、審査結果、保険金額を断定しない。最終判断は契約条件、提出書類、事故原因、関係先および保険会社の確認による。
+
+## 関連用語
 
 - FIRE-0016 - 盗難 - Furto ou roubo
 - FIRE-0003 - 家財 - Bens domésticos
 - FIRE-0007 - 免責金額 - Franquia
 
-## FAQs relacionadas
+## 関連FAQ
 
 - FAQ-FIRE-0016
 - FAQ-FIRE-0003
 - FAQ-FIRE-0007
 
-## Diálogos relacionados
+## 関連対話
 
 - DIALOGUE-FIRE-0003
 
-## Referências cruzadas
+## 相互参照
 
 - FIRE-0016
 - FIRE-0003
@@ -69,23 +73,24 @@ O corretor deve usar este caso como orientação de atendimento, sem prometer ac
 - FAQ-FIRE-0007
 - DIALOGUE-FIRE-0003
 
-## Referências
+## 参考資料
 
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
+## タグ
 
 - case
 - fire
 - atendimento
-- sinistro
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `14_FAQ/FIRE/FAQ-FIRE-0016.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Padronização para uso do corretor japonês com explicação em português e leitura em katakana. |

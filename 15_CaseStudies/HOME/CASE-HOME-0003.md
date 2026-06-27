@@ -1,65 +1,69 @@
 # CASE-HOME-0003 - Vazamento atinge apartamento vizinho
 
-## Controle
+## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial.
+- Histórico: Criação inicial; padronização para uso do corretor japonês com explicação em português e leitura em katakana.
 
-## Código
+## コード
 
 CASE-HOME-0003
 
-## Produto ou categoria
+## 商品・カテゴリー
 
 HOME
 
-## Situação
+## 状況
 
-Vazamento atinge apartamento vizinho.
+住居・賃貸契約に関する具体的な相談ケース。お客様が契約上の義務、保険加入、費用負担、関係先の役割について確認している場面。
 
-## Problema
+## 問題
 
-Cliente pode confundir obrigação contratual, cobrança imobiliária, responsabilidade civil e cobertura de seguro.
+お客様が契約上の義務、補償範囲、費用負担、必要書類、保険会社または関係先の判断を混同し、支払いや免除を期待してしまう可能性があります。
 
-## Análise
+## 分析
 
-O atendimento deve separar contrato de locação, papel da administradora, papel da garantidora, apólice, causa do dano e documentos.
+賃貸契約上の義務、管理会社の請求、保証会社の役割、保険契約の補償範囲を分けて整理する必要があります。
 
-## Orientação ao corretor
+## 募集人への対応方針
 
-Pedir contrato de locação, apólice, comunicação da administradora, fotos quando houver dano e histórico de pagamentos ou cobranças.
+賃貸契約、管理会社、保証会社、保険契約、費用負担の関係を確認する場面。契約書、保険証券、写真、領収書、管理会社または保険会社からの案内を確認し、一般説明と正式判断を分けて案内します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
-## Resultado esperado
+Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
 
-Cliente entende quem deve ser contatado, quais documentos reunir e quais conclusões não podem ser antecipadas.
+日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
-## Limite comercial/compliance
+## 期待される結果
 
-O corretor deve usar este caso como orientação de atendimento, sem prometer aprovação de aluguel, devolução de valores, isenção de cobrança, cobertura, indenização ou resultado de análise. A decisão depende do contrato de locação, apólice, documentos, causa do dano, administradora, garantidora e seguradora.
+お客様が次に確認すべき書類、連絡先、判断できることと判断できないことを理解する。
 
-## Termos relacionados
+## コンプライアンス上の注意
+
+募集人はこのケースを対応方針として使用し、契約成立、補償、支払可否、返金、費用免除、審査結果、保険金額を断定しない。最終判断は契約条件、提出書類、事故原因、関係先および保険会社の確認による。
+
+## 関連用語
 
 - HOME-0005 - 個人賠償責任 - Responsabilidade civil pessoal
 - HOME-0006 - 修理費用 - Despesas de reparo
 - HOME-0012 - 管理会社 - Administradora do imóvel
 
-## FAQs relacionadas
+## 関連FAQ
 
 - FAQ-HOME-0005
 - FAQ-HOME-0006
 - FAQ-HOME-0012
 
-## Diálogos relacionados
+## 関連対話
 
 - DIALOGUE-HOME-0002
 
-## Referências cruzadas
+## 相互参照
 
 - HOME-0005
 - HOME-0006
@@ -69,23 +73,24 @@ O corretor deve usar este caso como orientação de atendimento, sem prometer ap
 - FAQ-HOME-0012
 - DIALOGUE-HOME-0002
 
-## Referências
+## 参考資料
 
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
+## タグ
 
 - case
 - home
-- housing
 - atendimento
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `14_FAQ/HOME/FAQ-HOME-0005.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-27 | 0.2 | JP-BR Insurance Knowledge Base | Padronização para uso do corretor japonês com explicação em português e leitura em katakana. |
