@@ -97,6 +97,24 @@ REQUIRED = {
     ],
 }
 
+SECTION_ALIASES = {
+    "## Código": ["## コード"],
+    "## Categoria": ["## カテゴリー"],
+    "## Termo Japonês": ["## 日本語用語"],
+    "## Tradução Português": ["## ポルトガル語訳"],
+    "## Definição Técnica": ["## 技術的定義"],
+    "## Explicação Simplificada": ["## 簡単な説明"],
+    "## Como explicar ao cliente brasileiro": ["## ブラジル人顧客への説明方法"],
+    "## Frases utilizadas": ["## 使用フレーズ"],
+    "## Perguntas frequentes": ["## よくある質問"],
+    "## Termos relacionados": ["## 関連用語"],
+    "## Referências cruzadas": ["## 相互参照"],
+    "## Referências": ["## 参考資料"],
+    "## Tags": ["## タグ"],
+    "## Veja também": ["## 関連項目"],
+    "## Histórico de revisão": ["## 改訂履歴"],
+}
+
 
 def read_markdown_files() -> list[Path]:
     return sorted(
@@ -111,7 +129,12 @@ def rel(path: Path) -> str:
 
 
 def section_body(text: str, section: str) -> str | None:
-    match = re.search(rf"^{re.escape(section)}\s*$", text, re.MULTILINE)
+    candidates = [section, *SECTION_ALIASES.get(section, [])]
+    match = None
+    for candidate in candidates:
+        match = re.search(rf"^{re.escape(candidate)}\s*$", text, re.MULTILINE)
+        if match:
+            break
     if not match:
         return None
     start = match.end()

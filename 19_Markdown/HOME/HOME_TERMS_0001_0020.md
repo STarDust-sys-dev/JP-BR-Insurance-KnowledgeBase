@@ -4,84 +4,76 @@ Pacote consolidado HOME gerado em 2026-06-27.
 
 # HOME-0001 - 賃貸住宅 - Imóvel alugado
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0001
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 賃貸住宅
 
-## Tradução Português
-
+## ポルトガル語訳
 Imóvel alugado
 
-## Definição Técnica
+## 技術的定義
 
-Residência ocupada por contrato de locação, sujeita às regras do contrato, administradora e proprietário.
+賃貸住宅とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a casa ou apartamento alugado pelo cliente.
+お客様には、「Imóvel alugado」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-No Japão, o contrato de aluguel define regras importantes sobre seguro, danos e saída do imóvel.
+<ruby>Vamos confirmar imóvel alugado e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール イモーヴェウ アウガード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Imóvel alugado」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar imóvel alugado.<rt>ヴァモス コンフィルマール イモーヴェウ アウガード</rt></ruby>
+  - 日本語確認用: 「Imóvel alugado」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 賃貸住宅について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar imóvel alugado.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0001
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0002 - 賃貸借契約 - Contrato de locação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0001
 - DIALOGUE-HOME-0001
 - CASE-HOME-0001
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - imovel-alugado
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0001.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -91,85 +83,77 @@ No Japão, o contrato de aluguel define regras importantes sobre seguro, danos e
 
 # HOME-0002 - 賃貸借契約 - Contrato de locação
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0002
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 賃貸借契約
 
-## Tradução Português
-
+## ポルトガル語訳
 Contrato de locação
 
-## Definição Técnica
+## 技術的定義
 
-Contrato que define direitos, deveres, prazo, aluguel, renovação e responsabilidades entre locador e locatário.
+賃貸借契約とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o contrato de aluguel.
+お客様には、「Contrato de locação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Antes de explicar o seguro, precisamos confirmar o que o contrato de locação exige.
+<ruby>Vamos confirmar contrato de locação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール コントラート ジ ロカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Contrato de locação」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar contrato de locação.<rt>ヴァモス コンフィルマール コントラート ジ ロカサォン</rt></ruby>
+  - 日本語確認用: 「Contrato de locação」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 賃貸借契約について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar contrato de locação.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0002
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0001 - 賃貸住宅 - Imóvel alugado
 - HOME-0003 - 火災保険加入義務 - Obrigação de contratar seguro contra incêndio
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0002
 - DIALOGUE-HOME-0001
 - CASE-HOME-0001
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - contrato-de-locacao
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0002.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -179,84 +163,88 @@ Antes de explicar o seguro, precisamos confirmar o que o contrato de locação e
 
 # HOME-0003 - 火災保険加入義務 - Obrigação de contratar seguro contra incêndio
 
-## Controle
+## 管理情報
 
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
+## コード
 
 HOME-0003
 
-## Categoria
+## カテゴリー
 
 HOME
 
-## Termo Japonês
+## 日本語用語
 
 火災保険加入義務
 
-## Tradução Português
+## ポルトガル語訳
 
 Obrigação de contratar seguro contra incêndio
 
-## Definição Técnica
+## 技術的定義
 
-Exigência contratual ou prática imobiliária para que o inquilino mantenha seguro relacionado ao imóvel alugado.
+火災保険加入義務とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É quando o contrato de aluguel exige seguro.
+お客様には、「Obrigação de contratar seguro contra incêndio」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Muitos contratos pedem seguro contra incêndio ou seguro para inquilino como condição de moradia.
+<ruby>Vamos confirmar obrigação de contratar seguro contra incêndio e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール オブリガサォン ジ コントラタール セグーロ コントラ インセンジオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Obrigação de contratar seguro contra incêndio」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar obrigação de contratar seguro contra incêndio.<rt>ヴァモス コンフィルマール オブリガサォン ジ コントラタール セグーロ コントラ インセンジオ</rt></ruby>
+  - 日本語確認用: 「Obrigação de contratar seguro contra incêndio」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 火災保険加入義務について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar obrigação de contratar seguro contra incêndio.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
+## よくある質問
 
 - FAQ-HOME-0003
 
-## Termos relacionados
+## 関連用語
 
 - HOME-0002 - 賃貸借契約 - Contrato de locação
 - HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 
-## Referências cruzadas
+## 相互参照
 
 - FAQ-HOME-0003
 - DIALOGUE-HOME-0001
 - CASE-HOME-0001
 
-## Referências
+## 参考資料
 
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
+## タグ
 
 - home
 - housing
 - obrigacao-de-contratar-seguro-contra-incendio
 - atendimento
 
-## Veja também
+## 関連項目
 
 - `14_FAQ/HOME/FAQ-HOME-0003.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
@@ -267,85 +255,77 @@ Muitos contratos pedem seguro contra incêndio ou seguro para inquilino como con
 
 # HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0004
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 借家人賠償責任
 
-## Tradução Português
-
+## ポルトガル語訳
 Responsabilidade do inquilino perante o proprietário
 
-## Definição Técnica
+## 技術的定義
 
-Responsabilidade legal do inquilino por danos causados ao imóvel alugado, conforme contrato e lei aplicável.
+借家人賠償責任とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a responsabilidade por dano ao imóvel alugado.
+お客様には、「Responsabilidade do inquilino perante o proprietário」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Se o cliente causar dano ao apartamento, pode ter responsabilidade perante o proprietário.
+<ruby>Vamos confirmar responsabilidade do inquilino perante o proprietário e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ヘスポンサビリダージ DO インキリーノ ペランチ オ プロプリエターリオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Responsabilidade do inquilino perante o proprietário」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar responsabilidade do inquilino perante o proprietário.<rt>ヴァモス コンフィルマール ヘスポンサビリダージ DO インキリーノ ペランチ オ プロプリエターリオ</rt></ruby>
+  - 日本語確認用: 「Responsabilidade do inquilino perante o proprietário」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 借家人賠償責任について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar responsabilidade do inquilino perante o proprietário.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0004
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0003 - 火災保険加入義務 - Obrigação de contratar seguro contra incêndio
 - HOME-0005 - 個人賠償責任 - Responsabilidade civil pessoal
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0004
 - DIALOGUE-HOME-0001
 - CASE-HOME-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - responsabilidade-do-inquilino-perante-o-proprietario
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0004.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -355,85 +335,77 @@ Se o cliente causar dano ao apartamento, pode ter responsabilidade perante o pro
 
 # HOME-0005 - 個人賠償責任 - Responsabilidade civil pessoal
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0005
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 個人賠償責任
 
-## Tradução Português
-
+## ポルトガル語訳
 Responsabilidade civil pessoal
 
-## Definição Técnica
+## 技術的定義
 
-Responsabilidade por dano causado a terceiros na vida cotidiana, conforme cobertura contratada.
+個人賠償責任とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É proteção quando o cliente causa dano a outra pessoa.
+お客様には、「Responsabilidade civil pessoal」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Um exemplo comum é vazamento que causa prejuízo ao apartamento de baixo.
+<ruby>Vamos confirmar responsabilidade civil pessoal e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ヘスポンサビリダージ CIVIL PESSOAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar responsabilidade civil pessoal.<rt>ヴァモス コンフィルマール ヘスポンサビリダージ CIVIL PESSOAL</rt></ruby>
+  - 日本語確認用: 「Responsabilidade civil pessoal」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 個人賠償責任について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar responsabilidade civil pessoal.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0005
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0004 - 借家人賠償責任 - Responsabilidade do inquilino perante o proprietário
 - HOME-0006 - 修理費用 - Despesas de reparo
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0005
 - DIALOGUE-HOME-0002
 - CASE-HOME-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - responsabilidade-civil-pessoal
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0005.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -443,85 +415,77 @@ Um exemplo comum é vazamento que causa prejuízo ao apartamento de baixo.
 
 # HOME-0006 - 修理費用 - Despesas de reparo
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0006
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 修理費用
 
-## Tradução Português
-
+## ポルトガル語訳
 Despesas de reparo
 
-## Definição Técnica
+## 技術的定義
 
-Custos necessários para reparar dano no imóvel ou em equipamentos, conforme causa e responsabilidade.
+修理費用とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-São custos para consertar algo danificado.
+お客様には、「Despesas de reparo」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Precisamos separar reparo coberto pelo seguro, responsabilidade do inquilino e manutenção normal.
+<ruby>Vamos confirmar despesas de reparo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DESPESAS ジ REPARO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Despesas de reparo」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar despesas de reparo.<rt>ヴァモス コンフィルマール DESPESAS ジ REPARO</rt></ruby>
+  - 日本語確認用: 「Despesas de reparo」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 修理費用について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar despesas de reparo.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0006
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0005 - 個人賠償責任 - Responsabilidade civil pessoal
 - HOME-0007 - 原状回復 - Restauração ao estado original
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0006
 - DIALOGUE-HOME-0002
 - CASE-HOME-0002
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - despesas-de-reparo
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0006.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -531,85 +495,77 @@ Precisamos separar reparo coberto pelo seguro, responsabilidade do inquilino e m
 
 # HOME-0007 - 原状回復 - Restauração ao estado original
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0007
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 原状回復
 
-## Tradução Português
-
+## ポルトガル語訳
 Restauração ao estado original
 
-## Definição Técnica
+## 技術的定義
 
-Obrigação de devolver o imóvel em condição prevista no contrato, descontado desgaste normal quando aplicável.
+原状回復とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É devolver o imóvel em condição adequada na saída.
+お客様には、「Restauração ao estado original」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Na saída, a imobiliária pode avaliar danos, limpeza e restauração conforme contrato.
+<ruby>Vamos confirmar restauração ao estado original e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RESTAURAÇÃO AO ESTADO ORIGINAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Restauração ao estado original」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar restauração ao estado original.<rt>ヴァモス コンフィルマール RESTAURAÇÃO AO ESTADO ORIGINAL</rt></ruby>
+  - 日本語確認用: 「Restauração ao estado original」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 原状回復について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar restauração ao estado original.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0007
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0006 - 修理費用 - Despesas de reparo
 - HOME-0008 - 敷金 - Depósito caução
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0007
 - DIALOGUE-HOME-0002
 - CASE-HOME-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - restauracao-ao-estado-original
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0007.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -619,85 +575,77 @@ Na saída, a imobiliária pode avaliar danos, limpeza e restauração conforme c
 
 # HOME-0008 - 敷金 - Depósito caução
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0008
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 敷金
 
-## Tradução Português
-
+## ポルトガル語訳
 Depósito caução
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago no início da locação para garantir obrigações do inquilino, podendo ser usado em reparos ou débitos conforme contrato.
+敷金とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um depósito de garantia do aluguel.
+お客様には、「Depósito caução」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O depósito pode ser ajustado na saída, dependendo de aluguel, limpeza e danos.
+<ruby>Vamos confirmar depósito caução e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DEPÓSITO CAUÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Depósito caução」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar depósito caução.<rt>ヴァモス コンフィルマール DEPÓSITO CAUÇÃO</rt></ruby>
+  - 日本語確認用: 「Depósito caução」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 敷金について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar depósito caução.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0008
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0007 - 原状回復 - Restauração ao estado original
 - HOME-0009 - 礼金 - Luvas de locação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0008
 - DIALOGUE-HOME-0002
 - CASE-HOME-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - deposito-caucao
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0008.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -707,85 +655,77 @@ O depósito pode ser ajustado na saída, dependendo de aluguel, limpeza e danos.
 
 # HOME-0009 - 礼金 - Luvas de locação
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0009
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 礼金
 
-## Tradução Português
-
+## ポルトガル語訳
 Luvas de locação
 
-## Definição Técnica
+## 技術的定義
 
-Valor pago ao proprietário no início da locação, normalmente sem devolução, conforme prática contratual.
+礼金とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É um pagamento inicial que geralmente não volta.
+お客様には、「Luvas de locação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-É importante diferenciar luvas de depósito caução para evitar expectativa errada.
+<ruby>Vamos confirmar luvas de locação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール LUVAS ジ ロカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Luvas de locação」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar luvas de locação.<rt>ヴァモス コンフィルマール LUVAS ジ ロカサォン</rt></ruby>
+  - 日本語確認用: 「Luvas de locação」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 礼金について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar luvas de locação.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0009
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0008 - 敷金 - Depósito caução
 - HOME-0010 - 保証会社 - Empresa garantidora
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0009
 - DIALOGUE-HOME-0003
 - CASE-HOME-0003
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - luvas-de-locacao
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0009.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -795,85 +735,77 @@ Valor pago ao proprietário no início da locação, normalmente sem devolução
 
 # HOME-0010 - 保証会社 - Empresa garantidora
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0010
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 保証会社
 
-## Tradução Português
-
+## ポルトガル語訳
 Empresa garantidora
 
-## Definição Técnica
+## 技術的定義
 
-Empresa que garante obrigações de pagamento do inquilino perante locador, conforme contrato de garantia.
+保証会社とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma empresa que funciona como garantia do aluguel.
+お客様には、「Empresa garantidora」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-A empresa garantidora não é seguradora do conteúdo da casa; são funções diferentes.
+<ruby>Vamos confirmar empresa garantidora e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール EMPRESA GARANTIDORA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Empresa garantidora」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar empresa garantidora.<rt>ヴァモス コンフィルマール EMPRESA GARANTIDORA</rt></ruby>
+  - 日本語確認用: 「Empresa garantidora」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 保証会社について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar empresa garantidora.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0010
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0009 - 礼金 - Luvas de locação
 - HOME-0011 - 連帯保証人 - Fiador solidário
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0010
 - DIALOGUE-HOME-0003
 - CASE-HOME-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - empresa-garantidora
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0010.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -883,85 +815,77 @@ A empresa garantidora não é seguradora do conteúdo da casa; são funções di
 
 # HOME-0011 - 連帯保証人 - Fiador solidário
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0011
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 連帯保証人
 
-## Tradução Português
-
+## ポルトガル語訳
 Fiador solidário
 
-## Definição Técnica
+## 技術的定義
 
-Pessoa que assume responsabilidade solidária por obrigações do inquilino, conforme contrato.
+連帯保証人とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a pessoa que garante o aluguel junto com o inquilino.
+お客様には、「Fiador solidário」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Quando houver fiador, ele pode ser cobrado em certas situações previstas no contrato.
+<ruby>Vamos confirmar fiador solidário e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール FIADOR SOLIDÁRIO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Fiador solidário」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar fiador solidário.<rt>ヴァモス コンフィルマール FIADOR SOLIDÁRIO</rt></ruby>
+  - 日本語確認用: 「Fiador solidário」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 連帯保証人について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar fiador solidário.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0011
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0010 - 保証会社 - Empresa garantidora
 - HOME-0012 - 管理会社 - Administradora do imóvel
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0011
 - DIALOGUE-HOME-0003
 - CASE-HOME-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - fiador-solidario
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0011.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -971,85 +895,77 @@ Quando houver fiador, ele pode ser cobrado em certas situações previstas no co
 
 # HOME-0012 - 管理会社 - Administradora do imóvel
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0012
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 管理会社
 
-## Tradução Português
-
+## ポルトガル語訳
 Administradora do imóvel
 
-## Definição Técnica
+## 技術的定義
 
-Empresa responsável por administrar contrato, manutenção, comunicação e procedimentos do imóvel alugado.
+管理会社とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a empresa que administra o imóvel.
+お客様には、「Administradora do imóvel」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Em caso de dano, o cliente deve saber quando falar com a administradora e quando acionar o seguro.
+<ruby>Vamos confirmar administradora do imóvel e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ADMINISTRADORA DO イモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Administradora do imóvel」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar administradora do imóvel.<rt>ヴァモス コンフィルマール ADMINISTRADORA DO イモーヴェウ</rt></ruby>
+  - 日本語確認用: 「Administradora do imóvel」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 管理会社について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar administradora do imóvel.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0012
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0011 - 連帯保証人 - Fiador solidário
 - HOME-0013 - 退去立会い - Vistoria de saída
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0012
 - DIALOGUE-HOME-0003
 - CASE-HOME-0004
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - administradora-do-imovel
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0012.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1059,85 +975,77 @@ Em caso de dano, o cliente deve saber quando falar com a administradora e quando
 
 # HOME-0013 - 退去立会い - Vistoria de saída
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0013
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 退去立会い
 
-## Tradução Português
-
+## ポルトガル語訳
 Vistoria de saída
 
-## Definição Técnica
+## 技術的定義
 
-Inspeção realizada na devolução do imóvel para verificar condição, danos, limpeza e eventuais custos.
+退去立会いとは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a vistoria quando o cliente sai do imóvel.
+お客様には、「Vistoria de saída」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Fotos, contrato e registro de comunicação ajudam a evitar confusão na vistoria.
+<ruby>Vamos confirmar vistoria de saída e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール VISTORIA ジ SAÍDA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Vistoria de saída」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar vistoria de saída.<rt>ヴァモス コンフィルマール VISTORIA ジ SAÍDA</rt></ruby>
+  - 日本語確認用: 「Vistoria de saída」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 退去立会いについて確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar vistoria de saída.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0013
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0012 - 管理会社 - Administradora do imóvel
 - HOME-0014 - 入居審査 - Análise de entrada
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0013
 - DIALOGUE-HOME-0004
 - CASE-HOME-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - vistoria-de-saida
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0013.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1147,85 +1055,77 @@ Fotos, contrato e registro de comunicação ajudam a evitar confusão na vistori
 
 # HOME-0014 - 入居審査 - Análise de entrada
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0014
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 入居審査
 
-## Tradução Português
-
+## ポルトガル語訳
 Análise de entrada
 
-## Definição Técnica
+## 技術的定義
 
-Avaliação feita por imobiliária, proprietário ou garantidora antes de aceitar o candidato à locação.
+入居審査とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a análise para aprovar o aluguel.
+お客様には、「Análise de entrada」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Essa análise é diferente da aceitação de um seguro.
+<ruby>Vamos confirmar análise de entrada e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ANÁLISE ジ ENTRADA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Análise de entrada」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar análise de entrada.<rt>ヴァモス コンフィルマール ANÁLISE ジ ENTRADA</rt></ruby>
+  - 日本語確認用: 「Análise de entrada」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 入居審査について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar análise de entrada.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0014
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0013 - 退去立会い - Vistoria de saída
 - HOME-0015 - 重要事項説明 - Explicação de pontos importantes
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0014
 - DIALOGUE-HOME-0004
 - CASE-HOME-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - analise-de-entrada
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0014.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1235,85 +1135,77 @@ Essa análise é diferente da aceitação de um seguro.
 
 # HOME-0015 - 重要事項説明 - Explicação de pontos importantes
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0015
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 重要事項説明
 
-## Tradução Português
-
+## ポルトガル語訳
 Explicação de pontos importantes
 
-## Definição Técnica
+## 技術的定義
 
-Explicação formal de condições relevantes da locação feita antes da assinatura, conforme prática imobiliária japonesa.
+重要事項説明とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É a explicação oficial antes de assinar.
+お客様には、「Explicação de pontos importantes」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-O cliente deve confirmar seguro exigido, custos iniciais, renovação e regras de saída.
+<ruby>Vamos confirmar explicação de pontos importantes e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール EXPLICAÇÃO ジ PONTOS IMPORTANTES イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Explicação de pontos importantes」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar explicação de pontos importantes.<rt>ヴァモス コンフィルマール EXPLICAÇÃO ジ PONTOS IMPORTANTES</rt></ruby>
+  - 日本語確認用: 「Explicação de pontos importantes」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 重要事項説明について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar explicação de pontos importantes.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0015
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0014 - 入居審査 - Análise de entrada
 - HOME-0016 - 契約更新 - Renovação contratual
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0015
 - DIALOGUE-HOME-0004
 - CASE-HOME-0005
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - explicacao-de-pontos-importantes
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0015.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1323,85 +1215,77 @@ O cliente deve confirmar seguro exigido, custos iniciais, renovação e regras d
 
 # HOME-0016 - 契約更新 - Renovação contratual
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0016
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 契約更新
 
-## Tradução Português
-
+## ポルトガル語訳
 Renovação contratual
 
-## Definição Técnica
+## 技術的定義
 
-Procedimento de continuidade do contrato de locação após o prazo inicial, conforme condições acordadas.
+契約更新とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É renovar o contrato de aluguel.
+お客様には、「Renovação contratual」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Na renovação, também pode ser necessário confirmar seguro e dados do contrato.
+<ruby>Vamos confirmar renovação contratual e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RENOVAÇÃO CONTRATUAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Renovação contratual」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar renovação contratual.<rt>ヴァモス コンフィルマール RENOVAÇÃO CONTRATUAL</rt></ruby>
+  - 日本語確認用: 「Renovação contratual」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 契約更新について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar renovação contratual.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0016
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0015 - 重要事項説明 - Explicação de pontos importantes
 - HOME-0017 - 更新料 - Taxa de renovação
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0016
 - DIALOGUE-HOME-0004
 - CASE-HOME-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - renovacao-contratual
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0016.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1411,85 +1295,77 @@ Na renovação, também pode ser necessário confirmar seguro e dados do contrat
 
 # HOME-0017 - 更新料 - Taxa de renovação
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0017
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 更新料
 
-## Tradução Português
-
+## ポルトガル語訳
 Taxa de renovação
 
-## Definição Técnica
+## 技術的定義
 
-Valor cobrado em algumas locações para renovação contratual, conforme contrato e região.
+更新料とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É uma taxa para renovar o aluguel, quando prevista.
+お客様には、「Taxa de renovação」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Nem todo imóvel cobra essa taxa; precisa verificar o contrato.
+<ruby>Vamos confirmar taxa de renovação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール TAXA ジ RENOVAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Taxa de renovação」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar taxa de renovação.<rt>ヴァモス コンフィルマール TAXA ジ RENOVAÇÃO</rt></ruby>
+  - 日本語確認用: 「Taxa de renovação」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 更新料について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar taxa de renovação.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0017
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0016 - 契約更新 - Renovação contratual
 - HOME-0018 - 家賃滞納 - Atraso no aluguel
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0017
 - DIALOGUE-HOME-0005
 - CASE-HOME-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - taxa-de-renovacao
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0017.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1499,85 +1375,77 @@ Nem todo imóvel cobra essa taxa; precisa verificar o contrato.
 
 # HOME-0018 - 家賃滞納 - Atraso no aluguel
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0018
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 家賃滞納
 
-## Tradução Português
-
+## ポルトガル語訳
 Atraso no aluguel
 
-## Definição Técnica
+## 技術的定義
 
-Situação em que o aluguel não é pago no prazo, podendo gerar cobrança, comunicação à garantidora ou outras consequências.
+家賃滞納とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É atraso no pagamento do aluguel.
+お客様には、「Atraso no aluguel」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Seguro residencial não deve ser confundido com garantia de pagamento de aluguel.
+<ruby>Vamos confirmar atraso no aluguel e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ATRASO NO ALUGUEL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Atraso no aluguel」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar atraso no aluguel.<rt>ヴァモス コンフィルマール ATRASO NO ALUGUEL</rt></ruby>
+  - 日本語確認用: 「Atraso no aluguel」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 家賃滞納について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar atraso no aluguel.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0018
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0017 - 更新料 - Taxa de renovação
 - HOME-0019 - 鍵交換費用 - Custo de troca de chave
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0018
 - DIALOGUE-HOME-0005
 - CASE-HOME-0006
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - atraso-no-aluguel
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0018.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1587,85 +1455,77 @@ Seguro residencial não deve ser confundido com garantia de pagamento de aluguel
 
 # HOME-0019 - 鍵交換費用 - Custo de troca de chave
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0019
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 鍵交換費用
 
-## Tradução Português
-
+## ポルトガル語訳
 Custo de troca de chave
 
-## Definição Técnica
+## 技術的定義
 
-Valor relativo à substituição de fechadura ou chave no início, durante ou fim da locação, conforme contrato.
+鍵交換費用とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É custo de trocar chave ou fechadura.
+お客様には、「Custo de troca de chave」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Esse custo deve ser verificado no contrato e não é automaticamente coberto por seguro.
+<ruby>Vamos confirmar custo de troca de chave e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CUSTO ジ TROCA ジ CHAVE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Custo de troca de chave」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar custo de troca de chave.<rt>ヴァモス コンフィルマール CUSTO ジ TROCA ジ CHAVE</rt></ruby>
+  - 日本語確認用: 「Custo de troca de chave」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 鍵交換費用について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar custo de troca de chave.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0019
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0018 - 家賃滞納 - Atraso no aluguel
 - HOME-0020 - 家財保険 - Seguro de bens domésticos
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0019
 - DIALOGUE-HOME-0005
 - CASE-HOME-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - custo-de-troca-de-chave
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0019.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
@@ -1675,84 +1535,77 @@ Esse custo deve ser verificado no contrato e não é automaticamente coberto por
 
 # HOME-0020 - 家財保険 - Seguro de bens domésticos
 
-## Controle
-
+## 管理情報
 - Versão: 0.1
 - Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial.
 
-## Código
-
+## コード
 HOME-0020
 
-## Categoria
-
+## カテゴリー
 HOME
 
-## Termo Japonês
-
+## 日本語用語
 家財保険
 
-## Tradução Português
-
+## ポルトガル語訳
 Seguro de bens domésticos
 
-## Definição Técnica
+## 技術的定義
 
-Seguro que protege móveis, eletrodomésticos e objetos pessoais do morador, conforme coberturas contratadas.
+家財保険とは、住居・賃貸関連の保険の相談・契約・保険金請求または契約管理において確認すべき専門用語です。具体的な意味、適用範囲、必要書類、支払可否は、保険商品、契約条件、事故状況および保険会社の判断によって異なります。
 
-## Explicação Simplificada
+## 簡単な説明
 
-É o seguro dos bens dentro da casa.
+お客様には、「Seguro de bens domésticos」に関する内容を、契約内容、条件、必要書類に分けて確認することとして説明します。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Mesmo em imóvel alugado, o cliente pode proteger móveis e objetos pessoais.
+<ruby>Vamos confirmar seguro de bens domésticos e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ ジ ベンス ドメスチコス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Frases utilizadas
+日本語確認用: 「Seguro de bens domésticos」について、契約内容に沿って分かりやすく確認します。
 
-### Japonês
+## 使用フレーズ
+
+### 顧客に伝えるポルトガル語
+
+- <ruby>Vamos confirmar seguro de bens domésticos.<rt>ヴァモス コンフィルマール セグーロ ジ ベンス ドメスチコス</rt></ruby>
+  - 日本語確認用: 「Seguro de bens domésticos」について確認しましょう。
+- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+  - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
+
+### 社内確認用の日本語
 
 - 家財保険について確認しましょう。
-- 賃貸契約と保険の関係を分かりやすく説明します。
+- 契約内容と必要書類を分けて確認します.
 
-### Português brasileiro
-
-- Vamos confirmar seguro de bens domésticos.
-- Vou explicar a relação entre aluguel, responsabilidade e seguro de forma simples.
-
-## Perguntas frequentes
-
+## よくある質問
 - FAQ-HOME-0020
 
-## Termos relacionados
-
+## 関連用語
 - HOME-0019 - 鍵交換費用 - Custo de troca de chave
 
-## Referências cruzadas
-
+## 相互参照
 - FAQ-HOME-0020
 - DIALOGUE-HOME-0005
 - CASE-HOME-0007
 
-## Referências
-
+## 参考資料
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
-
+## タグ
 - home
 - housing
 - seguro-de-bens-domesticos
 - atendimento
 
-## Veja também
-
+## 関連項目
 - `14_FAQ/HOME/FAQ-HOME-0020.md`
 
-## Histórico de revisão
-
+## 改訂履歴
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-27 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+

@@ -100,6 +100,42 @@ Títulos de diálogos devem indicar o contexto prático da conversa.
 
 Títulos de estudos de caso devem indicar situação, produto e problema central.
 
+## Padrão linguístico dos verbetes
+
+Os verbetes do dicionário mestre devem priorizar o uso pelo corretor japonês durante o atendimento ao cliente brasileiro.
+
+Os títulos internos dos verbetes devem ser escritos em japonês:
+
+- 管理情報
+- コード
+- カテゴリー
+- 日本語用語
+- ポルトガル語訳
+- 技術的定義
+- 簡単な説明
+- ブラジル人顧客への説明方法
+- 使用フレーズ
+- よくある質問
+- 関連用語
+- 相互参照
+- 参考資料
+- タグ
+- 関連項目
+- 改訂履歴
+
+As seções `技術的定義` e `簡単な説明` devem conter conteúdo em japonês, para que o corretor japonês compreenda o conceito técnico sem depender do português.
+
+A seção `ブラジル人顧客への説明方法` deve conter uma frase em português brasileiro que o corretor possa dizer diretamente ao cliente. Essa frase deve ter leitura em katakana associada ao português, para apoiar a pronúncia do corretor japonês.
+
+Quando necessário, incluir também `日本語確認用` para registrar o sentido da frase em japonês. Essa linha serve para validação interna do corretor e não substitui a frase em português.
+
+Na seção `使用フレーズ`, separar:
+
+- `顧客に伝えるポルトガル語`: frases em português brasileiro com leitura em katakana.
+- `社内確認用の日本語`: frases em japonês para preparação, treinamento e consulta interna.
+
+O furigana/leitura deve estar relacionado ao texto em português, não ao texto japonês. O objetivo é ajudar o corretor japonês a falar com o cliente brasileiro, não ensinar a leitura de termos japoneses.
+
 ## Consistência terminológica
 
 Todo novo conteúdo deve respeitar os termos já definidos no glossário, no dicionário mestre e nos documentos anteriores. Quando um novo termo técnico for criado, ele deverá ser registrado com código, categoria, definição, explicação simplificada e referências cruzadas.
