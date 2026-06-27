@@ -33,9 +33,9 @@ FIRE
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス プリメイロ ヴェリフィカール オ キ エスタ セグラード クアウ フォイ ア カウザ ド ダノ イ クアイス ドクメントス ア セグラドーラ プレシーザ アナリザール
-
 Português brasileiro: Vamos primeiro verificar o que está segurado, qual foi a causa do dano e quais documentos a seguradora precisa analisar.
+
+カタカナ読み: ヴァモス プリメイロ ヴェリフィカール オ キ エスタ セグラード クアウ フォイ ア カウザ ド ダノ イ クアイス ドクメントス ア セグラドーラ プレシーザ アナリザール
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 

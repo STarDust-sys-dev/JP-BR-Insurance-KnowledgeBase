@@ -35,7 +35,13 @@ HOME
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar restauração ao estado original e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RESTAURAÇÃO AO ESTADO ORIGINAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar restauração ao estado original e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ヘスタウラサォン アオ エスタード オリジナウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Restauração ao estado original」について、契約内容に沿って分かりやすく確認します。
 

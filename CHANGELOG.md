@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Correção integral do padrão de atendimento ao cliente brasileiro: frases em português brasileiro agora aparecem explicitamente antes da leitura em katakana nos verbetes, FAQs MED/FIRE/HOME, diálogos FIRE/HOME e estudos de caso FIRE/HOME; remoção de marcação `ruby` nos conteúdos de atendimento; reforço do validador para bloquear português escondido e ausência de bloco português ao cliente.
+
 - Padronização das 60 FAQs MED: estrutura em japonês para consulta do corretor, resposta ao cliente em português brasileiro com leitura em katakana, reforço de compliance médico e regeneração dos pacotes `MED_FAQ_0001_0020`, `MED_FAQ_0021_0040` e `MED_FAQ_0041_0060`.
 
 - Padronização dos guias e pacotes NotebookLM FIRE/HOME: mapas de consulta em japonês para o corretor, fluxo recomendado de busca, orientação de uso de FAQ/DIALOGUE/CASE e regeneração de DOCX/PDF de `FIRE_INDEX_0001`, `FIRE_NOTEBOOKLM_PACK_0001`, `FIRE_NAVIGATION_GUIDE`, `HOME_INDEX_0001`, `HOME_NOTEBOOKLM_PACK_0001` e `HOUSING_NAVIGATION_GUIDE`.

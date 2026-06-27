@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar atestado médico detalhado e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ATESTADO メジコ DETALHADO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar atestado médico detalhado e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アトエストアドオ メジコ ドエトアリアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Atestado médico detalhado」について、契約内容に沿って分かりやすく確認します。
 

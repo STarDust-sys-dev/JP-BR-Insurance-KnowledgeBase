@@ -35,7 +35,13 @@ HOME
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar luvas de locação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール LUVAS ジ ロカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar luvas de locação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルウヴアス ジ ロカサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Luvas de locação」について、契約内容に沿って分かりやすく確認します。
 

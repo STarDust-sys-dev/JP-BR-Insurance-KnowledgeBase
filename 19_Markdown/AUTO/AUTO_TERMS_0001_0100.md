@@ -32,17 +32,25 @@ Seguro de automóvel
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro de automóvel e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ ジ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro de automóvel e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ ジ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro de automóvel」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro de automóvel.<rt>ヴァモス コンフィルマール セグーロ ジ アウトモーヴェウ</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro de automóvel.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ アウトモーヴェウ
   - 日本語確認用: 「Seguro de automóvel」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -116,17 +124,25 @@ Seguro contra danos pessoais a terceiros
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro contra danos pessoais a terceiros e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ コントラ ダノス PESSOAIS A TERCEIROS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro contra danos pessoais a terceiros e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ コントラ ダノス プエスオアイス ア トエルクエイルオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro contra danos pessoais a terceiros」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro contra danos pessoais a terceiros.<rt>ヴァモス コンフィルマール セグーロ コントラ ダノス PESSOAIS A TERCEIROS</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro contra danos pessoais a terceiros.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ コントラ ダノス プエスオアイス ア トエルクエイルオス
   - 日本語確認用: 「Seguro contra danos pessoais a terceiros」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -199,17 +215,25 @@ Seguro contra danos materiais a terceiros
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro contra danos materiais a terceiros e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ コントラ ダノス MATERIAIS A TERCEIROS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro contra danos materiais a terceiros e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ コントラ ダノス ムアトエルイアイス ア トエルクエイルオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro contra danos materiais a terceiros」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro contra danos materiais a terceiros.<rt>ヴァモス コンフィルマール セグーロ コントラ ダノス MATERIAIS A TERCEIROS</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro contra danos materiais a terceiros.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ コントラ ダノス ムアトエルイアイス ア トエルクエイルオス
   - 日本語確認用: 「Seguro contra danos materiais a terceiros」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -282,17 +306,25 @@ Seguro do veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro do veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ DO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro do veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro do veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro do veículo.<rt>ヴァモス コンフィルマール セグーロ DO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro do veículo.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ ド ヴエイクウルオ
   - 日本語確認用: 「Seguro do veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -365,17 +397,25 @@ Seguro de danos corporais
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro de danos corporais e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ ジ ダノス CORPORAIS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro de danos corporais e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ ジ ダノス クオルプオルアイス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro de danos corporais」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro de danos corporais.<rt>ヴァモス コンフィルマール セグーロ ジ ダノス CORPORAIS</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro de danos corporais.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ ダノス クオルプオルアイス
   - 日本語確認用: 「Seguro de danos corporais」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -448,17 +488,25 @@ Seguro de acidentes de passageiros
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro de acidentes de passageiros e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ ジ ACIDENTES ジ PASSAGEIROS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro de acidentes de passageiros e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ ジ アクイドエントエス ジ プアスアグエイルオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro de acidentes de passageiros」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro de acidentes de passageiros.<rt>ヴァモス コンフィルマール セグーロ ジ ACIDENTES ジ PASSAGEIROS</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro de acidentes de passageiros.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ ジ アクイドエントエス ジ プアスアグエイルオス
   - 日本語確認用: 「Seguro de acidentes de passageiros」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -530,17 +578,25 @@ Franquia
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar franquia e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール フランキア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar franquia e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール フランキア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Franquia」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar franquia.<rt>ヴァモス コンフィルマール フランキア</rt></ruby>
+- Português brasileiro: Vamos confirmar franquia.
+  - カタカナ読み: ヴァモス コンフィルマール フランキア
   - 日本語確認用: 「Franquia」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -614,17 +670,25 @@ Classe de bônus/malus
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar classe de bônus/malus e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CLASSE ジ BÔNUS MALUS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar classe de bônus/malus e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クルアスエ ジ ブオンウス ムアルウス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Classe de bônus/malus」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar classe de bônus/malus.<rt>ヴァモス コンフィルマール CLASSE ジ BÔNUS MALUS</rt></ruby>
+- Português brasileiro: Vamos confirmar classe de bônus/malus.
+  - カタカナ読み: ヴァモス コンフィルマール クルアスエ ジ ブオンウス ムアルウス
   - 日本語確認用: 「Classe de bônus/malus」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -697,17 +761,25 @@ Prêmio do seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar prêmio do seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PRÊMIO DO セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar prêmio do seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プルエムイオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Prêmio do seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar prêmio do seguro.<rt>ヴァモス コンフィルマール PRÊMIO DO セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar prêmio do seguro.
+  - カタカナ読み: ヴァモス コンフィルマール プルエムイオ ド セグーロ
   - 日本語確認用: 「Prêmio do seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -780,17 +852,25 @@ Indenização do seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar indenização do seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INDENIZAÇÃO DO セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar indenização do seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インドエンイズアサォン ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Indenização do seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar indenização do seguro.<rt>ヴァモス コンフィルマール INDENIZAÇÃO DO セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar indenização do seguro.
+  - カタカナ読み: ヴァモス コンフィルマール インドエンイズアサォン ド セグーロ
   - 日本語確認用: 「Indenização do seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -864,17 +944,25 @@ Seguro obrigatório de responsabilidade civil automóvel
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro obrigatório de responsabilidade civil automóvel e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ OBRIGATÓRIO ジ ヘスポンサビリダージ CIVIL アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro obrigatório de responsabilidade civil automóvel e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ オブルイグアトオルイオ ジ ヘスポンサビリダージ シヴィウ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro obrigatório de responsabilidade civil automóvel」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro obrigatório de responsabilidade civil automóvel.<rt>ヴァモス コンフィルマール セグーロ OBRIGATÓRIO ジ ヘスポンサビリダージ CIVIL アウトモーヴェウ</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro obrigatório de responsabilidade civil automóvel.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ オブルイグアトオルイオ ジ ヘスポンサビリダージ シヴィウ アウトモーヴェウ
   - 日本語確認用: 「Seguro obrigatório de responsabilidade civil automóvel」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -948,17 +1036,25 @@ Seguro voluntário de automóvel
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguro voluntário de automóvel e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグーロ VOLUNTÁRIO ジ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguro voluntário de automóvel e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグーロ ヴオルウントアルイオ ジ アウトモーヴェウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguro voluntário de automóvel」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguro voluntário de automóvel.<rt>ヴァモス コンフィルマール セグーロ VOLUNTÁRIO ジ アウトモーヴェウ</rt></ruby>
+- Português brasileiro: Vamos confirmar seguro voluntário de automóvel.
+  - カタカナ読み: ヴァモス コンフィルマール セグーロ ヴオルウントアルイオ ジ アウトモーヴェウ
   - 日本語確認用: 「Seguro voluntário de automóvel」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1030,17 +1126,25 @@ Assistência na estrada
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar assistência na estrada e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ASSISTÊNCIA NA ESTRADA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar assistência na estrada e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アスイストエンクイア ナ エストルアドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Assistência na estrada」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar assistência na estrada.<rt>ヴァモス コンフィルマール ASSISTÊNCIA NA ESTRADA</rt></ruby>
+- Português brasileiro: Vamos confirmar assistência na estrada.
+  - カタカナ読み: ヴァモス コンフィルマール アスイストエンクイア ナ エストルアドア
   - 日本語確認用: 「Assistência na estrada」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1110,17 +1214,25 @@ Cobertura adicional de honorários advocatícios
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar cobertura adicional de honorários advocatícios e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL ジ HONORÁRIOS ADVOCATÍCIOS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar cobertura adicional de honorários advocatícios e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ オンオルアルイオス アドヴオクアトイクイオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Cobertura adicional de honorários advocatícios」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar cobertura adicional de honorários advocatícios.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL ジ HONORÁRIOS ADVOCATÍCIOS</rt></ruby>
+- Português brasileiro: Vamos confirmar cobertura adicional de honorários advocatícios.
+  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ オンオルアルイオス アドヴオクアトイクイオス
   - 日本語確認用: 「Cobertura adicional de honorários advocatícios」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1189,17 +1301,25 @@ Cobertura adicional de carro substituto
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar cobertura adicional de carro substituto e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL ジ CARRO SUBSTITUTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar cobertura adicional de carro substituto e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ クアホオ スウブストイトウトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Cobertura adicional de carro substituto」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar cobertura adicional de carro substituto.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL ジ CARRO SUBSTITUTO</rt></ruby>
+- Português brasileiro: Vamos confirmar cobertura adicional de carro substituto.
+  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ クアホオ スウブストイトウトオ
   - 日本語確認用: 「Cobertura adicional de carro substituto」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1269,17 +1389,25 @@ Restrição de condutores
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar restrição de condutores e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RESTRIÇÃO ジ CONDUTORES イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar restrição de condutores e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエストルイサォン ジ クオンドウトオルエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Restrição de condutores」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar restrição de condutores.<rt>ヴァモス コンフィルマール RESTRIÇÃO ジ CONDUTORES</rt></ruby>
+- Português brasileiro: Vamos confirmar restrição de condutores.
+  - カタカナ読み: ヴァモス コンフィルマール ルエストルイサォン ジ クオンドウトオルエス
   - 日本語確認用: 「Restrição de condutores」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1349,17 +1477,25 @@ Condição de idade do condutor
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar condição de idade do condutor e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONDIÇÃO ジ IDADE DO CONDUTOR イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar condição de idade do condutor e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コンジサォン ジ イドアドエ ド クオンドウトオル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Condição de idade do condutor」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar condição de idade do condutor.<rt>ヴァモス コンフィルマール CONDIÇÃO ジ IDADE DO CONDUTOR</rt></ruby>
+- Português brasileiro: Vamos confirmar condição de idade do condutor.
+  - カタカナ読み: ヴァモス コンフィルマール コンジサォン ジ イドアドエ ド クオンドウトオル
   - 日本語確認用: 「Condição de idade do condutor」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1430,17 +1566,25 @@ Finalidade de uso do veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar finalidade de uso do veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール FINALIDADE ジ USO DO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar finalidade de uso do veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール フインアルイドアドエ ジ ウスオ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Finalidade de uso do veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar finalidade de uso do veículo.<rt>ヴァモス コンフィルマール FINALIDADE ジ USO DO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar finalidade de uso do veículo.
+  - カタカナ読み: ヴァモス コンフィルマール フインアルイドアドエ ジ ウスオ ド ヴエイクウルオ
   - 日本語確認用: 「Finalidade de uso do veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1509,17 +1653,25 @@ Registro de aviso de acidente
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar registro de aviso de acidente e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール REGISTRO ジ AVISO ジ ACIDENTE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar registro de aviso de acidente e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエグイストルオ ジ アヴイスオ ジ アクイドエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Registro de aviso de acidente」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar registro de aviso de acidente.<rt>ヴァモス コンフィルマール REGISTRO ジ AVISO ジ ACIDENTE</rt></ruby>
+- Português brasileiro: Vamos confirmar registro de aviso de acidente.
+  - カタカナ読み: ヴァモス コンフィルマール ルエグイストルオ ジ アヴイスオ ジ アクイドエントエ
   - 日本語確認用: 「Registro de aviso de acidente」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1590,17 +1742,25 @@ Certificado de acidente de trânsito
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar certificado de acidente de trânsito e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CERTIFICADO ジ ACIDENTE ジ TRÂNSITO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar certificado de acidente de trânsito e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クエルトイフイクアドオ ジ アクイドエントエ ジ トルアンスイトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Certificado de acidente de trânsito」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar certificado de acidente de trânsito.<rt>ヴァモス コンフィルマール CERTIFICADO ジ ACIDENTE ジ TRÂNSITO</rt></ruby>
+- Português brasileiro: Vamos confirmar certificado de acidente de trânsito.
+  - カタカナ読み: ヴァモス コンフィルマール クエルトイフイクアドオ ジ アクイドエントエ ジ トルアンスイトオ
   - 日本語確認用: 「Certificado de acidente de trânsito」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1671,17 +1831,25 @@ Período do seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar período do seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERÍODO DO セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar período do seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルイオドオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Período do seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar período do seguro.<rt>ヴァモス コンフィルマール PERÍODO DO セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar período do seguro.
+  - カタカナ読み: ヴァモス コンフィルマール プエルイオドオ ド セグーロ
   - 日本語確認用: 「Período do seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1752,17 +1920,25 @@ Data de início da cobertura
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar data de início da cobertura e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DATA ジ INÍCIO DA コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar data de início da cobertura e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Data de início da cobertura」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar data de início da cobertura.<rt>ヴァモス コンフィルマール DATA ジ INÍCIO DA コベルツーラ</rt></ruby>
+- Português brasileiro: Vamos confirmar data de início da cobertura.
+  - カタカナ読み: ヴァモス コンフィルマール ドアトア ジ インイクイオ ダ コベルツーラ
   - 日本語確認用: 「Data de início da cobertura」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1832,17 +2008,25 @@ Data de vencimento do seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar data de vencimento do seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DATA ジ VENCIMENTO DO セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar data de vencimento do seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドアトア ジ ヴエンクイムエントオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Data de vencimento do seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar data de vencimento do seguro.<rt>ヴァモス コンフィルマール DATA ジ VENCIMENTO DO セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar data de vencimento do seguro.
+  - カタカナ読み: ヴァモス コンフィルマール ドアトア ジ ヴエンクイムエントオ ド セグーロ
   - 日本語確認用: 「Data de vencimento do seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1912,17 +2096,25 @@ Renovação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar renovação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RENOVAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar renovação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Renovação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar renovação.<rt>ヴァモス コンフィルマール RENOVAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar renovação.
+  - カタカナ読み: ヴァモス コンフィルマール ヘノヴァサォン
   - 日本語確認用: 「Renovação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -1994,17 +2186,25 @@ Cancelamento antes do vencimento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar cancelamento antes do vencimento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CANCELAMENTO ANTES DO VENCIMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar cancelamento antes do vencimento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クアンクエルアムエントオ アンチス ド ヴエンクイムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Cancelamento antes do vencimento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar cancelamento antes do vencimento.<rt>ヴァモス コンフィルマール CANCELAMENTO ANTES DO VENCIMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar cancelamento antes do vencimento.
+  - カタカナ読み: ヴァモス コンフィルマール クアンクエルアムエントオ アンチス ド ヴエンクイムエントオ
   - 日本語確認用: 「Cancelamento antes do vencimento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2073,17 +2273,25 @@ Valor de devolução por cancelamento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar valor de devolução por cancelamento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ヴァロール ジ DEVOLUÇÃO ポル CANCELAMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar valor de devolução por cancelamento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ヴァロール ジ ドエヴオルウサォン ポル クアンクエルアムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Valor de devolução por cancelamento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar valor de devolução por cancelamento.<rt>ヴァモス コンフィルマール ヴァロール ジ DEVOLUÇÃO ポル CANCELAMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar valor de devolução por cancelamento.
+  - カタカナ読み: ヴァモス コンフィルマール ヴァロール ジ ドエヴオルウサォン ポル クアンクエルアムエントオ
   - 日本語確認用: 「Valor de devolução por cancelamento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2154,17 +2362,25 @@ Contratante do seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar contratante do seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONTRATANTE DO セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar contratante do seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Contratante do seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar contratante do seguro.<rt>ヴァモス コンフィルマール CONTRATANTE DO セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar contratante do seguro.
+  - カタカナ読み: ヴァモス コンフィルマール クオントルアトアントエ ド セグーロ
   - 日本語確認用: 「Contratante do seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2234,17 +2450,25 @@ Segurado principal
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar segurado principal e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグラード PRINCIPAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar segurado principal e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグラード プルインクイプアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Segurado principal」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar segurado principal.<rt>ヴァモス コンフィルマール セグラード PRINCIPAL</rt></ruby>
+- Português brasileiro: Vamos confirmar segurado principal.
+  - カタカナ読み: ヴァモス コンフィルマール セグラード プルインクイプアル
   - 日本語確認用: 「Segurado principal」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2315,17 +2539,25 @@ Proprietário do veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar proprietário do veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール プロプリエターリオ DO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar proprietário do veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プロプリエターリオ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Proprietário do veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar proprietário do veículo.<rt>ヴァモス コンフィルマール プロプリエターリオ DO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar proprietário do veículo.
+  - カタカナ読み: ヴァモス コンフィルマール プロプリエターリオ ド ヴエイクウルオ
   - 日本語確認用: 「Proprietário do veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2395,17 +2627,25 @@ Certificado de inspeção veicular
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar certificado de inspeção veicular e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CERTIFICADO ジ INSPEÇÃO VEICULAR イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar certificado de inspeção veicular e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クエルトイフイクアドオ ジ インスプエサォン ヴエイクウルアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Certificado de inspeção veicular」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar certificado de inspeção veicular.<rt>ヴァモス コンフィルマール CERTIFICADO ジ INSPEÇÃO VEICULAR</rt></ruby>
+- Português brasileiro: Vamos confirmar certificado de inspeção veicular.
+  - カタカナ読み: ヴァモス コンフィルマール クエルトイフイクアドオ ジ インスプエサォン ヴエイクウルアル
   - 日本語確認用: 「Certificado de inspeção veicular」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2475,17 +2715,25 @@ Forma de pagamento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar forma de pagamento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール フォルマ ジ PAGAMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar forma de pagamento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール フォルマ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Forma de pagamento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar forma de pagamento.<rt>ヴァモス コンフィルマール フォルマ ジ PAGAMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar forma de pagamento.
+  - カタカナ読み: ヴァモス コンフィルマール フォルマ ジ パガメント
   - 日本語確認用: 「Forma de pagamento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2559,17 +2807,25 @@ Pagamento mensal
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar pagamento mensal e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PAGAMENTO MENSAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar pagamento mensal e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール パガメント ムエンスアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Pagamento mensal」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar pagamento mensal.<rt>ヴァモス コンフィルマール PAGAMENTO MENSAL</rt></ruby>
+- Português brasileiro: Vamos confirmar pagamento mensal.
+  - カタカナ読み: ヴァモス コンフィルマール パガメント ムエンスアル
   - 日本語確認用: 「Pagamento mensal」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2642,17 +2898,25 @@ Pagamento anual
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar pagamento anual e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PAGAMENTO ANUAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar pagamento anual e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール パガメント アンウアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Pagamento anual」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar pagamento anual.<rt>ヴァモス コンフィルマール PAGAMENTO ANUAL</rt></ruby>
+- Português brasileiro: Vamos confirmar pagamento anual.
+  - カタカナ読み: ヴァモス コンフィルマール パガメント アンウアル
   - 日本語確認用: 「Pagamento anual」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2725,17 +2989,25 @@ Débito em conta
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar débito em conta e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DÉBITO EM CONTA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar débito em conta e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドエブイトオ エン クオントア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Débito em conta」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar débito em conta.<rt>ヴァモス コンフィルマール DÉBITO EM CONTA</rt></ruby>
+- Português brasileiro: Vamos confirmar débito em conta.
+  - カタカナ読み: ヴァモス コンフィルマール ドエブイトオ エン クオントア
   - 日本語確認用: 「Débito em conta」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2808,17 +3080,25 @@ Pagamento por cartão de crédito
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar pagamento por cartão de crédito e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PAGAMENTO ポル CARTÃO ジ CRÉDITO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar pagamento por cartão de crédito e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール パガメント ポル クアルトアォン ジ クルエドイトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Pagamento por cartão de crédito」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar pagamento por cartão de crédito.<rt>ヴァモス コンフィルマール PAGAMENTO ポル CARTÃO ジ CRÉDITO</rt></ruby>
+- Português brasileiro: Vamos confirmar pagamento por cartão de crédito.
+  - カタカナ読み: ヴァモス コンフィルマール パガメント ポル クアルトアォン ジ クルエドイトオ
   - 日本語確認用: 「Pagamento por cartão de crédito」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2891,17 +3171,25 @@ Data limite de pagamento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar data limite de pagamento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DATA LIMITE ジ PAGAMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar data limite de pagamento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドアトア ルイムイトエ ジ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Data limite de pagamento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar data limite de pagamento.<rt>ヴァモス コンフィルマール DATA LIMITE ジ PAGAMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar data limite de pagamento.
+  - カタカナ読み: ヴァモス コンフィルマール ドアトア ルイムイトエ ジ パガメント
   - 日本語確認用: 「Data limite de pagamento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -2974,17 +3262,25 @@ Período de tolerância para pagamento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar período de tolerância para pagamento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERÍODO ジ TOLERÂNCIA PARA PAGAMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar período de tolerância para pagamento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルイオドオ ジ トオルエルアンクイア パラ パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Período de tolerância para pagamento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar período de tolerância para pagamento.<rt>ヴァモス コンフィルマール PERÍODO ジ TOLERÂNCIA PARA PAGAMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar período de tolerância para pagamento.
+  - カタカナ読み: ヴァモス コンフィルマール プエルイオドオ ジ トオルエルアンクイア パラ パガメント
   - 日本語確認用: 「Período de tolerância para pagamento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3057,17 +3353,25 @@ Perda de validade do contrato
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar perda de validade do contrato e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERDA ジ VALIDADE DO コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar perda de validade do contrato e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Perda de validade do contrato」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar perda de validade do contrato.<rt>ヴァモス コンフィルマール PERDA ジ VALIDADE DO コントラート</rt></ruby>
+- Português brasileiro: Vamos confirmar perda de validade do contrato.
+  - カタカナ読み: ヴァモス コンフィルマール プエルドア ジ ヴアルイドアドエ ド コントラート
   - 日本語確認用: 「Perda de validade do contrato」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3140,17 +3444,25 @@ Alteração de dados do contrato
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar alteração de dados do contrato e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ DADOS DO コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar alteração de dados do contrato e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アルトエルアサォン ジ ドアドオス ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Alteração de dados do contrato」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar alteração de dados do contrato.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ DADOS DO コントラート</rt></ruby>
+- Português brasileiro: Vamos confirmar alteração de dados do contrato.
+  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ ドアドオス ド コントラート
   - 日本語確認用: 「Alteração de dados do contrato」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3223,17 +3535,25 @@ Substituição do veículo segurado
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar substituição do veículo segurado e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール SUBSTITUIÇÃO DO VEÍCULO セグラード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar substituição do veículo segurado e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール スウブストイトウイサォン ド ヴエイクウルオ セグラード イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Substituição do veículo segurado」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar substituição do veículo segurado.<rt>ヴァモス コンフィルマール SUBSTITUIÇÃO DO VEÍCULO セグラード</rt></ruby>
+- Português brasileiro: Vamos confirmar substituição do veículo segurado.
+  - カタカナ読み: ヴァモス コンフィルマール スウブストイトウイサォン ド ヴエイクウルオ セグラード
   - 日本語確認用: 「Substituição do veículo segurado」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3306,17 +3626,25 @@ Circunstâncias do acidente
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar circunstâncias do acidente e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CIRCUNSTÂNCIAS DO ACIDENTE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar circunstâncias do acidente e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クイルクウンストアンクイアス ド アクイドエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Circunstâncias do acidente」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar circunstâncias do acidente.<rt>ヴァモス コンフィルマール CIRCUNSTÂNCIAS DO ACIDENTE</rt></ruby>
+- Português brasileiro: Vamos confirmar circunstâncias do acidente.
+  - カタカナ読み: ヴァモス コンフィルマール クイルクウンストアンクイアス ド アクイドエントエ
   - 日本語確認用: 「Circunstâncias do acidente」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3385,17 +3713,25 @@ Outra parte envolvida
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar outra parte envolvida e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール OUTRA PARTE ENVOLVIDA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar outra parte envolvida e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール オウトルア プアルトエ エンヴオルヴイドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Outra parte envolvida」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar outra parte envolvida.<rt>ヴァモス コンフィルマール OUTRA PARTE ENVOLVIDA</rt></ruby>
+- Português brasileiro: Vamos confirmar outra parte envolvida.
+  - カタカナ読み: ヴァモス コンフィルマール オウトルア プアルトエ エンヴオルヴイドア
   - 日本語確認用: 「Outra parte envolvida」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3465,17 +3801,25 @@ Percentual de culpa
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar percentual de culpa e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERCENTUAL ジ CULPA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar percentual de culpa e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルクエントウアル ジ クウルプア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Percentual de culpa」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar percentual de culpa.<rt>ヴァモス コンフィルマール PERCENTUAL ジ CULPA</rt></ruby>
+- Português brasileiro: Vamos confirmar percentual de culpa.
+  - カタカナ読み: ヴァモス コンフィルマール プエルクエントウアル ジ クウルプア
   - 日本語確認用: 「Percentual de culpa」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3545,17 +3889,25 @@ Acordo extrajudicial
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar acordo extrajudicial e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ACORDO EXTRAJUDICIAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar acordo extrajudicial e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アクオルドオ エシトルアジウドイクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Acordo extrajudicial」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar acordo extrajudicial.<rt>ヴァモス コンフィルマール ACORDO EXTRAJUDICIAL</rt></ruby>
+- Português brasileiro: Vamos confirmar acordo extrajudicial.
+  - カタカナ読み: ヴァモス コンフィルマール アクオルドオ エシトルアジウドイクイアル
   - 日本語確認用: 「Acordo extrajudicial」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3625,17 +3977,25 @@ Indenização por danos
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar indenização por danos e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INDENIZAÇÃO ポル ダノス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar indenização por danos e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インドエンイズアサォン ポル ダノス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Indenização por danos」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar indenização por danos.<rt>ヴァモス コンフィルマール INDENIZAÇÃO ポル ダノス</rt></ruby>
+- Português brasileiro: Vamos confirmar indenização por danos.
+  - カタカナ読み: ヴァモス コンフィルマール インドエンイズアサォン ポル ダノス
   - 日本語確認用: 「Indenização por danos」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3705,17 +4065,25 @@ Orçamento de reparo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar orçamento de reparo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ORÇAMENTO ジ REPARO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar orçamento de reparo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール オルスアムエントオ ジ ルエプアルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Orçamento de reparo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar orçamento de reparo.<rt>ヴァモス コンフィルマール ORÇAMENTO ジ REPARO</rt></ruby>
+- Português brasileiro: Vamos confirmar orçamento de reparo.
+  - カタカナ読み: ヴァモス コンフィルマール オルスアムエントオ ジ ルエプアルオ
   - 日本語確認用: 「Orçamento de reparo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3785,17 +4153,25 @@ Avaliação de danos
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar avaliação de danos e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール AVALIAÇÃO ジ ダノス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar avaliação de danos e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アヴアルイアサォン ジ ダノス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Avaliação de danos」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar avaliação de danos.<rt>ヴァモス コンフィルマール AVALIAÇÃO ジ ダノス</rt></ruby>
+- Português brasileiro: Vamos confirmar avaliação de danos.
+  - カタカナ読み: ヴァモス コンフィルマール アヴアルイアサォン ジ ダノス
   - 日本語確認用: 「Avaliação de danos」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3865,17 +4241,25 @@ Perda total
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar perda total e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERDA TOTAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar perda total e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルドア トオトアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Perda total」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar perda total.<rt>ヴァモス コンフィルマール PERDA TOTAL</rt></ruby>
+- Português brasileiro: Vamos confirmar perda total.
+  - カタカナ読み: ヴァモス コンフィルマール プエルドア トオトアル
   - 日本語確認用: 「Perda total」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -3945,17 +4329,25 @@ Perda parcial
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar perda parcial e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERDA PARCIAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar perda parcial e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルドア プアルクイアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Perda parcial」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar perda parcial.<rt>ヴァモス コンフィルマール PERDA PARCIAL</rt></ruby>
+- Português brasileiro: Vamos confirmar perda parcial.
+  - カタカナ読み: ヴァモス コンフィルマール プエルドア プアルクイアル
   - 日本語確認用: 「Perda parcial」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4025,17 +4417,25 @@ Remoção por guincho
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar remoção por guincho e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール REMOÇÃO ポル GUINCHO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar remoção por guincho e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエムオサォン ポル ギンシオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Remoção por guincho」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar remoção por guincho.<rt>ヴァモス コンフィルマール REMOÇÃO ポル GUINCHO</rt></ruby>
+- Português brasileiro: Vamos confirmar remoção por guincho.
+  - カタカナ読み: ヴァモス コンフィルマール ルエムオサォン ポル ギンシオ
   - 日本語確認用: 「Remoção por guincho」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4105,17 +4505,25 @@ Oficina de reparo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar oficina de reparo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール OFICINA ジ REPARO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar oficina de reparo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール オフイクインア ジ ルエプアルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Oficina de reparo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar oficina de reparo.<rt>ヴァモス コンフィルマール OFICINA ジ REPARO</rt></ruby>
+- Português brasileiro: Vamos confirmar oficina de reparo.
+  - カタカナ読み: ヴァモス コンフィルマール オフイクインア ジ ルエプアルオ
   - 日本語確認用: 「Oficina de reparo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4185,17 +4593,25 @@ Seguradora
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar seguradora e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール SEGURADORA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar seguradora e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグラドーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Seguradora」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar seguradora.<rt>ヴァモス コンフィルマール SEGURADORA</rt></ruby>
+- Português brasileiro: Vamos confirmar seguradora.
+  - カタカナ読み: ヴァモス コンフィルマール セグラドーラ
   - 日本語確認用: 「Seguradora」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4265,17 +4681,25 @@ Agência ou corretora de seguros
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar agência ou corretora de seguros e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール AGÊNCIA OU CORRETORA ジ SEGUROS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar agência ou corretora de seguros e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アグエンクイア オウ クオホエトオルア ジ セグーロス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Agência ou corretora de seguros」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar agência ou corretora de seguros.<rt>ヴァモス コンフィルマール AGÊNCIA OU CORRETORA ジ SEGUROS</rt></ruby>
+- Português brasileiro: Vamos confirmar agência ou corretora de seguros.
+  - カタカナ読み: ヴァモス コンフィルマール アグエンクイア オウ クオホエトオルア ジ セグーロス
   - 日本語確認用: 「Agência ou corretora de seguros」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4345,17 +4769,25 @@ Proposta de contratação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar proposta de contratação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PROPOSTA ジ CONTRATAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar proposta de contratação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Proposta de contratação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar proposta de contratação.<rt>ヴァモス コンフィルマール PROPOSTA ジ CONTRATAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar proposta de contratação.
+  - カタカナ読み: ヴァモス コンフィルマール プルオプオストア ジ クオントルアトアサォン
   - 日本語確認用: 「Proposta de contratação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4425,17 +4857,25 @@ Informações declaradas na contratação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar informações declaradas na contratação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INFORMAÇÕES DECLARADAS NA CONTRATAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar informações declaradas na contratação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インフオルムアソインス ドエクルアルアドアス ナ クオントルアトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Informações declaradas na contratação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar informações declaradas na contratação.<rt>ヴァモス コンフィルマール INFORMAÇÕES DECLARADAS NA CONTRATAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar informações declaradas na contratação.
+  - カタカナ読み: ヴァモス コンフィルマール インフオルムアソインス ドエクルアルアドアス ナ クオントルアトアサォン
   - 日本語確認用: 「Informações declaradas na contratação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4505,17 +4945,25 @@ Obrigação de comunicar alterações
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar obrigação de comunicar alterações e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール オブリガサォン ジ COMUNICAR ALTERAÇÕES イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar obrigação de comunicar alterações e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール オブリガサォン ジ クオムウンイクアル アルトエルアソインス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Obrigação de comunicar alterações」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar obrigação de comunicar alterações.<rt>ヴァモス コンフィルマール オブリガサォン ジ COMUNICAR ALTERAÇÕES</rt></ruby>
+- Português brasileiro: Vamos confirmar obrigação de comunicar alterações.
+  - カタカナ読み: ヴァモス コンフィルマール オブリガサォン ジ クオムウンイクアル アルトエルアソインス
   - 日本語確認用: 「Obrigação de comunicar alterações」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4585,17 +5033,25 @@ Procedimento de alteração
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar procedimento de alteração e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PROCEDIMENTO ジ ALTERAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar procedimento de alteração e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プルオクエドイムエントオ ジ アルトエルアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Procedimento de alteração」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar procedimento de alteração.<rt>ヴァモス コンフィルマール PROCEDIMENTO ジ ALTERAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar procedimento de alteração.
+  - カタカナ読み: ヴァモス コンフィルマール プルオクエドイムエントオ ジ アルトエルアサォン
   - 日本語確認用: 「Procedimento de alteração」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4665,17 +5121,25 @@ Apólice de seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar apólice de seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール APÓLICE ジ セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar apólice de seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アプオルイクエ ジ セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Apólice de seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar apólice de seguro.<rt>ヴァモス コンフィルマール APÓLICE ジ セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar apólice de seguro.
+  - カタカナ読み: ヴァモス コンフィルマール アプオルイクエ ジ セグーロ
   - 日本語確認用: 「Apólice de seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4745,17 +5209,25 @@ Comprovante de renovação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar comprovante de renovação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール COMPROVANTE ジ RENOVAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar comprovante de renovação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クオムプルオヴアントエ ジ ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Comprovante de renovação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar comprovante de renovação.<rt>ヴァモス コンフィルマール COMPROVANTE ジ RENOVAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar comprovante de renovação.
+  - カタカナ読み: ヴァモス コンフィルマール クオムプルオヴアントエ ジ ヘノヴァサォン
   - 日本語確認用: 「Comprovante de renovação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4825,17 +5297,25 @@ Certificado de interrupção
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar certificado de interrupção e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CERTIFICADO ジ INTERRUPÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar certificado de interrupção e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クエルトイフイクアドオ ジ イントエホウプサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Certificado de interrupção」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar certificado de interrupção.<rt>ヴァモス コンフィルマール CERTIFICADO ジ INTERRUPÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar certificado de interrupção.
+  - カタカナ読み: ヴァモス コンフィルマール クエルトイフイクアドオ ジ イントエホウプサォン
   - 日本語確認用: 「Certificado de interrupção」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4904,17 +5384,25 @@ Exclusões e limitações de cobertura
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar exclusões e limitações de cobertura e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール EXCLUSÕES イ LIMITAÇÕES ジ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar exclusões e limitações de cobertura e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール エシクルウスオエス イ ルイムイトアソインス ジ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Exclusões e limitações de cobertura」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar exclusões e limitações de cobertura.<rt>ヴァモス コンフィルマール EXCLUSÕES イ LIMITAÇÕES ジ コベルツーラ</rt></ruby>
+- Português brasileiro: Vamos confirmar exclusões e limitações de cobertura.
+  - カタカナ読み: ヴァモス コンフィルマール エシクルウスオエス イ ルイムイトアソインス ジ コベルツーラ
   - 日本語確認用: 「Exclusões e limitações de cobertura」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -4983,17 +5471,25 @@ Fora da cobertura
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar fora da cobertura e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール FORA DA コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar fora da cobertura e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール フオルア ダ コベルツーラ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Fora da cobertura」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar fora da cobertura.<rt>ヴァモス コンフィルマール FORA DA コベルツーラ</rt></ruby>
+- Português brasileiro: Vamos confirmar fora da cobertura.
+  - カタカナ読み: ヴァモス コンフィルマール フオルア ダ コベルツーラ
   - 日本語確認用: 「Fora da cobertura」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5063,17 +5559,25 @@ Direção sob efeito de álcool
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar direção sob efeito de álcool e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DIREÇÃO SOB EFEITO ジ ÁLCOOL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar direção sob efeito de álcool e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドイルエサォン スオブ エフエイトオ ジ アルクオオル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Direção sob efeito de álcool」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar direção sob efeito de álcool.<rt>ヴァモス コンフィルマール DIREÇÃO SOB EFEITO ジ ÁLCOOL</rt></ruby>
+- Português brasileiro: Vamos confirmar direção sob efeito de álcool.
+  - カタカナ読み: ヴァモス コンフィルマール ドイルエサォン スオブ エフエイトオ ジ アルクオオル
   - 日本語確認用: 「Direção sob efeito de álcool」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5143,17 +5647,25 @@ Direção sem habilitação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar direção sem habilitação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DIREÇÃO SEM HABILITAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar direção sem habilitação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドイルエサォン セン アブイルイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Direção sem habilitação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar direção sem habilitação.<rt>ヴァモス コンフィルマール DIREÇÃO SEM HABILITAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar direção sem habilitação.
+  - カタカナ読み: ヴァモス コンフィルマール ドイルエサォン セン アブイルイトアサォン
   - 日本語確認用: 「Direção sem habilitação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5223,17 +5735,25 @@ Culpa grave
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar culpa grave e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CULPA GRAVE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar culpa grave e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クウルプア グラーヴィ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Culpa grave」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar culpa grave.<rt>ヴァモス コンフィルマール CULPA GRAVE</rt></ruby>
+- Português brasileiro: Vamos confirmar culpa grave.
+  - カタカナ読み: ヴァモス コンフィルマール クウルプア グラーヴィ
   - 日本語確認用: 「Culpa grave」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5303,17 +5823,25 @@ Ato intencional
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar ato intencional e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ATO INTENCIONAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar ato intencional e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アトオ イントエンクイオンアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Ato intencional」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar ato intencional.<rt>ヴァモス コンフィルマール ATO INTENCIONAL</rt></ruby>
+- Português brasileiro: Vamos confirmar ato intencional.
+  - カタカナ読み: ヴァモス コンフィルマール アトオ イントエンクイオンアル
   - 日本語確認用: 「Ato intencional」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5382,17 +5910,25 @@ Terremoto
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar terremoto e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール TERREMOTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar terremoto e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール テヘモート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Terremoto」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar terremoto.<rt>ヴァモス コンフィルマール TERREMOTO</rt></ruby>
+- Português brasileiro: Vamos confirmar terremoto.
+  - カタカナ読み: ヴァモス コンフィルマール テヘモート
   - 日本語確認用: 「Terremoto」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5461,17 +5997,25 @@ Tufão
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar tufão e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール TUFÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar tufão e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール トウフアォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Tufão」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar tufão.<rt>ヴァモス コンフィルマール TUFÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar tufão.
+  - カタカナ読み: ヴァモス コンフィルマール トウフアォン
   - 日本語確認用: 「Tufão」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5541,17 +6085,25 @@ Inundação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar inundação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INUNDAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar inundação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール イヌンダサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Inundação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar inundação.<rt>ヴァモス コンフィルマール INUNDAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar inundação.
+  - カタカナ読み: ヴァモス コンフィルマール イヌンダサォン
   - 日本語確認用: 「Inundação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5621,17 +6173,25 @@ Roubo ou furto do veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar roubo ou furto do veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ROUBO OU FURTO DO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar roubo ou furto do veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ホウボ オウ フルト ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Roubo ou furto do veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar roubo ou furto do veículo.<rt>ヴァモス コンフィルマール ROUBO OU FURTO DO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar roubo ou furto do veículo.
+  - カタカナ読み: ヴァモス コンフィルマール ホウボ オウ フルト ド ヴエイクウルオ
   - 日本語確認用: 「Roubo ou furto do veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5701,17 +6261,25 @@ Vandalismo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar vandalismo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール VANDALISMO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar vandalismo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ヴアンドアルイスムオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Vandalismo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar vandalismo.<rt>ヴァモス コンフィルマール VANDALISMO</rt></ruby>
+- Português brasileiro: Vamos confirmar vandalismo.
+  - カタカナ読み: ヴァモス コンフィルマール ヴアンドアルイスムオ
   - 日本語確認用: 「Vandalismo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5781,17 +6349,25 @@ Dano por pedra lançada
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar dano por pedra lançada e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ダノ ポル PEDRA LANÇADA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar dano por pedra lançada e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ダノ ポル プエドルア ルアンスアドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Dano por pedra lançada」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar dano por pedra lançada.<rt>ヴァモス コンフィルマール ダノ ポル PEDRA LANÇADA</rt></ruby>
+- Português brasileiro: Vamos confirmar dano por pedra lançada.
+  - カタカナ読み: ヴァモス コンフィルマール ダノ ポル プエドルア ルアンスアドア
   - 日本語確認用: 「Dano por pedra lançada」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5861,17 +6437,25 @@ Desastre natural
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar desastre natural e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DESASTRE NATURAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar desastre natural e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドエスアストルエ ンアトウルアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Desastre natural」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar desastre natural.<rt>ヴァモス コンフィルマール DESASTRE NATURAL</rt></ruby>
+- Português brasileiro: Vamos confirmar desastre natural.
+  - カタカナ読み: ヴァモス コンフィルマール ドエスアストルエ ンアトウルアル
   - 日本語確認用: 「Desastre natural」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -5940,17 +6524,25 @@ Usuário do veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar usuário do veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール USUÁRIO DO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar usuário do veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ウスウアルイオ ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Usuário do veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar usuário do veículo.<rt>ヴァモス コンフィルマール USUÁRIO DO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar usuário do veículo.
+  - カタカナ読み: ヴァモス コンフィルマール ウスウアルイオ ド ヴエイクウルオ
   - 日本語確認用: 「Usuário do veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6019,17 +6611,25 @@ Segurado principal nomeado
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar segurado principal nomeado e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール セグラード PRINCIPAL NOMEADO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar segurado principal nomeado e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール セグラード プルインクイプアル ンオムエアドオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Segurado principal nomeado」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar segurado principal nomeado.<rt>ヴァモス コンフィルマール セグラード PRINCIPAL NOMEADO</rt></ruby>
+- Português brasileiro: Vamos confirmar segurado principal nomeado.
+  - カタカナ読み: ヴァモス コンフィルマール セグラード プルインクイプアル ンオムエアドオ
   - 日本語確認用: 「Segurado principal nomeado」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6099,17 +6699,25 @@ Restrição a familiares
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar restrição a familiares e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RESTRIÇÃO A FAMILIARES イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar restrição a familiares e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエストルイサォン ア フアムイルイアルエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Restrição a familiares」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar restrição a familiares.<rt>ヴァモス コンフィルマール RESTRIÇÃO A FAMILIARES</rt></ruby>
+- Português brasileiro: Vamos confirmar restrição a familiares.
+  - カタカナ読み: ヴァモス コンフィルマール ルエストルイサォン ア フアムイルイアルエス
   - 日本語確認用: 「Restrição a familiares」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6179,17 +6787,25 @@ Restrição a casal
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar restrição a casal e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RESTRIÇÃO A CASAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar restrição a casal e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエストルイサォン ア クアスアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Restrição a casal」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar restrição a casal.<rt>ヴァモス コンフィルマール RESTRIÇÃO A CASAL</rt></ruby>
+- Português brasileiro: Vamos confirmar restrição a casal.
+  - カタカナ読み: ヴァモス コンフィルマール ルエストルイサォン ア クアスアル
   - 日本語確認用: 「Restrição a casal」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6259,17 +6875,25 @@ Cobertura adicional para dirigir outro veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar cobertura adicional para dirigir outro veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL PARA DIRIGIR OUTRO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar cobertura adicional para dirigir outro veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドイルイグイル オウトルオ ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Cobertura adicional para dirigir outro veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar cobertura adicional para dirigir outro veículo.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL PARA DIRIGIR OUTRO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar cobertura adicional para dirigir outro veículo.
+  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ドイルイグイル オウトルオ ヴエイクウルオ
   - 日本語確認用: 「Cobertura adicional para dirigir outro veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6339,17 +6963,25 @@ Cobertura adicional para moto pequena da família
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar cobertura adicional para moto pequena da família e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL PARA MOTO PEQUENA DA FAMÍLIA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar cobertura adicional para moto pequena da família e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ムオトオ プエケンア ダ フアムイルイア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Cobertura adicional para moto pequena da família」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar cobertura adicional para moto pequena da família.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL PARA MOTO PEQUENA DA FAMÍLIA</rt></ruby>
+- Português brasileiro: Vamos confirmar cobertura adicional para moto pequena da família.
+  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル パラ ムオトオ プエケンア ダ フアムイルイア
   - 日本語確認用: 「Cobertura adicional para moto pequena da família」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6419,17 +7051,25 @@ Cobertura adicional de responsabilidade civil pessoal
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar cobertura adicional de responsabilidade civil pessoal e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL ジ ヘスポンサビリダージ CIVIL PESSOAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar cobertura adicional de responsabilidade civil pessoal e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ ヘスポンサビリダージ シヴィウ ペソアウ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Cobertura adicional de responsabilidade civil pessoal」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar cobertura adicional de responsabilidade civil pessoal.<rt>ヴァモス コンフィルマール コベルツーラ ADICIONAL ジ ヘスポンサビリダージ CIVIL PESSOAL</rt></ruby>
+- Português brasileiro: Vamos confirmar cobertura adicional de responsabilidade civil pessoal.
+  - カタカナ読み: ヴァモス コンフィルマール コベルツーラ アドイクイオンアル ジ ヘスポンサビリダージ シヴィウ ペソアウ
   - 日本語確認用: 「Cobertura adicional de responsabilidade civil pessoal」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6498,17 +7138,25 @@ Revisão das coberturas
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar revisão das coberturas e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール REVISÃO DAS COBERTURAS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar revisão das coberturas e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエヴイスアォン ダス コベルツーラス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Revisão das coberturas」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar revisão das coberturas.<rt>ヴァモス コンフィルマール REVISÃO DAS COBERTURAS</rt></ruby>
+- Português brasileiro: Vamos confirmar revisão das coberturas.
+  - カタカナ読み: ヴァモス コンフィルマール ルエヴイスアォン ダス コベルツーラス
   - 日本語確認用: 「Revisão das coberturas」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6577,17 +7225,25 @@ Revisão do prêmio do seguro
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar revisão do prêmio do seguro e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール REVISÃO DO PRÊMIO DO セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar revisão do prêmio do seguro e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエヴイスアォン ド プルエムイオ ド セグーロ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Revisão do prêmio do seguro」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar revisão do prêmio do seguro.<rt>ヴァモス コンフィルマール REVISÃO DO PRÊMIO DO セグーロ</rt></ruby>
+- Português brasileiro: Vamos confirmar revisão do prêmio do seguro.
+  - カタカナ読み: ヴァモス コンフィルマール ルエヴイスアォン ド プルエムイオ ド セグーロ
   - 日本語確認用: 「Revisão do prêmio do seguro」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6657,17 +7313,25 @@ Condições do contrato
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar condições do contrato e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONDIÇÕES DO コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar condições do contrato e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コンジソインス ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Condições do contrato」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar condições do contrato.<rt>ヴァモス コンフィルマール CONDIÇÕES DO コントラート</rt></ruby>
+- Português brasileiro: Vamos confirmar condições do contrato.
+  - カタカナ読み: ヴァモス コンフィルマール コンジソインス ド コントラート
   - 日本語確認用: 「Condições do contrato」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6737,17 +7401,25 @@ Explicação de informações importantes
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar explicação de informações importantes e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール EXPLICAÇÃO ジ INFORMAÇÕES IMPORTANTES イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar explicação de informações importantes e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール エシプルイクアサォン ジ インフオルムアソインス イムプオルトアントエス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Explicação de informações importantes」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar explicação de informações importantes.<rt>ヴァモス コンフィルマール EXPLICAÇÃO ジ INFORMAÇÕES IMPORTANTES</rt></ruby>
+- Português brasileiro: Vamos confirmar explicação de informações importantes.
+  - カタカナ読み: ヴァモス コンフィルマール エシプルイクアサォン ジ インフオルムアソインス イムプオルトアントエス
   - 日本語確認用: 「Explicação de informações importantes」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6817,17 +7489,25 @@ Resumo do contrato
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar resumo do contrato e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール RESUMO DO コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar resumo do contrato e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ルエスウムオ ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Resumo do contrato」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar resumo do contrato.<rt>ヴァモス コンフィルマール RESUMO DO コントラート</rt></ruby>
+- Português brasileiro: Vamos confirmar resumo do contrato.
+  - カタカナ読み: ヴァモス コンフィルマール ルエスウムオ ド コントラート
   - 日本語確認用: 「Resumo do contrato」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6897,17 +7577,25 @@ Informações de alerta
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar informações de alerta e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INFORMAÇÕES ジ ALERTA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar informações de alerta e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インフオルムアソインス ジ アルエルトア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Informações de alerta」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar informações de alerta.<rt>ヴァモス コンフィルマール INFORMAÇÕES ジ ALERTA</rt></ruby>
+- Português brasileiro: Vamos confirmar informações de alerta.
+  - カタカナ読み: ヴァモス コンフィルマール インフオルムアソインス ジ アルエルトア
   - 日本語確認用: 「Informações de alerta」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -6977,17 +7665,25 @@ Confirmação do contrato
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar confirmação do contrato e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONFIRMAÇÃO DO コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar confirmação do contrato e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コンフィルマサォン ド コントラート イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Confirmação do contrato」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar confirmação do contrato.<rt>ヴァモス コンフィルマール CONFIRMAÇÃO DO コントラート</rt></ruby>
+- Português brasileiro: Vamos confirmar confirmação do contrato.
+  - カタカナ読み: ヴァモス コンフィルマール コンフィルマサォン ド コントラート
   - 日本語確認用: 「Confirmação do contrato」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7057,17 +7753,25 @@ Informações do cliente
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar informações do cliente e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INFORMAÇÕES DO クリエンチ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar informações do cliente e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インフオルムアソインス ド クリエンチ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Informações do cliente」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar informações do cliente.<rt>ヴァモス コンフィルマール INFORMAÇÕES DO クリエンチ</rt></ruby>
+- Português brasileiro: Vamos confirmar informações do cliente.
+  - カタカナ読み: ヴァモス コンフィルマール インフオルムアソインス ド クリエンチ
   - 日本語確認用: 「Informações do cliente」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7137,17 +7841,25 @@ Informações do veículo
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar informações do veículo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INFORMAÇÕES DO VEÍCULO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar informações do veículo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インフオルムアソインス ド ヴエイクウルオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Informações do veículo」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar informações do veículo.<rt>ヴァモス コンフィルマール INFORMAÇÕES DO VEÍCULO</rt></ruby>
+- Português brasileiro: Vamos confirmar informações do veículo.
+  - カタカナ読み: ヴァモス コンフィルマール インフオルムアソインス ド ヴエイクウルオ
   - 日本語確認用: 「Informações do veículo」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7217,17 +7929,25 @@ Informações do condutor
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar informações do condutor e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール INFORMAÇÕES DO CONDUTOR イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar informações do condutor e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インフオルムアソインス ド クオンドウトオル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Informações do condutor」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar informações do condutor.<rt>ヴァモス コンフィルマール INFORMAÇÕES DO CONDUTOR</rt></ruby>
+- Português brasileiro: Vamos confirmar informações do condutor.
+  - カタカナ読み: ヴァモス コンフィルマール インフオルムアソインス ド クオンドウトオル
   - 日本語確認用: 「Informações do condutor」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7297,17 +8017,25 @@ Fluxo de atendimento em acidente
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar fluxo de atendimento em acidente e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール FLUXO ジ ATENDIMENTO EM ACIDENTE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar fluxo de atendimento em acidente e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール フルウシオ ジ アトエンドイムエントオ エン アクイドエントエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Fluxo de atendimento em acidente」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar fluxo de atendimento em acidente.<rt>ヴァモス コンフィルマール FLUXO ジ ATENDIMENTO EM ACIDENTE</rt></ruby>
+- Português brasileiro: Vamos confirmar fluxo de atendimento em acidente.
+  - カタカナ読み: ヴァモス コンフィルマール フルウシオ ジ アトエンドイムエントオ エン アクイドエントエ
   - 日本語確認用: 「Fluxo de atendimento em acidente」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7377,17 +8105,25 @@ Documentos necessários
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar documentos necessários e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DOCUMENTOS NECESSÁRIOS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar documentos necessários e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドクメントス ンエクエスアルイオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Documentos necessários」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar documentos necessários.<rt>ヴァモス コンフィルマール DOCUMENTOS NECESSÁRIOS</rt></ruby>
+- Português brasileiro: Vamos confirmar documentos necessários.
+  - カタカナ読み: ヴァモス コンフィルマール ドクメントス ンエクエスアルイオス
   - 日本語確認用: 「Documentos necessários」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7457,17 +8193,25 @@ Confirmação de identidade
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar confirmação de identidade e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONFIRMAÇÃO ジ IDENTIDADE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar confirmação de identidade e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール コンフィルマサォン ジ イドエントイドアドエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Confirmação de identidade」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar confirmação de identidade.<rt>ヴァモス コンフィルマール CONFIRMAÇÃO ジ IDENTIDADE</rt></ruby>
+- Português brasileiro: Vamos confirmar confirmação de identidade.
+  - カタカナ読み: ヴァモス コンフィルマール コンフィルマサォン ジ イドエントイドアドエ
   - 日本語確認用: 「Confirmação de identidade」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7537,17 +8281,25 @@ Alteração de endereço
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar alteração de endereço e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ ENDEREÇO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar alteração de endereço e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Alteração de endereço」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar alteração de endereço.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ ENDEREÇO</rt></ruby>
+- Português brasileiro: Vamos confirmar alteração de endereço.
+  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ エンドエルエスオ
   - 日本語確認用: 「Alteração de endereço」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7617,17 +8369,25 @@ Alteração de contato
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar alteração de contato e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ CONTATO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar alteração de contato e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アルトエルアサォン ジ クオントアトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Alteração de contato」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar alteração de contato.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ CONTATO</rt></ruby>
+- Português brasileiro: Vamos confirmar alteração de contato.
+  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ クオントアトオ
   - 日本語確認用: 「Alteração de contato」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7697,17 +8457,25 @@ Alteração de titularidade
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar alteração de titularidade e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ TITULARIDADE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar alteração de titularidade e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アルトエルアサォン ジ トイトウルアルイドアドエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Alteração de titularidade」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar alteração de titularidade.<rt>ヴァモス コンフィルマール ALTERAÇÃO ジ TITULARIDADE</rt></ruby>
+- Português brasileiro: Vamos confirmar alteração de titularidade.
+  - カタカナ読み: ヴァモス コンフィルマール アルトエルアサォン ジ トイトウルアルイドアドエ
   - 日本語確認用: 「Alteração de titularidade」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7777,17 +8545,25 @@ Procedimento de cancelamento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar procedimento de cancelamento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PROCEDIMENTO ジ CANCELAMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar procedimento de cancelamento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プルオクエドイムエントオ ジ クアンクエルアムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Procedimento de cancelamento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar procedimento de cancelamento.<rt>ヴァモス コンフィルマール PROCEDIMENTO ジ CANCELAMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar procedimento de cancelamento.
+  - カタカナ読み: ヴァモス コンフィルマール プルオクエドイムエントオ ジ クアンクエルアムエントオ
   - 日本語確認用: 「Procedimento de cancelamento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7857,17 +8633,25 @@ Aviso de renovação
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar aviso de renovação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール AVISO ジ RENOVAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar aviso de renovação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アヴイスオ ジ ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Aviso de renovação」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar aviso de renovação.<rt>ヴァモス コンフィルマール AVISO ジ RENOVAÇÃO</rt></ruby>
+- Português brasileiro: Vamos confirmar aviso de renovação.
+  - カタカナ読み: ヴァモス コンフィルマール アヴイスオ ジ ヘノヴァサォン
   - 日本語確認用: 「Aviso de renovação」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -7937,17 +8721,25 @@ Controle de vencimento
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar controle de vencimento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONTROLE ジ VENCIMENTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar controle de vencimento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クオントルオルエ ジ ヴエンクイムエントオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Controle de vencimento」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar controle de vencimento.<rt>ヴァモス コンフィルマール CONTROLE ジ VENCIMENTO</rt></ruby>
+- Português brasileiro: Vamos confirmar controle de vencimento.
+  - カタカナ読み: ヴァモス コンフィルマール クオントルオルエ ジ ヴエンクイムエントオ
   - 日本語確認用: 「Controle de vencimento」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語
@@ -8017,17 +8809,25 @@ Atendimento pós-venda
 
 ## ブラジル人顧客への説明方法
 
-<ruby>Vamos confirmar atendimento pós-venda e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ATENDIMENTO PÓS VENDA イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar atendimento pós-venda e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アトエンドイムエントオ プオス ヴエンドア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Atendimento pós-venda」について、契約内容に沿って分かりやすく確認します。
 
 ## 使用フレーズ
 
-### 顧客に伝えるポルトガル語
+### ポルトガル語で伝える内容
 
-- <ruby>Vamos confirmar atendimento pós-venda.<rt>ヴァモス コンフィルマール ATENDIMENTO PÓS VENDA</rt></ruby>
+- Português brasileiro: Vamos confirmar atendimento pós-venda.
+  - カタカナ読み: ヴァモス コンフィルマール アトエンドイムエントオ プオス ヴエンドア
   - 日本語確認用: 「Atendimento pós-venda」について確認しましょう。
-- <ruby>Vou explicar de forma simples, conforme o contrato.<rt>VOU エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+- Português brasileiro: Vou explicar de forma simples, conforme o contrato.
+  - カタカナ読み: ヴォウ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
   - 日本語確認用: 契約内容に沿って、分かりやすく説明します。
 
 ### 社内確認用の日本語

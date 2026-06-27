@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar prazo para solicitação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PRAZO PARA SOLICITAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar prazo para solicitação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プルアズオ パラ スオルイクイトアサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Prazo para solicitação」について、契約内容に沿って分かりやすく確認します。
 

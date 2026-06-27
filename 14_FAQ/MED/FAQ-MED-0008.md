@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar período de carência ou não pagamento e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PERÍODO ジ CARÊNCIA OU NÃO パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar período de carência ou não pagamento e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール プエルイオドオ ジ クアルエンクイア オウ ンアォン パガメント イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Período de carência ou não pagamento」について、契約内容に沿って分かりやすく確認します。
 

@@ -37,20 +37,20 @@ DIALOGUE-HOME-0005
 ## ブラジルポルトガル語版
 
 **顧客:**
-Leitura para pronúncia: クアウ é ア ヘラサォン エントリ アウゲウ イ セグーロ
 Português brasileiro: Qual é a relação entre aluguel e seguro?
+カタカナ読み: クアウ エ ア ヘラサォン エントリ アウゲウ イ セグーロ
 
 **Corretor:**
-Leitura para pronúncia: ヴァモス セパラール オ セグーロ エジジード ノ コントラート ア ヘスポンサビリダージ ド インキリーノ イ ア プロテサォン ドス セウス ベンス
 Português brasileiro: Vamos separar o seguro exigido no contrato, a responsabilidade do inquilino e a proteção dos seus bens.
+カタカナ読み: ヴァモス セパラール オ セグーロ エジジード ノ コントラート ア ヘスポンサビリダージ ド インキリーノ イ ア プロテサォン ドス セウス ベンス
 
 **顧客:**
-Leitura para pronúncia: トード クスト セラ パーゴ ペロ セグーロ
 Português brasileiro: Todo custo será pago pelo seguro?
+カタカナ読み: トード クスト セラ パーゴ プエルオ セグーロ
 
 **Corretor:**
-Leitura para pronúncia: デペンジ ド コントラート ダ カウザ ダ コンフィルマサォン ダ アドミニストラドーラ イ ダ アナリゼ ダ セグラドーラ
 Português brasileiro: Depende do contrato, da causa, da confirmação da administradora e da análise da seguradora.
+カタカナ読み: デペンジ ド コントラート ダ カウザ ダ コンフィルマサォン ダ アドミニストラドーラ イ ダ アナリゼ ダ セグラドーラ
 
 ## 文化・営業上の注意
 

@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar comprovante de cirurgia e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール COMPROVANTE ジ シルルジーア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar comprovante de cirurgia e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クオムプルオヴアントエ ジ シルルジーア イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Comprovante de cirurgia」について、契約内容に沿って分かりやすく確認します。
 

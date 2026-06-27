@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar dados bancários e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DADOS BANCÁRIOS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar dados bancários e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドアドオス ブアンクアルイオス イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Dados bancários」について、契約内容に沿って分かりやすく確認します。
 

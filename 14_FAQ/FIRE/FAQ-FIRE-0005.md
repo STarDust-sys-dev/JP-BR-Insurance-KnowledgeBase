@@ -35,7 +35,13 @@ FIRE
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar valor de reposição e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ヴァロール ジ REPOSIÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar valor de reposição e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ヴァロール ジ ルエプオスイサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Valor de reposição」について、契約内容に沿って分かりやすく確認します。
 

@@ -125,9 +125,25 @@ Os títulos internos dos verbetes devem ser escritos em japonês:
 
 As seções `技術的定義` e `簡単な説明` devem conter conteúdo em japonês, para que o corretor japonês compreenda o conceito técnico sem depender do português.
 
-A seção `ブラジル人顧客への説明方法` deve conter uma frase em português brasileiro que o corretor possa dizer diretamente ao cliente. Essa frase deve ter leitura em katakana associada ao português, para apoiar a pronúncia do corretor japonês.
+A seção `ブラジル人顧客への説明方法` ou `ブラジル人顧客への回答` deve conter uma frase em português brasileiro que o corretor possa dizer diretamente ao cliente. O português deve aparecer de forma explícita, antes da leitura em katakana.
 
 Quando necessário, incluir também `日本語確認用` para registrar o sentido da frase em japonês. Essa linha serve para validação interna do corretor e não substitui a frase em português.
+
+O formato obrigatório para fala ao cliente é:
+
+```text
+### ポルトガル語で伝える内容
+
+Frase em português brasileiro que o corretor pode dizer ao cliente.
+
+### カタカナ読み
+
+Leitura aproximada em katakana, sem letras latinas.
+
+日本語確認用: sentido da frase em japonês.
+```
+
+Nunca esconder a frase em português dentro de marcação `ruby`. A frase portuguesa deve estar visível no Markdown, DOCX, PDF e NotebookLM.
 
 Na seção `使用フレーズ`, separar:
 

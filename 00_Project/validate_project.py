@@ -258,6 +258,17 @@ def main() -> int:
                 warnings["sensitive_doc_without_compliance_limit"].append((path_rel, "missing ## Limite comercial/compliance"))
         if path_rel.startswith("16_NotebookLM/") and not has_japanese(text):
             warnings["notebook_without_japanese"].append((path_rel, "no Japanese text found"))
+        if path_rel.startswith(("02_MasterDictionary/", "14_FAQ/", "13_Dialogues/", "15_CaseStudies/")):
+            if "<ruby>" in text or "<rt>" in text:
+                warnings["customer_portuguese_hidden_in_ruby"].append((path_rel, "customer Portuguese should be explicit, not hidden in ruby markup"))
+        if path_rel.startswith(("02_MasterDictionary/", "14_FAQ/", "13_Dialogues/", "15_CaseStudies/")):
+            if (
+                "ブラジル人顧客" in text
+                and "Português brasileiro:" not in text
+                and "## ブラジルポルトガル語版" not in text
+                and "### ポルトガル語で伝える内容" not in text
+            ):
+                warnings["customer_portuguese_block_missing"].append((path_rel, "missing explicit Portuguese customer-facing text"))
 
     md_stems = {p.stem for p in (ROOT / "19_Markdown").glob("*/*.md")}
     notebook_stems = {p.stem for p in (ROOT / "16_NotebookLM").glob("*.md")}

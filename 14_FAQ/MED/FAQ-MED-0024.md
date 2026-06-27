@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar detalhamento de atendimento médico e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール DETALHAMENTO ジ ATENDIMENTO メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar detalhamento de atendimento médico e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール ドエトアリアムエントオ ジ アトエンドイムエントオ メジコ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Detalhamento de atendimento médico」について、契約内容に沿って分かりやすく確認します。
 

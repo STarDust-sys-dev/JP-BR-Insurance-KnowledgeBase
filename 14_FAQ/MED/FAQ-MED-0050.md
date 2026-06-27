@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar exclusão de parte do corpo e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール EXCLUSÃO ジ PARTE DO CORPO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar exclusão de parte do corpo e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール エシクルウスアォン ジ プアルトエ ド クオルプオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Exclusão de parte do corpo」について、契約内容に沿って分かりやすく確認します。
 

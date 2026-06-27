@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar alteração contratual e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール ALTERAÇÃO CONTRATUAL イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar alteração contratual e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール アルトエルアサォン クオントルアトウアル イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Alteração contratual」について、契約内容に沿って分かりやすく確認します。
 

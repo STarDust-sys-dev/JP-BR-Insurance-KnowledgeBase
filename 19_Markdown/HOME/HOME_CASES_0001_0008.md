@@ -37,9 +37,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -137,9 +137,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -237,9 +237,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -337,9 +337,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -437,9 +437,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -537,9 +537,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -637,9 +637,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 
@@ -737,9 +737,9 @@ HOME
 
 ## ブラジル人顧客への説明方法
 
-Leitura para pronúncia: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
-
 Português brasileiro: Vamos separar o que vem do contrato de aluguel, o que vem do seguro e o que precisa ser analisado pela administradora ou seguradora.
+
+カタカナ読み: ヴァモス セパラール オ キ ヴェン ド コントラート ジ アウゲウ オ キ ヴェン ド セグーロ イ オ キ プレシーザ セール アナリザード ペラ アドミニストラドーラ オウ セグラドーラ
 
 日本語確認用: 契約内容、必要書類、関係先の確認を分けて案内します。
 

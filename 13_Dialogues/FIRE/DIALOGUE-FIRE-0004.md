@@ -37,20 +37,20 @@ DIALOGUE-FIRE-0004
 ## ブラジルポルトガル語版
 
 **顧客:**
-Leitura para pronúncia: オ オ キ エウ プレシーゾ コンフェリール ノ セグーロ コントラ インセンジオ
 Português brasileiro: O que eu preciso conferir no seguro contra incêndio?
+カタカナ読み: オ キ エウ プレシーゾ コンフェリール ノ セグーロ コントラ インセンジオ
 
 **Corretor:**
-Leitura para pronúncia: ヴァモス セパラール エジフィカサォン ベンス ドメスチコス コベルツーラス イ フランキア
 Português brasileiro: Vamos separar edificação, bens domésticos, coberturas e franquia.
+カタカナ読み: ヴァモス セパラール エジフィカサォン ベンス ドメスチコス コベルツーラス イ フランキア
 
 **顧客:**
-Leitura para pronúncia: セ アコンテセール ウン ダノ センプリ ヴォウ ヘセベール
 Português brasileiro: Se acontecer um dano, sempre vou receber?
+カタカナ読み: セ アコンテセール ウン ダノ センプリ ヴォウ ヘセベール
 
 **Corretor:**
-Leitura para pronúncia: ア セグラドーラ ANALISA ア カウザ AS CONDIÇÕES ド コントラート イ OS ドクメントス アンチス ジ デシジール オ パガメント
 Português brasileiro: A seguradora analisa a causa, as condições do contrato e os documentos antes de decidir o pagamento.
+カタカナ読み: ア セグラドーラ アナリーザ ア カウザ アス コンジソインス ド コントラート イ オス ドクメントス アンチス ジ デシジール オ パガメント
 
 ## 文化・営業上の注意
 

@@ -35,7 +35,13 @@ HOME
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar taxa de renovação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール TAXA ジ RENOVAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar taxa de renovação e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール タシャ ジ ヘノヴァサォン イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Taxa de renovação」について、契約内容に沿って分かりやすく確認します。
 

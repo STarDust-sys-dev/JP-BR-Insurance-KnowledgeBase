@@ -35,7 +35,13 @@ HOME
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar custo de troca de chave e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CUSTO ジ TROCA ジ CHAVE イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar custo de troca de chave e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール クスト ジ トルオクア ジ シアヴエ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Custo de troca de chave」について、契約内容に沿って分かりやすく確認します。
 

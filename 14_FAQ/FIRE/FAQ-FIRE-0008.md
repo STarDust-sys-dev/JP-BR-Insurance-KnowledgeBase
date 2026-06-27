@@ -35,7 +35,13 @@ FIRE
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar incêndio e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール インセンジオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar incêndio e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール インセンジオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Incêndio」について、契約内容に沿って分かりやすく確認します。
 

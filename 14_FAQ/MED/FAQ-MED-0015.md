@@ -35,7 +35,13 @@ MED
 
 ## ブラジル人顧客への回答
 
-<ruby>Vamos confirmar gravidez e parto e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール GRAVIDEZ イ PARTO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
+### ポルトガル語で伝える内容
+
+Vamos confirmar gravidez e parto e explicar de forma simples, conforme o contrato.
+
+### カタカナ読み
+
+ヴァモス コンフィルマール グルアヴイドエズ イ プアルトオ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート
 
 日本語確認用: 「Gravidez e parto」について、契約内容に沿って分かりやすく確認します。
 
