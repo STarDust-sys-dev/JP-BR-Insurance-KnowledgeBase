@@ -1,76 +1,81 @@
-# FAQ-MED-0039 - Como confirmar o depósito?
+# FAQ-MED-0039 - 入金確認 - Confirmação de depósito
 
-## Controle
+## 管理情報
 
-- Versão: 0.2
-- Data: 2026-06-26
+- Versão: 0.3
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial; reforço NotebookLM e compliance.
+- Histórico: Criação inicial; reforço NotebookLM e compliance; padronização para consulta do corretor japonês e resposta em português com leitura em katakana.
 
-## Código
+## コード
 
 FAQ-MED-0039
 
-## Categoria
+## カテゴリー
 
 MED
 
-## Pergunta
+## 質問
 
-Como confirmar o depósito?
+ブラジル人のお客様に「Confirmação de depósito」をどのように説明しますか。
 
-## Consulta natural em japonês
+## 日本語での自然な検索
 
-- 給付金の入金はどう確認しますか。
-- 振込確認をブラジル人のお客様にどう説明しますか。
+- 入金確認とは何ですか。
+- ブラジル人のお客様に入金確認をどう説明しますか。
+- 医療保険の相談で「Confirmação de depósito」を説明する時の注意点は何ですか。
 
-## Situação de atendimento
+## 対応場面
 
-Cliente precisa entender documentos, prazo, análise ou pagamento de benefício médico.
+ブラジル人のお客様が「Confirmação de depósito」について質問しており、保障内容、給付条件、必要書類、告知、支払可否または保険会社の判断との関係を確認する場面。
 
-## Resposta técnica
+## 技術的回答
 
-Verificação de que o valor aprovado foi depositado na conta indicada.
+入金確認とは、医療保険の相談、契約確認、給付金請求または契約管理において確認すべき項目です。実際の取り扱いは、契約条件、健康状態、告知内容、診断書、領収書、必要書類および保険会社の判断によって異なります。
 
-## Como responder ao cliente brasileiro
+## ブラジル人顧客への回答
 
-Depois do aviso de pagamento, confirme se o depósito entrou corretamente.
+<ruby>Vamos confirmar confirmação de depósito e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール CONFIRMAÇÃO ジ DEPÓSITO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Próximo passo seguro
+日本語確認用: 「Confirmação de depósito」について、契約内容に沿って分かりやすく確認します。
 
-支払通知、振込予定日、口座名義、通帳・アプリの入金履歴を確認する。
+## 安全な次のステップ
 
-## Limite comercial/compliance
+保険証券、保障内容、給付条件、告知内容、診断書、領収書、通院・入院・手術の記録、保険会社からの案内を確認してから具体的に案内する。
 
-入金前に完了と断定せず、金融機関反映時間や口座誤りの可能性を確認する。
+## コンプライアンス上の注意
 
-## Termos relacionados
+一般説明だけで、加入可否、保障、給付金支払い、診査結果、病歴の扱い、支払金額を断定しない。最終判断は契約条件、告知内容、医療書類、提出書類および保険会社の確認による。
+
+## 関連用語
 
 - MED-0039 - 入金確認 - Confirmação de depósito
 
-## Referências cruzadas
+## 相互参照
 
+- MED-0039
 - DIALOGUE-MED-0010
-- CASE-MED-0015
+- CASE-MED-0013
 
-## Referências
+## 参考資料
 
 - Documento interno: `02_MasterDictionary/MED/MED-0039.md`
 
-## Tags
+## タグ
 
 - faq
 - med
-- deposito
-- pagamento
+- atendimento
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `02_MasterDictionary/MED/MED-0039.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
+| 2026-06-27 | 0.3 | JP-BR Insurance Knowledge Base | Padronização para consulta em japonês e resposta ao cliente em português com leitura em katakana. |

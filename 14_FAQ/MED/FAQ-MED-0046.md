@@ -1,76 +1,81 @@
-# FAQ-MED-0046 - Como preencher questionário de saúde?
+# FAQ-MED-0046 - 告知書 - Questionário de saúde
 
-## Controle
+## 管理情報
 
-- Versão: 0.2
-- Data: 2026-06-26
+- Versão: 0.3
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial; reforço NotebookLM e compliance.
+- Histórico: Criação inicial; reforço NotebookLM e compliance; padronização para consulta do corretor japonês e resposta em português com leitura em katakana.
 
-## Código
+## コード
 
 FAQ-MED-0046
 
-## Categoria
+## カテゴリー
 
 MED
 
-## Pergunta
+## 質問
 
-Como preencher questionário de saúde?
+ブラジル人のお客様に「Questionário de saúde」をどのように説明しますか。
 
-## Consulta natural em japonês
+## 日本語での自然な検索
 
-- 告知書の記入で注意すべき点は何ですか。
-- 医療保険の健康告知をブラジル人のお客様にどう案内しますか。
+- 告知書とは何ですか。
+- ブラジル人のお客様に告知書をどう説明しますか。
+- 医療保険の相談で「Questionário de saúde」を説明する時の注意点は何ですか。
 
-## Situação de atendimento
+## 対応場面
 
-Cliente está em fase de contratação, análise de aceitação ou alteração do seguro médico.
+ブラジル人のお客様が「Questionário de saúde」について質問しており、保障内容、給付条件、必要書類、告知、支払可否または保険会社の判断との関係を確認する場面。
 
-## Resposta técnica
+## 技術的回答
 
-Documento no qual o segurado declara histórico médico, tratamentos, exames e condições de saúde solicitadas pela seguradora.
+告知書とは、医療保険の相談、契約確認、給付金請求または契約管理において確認すべき項目です。実際の取り扱いは、契約条件、健康状態、告知内容、診断書、領収書、必要書類および保険会社の判断によって異なります。
 
-## Como responder ao cliente brasileiro
+## ブラジル人顧客への回答
 
-Responda com cuidado, porque a declaração de saúde influencia a aceitação e o pagamento futuro.
+<ruby>Vamos confirmar questionário de saúde e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール QUESTIONÁRIO ジ サウージ イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Próximo passo seguro
+日本語確認用: 「Questionário de saúde」について、契約内容に沿って分かりやすく確認します。
 
-Revisar se o cliente entendeu todas as perguntas, confirmar períodos solicitados e pedir esclarecimento à seguradora quando houver dúvida antes do envio.
+## 安全な次のステップ
 
-## Limite comercial/compliance
+保険証券、保障内容、給付条件、告知内容、診断書、領収書、通院・入院・手術の記録、保険会社からの案内を確認してから具体的に案内する。
 
-O corretor não deve preencher pelo cliente, corrigir respostas para facilitar aceitação, sugerir omissão ou interpretar diagnóstico médico. A decisão cabe à seguradora.
+## コンプライアンス上の注意
 
-## Termos relacionados
+一般説明だけで、加入可否、保障、給付金支払い、診査結果、病歴の扱い、支払金額を断定しない。最終判断は契約条件、告知内容、医療書類、提出書類および保険会社の確認による。
+
+## 関連用語
 
 - MED-0046 - 告知書 - Questionário de saúde
 
-## Referências cruzadas
+## 相互参照
 
+- MED-0046
 - DIALOGUE-MED-0012
-- CASE-MED-0018
+- CASE-MED-0016
 
-## Referências
+## 参考資料
 
 - Documento interno: `02_MasterDictionary/MED/MED-0046.md`
 
-## Tags
+## タグ
 
 - faq
 - med
-- questionario saude
-- avaliacao
+- atendimento
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `02_MasterDictionary/MED/MED-0046.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
+| 2026-06-27 | 0.3 | JP-BR Insurance Knowledge Base | Padronização para consulta em japonês e resposta ao cliente em português com leitura em katakana. |

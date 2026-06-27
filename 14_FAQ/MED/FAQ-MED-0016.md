@@ -1,76 +1,81 @@
-# FAQ-MED-0016 - Parto com complicação pode ter cobertura diferente?
+# FAQ-MED-0016 - 異常分娩 - Parto com complicação
 
-## Controle
+## 管理情報
 
-- Versão: 0.2
-- Data: 2026-06-26
+- Versão: 0.3
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial; reforço NotebookLM e compliance.
+- Histórico: Criação inicial; reforço NotebookLM e compliance; padronização para consulta do corretor japonês e resposta em português com leitura em katakana.
 
-## Código
+## コード
 
 FAQ-MED-0016
 
-## Categoria
+## カテゴリー
 
 MED
 
-## Pergunta
+## 質問
 
-Parto com complicação pode ter cobertura diferente?
+ブラジル人のお客様に「Parto com complicação」をどのように説明しますか。
 
-## Consulta natural em japonês
+## 日本語での自然な検索
 
-- 出産の合併症は通常の出産と保障が違いますか。
-- 帝王切開や異常分娩をブラジル人のお客様にどう説明しますか。
+- 異常分娩とは何ですか。
+- ブラジル人のお客様に異常分娩をどう説明しますか。
+- 医療保険の相談で「Parto com complicação」を説明する時の注意点は何ですか。
 
-## Situação de atendimento
+## 対応場面
 
-Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
+ブラジル人のお客様が「Parto com complicação」について質問しており、保障内容、給付条件、必要書類、告知、支払可否または保険会社の判断との関係を確認する場面。
 
-## Resposta técnica
+## 技術的回答
 
-Situação de parto com complicação médica, podendo ter tratamento diferente de parto normal conforme contrato.
+異常分娩とは、医療保険の相談、契約確認、給付金請求または契約管理において確認すべき項目です。実際の取り扱いは、契約条件、健康状態、告知内容、診断書、領収書、必要書類および保険会社の判断によって異なります。
 
-## Como responder ao cliente brasileiro
+## ブラジル人顧客への回答
 
-Alguns seguros diferenciam parto normal e parto com complicação. Precisamos conferir a regra.
+<ruby>Vamos confirmar parto com complicação e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール PARTO COM COMPLICAÇÃO イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Próximo passo seguro
+日本語確認用: 「Parto com complicação」について、契約内容に沿って分かりやすく確認します。
 
-合併症の診断名、手術・入院内容、加入時期、特別条件、必要書類を確認する。
+## 安全な次のステップ
 
-## Limite comercial/compliance
+保険証券、保障内容、給付条件、告知内容、診断書、領収書、通院・入院・手術の記録、保険会社からの案内を確認してから具体的に案内する。
 
-医療判断を行わず、診断書と保険会社査定に基づいて案内する。
+## コンプライアンス上の注意
 
-## Termos relacionados
+一般説明だけで、加入可否、保障、給付金支払い、診査結果、病歴の扱い、支払金額を断定しない。最終判断は契約条件、告知内容、医療書類、提出書類および保険会社の確認による。
+
+## 関連用語
 
 - MED-0016 - 異常分娩 - Parto com complicação
 
-## Referências cruzadas
+## 相互参照
 
+- MED-0016
 - DIALOGUE-MED-0004
 - CASE-MED-0006
 
-## Referências
+## 参考資料
 
 - Documento interno: `02_MasterDictionary/MED/MED-0016.md`
 
-## Tags
+## タグ
 
 - faq
 - med
-- seguro-medico
-- beneficio
+- atendimento
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `02_MasterDictionary/MED/MED-0016.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
+| 2026-06-27 | 0.3 | JP-BR Insurance Knowledge Base | Padronização para consulta em japonês e resposta ao cliente em português com leitura em katakana. |

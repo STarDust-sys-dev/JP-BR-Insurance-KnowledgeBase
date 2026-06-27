@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Padronização das 60 FAQs MED: estrutura em japonês para consulta do corretor, resposta ao cliente em português brasileiro com leitura em katakana, reforço de compliance médico e regeneração dos pacotes `MED_FAQ_0001_0020`, `MED_FAQ_0021_0040` e `MED_FAQ_0041_0060`.
+
 - Padronização dos guias e pacotes NotebookLM FIRE/HOME: mapas de consulta em japonês para o corretor, fluxo recomendado de busca, orientação de uso de FAQ/DIALOGUE/CASE e regeneração de DOCX/PDF de `FIRE_INDEX_0001`, `FIRE_NOTEBOOKLM_PACK_0001`, `FIRE_NAVIGATION_GUIDE`, `HOME_INDEX_0001`, `HOME_NOTEBOOKLM_PACK_0001` e `HOUSING_NAVIGATION_GUIDE`.
 
 - Padronização dos estudos de caso FIRE e HOME: estrutura em japonês, análise e orientação para o corretor japonês, explicação ao cliente em português brasileiro com leitura em katakana e regeneração dos pacotes `FIRE_CASES_0001_0008` e `HOME_CASES_0001_0008`.

@@ -1,76 +1,81 @@
-# FAQ-MED-0007 - Existe limite de dias pagos?
+# FAQ-MED-0007 - 支払限度日数 - Limite de dias pagos
 
-## Controle
+## 管理情報
 
-- Versão: 0.2
-- Data: 2026-06-26
+- Versão: 0.3
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial; reforço NotebookLM e compliance.
+- Histórico: Criação inicial; reforço NotebookLM e compliance; padronização para consulta do corretor japonês e resposta em português com leitura em katakana.
 
-## Código
+## コード
 
 FAQ-MED-0007
 
-## Categoria
+## カテゴリー
 
 MED
 
-## Pergunta
+## 質問
 
-Existe limite de dias pagos?
+ブラジル人のお客様に「Limite de dias pagos」をどのように説明しますか。
 
-## Consulta natural em japonês
+## 日本語での自然な検索
 
-- 医療保険には支払日数の限度がありますか。
-- 一回の入院や通算限度をブラジル人のお客様にどう説明しますか。
+- 支払限度日数とは何ですか。
+- ブラジル人のお客様に支払限度日数をどう説明しますか。
+- 医療保険の相談で「Limite de dias pagos」を説明する時の注意点は何ですか。
 
-## Situação de atendimento
+## 対応場面
 
-Cliente quer entender seguro médico, benefícios, limites ou condições de cobertura.
+ブラジル人のお客様が「Limite de dias pagos」について質問しており、保障内容、給付条件、必要書類、告知、支払可否または保険会社の判断との関係を確認する場面。
 
-## Resposta técnica
+## 技術的回答
 
-Número máximo de dias que a seguradora paga por internação, doença, acidente ou período, conforme contrato.
+支払限度日数とは、医療保険の相談、契約確認、給付金請求または契約管理において確認すべき項目です。実際の取り扱いは、契約条件、健康状態、告知内容、診断書、領収書、必要書類および保険会社の判断によって異なります。
 
-## Como responder ao cliente brasileiro
+## ブラジル人顧客への回答
 
-Mesmo internado por mais tempo, pode haver limite de dias pagos.
+<ruby>Vamos confirmar limite de dias pagos e explicar de forma simples, conforme o contrato.<rt>ヴァモス コンフィルマール LIMITE ジ DIAS PAGOS イ エスプリカール ジ フォルマ シンプレス コンフォルミ オ コントラート</rt></ruby>
 
-## Próximo passo seguro
+日本語確認用: 「Limite de dias pagos」について、契約内容に沿って分かりやすく確認します。
 
-一入院限度、通算限度、疾病別扱い、再入院時の通算条件を確認する。
+## 安全な次のステップ
 
-## Limite comercial/compliance
+保険証券、保障内容、給付条件、告知内容、診断書、領収書、通院・入院・手術の記録、保険会社からの案内を確認してから具体的に案内する。
 
-長期入院でも全日数が支払われるとは説明せず、限度日数を明示する。
+## コンプライアンス上の注意
 
-## Termos relacionados
+一般説明だけで、加入可否、保障、給付金支払い、診査結果、病歴の扱い、支払金額を断定しない。最終判断は契約条件、告知内容、医療書類、提出書類および保険会社の確認による。
+
+## 関連用語
 
 - MED-0007 - 支払限度日数 - Limite de dias pagos
 
-## Referências cruzadas
+## 相互参照
 
+- MED-0007
 - DIALOGUE-MED-0002
 - CASE-MED-0003
 
-## Referências
+## 参考資料
 
 - Documento interno: `02_MasterDictionary/MED/MED-0007.md`
 
-## Tags
+## タグ
 
 - faq
 - med
-- seguro-medico
-- beneficio
+- atendimento
+- japanese-broker
 
-## Veja também
+## 関連項目
 
 - `02_MasterDictionary/MED/MED-0007.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
-| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de consulta japonesa, próximo passo seguro e limite comercial/compliance. |
+| 2026-06-27 | 0.3 | JP-BR Insurance Knowledge Base | Padronização para consulta em japonês e resposta ao cliente em português com leitura em katakana. |
