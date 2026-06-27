@@ -1,65 +1,73 @@
 # CASE-MED-0014 - Cliente enviou documentos com erro de identificação
 
-## Controle
+## 管理情報
 
-- Versão: 0.2
-- Data: 2026-06-26
+- Versão: 0.3
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Criação inicial; inclusão de limite comercial/compliance.
+- Histórico: Padronização da explicação ao cliente brasileiro com português explícito e leitura em katakana.
 
-## Código
+## コード
 
 CASE-MED-0014
 
-## Produto ou categoria
+## 商品・カテゴリー
 
 MED
 
-## Situação
+## 状況
 
-Cliente enviou documentos com erro de identificação.
+追加書類や不備対応を確認する相談。
 
-## Problema
+## 問題
 
-Cliente pode atrasar a análise por falta de documento, expectativa incorreta sobre pagamento ou envio de informação incompleta.
+顧客が制度、契約条件、必要書類、保険会社の査定を混同し、支払いや加入可否を期待してしまう可能性がある。
 
-## Análise
+## 分析
 
-O corretor deve separar orientação documental, explicação de contrato e decisão da seguradora. A comunicação precisa ser clara para evitar promessa indevida.
+契約内容、告知内容、関連日付、医療書類、保険会社の確認事項を分けて整理する必要がある。
 
-## Orientação ao corretor
+## 募集人への対応方針
 
-Confirmar evento médico, benefício solicitado, documentos exigidos, prazo, dados do segurado e canal correto de envio.
+顧客の質問を短く確認し、契約書類と必要書類を確認したうえで、一般説明と保険会社の正式判断を分けて案内する。
 
-## Como explicar ao cliente brasileiro
+## ブラジル人顧客への説明方法
 
-Vamos organizar os documentos por etapa. A seguradora decide depois da análise, mas quanto mais correto estiver o envio, menor o risco de atraso.
+### ポルトガル語で伝える内容
 
-## Resultado esperado
+Se houver pendência, vamos identificar exatamente o que falta e enviar o complemento correto.
 
-Cliente entende o próximo passo e entrega documentação compatível com a solicitação.
+### カタカナ読み
 
-## Limite comercial/compliance
+セ オヴェール ペンデンシア、ヴァモス イデンチフィカール エザタメンチ オ キ ファウタ イ エンヴィアール オ コンプレメント コヘト
 
-O corretor deve usar este caso como orientação de atendimento, sem prometer aceitação, cobertura, pagamento, prazo, diagnóstico, enquadramento médico ou resultado de análise. A decisão final depende do contrato, declaração de saúde, documentos médicos, datas relevantes e avaliação da seguradora.
+日本語確認用: 契約内容、告知、書類、日付、保険会社の査定を確認したうえで、顧客に過度な約束をせず説明する。
 
-## Termos relacionados
+## 期待される結果
+
+顧客が次に確認すべき書類、判断できること、保険会社の査定が必要なことを理解する。
+
+## コンプライアンス上の注意
+
+募集人はこのケースを対応方針として使用し、契約成立、引受可否、補償、支払可否、返金、診断、医療判断、査定結果を断定しない。最終判断は契約条件、告知内容、提出書類、関連日付、保険会社の査定による。
+
+## 関連用語
 
 - MED-0031
 - MED-0032
 - MED-0033
 
-## FAQs relacionadas
+## 関連FAQ
 
 - FAQ-MED-0031
 - FAQ-MED-0032
 - FAQ-MED-0033
 
-## Diálogos relacionados
+## 関連対話
 
 - DIALOGUE-MED-0008
 
-## Referências cruzadas
+## 相互参照
 
 - MED-0031
 - MED-0032
@@ -69,24 +77,25 @@ O corretor deve usar este caso como orientação de atendimento, sem prometer ac
 - FAQ-MED-0033
 - DIALOGUE-MED-0008
 
-## Referências
+## 参考資料
 
 - Documento interno: `EDITORIAL_RULES.md`
 
-## Tags
+## タグ
 
 - case
 - med
 - documentos
 - pagamento
 
-## Veja também
+## 関連項目
 
 - `13_Dialogues/MED/DIALOGUE-MED-0008.md`
 
-## Histórico de revisão
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de limite comercial/compliance para uso seguro em atendimento e NotebookLM. |
+| 2026-06-27 | 0.3 | JP-BR Insurance Knowledge Base | 内部説明を日本語化し、顧客向けポルトガル語説明との役割を分離。 |

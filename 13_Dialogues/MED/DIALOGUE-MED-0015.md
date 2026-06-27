@@ -1,13 +1,13 @@
 # DIALOGUE-MED-0015 - Confirmação contratual, cancelamento, retirada da proposta e alteração
 
-## Controle
+## 管理情報
 
-- Versão: 0.2
-- Data: 2026-06-26
+- Versão: 0.3
+- Data: 2026-06-27
 - Autor: JP-BR Insurance Knowledge Base
-- Histórico: Normalização bilíngue para uso por corretor japonês no NotebookLM.
+- Histórico: Padronização do roteiro de fala ao cliente brasileiro com português explícito e leitura em katakana.
 
-## Código
+## コード
 
 DIALOGUE-MED-0015
 
@@ -15,74 +15,73 @@ DIALOGUE-MED-0015
 
 MED
 
-## Situação de atendimento
+## 対応場面
 
-Cliente quer conferir ou alterar contrato recém emitido.
+ブラジル人顧客が契約内容の変更や追加告知の必要性を確認する場面。
 
-## Participantes
+## 参加者
 
-- Corretor: corretor japonês
-- Cliente: cliente brasileiro residente no Japão
+- 募集人: 日本人保険募集人
+- 顧客: 日本在住のブラジル人顧客
 
-## Objetivo do diálogo
+## 対話の目的
 
-Orientar confirmação do contrato, direito de cancelamento, retirada da proposta e alteração contratual.
+変更可能な範囲、必要書類、追加査定、健康告知の要否を確認する。
 
-## Versão em japonês
+## 日本語版
 
-**Corretor:** 契約内容確認では、保障内容、保険料、契約者、被保険者を確認します。
+**募集人:** 契約内容確認では、保障内容、保険料、契約者、被保険者を確認します。
 
-**Cliente:** それはポルトガル語でお客様にどう説明すればよいですか。
+**顧客:** それはポルトガル語でお客様にどう説明すればよいですか。
 
-**Corretor:** クーリングオフや申込撤回には期限と条件があります。
+**募集人:** クーリングオフや申込撤回には期限と条件があります。
 
-**Cliente:** 支払いを約束してもよいですか。
+**顧客:** 支払いを約束してもよいですか。
 
-**Corretor:** 契約変更は、保険会社の手続きに従って確認します。
+**募集人:** 契約変更は、保険会社の手続きに従って確認します。
 
-## Versão em português brasileiro
+## ブラジルポルトガル語版
 
-**Corretor:** Na confirmação do contrato, vamos conferir cobertura, valor, contratante e segurado.
+**募集人:** Na confirmação do contrato, vamos conferir cobertura, valor, contratante e segurado.
 
-**Cliente:** Então isso já garante o pagamento?
+**顧客:** Então isso já garante o pagamento?
 
-**Corretor:** Cancelamento no prazo legal ou retirada da proposta têm prazo e regras próprias.
+**募集人:** Cancelamento no prazo legal ou retirada da proposta têm prazo e regras próprias.
 
-**Cliente:** O que eu preciso fazer agora?
+**顧客:** O que eu preciso fazer agora?
 
-**Corretor:** Alteração contratual precisa seguir o procedimento da seguradora.
+**募集人:** Alteração contratual precisa seguir o procedimento da seguradora.
 
-## Notas culturais ou comerciais
+## 文化・営業上の注意
 
-- Confirmar documentos e condições antes de orientar o cliente.
-- Não prometer aceitação, cobertura ou pagamento antes da análise da seguradora.
-- Usar português simples e evitar tradução literal quando prejudicar a compreensão.
+- 医療保険と公的医療制度、治療費の精算、給付金の支払いを混同しない。
+- 顧客には短いポルトガル語で説明し、正式判断は保険会社の査定事項として分ける。
 
-## Pontos de atenção para o corretor
+## 募集人の注意点
 
-- Registrar a dúvida principal do cliente.
-- Separar explicação comercial de decisão formal da seguradora.
-- Apontar os verbetes e FAQs relacionados quando houver dúvida técnica.
+- 顧客の質問を先に確認し、契約内容、告知内容、医療書類、関連日付を分けて整理する。
+- 加入可否、支払可否、支払時期、査定結果を断定しない。
+- ポルトガル語の説明は短く、確認が必要な点は日本語で内部確認する。
 
-## Termos relacionados
+## 関連用語
 
 - MED-0057
 - MED-0058
 - MED-0059
 - MED-0060
 
-## FAQs relacionadas
+## 関連FAQ
 
 - FAQ-MED-0057
 - FAQ-MED-0058
 - FAQ-MED-0059
 - FAQ-MED-0060
 
-## Casos relacionados
+## 関連ケース
 
 - CASE-MED-0024
 
-## Referências cruzadas
+## 相互参照
 
 - MED-0057
 - MED-0058
@@ -94,19 +93,44 @@ Orientar confirmação do contrato, direito de cancelamento, retirada da propost
 - FAQ-MED-0060
 - CASE-MED-0024
 
-## Tags
+## タグ
 
 - dialogue
 - med
 - atendimento-bilingue
 - notebooklm
 
-## Veja também
+## 関連項目
 
 - `15_CaseStudies/MED/CASE-MED-0024.md`
 
-## Histórico de revisão
+## ブラジルポルトガル語実用フレーズ
+
+Este bloco é a versão operacional para o corretor japonês falar com o cliente brasileiro. O português deve ser lido primeiro; a linha em katakana serve apenas como apoio de pronúncia.
+
+**顧客:**
+Português brasileiro: Posso mudar o contrato depois?
+カタカナ読み: ポッソ ムダール オ コントラト デポイス
+日本語確認用: 契約変更の可否を確認する質問。
+
+**募集人:**
+Português brasileiro: Algumas alterações podem ser possíveis, mas dependem das regras do contrato e da seguradora.
+カタカナ読み: アウグマス アウテラソィンス ポデン セール ポッシヴェイス、マス デペンデン ダス ヘグラス ド コントラト イ ダ セグラドーラ
+日本語確認用: 変更可否は契約規定と保険会社により異なる。
+
+**顧客:**
+Português brasileiro: Preciso fazer nova declaração de saúde?
+カタカナ読み: プレシゾ ファゼール ノーヴァ デクララサォン ジ サウージ
+日本語確認用: 変更時の告知要否を確認する質問。
+
+**募集人:**
+Português brasileiro: Pode ser necessário. Vamos confirmar antes de solicitar a alteração.
+カタカナ読み: ポジ セール ネセサリオ。ヴァモス コンフィルマール アンチス ジ ソリシタール ア アウテラサォン
+日本語確認用: 変更申請前に必要条件を確認する。
+
+## 改訂履歴
 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-26 | 0.2 | JP-BR Insurance Knowledge Base | Normalização bilíngue com versão japonesa e portuguesa. |
+| 2026-06-27 | 0.3 | JP-BR Insurance Knowledge Base | 内部説明を日本語化し、顧客向けポルトガル語フレーズとの役割を分離。 |

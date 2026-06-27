@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Fechamento do padrão MED em diálogos e estudos de caso: `DIALOGUE-MED-0001` a `DIALOGUE-MED-0015` e `CASE-MED-0001` a `CASE-MED-0024` agora incluem fala ao cliente brasileiro em português explícito, leitura em katakana, confirmação japonesa e pacotes Markdown/DOCX/PDF regenerados.
+
 - Correção integral do padrão de atendimento ao cliente brasileiro: frases em português brasileiro agora aparecem explicitamente antes da leitura em katakana nos verbetes, FAQs MED/FIRE/HOME, diálogos FIRE/HOME e estudos de caso FIRE/HOME; remoção de marcação `ruby` nos conteúdos de atendimento; reforço do validador para bloquear português escondido e ausência de bloco português ao cliente.
 
 - Padronização das 60 FAQs MED: estrutura em japonês para consulta do corretor, resposta ao cliente em português brasileiro com leitura em katakana, reforço de compliance médico e regeneração dos pacotes `MED_FAQ_0001_0020`, `MED_FAQ_0021_0040` e `MED_FAQ_0041_0060`.
