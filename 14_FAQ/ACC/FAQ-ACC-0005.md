@@ -35,19 +35,15 @@ ACC
 
 ## ブラジル人顧客への回答
 
-### PT-Br
+### ポルトガル語で伝える内容
 
 Se a internação foi causada por acidente, o seguro pode ser analisado conforme o contrato. Vamos verificar o motivo da internação, os dias, a franquia temporal, os documentos e a decisão da seguradora.
 
-### JP（ふりがな）
-
-上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
-
-ふりがな: けいやくかくにん、しょるいかくにん、ほけんがいしゃのさていがひつようであることを、みじかくつたえます。
-
-### Leitura de apoio para o corretor
+### カタカナ読み
 
 セ ア インテルナサォン フォイ カウザーダ ポル アシデンチ、オ セグーロ ポジ セール アナリザード コンフォルミ オ コントラト。ヴァモス ヴェリフィカール オ モチーヴォ ダ インテルナサォン、オス ジアス、ア フランキア テンポラウ、オス ドクメントス イ ア デシザォン ダ セグラドーラ
+
+日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
 
 ## 安全な次のステップ
 

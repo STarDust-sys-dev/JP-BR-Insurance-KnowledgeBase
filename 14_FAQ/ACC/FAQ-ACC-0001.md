@@ -35,19 +35,15 @@ ACC
 
 ## ブラジル人顧客への回答
 
-### PT-Br
+### ポルトガル語で伝える内容
 
 Se o acidente foi no trabalho, precisamos separar o seguro de acidente de trabalho do seguro privado de acidentes. Vamos verificar seu contrato, os documentos e o procedimento correto antes de falar sobre cobertura.
 
-### JP（ふりがな）
-
-上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
-
-ふりがな: けいやくかくにん、しょるいかくにん、ほけんがいしゃのさていがひつようであることを、みじかくつたえます。
-
-### Leitura de apoio para o corretor
+### カタカナ読み
 
 セ オ アシデンチ フォイ ノ トラバーリョ、プレシザモス セパラール オ セグーロ ジ アシデンチ ジ トラバーリョ ド セグーロ プリヴァード ジ アシデンチス。ヴァモス ヴェリフィカール セウ コントラト、オス ドクメントス イ オ プロセジメント コヘト アンチス ジ ファラール ソブリ コベルトゥーラ
+
+日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
 
 ## 安全な次のステップ
 

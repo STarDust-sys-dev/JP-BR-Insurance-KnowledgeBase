@@ -35,19 +35,15 @@ ACC
 
 ## ブラジル人顧客への回答
 
-### PT-Br
+### ポルトガル語で伝える内容
 
 O seguro de acidente é voltado para ferimentos causados por acidente. O seguro médico trata de doença, internação ou cirurgia conforme o contrato. Vamos separar a causa e verificar qual seguro se aplica.
 
-### JP（ふりがな）
-
-上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
-
-ふりがな: けいやくかくにん、しょるいかくにん、ほけんがいしゃのさていがひつようであることを、みじかくつたえます。
-
-### Leitura de apoio para o corretor
+### カタカナ読み
 
 オ セグーロ ジ アシデンチ エ ヴォウタード パラ フェリメントス カウザードス ポル アシデンチ。オ セグーロ メジコ トラタ ジ ドエンサ、インテルナサォン オウ シルルジア コンフォルミ オ コントラト。ヴァモス セパラール ア カウザ イ ヴェリフィカール クアウ セグーロ セ アプリカ
+
+日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
 
 ## 安全な次のステップ
 

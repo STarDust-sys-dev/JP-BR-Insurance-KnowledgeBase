@@ -4,6 +4,10 @@
 
 ### Adicionado
 
+- Segundo lote editorial ACC: criação de 5 FAQs, 2 diálogos e 2 estudos de caso sobre aviso de acidente, documentos médicos,通勤災害,免責日数 e免責事由, com pacotes Markdown/DOCX/PDF.
+
+- Normalização dos blocos ACC de fala ao cliente para o padrão constitucional `ポルトガル語で伝える内容` + `カタカナ読み` + `日本語確認用`, com DOCX/PDF regenerados.
+
 - Abertura editorial da categoria ACC a partir do piloto multi-IA: criação dos 10 primeiros verbetes e 5 FAQs revisadas sobre seguro de acidentes, com remoção de romaji, separação entre `労災保険`, `健康保険` e `傷害保険`, compliance e pacotes Markdown/DOCX/PDF.
 
 - Piloto multi-IA para FAQs ACC em `00_Project/multi_ai_pilot`: prompts, saídas brutas de Claude/Gemini/Perplexity/Copilot/ChatGPT e relatório editorial com decisão de manter Claude, Gemini e Perplexity no fluxo, remover Copilot do fluxo principal e corrigir/regerar as FAQs antes de publicação oficial.

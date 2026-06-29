@@ -35,19 +35,15 @@ ACC
 
 ## ブラジル人顧客への回答
 
-### PT-Br
+### ポルトガル語で伝える内容
 
 Fratura causada por acidente pode ser analisada pelo seguro de acidentes, mas precisamos confirmar o contrato, o diagnóstico, os documentos e se houve internação, cirurgia ou tratamento ambulatorial. A seguradora fará a análise final.
 
-### JP（ふりがな）
-
-上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
-
-ふりがな: けいやくかくにん、しょるいかくにん、ほけんがいしゃのさていがひつようであることを、みじかくつたえます。
-
-### Leitura de apoio para o corretor
+### カタカナ読み
 
 フラトゥーラ カウザーダ ポル アシデンチ ポジ セール アナリザーダ ペロ セグーロ ジ アシデンチス、マス プレシザモス コンフィルマール オ コントラト、オ ジアグノスチコ、オス ドクメントス イ セ オウヴィ インテルナサォン、シルルジア オウ トラタメント アンブラトリアウ。ア セグラドーラ ファラ ア アナリジ フィナウ
+
+日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
 
 ## 安全な次のステップ
 

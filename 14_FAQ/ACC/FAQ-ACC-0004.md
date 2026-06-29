@@ -35,19 +35,15 @@ ACC
 
 ## ブラジル人顧客への回答
 
-### PT-Br
+### ポルトガル語で伝える内容
 
 Os documentos dependem do tipo de acidente e do contrato. Em geral, vamos confirmar relatório do acidente, documento médico, recibos, identificação e o formulário da seguradora antes de pedir documentos caros ao hospital.
 
-### JP（ふりがな）
-
-上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
-
-ふりがな: けいやくかくにん、しょるいかくにん、ほけんがいしゃのさていがひつようであることを、みじかくつたえます。
-
-### Leitura de apoio para o corretor
+### カタカナ読み
 
 オス ドクメントス デペンデン ド チポ ジ アシデンチ イ ド コントラト。エン ジェラウ、ヴァモス コンフィルマール ヘラトリオ ド アシデンチ、ドクメント メジコ、ヘシボス、イデンチフィカサォン イ オ フォルムラリオ ダ セグラドーラ アンチス ジ ペジール ドクメントス カーロス アオ オスピタウ
+
+日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
 
 ## 安全な次のステップ
 
