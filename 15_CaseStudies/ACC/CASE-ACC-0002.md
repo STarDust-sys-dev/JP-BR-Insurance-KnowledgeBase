@@ -1,4 +1,4 @@
-# CASE-ACC-0002 - Internação por acidente com免責日数
+# CASE-ACC-0002 - 事故入院と免責日数の説明
 
 ## 管理情報
 

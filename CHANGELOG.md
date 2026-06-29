@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 2026-06-29
+
+### Adicionado
+
+- Revisão de sintonia da equipe em `00_Project/TEAM_ALIGNMENT_REVIEW_2026-06-29.md`, consolidando pareceres de subagentes sobre ACC, NotebookLM, português de atendimento e compliance.
+- Briefing permanente `01_Editorial/AGENT_ALIGNMENT_BRIEF.md` para alinhar agente principal, subagentes e LLMs externas ao objetivo maior do projeto.
+- Camada NotebookLM da categoria ACC com `16_NotebookLM/ACC_INDEX_0001.md` e `16_NotebookLM/ACC_NOTEBOOKLM_PACK_0001.md`.
+- Guia de navegação `10_Accident/ACC_NAVIGATION_GUIDE.md` para consulta por produto na categoria de acidentes.
+- Regra de revisão periódica autônoma no fluxo de subagentes, com foco em sintonia editorial, NotebookLM, português de atendimento e compliance.
+- `.gitignore` para evitar ruído local de `.DS_Store`.
+
+### Corrigido
+
+- Padronização do título de `CASE-ACC-0002` para japonês claro e melhor recuperação por `免責日数`.
+- Ampliação dos termos obrigatórios ACC no pacote NotebookLM, incluindo `保険金請求`, `請求書類`, `領収書`, `事故証明書`, `通院保険金`, `死亡保険金`, `後遺障害保険金`, `急激`, `偶然` e `外来`.
+
 ## 2026-06-27
 
 ### Adicionado

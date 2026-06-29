@@ -90,6 +90,7 @@ Responsavel por:
 
 Cada subagente deve receber:
 
+- briefing de alinhamento `01_Editorial/AGENT_ALIGNMENT_BRIEF.md`
 - objetivo do ciclo
 - arquivos ou pastas em escopo
 - papel editorial esperado
@@ -153,6 +154,7 @@ Usar subagentes em ciclos que envolvam:
 - mudanca em regras editoriais
 - abertura de nova categoria de produto
 - auditoria de qualidade antes de grande expansao
+- revisao periodica de sintonia entre producao, NotebookLM, portugues de atendimento e compliance
 
 Nao e necessario usar subagentes para:
 
@@ -178,15 +180,44 @@ Cada ciclo de normalizacao deve reduzir a fila de warnings ou justificar no rela
 ## Fluxo recomendado
 
 1. Definir objetivo do ciclo.
-2. Dividir analise em lentes especializadas.
-3. Rodar subagentes em paralelo.
-4. Consolidar convergencias e conflitos.
-5. Aplicar somente mudancas de alto valor.
-6. Gerar Markdown, DOCX e PDF quando aplicavel.
-7. Rodar validador.
-8. Renderizar DOCX/PDF quando houver alteracao de formato.
-9. Atualizar CHANGELOG.
-10. Fazer commit e sincronizar com GitHub.
+2. Reconfirmar o briefing `01_Editorial/AGENT_ALIGNMENT_BRIEF.md`.
+3. Dividir analise em lentes especializadas.
+4. Rodar subagentes em paralelo.
+5. Consolidar convergencias e conflitos.
+6. Aplicar somente mudancas de alto valor.
+7. Gerar Markdown, DOCX e PDF quando aplicavel.
+8. Rodar validador.
+9. Renderizar DOCX/PDF quando houver alteracao de formato.
+10. Atualizar CHANGELOG.
+11. Fazer commit e sincronizar com GitHub.
+
+## Revisao periodica autonoma
+
+O projeto deve executar revisoes periodicas de sintonia editorial para evitar que a producao se transforme apenas em volume.
+
+Frequencia recomendada:
+
+- a cada semana de trabalho editorial intenso
+- antes de abrir nova categoria
+- depois de cada lote relevante com NotebookLM, FAQs, dialogos ou casos
+- sempre que uma ferramenta externa ou subagente produzir material bruto em quantidade
+
+A revisao periodica deve verificar:
+
+- se a categoria possui camada NotebookLM
+- se o corretor japones encontra o conteudo por perguntas naturais em japones
+- se ha portugues brasileiro falavel para o cliente
+- se ha proximo passo operacional para o atendimento
+- se ha limite comercial/compliance em temas sensiveis
+- se referencias cruzadas apontam para documentos realmente relacionados
+- se Markdown, DOCX e PDF estao sincronizados
+
+Resultado esperado:
+
+- relatorio curto em `00_Project`
+- correcoes aplicadas quando forem seguras
+- backlog quando a correcao exigir expansao maior
+- validacao objetiva antes do commit
 
 ## Criterios para aceitar recomendacao de subagente
 
