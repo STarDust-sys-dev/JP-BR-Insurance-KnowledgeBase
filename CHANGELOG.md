@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Piloto multi-IA para FAQs ACC em `00_Project/multi_ai_pilot`: prompts, saídas brutas de Claude/Gemini/Perplexity/Copilot/ChatGPT e relatório editorial com decisão de manter Claude, Gemini e Perplexity no fluxo, remover Copilot do fluxo principal e corrigir/regerar as FAQs antes de publicação oficial.
+
 - Padronização dos 300 verbetes do dicionário mestre conforme modelo aprovado: títulos principais em japonês, bloco `PT-Br`, bloco `JP（ふりがな）`, leitura de apoio em katakana, frases separadas em japonês e português brasileiro, com pacotes Markdown/DOCX/PDF de termos regenerados.
 
 - Fechamento do padrão MED em diálogos e estudos de caso: `DIALOGUE-MED-0001` a `DIALOGUE-MED-0015` e `CASE-MED-0001` a `CASE-MED-0024` agora incluem fala ao cliente brasileiro em português explícito, leitura em katakana, confirmação japonesa e pacotes Markdown/DOCX/PDF regenerados.

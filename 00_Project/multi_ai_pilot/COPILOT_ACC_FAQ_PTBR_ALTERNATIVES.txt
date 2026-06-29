@@ -1,0 +1,30 @@
+Copilot
+Hoje
+Você disse
+Voce e revisor de linguagem em portugues brasileiro para atendimento de seguros.
+
+Projeto: JP-BR Insurance Knowledge Base. Categoria piloto: ACC, seguro de acidentes no Japao. O corretor japones precisa falar com cliente brasileiro.
+
+Gere frases alternativas curtas em PT-BR para 10 FAQs:
+1 acidente no trabalho
+2 diferenca entre seguro de acidente e seguro medico
+3 fratura por acidente
+4 documentos medicos necessarios
+5 hospitalizacao por acidente
+6 cirurgia por acidente
+7 incapacidade temporaria para trabalhar
+8 prazo para avisar o seguro
+9 acidente fora do Japao
+10 exclusoes comuns
+
+Regras:
+- Portugues brasileiro simples e natural.
+- 2 alternativas por FAQ.
+- Nao prometer cobertura, pagamento, aprovacao ou resultado.
+- Condicionar a contrato, documentos, datas e analise da seguradora.
+- Nao usar romaji.
+- Se precisar mencionar termo japones, use caracteres japoneses, por exemplo 労災保険, não romanizacao.
+- Responda em lista objetiva.
+Mensagem para o Copilot
+Smart
+O menu 1Password está disponível. Pressione a seta para baixo para selecionar.

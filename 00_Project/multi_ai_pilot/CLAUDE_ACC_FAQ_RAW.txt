@@ -1,0 +1,851 @@
+
+
+
+Novo bate-papo
+
+Conversas
+
+Projetos
+
+Artefatos
+
+Código
+
+Personalizar
+Favoritos
+
+Análise do serviço de gravação a laser personalizada Laseria
+Recentes
+
+FAQs bilíngues de seguro de acidentes para corretores
+FAQs bilíngues de seguro de acidentes para corretores
+
+Análise e otimização de código
+Análise e otimização de código
+Tradução de texto
+Tradução de texto
+Tradução de sintomas para japonês
+Tradução de sintomas para japonês
+Ferramentas de produtividade
+Ferramentas de produtividade
+
+MM
+Mario Matsuda
+plano Gratuito
+FAQs bilíngues de seguro de acidentes para corretores
+
+plano Gratuito
+Fazer Upgrade
+Claude terminou a resposta
+Você disse: Voce e redator editorial do projeto JP-BR Insurance Knowledge Base.
+
+Voce e redator editorial do projeto JP-BR Insurance Knowledge Base.
+Crie 10 FAQs bilingues para a categoria ACC, seguro de acidentes, destinadas a corretores japoneses que atendem clientes brasileiros residentes no Japao.
+Regras obrigatorias:
+- Titulos principais e secoes estruturais em japones.
+- Conteudo tecnico principal em japones.
+- Portugues brasileiro simples e natural para fala ao cliente.
+- Nunca usar romaji.
+- Incluir para cada FAQ:
+  - codigo sugerido FAQ-ACC-0001 a FAQ-ACC-0010
+  - pergunta pratica do cliente brasileiro
+  - resposta tecnica em japones
+  - resposta ao cliente com blocos PT-Br, JP（ふりがな） e Leitura de apoio para o corretor
+  - proximo passo seguro
+  - limite comercial/compliance
+  - termos relacionados sugeridos
+  - referencias cruzadas sugeridas
+  - tags
+- Nao prometer cobertura, indenizacao, aceitacao, aprovacao ou resultado.
+- Condicionar sempre a contrato, documentos, acidente, datas relevantes e avaliacao da seguradora.
+- Foque em situacoes reais de brasileiros no Japao: acidente no trabalho, acidente fora do trabalho, fratura, hospitalizacao, cirurgia, incapacidade temporaria, documentos medicos, prazo de solicitacao, diferenca entre seguro de acidente e seguro medico, exclusoes.
+Produza em Markdown estruturado, pronto para revisao editorial.
+
+Mostrar mais
+10:23
+
+
+
+
+Claude respondeu: Vou criar o documento diretamente — é um trabalho editorial extenso e estruturado, perfeito para arquivo .
+Checking frontend design skill for markdown output
+Checking frontend design skill for markdown output
+
+Vou criar o documento diretamente — é um trabalho editorial extenso e estruturado, perfeito para arquivo .md.
+
+Criou um arquivo, leu um arquivo
+Criou um arquivo, leu um arquivo
+FAQ bilingue ACC - JP-BR Insurance Knowledge Base
+FAQ-ACC-JP-BR.md
+Presented file
+Concluído
+
+10 FAQs completas entregues, prontas para revisão editorial. Aqui está o resumo do que foi produzido:
+
+Estrutura entregue por FAQ:
+
+Cada uma das 10 FAQs contém todos os blocos solicitados: código, pergunta do cliente, resposta técnica em japonês, blocos PT-BR / JP com furigana / Leitura de apoio, próximo passo seguro, limite compliance, termos relacionados com tabela bilíngue, referências cruzadas e tags.
+
+Temas cobertos (situações reais de brasileiros no Japão):
+
+#	Tema
+0001	Acidente no trabalho + relação com rousai
+0002	Diferença seguro acidente vs. seguro saúde
+0003	Fratura por acidente fora do trabalho
+0004	Documentos necessários para sinistro
+0005	Hospitalização por acidente
+0006	Cirurgia decorrente de acidente
+0007	Incapacidade temporária para o trabalho
+0008	Prazos de notificação e prescrição
+0009	Cobertura em viagens fora do Japão
+0010	Exclusões e causas de recusa
+
+Compliance garantido: nenhum FAQ promete cobertura, indenização ou aprovação — tudo condicionado a contrato, documentação e avaliação da seguradora. Aviso legal bilíngue incluído no rodapé.
+
+Faq acc jp br
+Documento · MD 
+Baixar
+
+
+
+
+
+
+Quer ser notificado quando Claude responder?
+Notificar
+
+Claude Fable 5 está indisponível no momento.
+Saiba mais
+(opens in new tab)
+
+
+
+
+
+
+Sonnet 4.6 Baixo
+
+
+
+Claude é uma IA e pode cometer erros. Por favor, verifique as respostas.
+
+
+Faq acc jp br · MD
+Copiar
+
+
+
+
+JP-BR Insurance Knowledge Base
+カテゴリー：傷害保険（ACC）― FAQ 集
+Categoria: Seguro de Acidentes (ACC) — Perguntas Frequentes
+
+対象読者 / Público-alvo: Corretores japoneses que atendem clientes brasileiros residentes no Japão
+ステータス / Status: Rascunho para revisão editorial
+バージョン / Versão: 1.0
+作成日 / Data de criação: 2026-06-29
+免責事項 / Isenção de responsabilidade: Este material é de apoio informativo. Toda cobertura, indenização, aceitação ou resultado depende de avaliação individual da seguradora, análise do contrato vigente e documentação comprobatória.
+
+使い方ガイド（コーラン向け）/ Guia de Uso para o Corretor
+
+Cada FAQ contém os seguintes blocos:
+
+ブロック	Conteúdo
+pergunta do cliente	Como o brasileiro costuma perguntar
+回答（日本語）	Resposta técnica completa em japonês
+PT-BR	Texto sugerido para falar ao cliente em português
+JP（ふりがな）	Versão japonesa com furigana — para leitura em voz alta se necessário
+Leitura de apoio	Notas para o corretor: pontos de atenção, riscos de comunicação
+próximo passo seguro	Ação concreta que o corretor pode recomendar
+limite comercial/compliance	O que o corretor NÃO deve afirmar
+termos relacionados	Vocabulário técnico bilíngue
+referências cruzadas	Outros FAQs relacionados
+tags	Palavras-chave para busca interna
+FAQ-ACC-0001
+pergunta do cliente brasileiro
+
+"Se eu me machucar no trabalho, o seguro de acidente cobre? Como funciona?"
+
+回答（日本語）― 技術的説明
+
+傷害保険（ACC）は、急激・偶発・外来の事故によって被保険者が身体に傷害を負った場合に保険金が支払われる可能性がある保険です。
+
+日本に居住するブラジル人被保険者が労働中に事故に遭った場合、以下の点を確認する必要があります：
+
+労災保険（労働者災害補償保険）との関係
+日本では、業務上の事故は原則として労災保険の対象となります。雇用形態（正社員、パートタイム、外国人技能実習生など）によって補償範囲が異なります。傷害保険はあくまでも労災保険を補完する位置づけとなる場合があります。
+契約上の確認事項
+契約書において「業務上の事故」が特約または免責事項として定められているか確認が必要です。
+一部の傷害保険では、業務中の事故について業務災害特約が付加されている場合のみ補償対象となります。
+保険金の種類（保険約款に基づく）
+死亡保険金 / 後遺障害保険金
+入院保険金
+手術保険金
+通院保険金
+手続きの流れ
+事故発生 → 医療機関受診 → 診断書取得 → 保険会社へ通知 → 必要書類提出 → 審査・支払い判断
+
+保険金の支払いは、保険会社による審査の結果に基づいて決定されます。事故状況、医療記録、契約内容のすべてが審査対象です。
+
+resposta ao cliente
+
+PT-BR
+
+"Se você se machucar no trabalho, é importante saber que no Japão existe uma cobertura do governo chamada 'rousai' — que é o seguro de acidente de trabalho obrigatório. O seguro de acidente que você tem pode complementar essa cobertura, mas tudo depende do que está escrito no seu contrato e da avaliação da seguradora. O primeiro passo é avisar o corretor e guardar todos os documentos do médico."
+
+JP（ふりがな）
+
+「しごと（仕事）でけが（怪我）をした場合（ばあい）、にほん（日本）にはろうさいほけん（労災保険）というせいふ（政府）のほけん（保険）があります。あなたがもっているかいがい（海外）またはこじん（個人）のしょうがいほけん（傷害保険）は、それをほかん（補完）するやくわり（役割）をはたす（果たす）ことがありますが、けいやく（契約）のないようとほけんがいしゃ（保険会社）のしんさ（審査）によってきまります。」
+
+Leitura de apoio para o corretor
+
+⚠️ Muitos brasileiros confundem seguro de acidente pessoal com o rousai (労災). Esclareça a diferença antes de gerar expectativa de pagamento duplo.
+⚠️ Trabalhadores em situação irregular ou sem registro formal podem ter dificuldade em acionar o rousai. Não oriente sobre irregularidades trabalhistas — encaminhe ao consulado ou à roudou soudan (労働相談).
+✅ Verifique se a apólice contém 業務災害特約 (tokuyaku de acidente ocupacional).
+próximo passo seguro
+Solicitar ao cliente cópia do contrato de trabalho e cartão de saúde (hoken sho / 保険証).
+Confirmar se o empregador registrou o acidente como rousai.
+Verificar na apólice a existência de 業務災害特約.
+Notificar a seguradora dentro do prazo estipulado em contrato.
+limite comercial / compliance
+
+❌ O corretor não deve afirmar que o seguro de acidente pagará indenização por acidentes de trabalho sem verificar a apólice.
+❌ Não orientar o cliente a "escolher" entre rousai e seguro privado para maximizar recebimentos sem consulta jurídica.
+✅ Sempre condicionar à análise da seguradora.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+傷害保険	しょうがいほけん	Seguro de acidentes pessoais
+労災保険	ろうさいほけん	Seguro de acidente de trabalho (gov.)
+業務災害特約	ぎょうむさいがいとくやく	Especial de acidente ocupacional
+保険金	ほけんきん	Indenização / benefício de seguro
+審査	しんさ	Avaliação / análise (da seguradora)
+約款	やっかん	Contrato / apólice (condições gerais)
+referências cruzadas sugeridas
+FAQ-ACC-0002 — Diferença entre seguro de acidente e seguro de saúde
+FAQ-ACC-0004 — Documentos necessários para acionar o seguro
+FAQ-ACC-0007 — Incapacidade temporária: o que o seguro pode cobrir
+tags
+
+acidente-trabalho rousai 업무재해 業務災害 cobertura-trabalho brasileiro-japao ACC corretor
+
+FAQ-ACC-0002
+pergunta do cliente brasileiro
+
+"Qual a diferença entre seguro de acidente e seguro de saúde? Preciso dos dois?"
+
+回答（日本語）― 技術的説明
+
+傷害保険と医療保険（健康保険）は目的・補償内容・支払い条件が根本的に異なります。
+
+項目	傷害保険（ACC）	医療保険・健康保険
+対象	急激・偶発・外来の事故による傷害	疾病・傷病全般（事故・病気を含む）
+支払いトリガー	事故の発生が前提	受診・入院・手術など
+病気	原則対象外	対象
+骨折・切傷	対象（事故原因の場合）	対象（自己負担分）
+保険金の性質	定額給付が多い	実損補填または定額
+日本の公的制度	労災保険が一部代替	国民健康保険（こくほ）・社会保険
+
+日本在住外国人は国民健康保険または社会保険への加入義務があり、医療費の自己負担分をカバーする目的で傷害保険や民間医療保険を付加契約する場合があります。
+
+傷害保険の保険金支払いは「事故」が起因であることが審査の核心です。病気（疾病）が原因の入院には原則として傷害保険は適用されません。
+
+resposta ao cliente
+
+PT-BR
+
+"O seguro de acidente cobre quando você se machuca por causa de um acidente — como uma queda, fratura, corte. Já o seguro de saúde cobre doença e também acidentes, mas paga de forma diferente. No Japão, você já tem o seguro de saúde do governo (kokumin kenko hoken ou o da sua empresa). O seguro de acidente é um complemento — mas se você vai precisar dos dois depende do seu contrato e da sua situação. O corretor pode analisar isso com você."
+
+JP（ふりがな）
+
+「しょうがいほけん（傷害保険）はじこ（事故）によるけが（怪我）をほしょう（補償）します。いりょうほけん（医療保険）はびょうき（病気）やけが（怪我）のりょうひ（療費）をカバーします。にほん（日本）ではこくみんけんこうほけん（国民健康保険）またはしゃかいほけん（社会保険）へのかにゅう（加入）がひっとばらず（必要）です。しょうがいほけんはそれをおぎなう（補う）ものです。」
+
+Leitura de apoio para o corretor
+
+✅ Muitos brasileiros chegam ao Japão sem entender que a cobertura pública (kokumin kenko hoken) já existe e é obrigatória.
+⚠️ Evite sugerir que o cliente "não precisa" de um ou outro produto sem análise completa — isso pode gerar reclamação de má consultoria (misselling).
+✅ A distinção "evento-acidente vs. evento-doença" é crucial para o cliente entender por que um pedido pode ser negado.
+próximo passo seguro
+Verificar se o cliente está regularmente inscrito na saúde pública japonesa.
+Apresentar comparativo de cobertura entre o produto ACC disponível e o seguro saúde público.
+Não recomendar cancelamento de nenhuma das coberturas sem análise completa.
+limite comercial / compliance
+
+❌ Não afirmar que "o seguro de acidente substitui o de saúde" — são produtos distintos.
+❌ Não afirmar que qualquer hospitalização será coberta pelo ACC sem verificar a causa (acidente ou doença).
+✅ Sempre explicar que o pagamento depende da comprovação de que a causa foi um acidente.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+医療保険	いりょうほけん	Seguro de saúde / plano médico
+国民健康保険	こくみんけんこうほけん	Seguro de saúde nacional (público)
+疾病	しっぺい	Doença / enfermidade
+傷害	しょうがい	Lesão / dano corporal por acidente
+給付金	きゅうふきん	Benefício pago pelo seguro
+自己負担	じこふたん	Participação / franquia do segurado
+referências cruzadas sugeridas
+FAQ-ACC-0001 — Acidente no trabalho e cobertura
+FAQ-ACC-0005 — Hospitalização: como acionar o seguro
+FAQ-ACC-0010 — Exclusões mais comuns no seguro ACC
+tags
+
+diferenca-seguros saude-vs-acidente kokumin-kenko-hoken cobertura ACC brasileiro-japao
+
+FAQ-ACC-0003
+pergunta do cliente brasileiro
+
+"Quebrei o osso num acidente fora do trabalho. O seguro paga?"
+
+回答（日本語）― 技術的説明
+
+傷害保険において、**骨折（こっせつ）**は一般的に補償対象となりえます。ただし、以下の条件をすべて満たすことが必要です：
+
+事故の要件：急激・偶発・外来性
+転倒、スポーツ中の事故、交通事故など、外部からの力によって骨折が生じたことが必要です。骨粗しょう症などの疾病を起因とする骨折は対象外となる場合があります。
+診断書の要件
+医師による骨折の確定診断（X線・MRI画像を含む）
+骨折の部位・程度・治療期間の記載
+入院・通院・手術の有無による保険金の種類
+骨折のみ（通院治療）→ 通院保険金の対象となりえる
+入院が必要な場合 → 入院保険金の対象となりえる
+手術が行われた場合 → 手術保険金の対象となりえる
+業務外事故の確認
+業務外事故であっても、契約によっては業務中と業務外で補償範囲が異なる場合があります。
+免責事項の確認
+飲酒、けんか、自傷行為などは免責となる場合があります。
+resposta ao cliente
+
+PT-BR
+
+"Fratura por acidente pode ser coberta pelo seguro de acidente, sim — mas depende de algumas condições. O acidente precisa ser comprovado: quando aconteceu, como aconteceu, e o médico precisa confirmar a fratura com exame. Dependendo do contrato, o seguro pode pagar pelos dias de internação, cirurgia ou consultas. O corretor vai precisar dos documentos médicos para verificar tudo isso com a seguradora."
+
+JP（ふりがな）
+
+「じこ（事故）によるこっせつ（骨折）は、しょうがいほけん（傷害保険）のほしょうたいしょう（補償対象）になりえます。ただし、じこのじじつ（事実）をしょうめい（証明）するしょるい（書類）と、いし（医師）によるしんだんしょ（診断書）が必要（ひつよう）です。けいやく（契約）のないようによって、にゅういん（入院）・しゅじゅつ（手術）・つういん（通院）の各（かく）ほけんきん（保険金）がてきよう（適用）される可能性（かのうせい）があります。」
+
+Leitura de apoio para o corretor
+
+✅ Fraturas são uma das causas mais comuns de acionamento do ACC entre brasileiros no Japão — especialmente em atividades esportivas e acidentes domésticos.
+⚠️ Fraturas por osteoporose ou degeneração óssea podem ser recusadas por serem de origem patológica, não acidental.
+⚠️ Questione o cliente sobre a presença de álcool no momento do acidente — pode impactar o resultado da análise.
+✅ Oriente a guardar o boletim de ocorrência (jikohoukkoku-sho / 事故報告書) se houver envolvimento de terceiros.
+próximo passo seguro
+Coletar: diagnóstico médico com imagem (raio-X / MRI), data e descrição do acidente.
+Verificar na apólice: cobertura para fraturas, carências, e distinção acidente x doença.
+Notificar a seguradora dentro do prazo contratual.
+limite comercial / compliance
+
+❌ Não afirmar que "fratura sempre é coberta" — a origem (acidental vs. patológica) é determinante.
+❌ Não omitir ao cliente a necessidade de comprovar as circunstâncias do acidente.
+✅ Condicionar todo resultado à avaliação da seguradora.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+骨折	こっせつ	Fratura óssea
+診断書	しんだんしょ	Atestado / relatório médico
+通院保険金	つういんほけんきん	Benefício por consultas ambulatoriais
+入院保険金	にゅういんほけんきん	Benefício por internação
+手術保険金	しゅじゅつほけんきん	Benefício por cirurgia
+免責事項	めんせきじこう	Exclusões / cláusulas de isenção
+referências cruzadas sugeridas
+FAQ-ACC-0004 — Documentos necessários para acionar o seguro
+FAQ-ACC-0005 — Hospitalização e o seguro ACC
+FAQ-ACC-0006 — Cirurgia: como funciona a cobertura
+tags
+
+fratura 骨折 acidente-domestico acidente-esporte ACC documentos-medicos corretor
+
+FAQ-ACC-0004
+pergunta do cliente brasileiro
+
+"Que documentos eu preciso juntar para dar entrada no seguro?"
+
+回答（日本語）― 技術的説明
+
+傷害保険の保険金請求に必要な書類は、事故の種類・補償の種類・保険会社の要件によって異なりますが、一般的に以下の書類が求められます：
+
+【共通書類】
+
+保険金請求書（ほけんきんせいきゅうしょ）― 保険会社所定の様式
+保険証券（ほけんしょうけん）のコピー
+被保険者の身分証明書（在留カードなど）
+事故状況報告書（じこじょうきょうほうこくしょ）― 事故の日時・場所・状況の詳細
+
+【医療関連書類】
+
+医師の診断書（しんだんしょ）― 傷病名・治療期間・治療内容を含む
+入院の場合：入院証明書（にゅういんしょうめいしょ）
+手術の場合：手術証明書（しゅじゅつしょうめいしょ）または診療明細書
+通院の場合：通院証明書または診療明細書（しんりょうめいさいしょ）
+X線・MRI画像（骨折など画像確認が必要な場合）
+
+【事故の種類別追加書類】
+
+交通事故：交通事故証明書（こうつうじこしょうめいしょ）
+労働災害：労災認定通知書
+第三者行為：警察への届出書類
+
+⚠️ すべての書類は日本語または保険会社が定める言語で作成・翻訳が必要な場合があります。ポルトガル語の文書は翻訳が必要となる場合があります。
+
+resposta ao cliente
+
+PT-BR
+
+"Para dar entrada no seguro, você vai precisar, em geral: do formulário da seguradora, do seu documento de identidade (zairyu card), do atestado médico com o diagnóstico e o período de tratamento, e de uma explicação por escrito de como o acidente aconteceu. Se foi acidente de trânsito, precisa também do boletim de ocorrência. O corretor vai te orientar exatamente quais documentos a seguradora pede — cada caso pode ter uma lista diferente."
+
+JP（ふりがな）
+
+「ほけんきんをせいきゅう（請求）するには、ほけんがいしゃしょていのようしき（所定の様式）、しんだんしょ（診断書）、ざいりゅうカード（在留カード）のコピー、じこのじょうきょうせつめいしょ（事故の状況説明書）などがひつよう（必要）です。じこのしゅるい（種類）によってついかしょるい（追加書類）が必要になる場合（ばあい）があります。」
+
+Leitura de apoio para o corretor
+
+✅ Ajude o cliente a montar o checklist antes da consulta médica de acompanhamento — evita segundas visitas e atrasos.
+⚠️ Muitos hospitais japoneses cobram pela emissão da shindansho (診断書) — entre ¥3.000 e ¥10.000. Avise o cliente com antecedência.
+⚠️ Documentos em português precisarão de tradução juramentada ou tradução aceita pela seguradora — confirme o requisito antes.
+✅ Prazo de entrega dos documentos está no contrato — não deixe o cliente perder o prazo.
+próximo passo seguro
+Solicitar à seguradora o formulário oficial de sinistro (seikyusho).
+Orientar o cliente a solicitar a shindansho na mesma consulta de alta médica.
+Montar checklist personalizado com base no tipo de acidente e cobertura.
+limite comercial / compliance
+
+❌ Não prometer que os documentos apresentados serão suficientes para aprovação.
+❌ Não orientar o cliente a omitir ou alterar qualquer informação nos documentos.
+✅ Orientar que documentação incompleta pode resultar em suspensão da análise.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+保険金請求書	ほけんきんせいきゅうしょ	Formulário de solicitação de sinistro
+診断書	しんだんしょ	Atestado / laudo médico
+在留カード	ざいりゅうカード	Cartão de residência (visto)
+診療明細書	しんりょうめいさいしょ	Discriminação de procedimentos médicos
+交通事故証明書	こうつうじこしょうめいしょ	Boletim de acidente de trânsito
+翻訳	ほんやく	Tradução
+referências cruzadas sugeridas
+FAQ-ACC-0003 — Fratura: o que é coberto
+FAQ-ACC-0008 — Prazos para acionar o seguro
+FAQ-ACC-0005 — Hospitalização e documentação
+tags
+
+documentos sinistro shindansho 診断書 checklist ACC brasileiro-japao
+
+FAQ-ACC-0005
+pergunta do cliente brasileiro
+
+"Fui internado por causa de um acidente. O seguro de acidente cobre a internação?"
+
+回答（日本語）― 技術的説明
+
+傷害保険において、事故を原因とする入院は入院保険金（にゅういんほけんきん）の支払い対象となりえます。
+
+支払い条件の主なポイント：
+
+入院の原因が「事故による傷害」であること
+病気（疾病）を原因とする入院は傷害保険の補償対象外です。
+入院日数と保険金の関係
+傷害保険では、入院1日あたりの定額給付が一般的です（例：¥5,000/日）
+契約によって**免責日数（最初の数日は対象外）**が設けられている場合があります
+**最長支払日数（支払限度日数）**が設定されています（例：最大180日など）
+入院先の要件
+保険会社が定める「病院」の定義を満たす医療機関である必要があります。
+日本の公的保険との関係
+国民健康保険・社会保険が適用された後の自己負担分に対して傷害保険が補完的に機能する場合があります。
+入院証明書の取得
+退院時に必ず**入院証明書（にゅういんしょうめいしょ）**を取得するよう指導してください。
+resposta ao cliente
+
+PT-BR
+
+"Se você foi internado por causa de um acidente, o seguro de acidente pode ajudar — geralmente pagando um valor fixo por dia de internação. Mas precisa ficar claro que foi o acidente que causou a internação, não uma doença. E cada contrato tem um limite de dias e pode ter uma carência nos primeiros dias. Na hora da alta, peça o documento de internação (nyuin shoumei sho) — você vai precisar para dar entrada no seguro."
+
+JP（ふりがな）
+
+「じこ（事故）によるにゅういん（入院）は、しょうがいほけん（傷害保険）のほしょうたいしょう（補償対象）となりえます。にゅういん1にち（一日）あたりのていがく（定額）きゅうふ（給付）が一般的（いっぱんてき）です。ただし、にゅういんのげんいん（原因）がびょうき（病気）の場合は対象外（たいしょうがい）となります。たいいんじ（退院時）にはにゅういんしょうめいしょ（入院証明書）をかならず（必ず）うけとってください。」
+
+Leitura de apoio para o corretor
+
+✅ Oriente o cliente a pedir a nyuuin shoumeisho (入院証明書) no momento da alta — depois pode ser difícil obter retroativamente.
+⚠️ Internações em clínicas estéticas, centros de reabilitação ou instalações não reconhecidas como hospitais podem não ser cobertas.
+⚠️ Confirme se há carência (免責日数) para início do pagamento de diária — é um ponto de frustração frequente do cliente.
+✅ Lembre: o kokumin kenko hoken cobre 70% dos custos hospitalares — o ACC complementa a parte restante e pode pagar diárias adicionais.
+próximo passo seguro
+Solicitar nyuuin shoumeisho na alta médica.
+Verificar na apólice: valor da diária, carência e limite de dias.
+Notificar a seguradora imediatamente após a alta.
+limite comercial / compliance
+
+❌ Não prometer valor de diária ou número de dias pagos antes de verificar a apólice.
+❌ Não afirmar que qualquer internação é coberta — a causa acidental é obrigatória.
+✅ Condicionar ao contrato vigente e à análise da seguradora.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+入院保険金	にゅういんほけんきん	Diária hospitalar / benefício de internação
+入院証明書	にゅういんしょうめいしょ	Atestado de internação
+免責日数	めんせきにっすう	Carência em dias (período de franquia)
+支払限度日数	しはらいげんどにっすう	Limite máximo de dias pagos
+退院	たいいん	Alta hospitalar
+referências cruzadas sugeridas
+FAQ-ACC-0006 — Cirurgia: cobertura e documentação
+FAQ-ACC-0004 — Documentos necessários
+FAQ-ACC-0002 — Diferença entre seguro de acidente e de saúde
+tags
+
+internacao 入院 diaria-hospitalar alta ACC brasileiro-japao kenko-hoken
+
+FAQ-ACC-0006
+pergunta do cliente brasileiro
+
+"Precisei fazer cirurgia por causa do acidente. O seguro paga a cirurgia?"
+
+回答（日本語）― 技術的説明
+
+傷害保険において、事故を原因とする手術は手術保険金（しゅじゅつほけんきん）の支払い対象となりえます。
+
+支払い条件：
+
+手術の原因が「事故による傷害」であること
+手術保険金の算定方法（契約によって異なる）
+入院保険金日額の一定倍率（例：10倍・20倍・40倍）
+または手術の種類に応じた定額支給
+手術の定義（保険約款に基づく）
+約款で定められた「手術」に該当する必要があります。
+一般的に、切開・縫合・骨折整復・内視鏡手術などが含まれますが、美容手術・歯科手術・検査目的の処置は対象外となる場合があります。
+必要書類
+手術証明書（しゅじゅつしょうめいしょ）または診療明細書（手術コード含む）
+医師による診断書
+入院を伴う手術と外来手術の扱い
+入院中の手術と日帰り（外来）手術では、保険金の倍率が異なる場合があります。
+resposta ao cliente
+
+PT-BR
+
+"Cirurgia causada por um acidente pode ser coberta pelo seguro de acidente. Geralmente, o valor pago é calculado com base em um múltiplo da sua diária de internação — e isso varia por tipo de cirurgia e pelo seu contrato. Você vai precisar de um documento do hospital com os detalhes da cirurgia. O corretor vai verificar se a cirurgia está dentro das definições do seu contrato."
+
+JP（ふりがな）
+
+「じこ（事故）によるしゅじゅつ（手術）は、しゅじゅつほけんきん（手術保険金）のたいしょう（対象）となりえます。やっかん（約款）でさだめられた『しゅじゅつ（手術）』のていぎ（定義）にがいとう（該当）することが条件（じょうけん）です。びようしゅじゅつ（美容手術）やしかしゅじゅつ（歯科手術）はたいしょうがい（対象外）となる場合（ばあい）があります。」
+
+Leitura de apoio para o corretor
+
+✅ Cirurgias ortopédicas (redução de fraturas, fixação interna) são comuns entre brasileiros no Japão — geralmente cobertas.
+⚠️ Procedimentos odontológicos, mesmo resultantes de acidente, podem estar excluídos na apólice — verifique cláusula específica.
+⚠️ Cirurgias estéticas realizadas após o acidente para corrigir cicatrizes podem ou não estar cobertas — confirme com a seguradora.
+✅ Informe ao cliente para sempre pedir a shinryou meisaisho (診療明細書) com código de procedimento cirúrgico.
+próximo passo seguro
+Solicitar shuujutsu shoumeisho ou shinryou meisaisho com código do procedimento.
+Verificar na apólice o multiplicador de cirurgia e a definição contratual.
+Confirmar se foi cirurgia com internação ou ambulatorial (muda o cálculo).
+limite comercial / compliance
+
+❌ Não informar valor de pagamento antes de verificar o tipo de cirurgia e o contrato.
+❌ Não confirmar cobertura de procedimentos dentários sem consultar a apólice.
+✅ Condicionar à aprovação da seguradora e à documentação completa.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+手術保険金	しゅじゅつほけんきん	Benefício por cirurgia
+手術証明書	しゅじゅつしょうめいしょ	Atestado / certificado de cirurgia
+診療明細書	しんりょうめいさいしょ	Discriminação de procedimentos
+日帰り手術	ひがえりしゅじゅつ	Cirurgia ambulatorial (sem internação)
+倍率	ばいりつ	Multiplicador (cálculo do benefício)
+referências cruzadas sugeridas
+FAQ-ACC-0005 — Internação e cobertura
+FAQ-ACC-0004 — Documentos necessários
+FAQ-ACC-0010 — Exclusões mais comuns
+tags
+
+cirurgia 手術 手術保険金 fratura ACC brasileiro-japao ortopedia
+
+FAQ-ACC-0007
+pergunta do cliente brasileiro
+
+"Fiquei sem poder trabalhar depois do acidente. O seguro cobre isso?"
+
+回答（日本語）― 技術的説明
+
+傷害保険には、事故による就業不能状態をカバーする特約として就業不能特約（しゅうぎょうふのうとくやく）または所得補償特約が付加されている場合があります。
+
+一般的な補償の仕組み：
+
+補償の前提条件
+事故による傷害が原因で、医師が「就業不能」と判断した期間のみ対象
+被保険者が実際に就労していたことの証明が必要
+支払い方法
+就業不能期間中の日額給付（例：¥3,000〜¥10,000/日）が一般的
+または月額給付型
+免責期間（待機期間）
+就業不能となった日から数日間は支払いの対象外となる場合があります（例：最初の7日間免責など）
+最長支払期間
+契約によって最長支払期間が設定されています（例：180日・365日など）
+就労形態による影響
+正規雇用・アルバイト・自営業によって収入証明の種類が異なります
+外国人技能実習生の場合、雇用形態の確認が必要です
+
+⚠️ 就業不能特約が付加されていない場合、この補償は受けられません。契約内容の確認が必須です。
+
+resposta ao cliente
+
+PT-BR
+
+"Se você ficou sem poder trabalhar por causa de um acidente, pode existir uma cobertura chamada 'incapacidade temporária' no seu seguro — mas só se essa cobertura estiver no seu contrato. Ela paga um valor por dia enquanto você está impossibilitado de trabalhar, conforme avaliação médica. O corretor precisa verificar se essa cobertura existe na sua apólice e quais são as condições."
+
+JP（ふりがな）
+
+「じこ（事故）によるしゅうぎょうふのう（就業不能）をカバーするとくやく（特約）がけいやく（契約）にふかされている（付加されている）ばあい（場合）は、しゅうぎょうふのうきかん（就業不能期間）にたいして（に対して）にっきゅう（日額）きゅうふ（給付）がしはらわれる（支払われる）かのうせい（可能性）があります。このとくやく（特約）がふかされていない（付加されていない）ばあい（場合）は、ほしょう（補償）のたいしょうがい（対象外）となります。」
+
+Leitura de apoio para o corretor
+
+✅ Esta é uma das dúvidas mais urgentes para brasileiros — a renda parar é uma crise imediata.
+⚠️ Verifique se a apólice tem 就業不能特約 — é uma cobertura adicional, não padrão em todos os contratos ACC.
+⚠️ Para trabalhadores informais ou sem contrato formal, a prova de renda (shotoku shoumei) pode ser difícil — avise o cliente antes.
+✅ Se o empregador registrou como rousai, há benefício governo também — não acumular ilegalmente; verificar cláusula de cumulação.
+próximo passo seguro
+Verificar na apólice se há 就業不能特約 ativa.
+Solicitar atestado médico com período estimado de incapacidade.
+Coletar comprovante de vínculo empregatício e renda.
+Notificar a seguradora dentro do prazo contratual.
+limite comercial / compliance
+
+❌ Não afirmar que o seguro "vai pagar o salário" — o benefício tem limite contratual, não replica necessariamente a renda total.
+❌ Não confirmar cobertura sem verificar se a especial (特約) está ativa no contrato.
+✅ Condicionar à avaliação médica e à análise da seguradora.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+就業不能特約	しゅうぎょうふのうとくやく	Especial de incapacidade laboral
+所得補償	しょとくほしょう	Compensação de renda
+免責期間	めんせききかん	Período de carência / espera
+就業不能	しゅうぎょうふのう	Incapacidade para o trabalho
+日額給付	にちがくきゅうふ	Benefício diário
+referências cruzadas sugeridas
+FAQ-ACC-0001 — Acidente no trabalho e rousai
+FAQ-ACC-0008 — Prazos para acionar o seguro
+FAQ-ACC-0004 — Documentos necessários
+tags
+
+incapacidade 就業不能 renda afastamento ACC brasileiro-japao tokuyaku
+
+FAQ-ACC-0008
+pergunta do cliente brasileiro
+
+"Quanto tempo tenho para avisar o seguro depois do acidente?"
+
+回答（日本語）― 技術的説明
+
+傷害保険の保険金請求には、**契約に定められた通知期限（つうちきげん）および請求期限（せいきゅうきげん）**があります。
+
+主な期限の種類：
+
+事故通知義務（じこつうちぎむ）
+事故発生後、**速やかに（または所定の日数以内に）**保険会社へ通知する義務があります。通知の遅延は、場合によって保険金が減額または不支払いになるリスクがあります。
+保険金請求期限（消滅時効）
+日本の保険法（ほけんほう）に基づき、保険金請求権は一般的に3年で消滅時効（しょうめつじこう）となります。ただし、各保険会社・各商品によって短い期限が設定されている場合があります。
+書類提出期限
+事故通知後、保険会社から指定された期間内に必要書類を提出する必要があります。
+
+実務上の注意：
+
+治療が長引いている場合でも、事故が確定した段階で早期に通知することが推奨されます
+通知が遅れた理由（入院中、緊急手術など）を書面で説明することで、遅延が考慮される場合があります
+resposta ao cliente
+
+PT-BR
+
+"O prazo para avisar o seguro depende do seu contrato, mas em geral você deve notificar o mais rápido possível após o acidente — dias, não meses. Para dar entrada oficial no pedido, a lei japonesa dá até 3 anos, mas cada seguradora pode ter um prazo menor. Não espere o tratamento terminar para avisar. Quanto antes você comunica, melhor."
+
+JP（ふりがな）
+
+「ほけんがいしゃへのじこつうち（事故通知）は、けいやく（契約）にさだめられたきかん（期間）ないにおこなう（行う）ひつよう（必要）があります。にほんのほけんほう（保険法）では、せいきゅうけん（請求権）のしょうめつじこう（消滅時効）はげんそく（原則）３ねん（年）です。ただし、じこはっせいご（事故発生後）はできるだけはやく（早く）つうち（通知）することをおすすめします（お勧めします）。」
+
+Leitura de apoio para o corretor
+
+✅ Este é um ponto crítico — brasileiros frequentemente esperam a alta médica para pensar no seguro. Já perderam prazos assim.
+⚠️ Verifique no contrato o prazo específico de 事故通知 — pode ser de 30 dias ou menos.
+✅ Mesmo durante internação, o corretor pode fazer a notificação em nome do cliente — verifique se há procuração necessária.
+⚠️ Prazo e prescrição são temas jurídicos — não aconselhe juridicamente, mas oriente a agir com urgência.
+próximo passo seguro
+Notificar a seguradora imediatamente por telefone ou formulário online.
+Registrar a data de notificação com confirmação por escrito.
+Verificar no contrato o prazo específico de 事故通知.
+limite comercial / compliance
+
+❌ Não tranquilizar o cliente dizendo "tem bastante tempo" sem verificar o prazo contratual.
+❌ Não orientar juridicamente sobre prescrição — encaminhar a advogado se necessário.
+✅ Enfatizar a importância de agir o quanto antes.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+通知期限	つうちきげん	Prazo de notificação
+消滅時効	しょうめつじこう	Prescrição / extinção do direito
+請求期限	せいきゅうきげん	Prazo para solicitação
+遅延	ちえん	Atraso / demora
+保険法	ほけんほう	Lei de seguros japonesa
+referências cruzadas sugeridas
+FAQ-ACC-0004 — Documentos necessários
+FAQ-ACC-0005 — Hospitalização e comunicação ao seguro
+FAQ-ACC-0007 — Incapacidade e prazos
+tags
+
+prazo 通知 消滅時効 sinistro ACC urgencia brasileiro-japao
+
+FAQ-ACC-0009
+pergunta do cliente brasileiro
+
+"O seguro cobre acidente fora do Japão, tipo se eu me machucar viajando?"
+
+回答（日本語）― 技術的説明
+
+傷害保険の**地理的適用範囲（ちりてきてきようはんい）**は、契約内容によって大きく異なります。
+
+主なパターン：
+
+国内限定型
+日本国内での事故のみを補償する契約。海外でのケガは対象外となります。
+国内外補償型（海外旅行特約付き）
+海外旅行中の事故も補償する特約（かいがいりょこうとくやく）が付加されている契約。
+海外旅行保険との違い
+傷害保険に付加された海外特約と、独立した海外旅行保険（かいがいりょこうほけん）は別商品です。海外旅行保険は航空機遅延・手荷物損害・賠償責任なども含む場合があります。
+
+確認すべき事項：
+
+特約の有無と適用地域の定義
+海外での医療費は現地で立替払いとなる場合が多く、帰国後に請求するケースが一般的
+海外での事故に関する書類はすべて原本を保管し、必要に応じて翻訳を準備すること
+
+⚠️ 一時帰国（ブラジルへの帰省）中の事故についても、適用可否は契約によって異なります。
+
+resposta ao cliente
+
+PT-BR
+
+"Depende muito do seu contrato. Alguns seguros de acidente cobrem só no Japão, outros têm uma cobertura especial para viagens internacionais. Se você vai viajar para o Brasil ou outro país, é importante verificar antes com o corretor se a sua cobertura inclui acidentes fora do Japão. Se não incluir, pode valer a pena contratar um seguro de viagem separado."
+
+JP（ふりがな）
+
+「かいがい（海外）でのじこ（事故）がほしょう（補償）されるかどうかは、けいやく（契約）によります。かいがいりょこうとくやく（海外旅行特約）がふかされていない（付加されていない）ばあい（場合）は、にほんこくがい（日本国外）でのじこ（事故）はほしょうたいしょうがい（補償対象外）となります。たびにでる（旅に出る）まえに、けいやくないよう（契約内容）をかくにん（確認）することをおすすめします（お勧めします）。」
+
+Leitura de apoio para o corretor
+
+✅ Brasileiros costumam viajar ao Brasil com frequência — esta dúvida é muito prática e recorrente.
+⚠️ "Volta ao Brasil por férias" pode não ser coberta se a apólice for 国内限定. Verifique antes da viagem.
+✅ Se o cliente não tem cobertura internacional, oriente a contratar kaigai ryokou hoken (海外旅行保険) separadamente — mas não venda sem análise de necessidade.
+⚠️ Documentos médicos de fora do Japão precisam de tradução — e a seguradora pode ter requisitos específicos para documentos estrangeiros.
+próximo passo seguro
+Verificar na apólice: 海外旅行特約 ativa ou não.
+Se não houver, apresentar opções de seguro viagem para análise.
+Orientar a guardar todos os documentos médicos em caso de acidente no exterior.
+limite comercial / compliance
+
+❌ Não afirmar que "o seguro cobre no mundo todo" sem verificar a apólice.
+❌ Não recomendar cancelamento do seguro existente para contratar viagem sem análise completa.
+✅ Sempre verificar cobertura antes da viagem, não depois do acidente.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+海外旅行特約	かいがいりょこうとくやく	Cobertura especial para viagem internacional
+海外旅行保険	かいがいりょこうほけん	Seguro viagem internacional
+国内限定	こくないげんてい	Cobertura limitada ao Japão
+適用地域	てきようちいき	Área geográfica de cobertura
+立替払い	たてかえばらい	Pagamento adiantado / reembolso posterior
+referências cruzadas sugeridas
+FAQ-ACC-0002 — Diferença entre seguro de acidente e de saúde
+FAQ-ACC-0004 — Documentos necessários
+FAQ-ACC-0010 — Exclusões mais comuns
+tags
+
+viagem brasil 海外 cobertura-internacional ACC brasileiro-japao tokuyaku
+
+FAQ-ACC-0010
+pergunta do cliente brasileiro
+
+"Tem alguma coisa que o seguro de acidente não cobre? O que pode ser negado?"
+
+回答（日本語）― 技術的説明
+
+傷害保険には、**保険約款に基づく免責事項（めんせきじこう）**が定められており、これらに該当する場合、保険金は支払われません。
+
+主な免責事由（代表的なもの）：
+
+免責事由	説明
+故意・重大な過失	被保険者または保険契約者の故意による傷害
+飲酒運転中の事故	酒気帯び運転中に生じた事故
+疾病による傷害	病気が原因の傷害・入院（例：脳梗塞による転倒）
+自殺・自傷行為	精神的疾患による場合も含む場合あり
+地震・噴火・津波	天災による傷害（特約で付加可能な場合もあり）
+戦争・テロ行為	戦争状態や内乱による傷害
+危険な職業・行為	プロスポーツ選手、山岳登山など（職種特約による）
+美容・歯科手術	疾病や外見改善目的の手術
+薬物・違法行為	違法薬物使用中の事故
+
+外国人被保険者に関連する追加注意事項：
+
+在留資格の有無：不法就労・不法在留中の事故については補償が制限される場合があります
+告知義務違反：職業・健康状態の告知内容が虚偽であった場合、保険契約が解除されるリスクがあります
+resposta ao cliente
+
+PT-BR
+
+"O seguro de acidente não cobre tudo. Por exemplo: doença (mesmo que cause uma queda), acidente causado por bebida ao volante, ato intencional de se machucar, terremoto ou tsunami, e algumas situações específicas dependendo do seu contrato. Por isso é tão importante ler o contrato com calma e não esconder nenhuma informação na hora de contratar — isso pode causar o cancelamento do seguro depois. Se tiver dúvida sobre um caso específico, o corretor verifica com a seguradora."
+
+JP（ふりがな）
+
+「しょうがいほけん（傷害保険）には、めんせきじこう（免責事由）があり、これらにあてはまる（当てはまる）ばあい（場合）はほけんきん（保険金）がしはらわれません（支払われません）。たとえば（例えば）、びょうきによる（病気による）てんとう（転倒）、いんしゅうんてんちゅうのじこ（飲酒運転中の事故）、じしょうこうい（自傷行為）、じしん（地震）や津波（つなみ）などはたいしょうがい（対象外）です。けいやくじ（契約時）のこくちぎむいはん（告知義務違反）もほけんかいじょ（保険解除）のりゆうとなります（理由となります）。」
+
+Leitura de apoio para o corretor
+
+✅ Este é o FAQ mais importante para gestão de expectativas — conhecer as exclusões evita conflitos futuros.
+⚠️ Brasileiros às vezes não entendem que doença + queda = possível recusa. A doença que causa o acidente exclui a cobertura em muitos contratos.
+⚠️ Terremoto e tsunami são riscos relevantes no Japão — alguns contratos oferecem especial (jishintokuyaku). Informe o cliente sobre a opção.
+⚠️ Violação da 告知義務 (obrigação de declaração) é causa frequente de recusa — garanta que o cliente declarou corretamente profissão e condição de saúde na contratação.
+✅ Não liste exclusões de forma alarmista — apresente como "pontos que precisamos confirmar juntos".
+próximo passo seguro
+Revisar com o cliente as exclusões específicas do contrato vigente.
+Verificar se houve 告知義務 cumprida corretamente na contratação.
+Se houver dúvida sobre caso específico, consultar a seguradora antes de prometer resultado.
+limite comercial / compliance
+
+❌ Não listar exclusões "de memória" — cada apólice tem suas cláusulas específicas.
+❌ Não sugerir ao cliente que omita informações para evitar exclusões.
+✅ Orientar que declarações falsas ou incompletas podem invalidar o contrato inteiro.
+
+termos relacionados sugeridos
+Japonês	Furigana	Português
+免責事由	めんせきじこう	Exclusões / causas de isenção
+告知義務	こくちぎむ	Obrigação de declaração (ao contratar)
+約款	やっかん	Condições gerais do contrato
+不告知	ふこくち	Omissão de informação
+地震特約	じしんとくやく	Cobertura especial para terremotos
+契約解除	けいやくかいじょ	Cancelamento do contrato
+referências cruzadas sugeridas
+FAQ-ACC-0001 — Acidente no trabalho
+FAQ-ACC-0002 — Diferença entre seguro de acidente e saúde
+FAQ-ACC-0003 — Fratura: condições de cobertura
+FAQ-ACC-0009 — Cobertura no exterior
+tags
+
+exclusoes 免責 告知義務 nao-cobertura ACC brasileiro-japao compliance
+
+索引 / Índice de FAQs
+Código	Tema (PT-BR)	テーマ（日本語）
+FAQ-ACC-0001	Acidente no trabalho	業務上の事故
+FAQ-ACC-0002	Seguro de acidente vs. seguro de saúde	傷害保険と医療保険の違い
+FAQ-ACC-0003	Fratura por acidente	事故による骨折
+FAQ-ACC-0004	Documentos necessários	必要書類
+FAQ-ACC-0005	Hospitalização	入院
+FAQ-ACC-0006	Cirurgia	手術
+FAQ-ACC-0007	Incapacidade temporária	就業不能
+FAQ-ACC-0008	Prazos para acionar o seguro	通知・請求期限
+FAQ-ACC-0009	Cobertura fora do Japão	海外補償
+FAQ-ACC-0010	Exclusões e o que não é coberto	免責事由
+免責事項 / Aviso Legal
+
+Este documento é material de apoio editorial para corretores de seguros e não constitui aconselhamento jurídico, garantia de cobertura, promessa de indenização ou aprovação de qualquer solicitação de sinistro. Toda cobertura está sujeita aos termos do contrato vigente, à documentação comprobatória, às datas relevantes e à avaliação individual da seguradora. Consulte sempre a apólice e, em casos complexos, encaminhe a especialista jurídico ou ao departamento técnico da seguradora.
+
+このドキュメントは保険代理店向けの編集補助資料であり、**法的アドバイス、補償の保証、損害賠償の約束、または保険金請求の承認を構成するものではありません。**すべての補償は、有効な契約条件、証明書類、関連日付、および保険会社による個別審査に従うものとします。
+
+Versão 1.0 — JP-BR Insurance Knowledge Base — Categoria ACC
+Produzido para revisão editorial interna. Não distribuir sem aprovação de compliance.
+
+
+Compartilhar

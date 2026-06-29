@@ -1,0 +1,191 @@
+Novo
+⌘K
+Computer
+Espaços
+Artefatos
+Personalizar
+Conectores
+Skills
+Fluxos de trabalho
+Memória
+Histórico
+Projeto JP-BR Insurance Knowledge Base. Preciso de ressalvas e fontes para FAQs sobre seguro de acid
+cpf consulta
+Sobre automação de preenchimento de formulários web, existe alguma maneira de automatizar um formulá
+Quais são os principais anseios por parte dos japoneses com relação aos estrangeiros nos principais
+como obter informações da ficha cadastral de pessoa física?
+Quais foram os termos do acordo de Takaichi com o partido ishin no Kai?
+Existe acordo de bitributação entre Brasil e Japão?
+gov.br
+Crimoagem de cabo cat6A
+Trikes ultraleves, o que é preciso para pilotar um?
+nome do personagem de Lawrence Fishiborn em Matrix
+Notícias sobre a nova primeira ministra do japay
+Atualizar plano
+star_dust365
+Resposta
+Links
+Imagens
+Compartilhar
+Projeto JP-BR Insurance Knowledge Base. Preciso de ressalvas e fontes para FAQs sobre seguro de acidentes no Japao (傷害保険) usadas por corretores japoneses atendendo clientes brasileiros.
+
+Temas das FAQs piloto: acidente no trabalho, diferenca entre seguro de acidente e seguro medico, fratura, documentos medicos, hospitalizacao, cirurgia, incapacidade temporaria, prazo de aviso/sinistro, acidente fora do Japao, exclusoes.
+
+Responda objetivamente:
+1. Quais afirmacoes exigem fonte ou confirmacao antes de publicar?
+2. Quais pontos dependem de contrato, seguradora, produto ou legislacao?
+3. Quais fontes publicas japonesas ou tipos de fonte devo consultar?
+4. Quais alertas de compliance devem aparecer nas FAQs?
+5. Evite reescrever FAQs. Foque em riscos, ressalvas e fontes.
+Mostrar mais
+3 etapas concluídas
+
+Abaixo vai um mapa de risco editorial/compliance para publicar FAQs de 傷害保険 voltadas a brasileiros no Japão, sem reescrever as perguntas. O ponto central é separar com rigor seguro privado de acidentes de 労災保険 (acidente de trabalho) e de 健康保険 (seguro de saúde público), porque cada um tem regras e fontes diferentes.
+living-and-ins
++2
+
+1) Afirmativas que exigem fonte ou confirmação
+
+“Acidente no trabalho é coberto por seguro de acidentes” precisa ser qualificado, porque pode depender de estar falando de 労災保険 e não de 傷害保険 privado.
+mhlw.go
++1
+
+“Acidente no trajeto casa-trabalho é coberto” também precisa de fonte, pois isso é tema de 通勤災害 no sistema de 労災, com critérios próprios de percurso, desvio e interrupção.
+jsite.mhlw.go
++1
+
+“Seguro de acidente cobre doença” é uma afirmação de alto risco; em fonte pública geral, o seguro de acidentes é descrito como cobertura para lesões/ferimentos, não doença, salvo produtos específicos como seguro de viagem ou cláusulas particulares.
+living-and-ins
+
+“Fratura sempre entra” precisa de confirmação, porque a cobertura pode existir, mas o gatilho de pagamento, valor e documentação variam por produto e por definição contratual de lesão, hospitalização e cirurgia.
+living-and-ins
+
+“Hospitalização”, “cirurgia” e “incapacidade temporária” exigem checagem no contrato, pois em seguro privado cada seguradora define o evento coberto, forma de cálculo e exigência documental.
+living-and-ins
+
+“Prazo para avisar/sinistro” exige fonte do produto, já que prazos e forma de comunicação são contratuais e não padronizados de forma única para todos os seguros de acidentes.
+
+“Acidente fora do Japão” exige confirmação explícita, porque alguns produtos cobrem no exterior e outros limitam ao Japão; isso não deve ser generalizado.
+living-and-ins
+
+“Exclusões” jamais devem ser tratadas como padrão universal, porque dependem de cláusula, tipo de seguro e seguradora.
+
+“Documentos médicos necessários” também precisa ser amarrado ao produto, ao tipo de benefício e ao hospital, porque pode variar entre comprovante de diagnóstico, relatório, recibo, prontuário e formulários próprios.
+mhlw.go
++1
+
+2) Pontos que dependem de contrato, seguradora, produto ou legislação
+
+Cobertura territorial: Japão apenas, mundo todo, ou com exceções.
+living-and-ins
+
+Definição de acidente/lesão: acidente súbito e externo, lesão corporal, queimadura, queda, fratura, etc.
+living-and-ins
+
+Eventos cobertos: morte, sequela/incapacidade, hospitalização, cirurgia, despesas médicas, diária por internação, diária por cirurgia, indenização por incapacidade temporária.
+living-and-ins
+
+Exclusões: esporte, trabalho manual, direção sob álcool, atos intencionais, guerra, doença, gravidez, preexistências, etc., variando por produto.
+
+Sinistro e prazo de aviso: forma de comunicar, prazo para abrir pedido, documentos aceitos e prazo de prescrição são contratuais.
+
+Relação com trabalho: se o evento for no trabalho ou no trajeto, pode haver 労災保険 em vez de, ou além de, seguro privado.
+mhlw.go
++2
+
+Reembolso via saúde pública: quando o atendimento passa por 健康保険, o ajuste entre seguro saúde e 労災 depende do tipo de acidente e do procedimento administrativo.
+mhlw.go
+
+Valor pago: tabelas, diárias, franquias, limites e dedutíveis variam por apólice; não publicar valores como se fossem universais.
+
+Condição do segurado: empregado, autônomo, estudante, família, residente ou não residente podem mudar elegibilidade e cobertura.
+
+3) Fontes públicas japonesas a consultar
+
+厚生労働省 (MHLW) para tudo que for 労災保険, incluindo acidente de trabalho, trajeto, formulários e FAQ.
+mhlw.go
++2
+
+日本の自治体/労働局 páginas oficiais para explicações práticas sobre 通勤災害 e procedimentos locais.
+jsite.mhlw
++2
+
+Associações públicas ou semipúblicas de orientação ao residente estrangeiro, úteis para linguagem acessível, mas devem ser tratadas como secundárias frente ao MHLW.
+kicc
++1
+
+FSA / 金融庁 para alertas de comercialização, explicação de produtos e riscos de confusão entre categorias de seguro.
+
+Associação setorial de seguradoras / guias das seguradoras para entender padrões de apólices, mas sempre verificando a apólice específica antes de publicar.
+
+Condições contratuais da seguradora do produto-alvo: a fonte mais importante para cobertura, exclusões, prazo de notificação, documentos e território.
+
+Formulários oficiais de sinistro e páginas de “FAQ” do produto específico, porque costumam refletir a prática operacional real.
+mhlw.go
++1
+
+4) Alertas de compliance para as FAQs
+
+Evitar qualquer frase que pareça consultoria jurídica ou de seguros definitiva; use linguagem de “em regra”, “depende do contrato” e “confirme na apólice”.
+
+Distinguir claramente seguro privado de acidentes de 労災保険 e 健康保険 para não induzir erro regulatório.
+mhlw.go
++2
+
+Não prometer cobertura “sempre” para fratura, cirurgia, hospitalização ou acidente fora do Japão sem citar a apólice específica.
+living-and-ins
+
+Não usar exemplos como prova de cobertura universal; exemplos devem vir com ressalva de que são ilustrativos.
+
+Inserir nota de que documentos e prazos podem mudar por seguradora, produto e tipo de acidente.
+
+Se a FAQ mencionar acidente de trabalho, orientar que o caso pode ser tratado por 労災 e que a empresa ou o procedimento oficial pode ser necessário.
+mhlw.go
++1
+
+Se houver menção a atendimento médico, lembrar que o sistema público japonês não cobre 100% dos custos em geral, então a combinação de sistemas pode importar.
+living-and-ins
+
+Para público brasileiro, evitar termos ambíguos como “seguro de saúde”, “seguro de acidente” e “seguro do trabalho” sem definição curta logo na primeira linha.
+
+Não publicar informação de prazo, exclusão ou benefício sem indicar “verifique as condições gerais da apólice e o manual do produto”.
+
+5) Checklist prático de publicação
+
+Cada FAQ deve ter um rótulo: “depende da apólice”, “depende da lei trabalhista” ou “depende do procedimento médico”.
+
+Toda resposta sobre trabalho ou trajeto deve citar fonte do MHLW.
+mhlw.go
++2
+
+Toda resposta sobre cobertura privada deve ser validada no contrato do produto e no guia da seguradora.
+
+Toda resposta sobre documentos deve ser confirmada com a lista de documentos exigidos pelo produto e, se houver, o formulário do sinistro.
+
+Toda resposta sobre acidente fora do Japão deve ser confirmada na cláusula de território de cobertura.
+
+Toda resposta sobre exclusões deve citar a seção específica de exclusões da apólice, sem generalizar entre seguradoras.
+
+Se quiser, eu posso transformar isso em uma matriz de risco por FAQ com colunas “pode publicar”, “precisa confirmar”, “fonte ideal” e “alerta de compliance”.
+
+30 fontes
+Acompanhamentos
+Guia de FAQ: Seguro de acidentes vs. Rōsai vs. Jibaiseki — diferenças, coberturas e o que dizer a clientes brasileiros
+Computer
+​
+Matriz de ressalvas para corretores: riscos, exclusões de doenças e protocolos de acidentes em 3 cenários comuns
+Computer
+​
+Sim, por favor crie a matriz de risco para essas FAQs
+Gostaria de ver um exemplo de como redigir a dúvida sobre o trajeto
+Pode focar na matriz apenas nas perguntas sobre hospitalização e cirurgia
+Esta pergunta parece difícil
+Quer evitar risco legal nas FAQs e captar nuances por seguradora/contrato? Try a more powerful model
+Atualize para o Pro
+
+
+
+
+Pergunte um seguimento
+Pesquisar
+Modelo
