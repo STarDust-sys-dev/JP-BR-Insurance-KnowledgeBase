@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial a partir do piloto multi-IA ACC, com remoção de romaji e revisão de compliance.
@@ -44,6 +44,28 @@ Os documentos dependem do tipo de acidente e do contrato. Em geral, vamos confir
 オス ドクメントス デペンデン ド チポ ジ アシデンチ イ ド コントラト。エン ジェラウ、ヴァモス コンフィルマール ヘラトリオ ド アシデンチ、ドクメント メジコ、ヘシボス、イデンチフィカサォン イ オ フォルムラリオ ダ セグラドーラ アンチス ジ ペジール ドクメントス カーロス アオ オスピタウ
 
 日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Por favor, junte a apólice, o documento do hospital, recibos e qualquer informação sobre o acidente.
+
+### カタカナ読み
+
+ポル ファヴォール、ジュンチ ア アポリセ、オ ドクメント ド オスピタウ、ヘシーボス イ クアルケール インフォルマサォン ソブリ オ アシデンチ
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+Não tenho todos os documentos agora. Perdi o direito?
+
+### 安全なポルトガル語回答
+
+Não necessariamente. Vamos ver o que você já tem e confirmar com a seguradora quais documentos faltam.
 
 ## 安全な次のステップ
 
@@ -89,3 +111,4 @@ Os documentos dependem do tipo de acidente e do contrato. Em geral, vamos confir
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |

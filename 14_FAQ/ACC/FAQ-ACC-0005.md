@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial a partir do piloto multi-IA ACC, com remoção de romaji e revisão de compliance.
@@ -44,6 +44,28 @@ Se a internação foi causada por acidente, o seguro pode ser analisado conforme
 セ ア インテルナサォン フォイ カウザーダ ポル アシデンチ、オ セグーロ ポジ セール アナリザード コンフォルミ オ コントラト。ヴァモス ヴェリフィカール オ モチーヴォ ダ インテルナサォン、オス ジアス、ア フランキア テンポラウ、オス ドクメントス イ ア デシザォン ダ セグラドーラ
 
 日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Me envie as datas de entrada e saída do hospital para conferirmos os dias pelo contrato.
+
+### カタカナ読み
+
+ミ エンヴィエ アス ダタス ジ エントラーダ イ サイーダ ド オスピタウ パラ コンフェリルモス オス ジアス ペロ コントラト
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+Fiquei internado, então todos os dias serão pagos?
+
+### 安全なポルトガル語回答
+
+Pode ser diferente. O contrato pode ter limite, franquia em dias ou outras condições.
 
 ## 安全な次のステップ
 
@@ -91,3 +113,4 @@ Se a internação foi causada por acidente, o seguro pode ser analisado conforme
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |

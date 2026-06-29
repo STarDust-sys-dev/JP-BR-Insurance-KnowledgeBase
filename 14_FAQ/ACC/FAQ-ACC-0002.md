@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial a partir do piloto multi-IA ACC, com remoção de romaji e revisão de compliance.
@@ -44,6 +44,28 @@ O seguro de acidente é voltado para ferimentos causados por acidente. O seguro 
 オ セグーロ ジ アシデンチ エ ヴォウタード パラ フェリメントス カウザードス ポル アシデンチ。オ セグーロ メジコ トラタ ジ ドエンサ、インテルナサォン オウ シルルジア コンフォルミ オ コントラト。ヴァモス セパラール ア カウザ イ ヴェリフィカール クアウ セグーロ セ アプリカ
 
 日本語確認用: 上記のポルトガル語は、お客様に対して、契約確認、書類確認、保険会社の査定が必要であることを短く伝えるための説明です。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Vamos separar o que é tratamento médico e o que é benefício por acidente antes de falar sobre pagamento.
+
+### カタカナ読み
+
+ヴァモス セパラール オ キ エ トラタメント メジコ イ オ キ エ ベネフィシオ ポル アシデンチ アンチス ジ ファラール ソブリ パガメント
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+Seguro médico e seguro de acidente não são a mesma coisa?
+
+### 安全なポルトガル語回答
+
+Eles podem parecer parecidos, mas têm regras diferentes. Um olha tratamento de saúde; o outro olha acidente e contrato específico.
 
 ## 安全な次のステップ
 
@@ -87,3 +109,4 @@ O seguro de acidente é voltado para ferimentos causados por acidente. O seguro 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |

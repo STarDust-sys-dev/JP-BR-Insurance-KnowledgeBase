@@ -13,6 +13,8 @@
 
 ### Corrigido
 
+- Revisão qualitativa dos 10 verbetes ACC: definições técnicas específicas por termo, falas em português brasileiro menos genéricas, frases de atendimento revisadas e `関連項目` alinhados às FAQs mais relevantes.
+- Inclusão de próximo passo em português e objeção provável nas FAQs `FAQ-ACC-0001` a `FAQ-ACC-0010`, com leitura em katakana e pacotes Markdown/DOCX/PDF regenerados.
 - Padronização do título de `CASE-ACC-0002` para japonês claro e melhor recuperação por `免責日数`.
 - Ampliação dos termos obrigatórios ACC no pacote NotebookLM, incluindo `保険金請求`, `請求書類`, `領収書`, `事故証明書`, `通院保険金`, `死亡保険金`, `後遺障害保険金`, `急激`, `偶然` e `外来`.
 

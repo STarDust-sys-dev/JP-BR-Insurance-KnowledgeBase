@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial do segundo lote ACC.
@@ -44,6 +44,28 @@ Franquia em dias significa que alguns primeiros dias podem não ser pagos. Vamos
 フランキア エン ジアス シグニフィカ キ アウグンス プリメイロス ジアス ポデン ナォン セール パゴス。ヴァモス コンフィルマール ノ コントラト クアントス ジアス サォン コンシデラードス イ コモ ア セグラドーラ コンタイ エッシ ペリオド
 
 日本語確認用: 免責日数は最初の一定日数が支払対象外となる可能性があり、契約で数え方を確認する。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Vamos conferir no contrato quantos dias são descontados e como a seguradora conta esse período.
+
+### カタカナ読み
+
+ヴァモス コンフェリール ノ コントラト クアントス ジアス サォン デスコンタードス イ コモ ア セグラドーラ コンタイ エッシ ペリオド
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+Por que vou perder alguns dias se eu fiquei internado?
+
+### 安全なポルトガル語回答
+
+Isso pode acontecer quando o contrato tem franquia em dias. Não é uma decisão minha; é regra contratual que precisa ser conferida.
 
 ## 安全な次のステップ
 
@@ -89,3 +111,4 @@ Franquia em dias significa que alguns primeiros dias podem não ser pagos. Vamos
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |

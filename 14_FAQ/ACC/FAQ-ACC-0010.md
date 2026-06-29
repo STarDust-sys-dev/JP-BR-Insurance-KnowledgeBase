@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial do segundo lote ACC.
@@ -44,6 +44,28 @@ Quando há bebida alcoólica ou outra situação especial, a seguradora precisa 
 クアンド ア ベビダ アウコオリカ オウ オウトラ シトゥアサォン エスペシアウ、ア セグラドーラ プレシザ アナリザール オ カゾ。エウ ナォン ポッソ プロメテール コベルトゥーラ アンチス ダ アナリゼ ドス ドクメントス
 
 日本語確認用: 飲酒など特別な事情がある場合は、書類確認と保険会社の査定前に補償を約束しない。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Conte exatamente o que aconteceu e envie os documentos. Não vou prometer cobertura antes da análise.
+
+### カタカナ読み
+
+コンチ エザタメンチ オ キ アコンテセウ イ エンヴィエ オス ドクメントス。ナォン ヴォウ プロメテール コベルトゥーラ アンチス ダ アナリゼ
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+Eu bebi, mas o acidente não foi minha culpa. Mesmo assim não cobre?
+
+### 安全なポルトガル語回答
+
+Pode depender dos fatos e do contrato. A seguradora precisa analisar antes de qualquer confirmação.
 
 ## 安全な次のステップ
 
@@ -87,3 +109,4 @@ Quando há bebida alcoólica ou outra situação especial, a seguradora precisa 
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |

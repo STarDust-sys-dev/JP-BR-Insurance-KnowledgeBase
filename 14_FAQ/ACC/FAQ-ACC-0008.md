@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial do segundo lote ACC.
@@ -44,6 +44,28 @@ Acidente no trajeto de trabalho pode ter regras próprias. Vamos separar o segur
 アシデンチ ノ トラジェト ジ トラバーリョ ポジ テール ヘグラス プロプリアス。ヴァモス セパラール オ セグーロ ジ アシデンチ ジ トラバーリョ イ オ セグーロ プリヴァード アンチス ジ エスプリカール ア コベルトゥーラ
 
 日本語確認用: 通勤中の事故は労災保険と民間傷害保険を分けて確認してから説明する。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Confirme o trajeto, o horário e se você já informou a empresa sobre o acidente.
+
+### カタカナ読み
+
+コンフィルミ オ トラジェト、オ オラリオ イ セ ヴォセ ジャ インフォルモウ ア エンプレーザ ソブリ オ アシデンチ
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+A empresa disse que não é com ela. E agora?
+
+### 安全なポルトガル語回答
+
+Vamos separar a orientação da empresa, a possibilidade de seguro de trabalho e o seguro privado, sem misturar os procedimentos.
 
 ## 安全な次のステップ
 
@@ -89,3 +111,4 @@ Acidente no trajeto de trabalho pode ter regras próprias. Vamos separar o segur
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |

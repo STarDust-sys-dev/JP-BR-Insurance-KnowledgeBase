@@ -2,7 +2,7 @@
 
 ## 管理情報
 
-- Versão: 0.1
+- Versão: 0.2
 - Data: 2026-06-29
 - Autor: JP-BR Insurance Knowledge Base
 - Histórico: Criação inicial do segundo lote ACC.
@@ -44,6 +44,28 @@ Depois do acidente, avise a seguradora ou a agência o quanto antes. Vamos confi
 デポイス ド アシデンチ、アヴィジ ア セグラドーラ オウ ア アジェンシア オ クアント アンチス。ヴァモス コンフィルマール ア ダタ、オ ロカウ、ア カウザ ド アシデンチ、オ トラタメント イ オス ドクメントス ネセサリオス
 
 日本語確認用: 事故後はできるだけ早く連絡し、事故日、場所、原因、治療内容、必要書類を確認する。
+
+## 顧客への次の一言
+
+### ポルトガル語で伝える内容
+
+Me informe a data, o local, a causa do acidente e o hospital para fazermos o aviso corretamente.
+
+### カタカナ読み
+
+ミ インフォルミ ア ダタ、オ ロカウ、ア カウザ ド アシデンチ イ オ オスピタウ パラ ファゼルモス オ アヴィゾ コヘタメンチ
+
+日本語確認用: 顧客に次の具体的な行動を短く案内する。
+
+## 想定される反論
+
+### 顧客が言いそうなこと
+
+Avisei tarde. Perdi o direito?
+
+### 安全なポルトガル語回答
+
+Não vou concluir isso sem análise. Vamos avisar a seguradora e verificar se o atraso causa algum problema no seu caso.
 
 ## 安全な次のステップ
 
@@ -91,3 +113,4 @@ Depois do acidente, avise a seguradora ou a agência o quanto antes. Vamos confi
 | Data | Versão | Autor | Alteração |
 | --- | --- | --- | --- |
 | 2026-06-29 | 0.1 | JP-BR Insurance Knowledge Base | Criação inicial. |
+| 2026-06-29 | 0.2 | JP-BR Insurance Knowledge Base | Inclusão de próximo passo em português e objeção provável. |
