@@ -154,6 +154,15 @@ Quando há bebida alcoólica ou outra situação especial, a seguradora precisa 
 - 約款
 - 保険証券
 
+
+### 第三ロットで追加された確認領域
+
+- 通院だけの請求では `通院保険金`, `治療日数`, `通院日数`, `領収書`, `診療明細書` を確認する。
+- 死亡や後遺障害では、受取人、事故との因果関係、医療書類、症状固定、約款上の基準、保険会社の査定を確認する。
+- 書類関連では `保険金請求書`, `事故証明書`, `領収書` を分け、提出だけで支払いを約束しない。
+- `事故証明書` は書類、`事故証明` は事故発生を複数資料で確認する実務上の考え方として分ける。
+- `急激`, `偶然`, `外来` は事故要件の確認要素であり、三つの言葉だけで支払いが確定するわけではない。
+
 ### O que o corretor não deve prometer
 
 - pagamento
@@ -201,7 +210,9 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 
 - `10_Accident/ACC_NAVIGATION_GUIDE.md`
 - `19_Markdown/ACC/ACC_TERMS_0001_0010.md`
+- `19_Markdown/ACC/ACC_TERMS_0011_0020.md`
 - `19_Markdown/ACC/ACC_FAQ_0001_0005.md`
 - `19_Markdown/ACC/ACC_FAQ_0006_0010.md`
+- `19_Markdown/ACC/ACC_FAQ_0011_0020.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0001_0002.md`
 - `19_Markdown/ACC/ACC_CASES_0001_0002.md`

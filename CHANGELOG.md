@@ -4,6 +4,9 @@
 
 ### Adicionado
 
+- Terceiro lote ACC: criação de `ACC-0011` a `ACC-0020` e `FAQ-ACC-0011` a `FAQ-ACC-0020`, cobrindo通院保険金,死亡保険金,後遺障害保険金,保険金請求書,事故証明書,領収書,急激,偶然,外来 e事故証明, com foco em cena real, documentos de sinistro, objeções do cliente e travas de compliance.
+- Pacotes consolidados `ACC_TERMS_0011_0020` e `ACC_FAQ_0011_0020` em Markdown, DOCX e PDF.
+- Atualização de `ACC_INDEX_0001`, `ACC_NOTEBOOKLM_PACK_0001` e `ACC_NAVIGATION_GUIDE` para integrar o terceiro lote ACC e diferenciar `事故証明書` como documento de `事故証明` como conceito amplo.
 - Programação de revisão editorial diária com equipe de LLMs/subagentes para acelerar produção, revisar NotebookLM, português de atendimento, japonês técnico, compliance, referências e formatos finais.
 - Reforço do uso diário de LLMs em `01_Editorial/AGENT_ALIGNMENT_BRIEF.md` e `01_Editorial/SUBAGENT_EDITORIAL_WORKFLOW.md`, mantendo o agente principal como editor-chefe e bloqueando entrada direta de rascunhos externos.
 - Revisão de sintonia da equipe em `00_Project/TEAM_ALIGNMENT_REVIEW_2026-06-29.md`, consolidando pareceres de subagentes sobre ACC, NotebookLM, português de atendimento e compliance.

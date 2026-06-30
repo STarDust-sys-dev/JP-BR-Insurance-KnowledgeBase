@@ -62,6 +62,16 @@ ACC_INDEX_0001 - 傷害保険対応ナビゲーション
 - ACC-0008 - 手術保険金 - Benefício por cirurgia causada por acidente
 - ACC-0009 - 免責日数 - Franquia temporal em dias
 - ACC-0010 - 免責事由 - Exclusões contratuais
+- ACC-0011 - 通院保険金 - Benefício por tratamento ambulatorial causado por acidente
+- ACC-0012 - 死亡保険金 - Benefício por falecimento causado por acidente
+- ACC-0013 - 後遺障害保険金 - Benefício por sequela permanente causada por acidente
+- ACC-0014 - 保険金請求書 - Formulário de pedido de benefício do seguro
+- ACC-0015 - 事故証明書 - Certificado de acidente
+- ACC-0016 - 領収書 - Recibo
+- ACC-0017 - 急激 - Súbito
+- ACC-0018 - 偶然 - Acidental
+- ACC-0019 - 外来 - Externo
+- ACC-0020 - 事故証明 - Comprovação do acidente
 
 ### FAQs
 
@@ -75,6 +85,16 @@ ACC_INDEX_0001 - 傷害保険対応ナビゲーション
 - FAQ-ACC-0008
 - FAQ-ACC-0009
 - FAQ-ACC-0010
+- FAQ-ACC-0011
+- FAQ-ACC-0012
+- FAQ-ACC-0013
+- FAQ-ACC-0014
+- FAQ-ACC-0015
+- FAQ-ACC-0016
+- FAQ-ACC-0017
+- FAQ-ACC-0018
+- FAQ-ACC-0019
+- FAQ-ACC-0020
 
 ### Diálogos
 
@@ -128,7 +148,9 @@ Eu não posso prometer pagamento nem prazo antes da análise da seguradora.
 - `16_NotebookLM/ACC_NOTEBOOKLM_PACK_0001.md`
 - `10_Accident/ACC_NAVIGATION_GUIDE.md`
 - `19_Markdown/ACC/ACC_TERMS_0001_0010.md`
+- `19_Markdown/ACC/ACC_TERMS_0011_0020.md`
 - `19_Markdown/ACC/ACC_FAQ_0001_0005.md`
 - `19_Markdown/ACC/ACC_FAQ_0006_0010.md`
+- `19_Markdown/ACC/ACC_FAQ_0011_0020.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0001_0002.md`
 - `19_Markdown/ACC/ACC_CASES_0001_0002.md`

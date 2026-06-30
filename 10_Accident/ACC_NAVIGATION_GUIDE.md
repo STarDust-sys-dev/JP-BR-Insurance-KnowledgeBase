@@ -19,6 +19,10 @@
 4. `ACC-0005` と `ACC-0006` で診断書と診療明細書を確認する。
 5. `ACC-0007` と `ACC-0008` で入院・手術の給付を確認する。
 6. `ACC-0009` と `ACC-0010` で免責日数と免責事由を確認する。
+7. `ACC-0011` から `ACC-0013` で通院、死亡、後遺障害の給付を確認する。
+8. `ACC-0014` から `ACC-0016` で請求書類、事故証明書、領収書を確認する。
+9. `ACC-0017` から `ACC-0019` で急激・偶然・外来の事故要件を確認する。
+10. `ACC-0020` で事故証明を概念として整理し、`事故証明書` と分ける。
 
 ## NotebookLMでの検索例
 
@@ -64,6 +68,10 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - FAQ-ACC-0001
 - FAQ-ACC-0006
 - FAQ-ACC-0009
+- FAQ-ACC-0011
+- FAQ-ACC-0014
+- FAQ-ACC-0017
+- FAQ-ACC-0020
 - DIALOGUE-ACC-0001
 - CASE-ACC-0001
 
@@ -72,7 +80,9 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - `16_NotebookLM/ACC_INDEX_0001.md`
 - `16_NotebookLM/ACC_NOTEBOOKLM_PACK_0001.md`
 - `19_Markdown/ACC/ACC_TERMS_0001_0010.md`
+- `19_Markdown/ACC/ACC_TERMS_0011_0020.md`
 - `19_Markdown/ACC/ACC_FAQ_0001_0005.md`
 - `19_Markdown/ACC/ACC_FAQ_0006_0010.md`
+- `19_Markdown/ACC/ACC_FAQ_0011_0020.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0001_0002.md`
 - `19_Markdown/ACC/ACC_CASES_0001_0002.md`
