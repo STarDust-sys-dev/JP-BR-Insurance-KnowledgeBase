@@ -223,6 +223,37 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 
 - `19_Markdown/ACC/ACC_DIALOGUES_0003_0006.md`
 - `19_Markdown/ACC/ACC_CASES_0003_0006.md`
+- `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
+- `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
+
+
+## 第四ロット用語・FAQ
+
+### 目的
+
+事故請求の期限、治療終了、症状固定、整骨院、医師診断、交通事故証明書、第三者行為、入院日数、手術該当性、保険会社照会を整理し、募集人が断定せずにブラジル人顧客へ次の安全な確認を案内できるようにする。
+
+### 用語
+
+- ACC-0021: 保険金請求期限
+- ACC-0022: 治療終了
+- ACC-0023: 症状固定
+- ACC-0024: 整骨院
+- ACC-0025: 医師の診断
+- ACC-0026: 交通事故証明書
+- ACC-0027: 第三者行為
+- ACC-0028: 入院日数
+- ACC-0029: 手術該当性
+- ACC-0030: 保険会社照会
+
+### FAQ
+
+- FAQ-ACC-0021 から FAQ-ACC-0030
+
+### 統合パッケージ
+
+- `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
+- `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
 
 ## Referências
 
@@ -241,6 +272,8 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 - `15_CaseStudies/ACC/CASE-ACC-0006.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0003_0006.md`
 - `19_Markdown/ACC/ACC_CASES_0003_0006.md`
+- `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
+- `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
 
 ## Veja também
 

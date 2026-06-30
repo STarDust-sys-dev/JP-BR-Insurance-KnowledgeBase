@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-06-30 - Quarto lote ACC de termos e FAQs
+
+- Criação de `ACC-0021` a `ACC-0030`, cobrindo請求期限,治療終了,症状固定,整骨院,医師診断,交通事故証明書,第三者行為,入院日数,手術該当性 e保険会社照会.
+- Criação de `FAQ-ACC-0021` a `FAQ-ACC-0030`, com respostas em japonês técnico e explicações em português brasileiro com leitura em katakana.
+- Consolidação dos pacotes `ACC_TERMS_0021_0030` e `ACC_FAQ_0021_0030` em Markdown para geração DOCX/PDF e uso no NotebookLM.
+- Atualização do índice ACC, pacote NotebookLM e guia de navegação para incluir o novo lote técnico.
+
+
 ## 2026-06-30 - Lote ACC de diálogos e casos de sinistro
 
 - Criação de `DIALOGUE-ACC-0003` a `DIALOGUE-ACC-0006`, cobrindo通院のみの請求,保険金請求書,領収書,後遺障害,死亡事故 e受取人確認.
