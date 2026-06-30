@@ -4,6 +4,7 @@
 
 ### Adicionado
 
+- Reforço de segurança no fluxo editorial: regra explícita para não publicar, compartilhar ou enviar ao GitHub senhas, tokens, variáveis de ambiente, arquivos `.env`, chaves privadas, certificados ou informações sigilosas; `.gitignore` ampliado para bloquear padrões comuns de segredos.
 - Terceiro lote ACC: criação de `ACC-0011` a `ACC-0020` e `FAQ-ACC-0011` a `FAQ-ACC-0020`, cobrindo通院保険金,死亡保険金,後遺障害保険金,保険金請求書,事故証明書,領収書,急激,偶然,外来 e事故証明, com foco em cena real, documentos de sinistro, objeções do cliente e travas de compliance.
 - Pacotes consolidados `ACC_TERMS_0011_0020` e `ACC_FAQ_0011_0020` em Markdown, DOCX e PDF.
 - Atualização de `ACC_INDEX_0001`, `ACC_NOTEBOOKLM_PACK_0001` e `ACC_NAVIGATION_GUIDE` para integrar o terceiro lote ACC e diferenciar `事故証明書` como documento de `事故証明` como conceito amplo.

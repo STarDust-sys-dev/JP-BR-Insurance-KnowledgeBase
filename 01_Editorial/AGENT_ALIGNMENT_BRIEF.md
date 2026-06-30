@@ -64,6 +64,32 @@ Responsabilidades:
 - atualizar CHANGELOG.md a cada entrega
 - sincronizar com GitHub após validação
 
+## Segurança e sigilo
+
+O projeto deve tratar arquivos e informações sensíveis com atenção máxima.
+
+Nunca publicar, compartilhar, copiar para ferramentas externas ou enviar ao GitHub:
+
+- senhas
+- tokens
+- chaves de API
+- credenciais de GitHub
+- variáveis de ambiente com segredos
+- arquivos `.env`
+- chaves privadas
+- certificados
+- dados pessoais ou documentos privados
+- conteúdo confidencial de clientes, seguradoras ou parceiros
+
+Se algum arquivo ou trecho parecer sensível, o agente deve parar e consultar o usuário antes de qualquer ação, explicando:
+
+- qual arquivo ou informação parece sensível
+- por que há risco
+- quais opções seguras existem
+- qual ação recomenda
+
+No GitHub, dar atenção especial a variáveis de ambiente, senhas, tokens, arquivos `.env`, chaves privadas e dumps de credenciais. Esses itens não devem entrar em commit, pacote, relatório, prompt de LLM externa ou documentação pública.
+
 ## Papel dos subagentes
 
 Subagentes ajudam com lentes especializadas, mas não definem a direção final.
