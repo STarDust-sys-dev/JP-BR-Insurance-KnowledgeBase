@@ -24,6 +24,7 @@
 9. `ACC-0017` から `ACC-0019` で急激・偶然・外来の事故要件を確認する。
 10. `ACC-0020` で事故証明を概念として整理し、`事故証明書` と分ける。
 11. `ACC-0021` から `ACC-0030` で請求期限、治療終了、症状固定、交通事故、第三者行為、入院・手術確認、保険会社照会を確認する。
+12. `ACC-0031` から `ACC-0040` で支払通知、不支払通知、追加書類、書類不備、事実確認、口座情報、翻訳書類、請求完了を確認する。
 
 ## NotebookLMでの検索例
 
@@ -121,6 +122,26 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - FAQ-ACC-0028
 - FAQ-ACC-0029
 - FAQ-ACC-0030
+- ACC-0031
+- ACC-0032
+- ACC-0033
+- ACC-0034
+- ACC-0035
+- ACC-0036
+- ACC-0037
+- ACC-0038
+- ACC-0039
+- ACC-0040
+- FAQ-ACC-0031
+- FAQ-ACC-0032
+- FAQ-ACC-0033
+- FAQ-ACC-0034
+- FAQ-ACC-0035
+- FAQ-ACC-0036
+- FAQ-ACC-0037
+- FAQ-ACC-0038
+- FAQ-ACC-0039
+- FAQ-ACC-0040
 
 ## 関連項目
 
@@ -139,3 +160,5 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
 - `19_Markdown/ACC/ACC_CASES_0007_0010.md`
+- `19_Markdown/ACC/ACC_TERMS_0031_0040.md`
+- `19_Markdown/ACC/ACC_FAQ_0031_0040.md`

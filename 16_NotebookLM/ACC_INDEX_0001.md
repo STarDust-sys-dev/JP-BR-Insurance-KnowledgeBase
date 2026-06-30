@@ -174,6 +174,8 @@ Eu não posso prometer pagamento nem prazo antes da análise da seguradora.
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
 - `19_Markdown/ACC/ACC_CASES_0007_0010.md`
+- `19_Markdown/ACC/ACC_TERMS_0031_0040.md`
+- `19_Markdown/ACC/ACC_FAQ_0031_0040.md`
 
 ## Veja também
 

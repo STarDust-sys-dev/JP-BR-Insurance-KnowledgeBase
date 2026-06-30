@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-06-30 - Quinto lote ACC de termos e FAQs
+
+- Criação de `ACC-0031` a `ACC-0040`, cobrindo支払通知,不支払通知,追加書類,書類不備,事実確認,事故状況報告,診療明細確認,口座情報確認,翻訳書類 e請求手続き完了.
+- Criação de `FAQ-ACC-0031` a `FAQ-ACC-0040`, com foco em acompanhamento de sinistro, comunicação segura e explicações em português brasileiro com leitura em katakana.
+- Consolidação dos pacotes `ACC_TERMS_0031_0040` e `ACC_FAQ_0031_0040` em Markdown para geração DOCX/PDF e uso no NotebookLM.
+- Atualização do índice ACC, pacote NotebookLM e guia de navegação para incluir o novo lote de acompanhamento pós-abertura de sinistro.
+
+
 ## 2026-06-30 - Quarto lote ACC de diálogos e casos
 
 - Criação de `DIALOGUE-ACC-0007` a `DIALOGUE-ACC-0010`, cobrindo請求期限,治療終了,症状固定,整骨院,医師診断,交通事故 e第三者行為.
