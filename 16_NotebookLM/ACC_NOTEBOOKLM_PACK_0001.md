@@ -225,6 +225,8 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 - `19_Markdown/ACC/ACC_CASES_0003_0006.md`
 - `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
+- `19_Markdown/ACC/ACC_CASES_0007_0010.md`
 
 
 ## 第四ロット用語・FAQ
@@ -254,6 +256,34 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 
 - `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
+- `19_Markdown/ACC/ACC_CASES_0007_0010.md`
+
+
+## 第四ロット対話・ケース
+
+### 目的
+
+ACC-0021 から ACC-0030 の技術論点を、募集人がブラジル人顧客へ実際に説明できる会話と判断例に変換する。
+
+### 対話
+
+- DIALOGUE-ACC-0007: 保険金請求期限を早めに案内する
+- DIALOGUE-ACC-0008: 治療終了と症状固定を分けて説明する
+- DIALOGUE-ACC-0009: 整骨院と医師診断の必要性を説明する
+- DIALOGUE-ACC-0010: 交通事故と第三者行為を分けて説明する
+
+### ケース
+
+- CASE-ACC-0007: 請求期限を過ぎた可能性がある事故相談
+- CASE-ACC-0008: 治療終了後の痛みと後遺障害相談
+- CASE-ACC-0009: 整骨院のみの通院と医師診断の不足
+- CASE-ACC-0010: 交通事故と第三者行為の保険整理
+
+### 統合パッケージ
+
+- `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
+- `19_Markdown/ACC/ACC_CASES_0007_0010.md`
 
 ## Referências
 
@@ -274,6 +304,8 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 - `19_Markdown/ACC/ACC_CASES_0003_0006.md`
 - `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
+- `19_Markdown/ACC/ACC_CASES_0007_0010.md`
 
 ## Veja também
 

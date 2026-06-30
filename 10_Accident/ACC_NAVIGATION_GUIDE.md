@@ -93,6 +93,14 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - CASE-ACC-0004
 - CASE-ACC-0005
 - CASE-ACC-0006
+- DIALOGUE-ACC-0007
+- DIALOGUE-ACC-0008
+- DIALOGUE-ACC-0009
+- DIALOGUE-ACC-0010
+- CASE-ACC-0007
+- CASE-ACC-0008
+- CASE-ACC-0009
+- CASE-ACC-0010
 - ACC-0021
 - ACC-0022
 - ACC-0023
@@ -129,3 +137,5 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - `19_Markdown/ACC/ACC_CASES_0003_0006.md`
 - `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
+- `19_Markdown/ACC/ACC_CASES_0007_0010.md`

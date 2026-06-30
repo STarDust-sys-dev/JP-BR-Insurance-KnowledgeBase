@@ -104,6 +104,10 @@ ACC_INDEX_0001 - 傷害保険対応ナビゲーション
 - DIALOGUE-ACC-0004
 - DIALOGUE-ACC-0005
 - DIALOGUE-ACC-0006
+- DIALOGUE-ACC-0007
+- DIALOGUE-ACC-0008
+- DIALOGUE-ACC-0009
+- DIALOGUE-ACC-0010
 
 ### Estudos de caso
 
@@ -113,6 +117,10 @@ ACC_INDEX_0001 - 傷害保険対応ナビゲーション
 - CASE-ACC-0004
 - CASE-ACC-0005
 - CASE-ACC-0006
+- CASE-ACC-0007
+- CASE-ACC-0008
+- CASE-ACC-0009
+- CASE-ACC-0010
 
 ### Frases prontas essenciais
 
@@ -164,6 +172,8 @@ Eu não posso prometer pagamento nem prazo antes da análise da seguradora.
 - `19_Markdown/ACC/ACC_CASES_0003_0006.md`
 - `19_Markdown/ACC/ACC_TERMS_0021_0030.md`
 - `19_Markdown/ACC/ACC_FAQ_0021_0030.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0007_0010.md`
+- `19_Markdown/ACC/ACC_CASES_0007_0010.md`
 
 ## Veja também
 
