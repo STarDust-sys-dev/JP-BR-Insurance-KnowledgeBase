@@ -197,6 +197,7 @@ O projeto deve executar revisoes periodicas de sintonia editorial para evitar qu
 
 Frequencia recomendada:
 
+- diariamente quando houver produção editorial ativa
 - a cada semana de trabalho editorial intenso
 - antes de abrir nova categoria
 - depois de cada lote relevante com NotebookLM, FAQs, dialogos ou casos
@@ -218,6 +219,22 @@ Resultado esperado:
 - correcoes aplicadas quando forem seguras
 - backlog quando a correcao exigir expansao maior
 - validacao objetiva antes do commit
+
+## Rotina diaria com equipe de LLMs
+
+Em dias de produção ativa, o ciclo deve usar a equipe de LLMs de forma exaustiva, mas ordenada.
+
+Sequência recomendada:
+
+1. Escolher um escopo pequeno e concreto.
+2. Delegar revisões independentes por lente editorial.
+3. Usar LLMs externas apenas para rascunho, comparação ou revisão.
+4. Consolidar no agente principal.
+5. Aplicar somente o que melhora atendimento real, NotebookLM ou compliance.
+6. Regenerar Markdown, DOCX e PDF quando necessário.
+7. Validar e registrar no CHANGELOG.
+
+O ganho de produtividade vem da paralelização das revisões, não da entrada automática de conteúdo bruto.
 
 ## Criterios para aceitar recomendacao de subagente
 

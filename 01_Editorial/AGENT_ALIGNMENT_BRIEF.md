@@ -92,6 +92,31 @@ Toda saída externa deve passar por:
 - referências cruzadas internas
 - validação final pelo agente principal
 
+## Uso diário da equipe de LLMs
+
+O projeto deve usar subagentes e LLMs externas todos os dias em que houver produção editorial relevante, com o objetivo de ganhar tempo sem perder qualidade.
+
+Uso recomendado diário:
+
+- gerar rascunhos controlados para novos lotes
+- revisar português brasileiro de atendimento
+- revisar japonês técnico e consultas naturais para NotebookLM
+- procurar riscos de promessa indevida
+- sugerir objeções reais do cliente brasileiro
+- sugerir próximos passos operacionais
+- auditar referências cruzadas e lacunas de formato
+
+Limites obrigatórios:
+
+- LLM externa não decide padrão editorial
+- LLM externa não altera tradução aprovada sem justificativa
+- LLM externa não substitui validação do projeto
+- LLM externa não publica diretamente no GitHub
+- LLM externa não pode introduzir romaji
+- LLM externa não pode prometer cobertura, pagamento, prazo, aceitação ou decisão da seguradora
+
+O agente principal deve consolidar tudo como editor-chefe antes de qualquer entrega.
+
 ## Padrão obrigatório de fala ao cliente
 
 Sempre que houver fala ao cliente brasileiro, usar:

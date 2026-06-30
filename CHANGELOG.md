@@ -4,6 +4,8 @@
 
 ### Adicionado
 
+- Programação de revisão editorial diária com equipe de LLMs/subagentes para acelerar produção, revisar NotebookLM, português de atendimento, japonês técnico, compliance, referências e formatos finais.
+- Reforço do uso diário de LLMs em `01_Editorial/AGENT_ALIGNMENT_BRIEF.md` e `01_Editorial/SUBAGENT_EDITORIAL_WORKFLOW.md`, mantendo o agente principal como editor-chefe e bloqueando entrada direta de rascunhos externos.
 - Revisão de sintonia da equipe em `00_Project/TEAM_ALIGNMENT_REVIEW_2026-06-29.md`, consolidando pareceres de subagentes sobre ACC, NotebookLM, português de atendimento e compliance.
 - Briefing permanente `01_Editorial/AGENT_ALIGNMENT_BRIEF.md` para alinhar agente principal, subagentes e LLMs externas ao objetivo maior do projeto.
 - Camada NotebookLM da categoria ACC com `16_NotebookLM/ACC_INDEX_0001.md` e `16_NotebookLM/ACC_NOTEBOOKLM_PACK_0001.md`.
