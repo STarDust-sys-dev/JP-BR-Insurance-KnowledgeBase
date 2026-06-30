@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-06-30 - Lote ACC de diálogos e casos de sinistro
+
+- Criação de `DIALOGUE-ACC-0003` a `DIALOGUE-ACC-0006`, cobrindo通院のみの請求,保険金請求書,領収書,後遺障害,死亡事故 e受取人確認.
+- Criação de `CASE-ACC-0003` a `CASE-ACC-0006`, com foco em atendimento real, documentos, limites de compliance e explicação em português brasileiro com leitura em katakana.
+- Consolidação dos pacotes `ACC_DIALOGUES_0003_0006` e `ACC_CASES_0003_0006` em Markdown para uso no NotebookLM e geração DOCX/PDF.
+- Atualização do índice ACC, pacote NotebookLM e guia de navegação de acidentes para incluir as novas referências cruzadas.
+
+
 ## 2026-06-29
 
 ### Adicionado

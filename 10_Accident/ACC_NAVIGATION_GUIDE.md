@@ -53,6 +53,14 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 
 日本語確認用: 査定前に支払いを約束せず、契約、書類、保険会社の案内を確認する。
 
+## 対話・ケース拡張
+
+- DIALOGUE-ACC-0003 で通院のみの請求を説明する。
+- DIALOGUE-ACC-0004 で保険金請求書、領収書、事故証明書の提出を案内する。
+- DIALOGUE-ACC-0005 で後遺障害と事故要件を断定せず説明する。
+- DIALOGUE-ACC-0006 で死亡事故、受取人、必要書類を慎重に案内する。
+- CASE-ACC-0003 から CASE-ACC-0006 で通院、書類不足、後遺障害、死亡事故の判断例を整理する。
+
 ## 相互参照
 
 - ACC-0001
@@ -73,7 +81,17 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - FAQ-ACC-0017
 - FAQ-ACC-0020
 - DIALOGUE-ACC-0001
+- DIALOGUE-ACC-0002
+- DIALOGUE-ACC-0003
+- DIALOGUE-ACC-0004
+- DIALOGUE-ACC-0005
+- DIALOGUE-ACC-0006
 - CASE-ACC-0001
+- CASE-ACC-0002
+- CASE-ACC-0003
+- CASE-ACC-0004
+- CASE-ACC-0005
+- CASE-ACC-0006
 
 ## 関連項目
 
@@ -86,3 +104,5 @@ Eu não posso prometer pagamento antes da análise. Vamos confirmar o contrato, 
 - `19_Markdown/ACC/ACC_FAQ_0011_0020.md`
 - `19_Markdown/ACC/ACC_DIALOGUES_0001_0002.md`
 - `19_Markdown/ACC/ACC_CASES_0001_0002.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0003_0006.md`
+- `19_Markdown/ACC/ACC_CASES_0003_0006.md`

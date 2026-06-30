@@ -198,6 +198,32 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 - 免責日数または免責事由の可能性はあるか。
 - 顧客に支払可否を断定していないか。
 
+
+## 第三ロット対話・ケース
+
+### 目的
+
+通院、請求書類、後遺障害、死亡事故について、募集人がブラジル人顧客または家族に安全に説明できる実用会話とケース判断を追加する。
+
+### 対話
+
+- DIALOGUE-ACC-0003: 通院だけの事故請求を説明する
+- DIALOGUE-ACC-0004: 保険金請求書と領収書を案内する
+- DIALOGUE-ACC-0005: 後遺障害と事故要件を説明する
+- DIALOGUE-ACC-0006: 死亡事故と受取人確認を慎重に案内する
+
+### ケース
+
+- CASE-ACC-0003: 通院のみの請求と通院保険金の整理
+- CASE-ACC-0004: 請求書類不足と保険金請求書の案内
+- CASE-ACC-0005: 後遺症の相談と後遺障害保険金の整理
+- CASE-ACC-0006: 死亡事故と受取人確認の初期対応
+
+### 統合パッケージ
+
+- `19_Markdown/ACC/ACC_DIALOGUES_0003_0006.md`
+- `19_Markdown/ACC/ACC_CASES_0003_0006.md`
+
 ## Referências
 
 - `16_NotebookLM/ACC_INDEX_0001.md`
@@ -205,6 +231,16 @@ Para evitar uma informação errada, vou confirmar o contrato, os documentos e a
 - `14_FAQ/ACC/FAQ-ACC-0001.md`
 - `13_Dialogues/ACC/DIALOGUE-ACC-0001.md`
 - `15_CaseStudies/ACC/CASE-ACC-0001.md`
+- `13_Dialogues/ACC/DIALOGUE-ACC-0003.md`
+- `13_Dialogues/ACC/DIALOGUE-ACC-0004.md`
+- `13_Dialogues/ACC/DIALOGUE-ACC-0005.md`
+- `13_Dialogues/ACC/DIALOGUE-ACC-0006.md`
+- `15_CaseStudies/ACC/CASE-ACC-0003.md`
+- `15_CaseStudies/ACC/CASE-ACC-0004.md`
+- `15_CaseStudies/ACC/CASE-ACC-0005.md`
+- `15_CaseStudies/ACC/CASE-ACC-0006.md`
+- `19_Markdown/ACC/ACC_DIALOGUES_0003_0006.md`
+- `19_Markdown/ACC/ACC_CASES_0003_0006.md`
 
 ## Veja também
 
