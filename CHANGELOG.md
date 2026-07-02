@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-07-03 - Quinto lote ACC de diálogos e casos
+
+- Criação de `DIALOGUE-ACC-0011` a `DIALOGUE-ACC-0014`, cobrindo支払通知,不支払通知,追加書類,書類不備 e請求手続き完了.
+- Criação de `CASE-ACC-0011` a `CASE-ACC-0014`, com foco em acompanhamento pós-abertura de sinistro e comunicação segura com cliente brasileiro.
+- Consolidação dos pacotes `ACC_DIALOGUES_0011_0014` e `ACC_CASES_0011_0014` em Markdown para geração DOCX/PDF e uso no NotebookLM.
+- Atualização do índice ACC, pacote NotebookLM e guia de navegação com as novas referências cruzadas.
+
+
 ## 2026-06-30 - Quinto lote ACC de termos e FAQs
 
 - Criação de `ACC-0031` a `ACC-0040`, cobrindo支払通知,不支払通知,追加書類,書類不備,事実確認,事故状況報告,診療明細確認,口座情報確認,翻訳書類 e請求手続き完了.
