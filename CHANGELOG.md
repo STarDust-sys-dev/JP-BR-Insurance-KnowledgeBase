@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-07-03 - Revisão editorial diária ACC
+
+- Revisão editorial diária com lentes de NotebookLM, português brasileiro de atendimento, japonês técnico, seguros/risco no Japão e auditoria estrutural.
+- Correção de `ACC_INDEX_0001` para expor `ACC-0021` a `ACC-0040`, `FAQ-ACC-0021` a `FAQ-ACC-0040` e as consultas naturais japonesas dos lotes recentes.
+- Atualização de `ACC_NAVIGATION_GUIDE` para cobrir os lotes recentes e os diálogos/casos `ACC` 0011-0014.
+- Ajuste de compliance em `ACC-0038` e `FAQ-ACC-0038`: a fala ao cliente agora condiciona dados bancários à aprovação do pagamento, evitando promessa implícita.
+- Registro de backlog editorial em `00_Project/TEAM_ALIGNMENT_REVIEW_2026-07-03.md`, incluindo `外来性`, `労災保険`, `整骨院`, frases genéricas em FAQs ACC e risco de chunking no NotebookLM.
+- Renderização QA dos DOCX/PDF ACC afetados.
+
 ## 2026-07-03 - Quinto lote ACC de diálogos e casos
 
 - Criação de `DIALOGUE-ACC-0011` a `DIALOGUE-ACC-0014`, cobrindo支払通知,不支払通知,追加書類,書類不備 e請求手続き完了.
